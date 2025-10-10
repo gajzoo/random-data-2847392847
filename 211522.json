@@ -1,0 +1,403 @@
+[
+  {
+    "question": "All flowers are plants. Some plants are flowering plants. Which conclusion is logically valid?",
+    "option_1": "No plants are flowers",
+    "option_2": "Some flowers are not plants",
+    "option_3": "Some plants are flowers",
+    "option_4": "All plants are flowers",
+    "answer": "3"
+  },
+  {
+    "question": "In a race of 40 runners, if Anu is placed 15th, how many runners are ahead of her?",
+    "option_1": "14",
+    "option_2": "15",
+    "option_3": "16",
+    "option_4": "13",
+    "answer": "1"
+  },
+  {
+    "question": "In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. DREAM: GRDBM :: MAGIC:?",
+    "option_1": "ULOOL",
+    "option_2": "ZEENE",
+    "option_3": "PAFJC",
+    "option_4": "TEEPO",
+    "answer": "3"
+  },
+  {
+    "question": "Input: 42 kite 93 balloon 37 lemon orange 64\nStep 1: 93 kite 42 balloon 37 lemon orange 64\nStep II: 93 balloon kite 42 37 lemon orange 64\nStep III: 93 balloon 64 kite 42 37 lemon orange\nStep IV: 93 balloon 64 lemon kite 42 37 orange\nStep V: 93 balloon 64 lemon 42 kite 37 orange\nStep VI: 93 balloon 64 lemon 42 orange kite 37\nQuestion: What is the logic behind the arrangement?",
+    "option_1": "Largest number to front, then alternate word/number shifts",
+    "option_2": "Words alphabetically left, numbers descending right",
+    "option_3": "Numbers and words arranged alternately by rank",
+    "option_4": "Numbers descending left; words in reverse alphabetical order right",
+    "answer": "1"
+  },
+  {
+    "question": "If 3 men and 2 women are seated in a row, how many seating arrangements are possible such that no woman is seated next to another woman?",
+    "option_1": "12",
+    "option_2": "48",
+    "option_3": "36",
+    "option_4": "72",
+    "answer": "4"
+  },
+  {
+    "question": "Identify the missing number in the series. 1, 1, 2, 3, 5, 8, 13, ?",
+    "option_1": "22",
+    "option_2": "21",
+    "option_3": "20",
+    "option_4": "24",
+    "answer": "2"
+  },
+  {
+    "question": "In a certain code, A + B means A is the mother of B, A x B means A is the father of B, A - B means A is the sister of B, what does P x Q - R mean?",
+    "option_1": "P is the father of Q and Q is the sister of R",
+    "option_2": "Q is the sister of R and Q is the sister of R",
+    "option_3": "R is the father of P and Q is the sister of R",
+    "option_4": "P is the brother of R and Q is the sister of R",
+    "answer": "1"
+  },
+  {
+    "question": "Four friends X, Y, Z, and W each have some marbles. X gives Y as many marbles as he already has, gives Z twice the amount of marbles Z already has, and gives W thrice the amount of marbles W already has. Then, W gives 1/6th of his marbles to Y. Afterward, X gives 10% of the marbles he now owns to Z and 20% to Y. Finally, all of them have 50 marbles each. What was the original number of marbles each friend had?",
+    "option_1": "x-100, Y-15, z-15, w-10",
+    "option_2": "X-110, Y-10, z-10, w-8",
+    "option_3": "X-90, Y-40, 2-20, W-30",
+    "option_4": "X-1105/7, Y-90/7, z-100/7, w-15",
+    "answer": "1"
+  },
+  {
+    "question": "Compare the following two addresses.\nAddress 1: Ms. Neha Verma, Flat No. 204, Tower B, Green Acres, Pune 411045\nAddress 2: Mrs. Neha Verma, Flat No. 204, Tower B, Green Acres Society, Pune - 411045\n\nAre these likely to be the same?",
+    "option_1": "No, city codes do not match",
+    "option_2": "Yes, all details match except name titles",
+    "option_3": "No, the flat numbers are different",
+    "option_4": "No, the name titles are different",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the missing number in the below series. 100, 95, 90, 85, ?, 75",
+    "option_1": "80",
+    "option_2": "78",
+    "option_3": "82",
+    "option_4": "85",
+    "answer": "1"
+  },
+  {
+    "question": "A person is facing north. He walks 30 meters and turns to his right, walking 20 meters. Then, he turns to his left and walks 30 meters. Which direction is he facing now?",
+    "option_1": "South",
+    "option_2": "West",
+    "option_3": "East",
+    "option_4": "North",
+    "answer": "4"
+  },
+  {
+    "question": "Four of the following five are alike in a certain way and hence form a group. Which is the one that does not belong to that group?\nA. BRIGHT: DSJHF\nB. CUSTOM: EVTUM\nC. FLIGHT: HMJHF\nD. CHANCE: EIBOA\nE. STRONG: VUQPR",
+    "option_1": "STRONG: VUQPR",
+    "option_2": "FLIGHT: HMJHF",
+    "option_3": "CUSTOM: EVTUM",
+    "option_4": "BRIGHT: DSJHF",
+    "answer": "1"
+  },
+  {
+    "question": "Sahil completed B.Sc. with 66% and M.Sc. with 60%. He has 1 year teaching experience and is 24 years old. What should be the action?",
+    "option_1": "Select directly",
+    "option_2": "Keep pending for verification",
+    "option_3": "Reject due to low experience",
+    "option_4": "Data inadequate",
+    "answer": "4"
+  },
+  {
+    "question": "How many ways can 4 people be seated in a circle if two people must sit next to each other?",
+    "option_1": "8",
+    "option_2": "6",
+    "option_3": "10",
+    "option_4": "4",
+    "answer": "4"
+  },
+  {
+    "question": "Input: Box 53 21 Mobile 86 Tiger Fan 39\n\nQuestion: What will be the Step II of the arrangement?",
+    "option_1": "86 21 Box Mobile Tiger Fan 39 53",
+    "option_2": "86 Box Mobile 53 Tiger Fan 39 21",
+    "option_3": "86 Mobile Box 53 Tiger Fan 39 21",
+    "option_4": "Cannot be determined",
+    "answer": "4"
+  },
+  {
+    "question": "If you are facing east and move 10 meters, then turn to your left and move 5 meters. Which direction are you facing now?",
+    "option_1": "West",
+    "option_2": "North",
+    "option_3": "South",
+    "option_4": "East",
+    "answer": "2"
+  },
+  {
+    "question": "Among five people P, Q, R, S, and T:\nP is taller than only T.\nQ is taller than P but shorter than R.\nS is the tallest.\nWho is the shortest?",
+    "option_1": "S",
+    "option_2": "T",
+    "option_3": "Q",
+    "option_4": "R",
+    "answer": "2"
+  },
+  {
+    "question": "In a 50 L mixture milk to water ratio is 3:2. How much water must be added to make the ratio 1:1?",
+    "option_1": "15 L",
+    "option_2": "20 L",
+    "option_3": "12 L",
+    "option_4": "10 L",
+    "answer": "4"
+  },
+  {
+    "question": "Which figure breaks the pattern? ",
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "d",
+    "option_4": "e",
+    "answer": "3"
+  },
+  {
+    "question": "If X is the father of Y and Y is the mother of Z, then how is X related to Z?",
+    "option_1": "Father-in-law",
+    "option_2": "Uncle",
+    "option_3": "Grandfather",
+    "option_4": "Brother-in-law",
+    "answer": "3"
+  },
+  {
+    "question": "Sandeep was given some money by his father. He spent all of it in six shops. In each shop, he spent one rupee more than half of what he had when he entered. How much money did Sandeep receive from his father?",
+    "option_1": "126 rupees",
+    "option_2": "15 rupees",
+    "option_3": "31 rupees",
+    "option_4": "63 rupees",
+    "answer": "4"
+  },
+  {
+    "question": "In a class of 45 students, Rahul is ranked 20th from the top. If the students are arranged in the descending order of ranks, what will be Rahul's position from the bottom?",
+    "option_1": "26th",
+    "option_2": "23rd",
+    "option_3": "24th",
+    "option_4": "25th",
+    "answer": "1"
+  },
+  {
+    "question": "If in a certain code, SUN is written as 54, and MOON is written as 57, how is STAR written?",
+    "option_1": "64",
+    "option_2": "58",
+    "option_3": "57",
+    "option_4": "75",
+    "answer": "2"
+  },
+  {
+    "question": "If 5#3=8 and 7#2=9, then what is the value of 9#4?",
+    "option_1": "36",
+    "option_2": "13",
+    "option_3": "12",
+    "option_4": "5",
+    "answer": "2"
+  },
+  {
+    "question": "Find the number that doesn't belong:",
+    "option_1": "11, 13, 17, 19",
+    "option_2": "37, 41, 43, 47",
+    "option_3": "23, 29, 31, 33",
+    "option_4": "2, 3, 5, 7",
+    "answer": "3"
+  },
+  {
+    "question": "Complete this series: 131, 137, 149, 163, 181, ?",
+    "option_1": "211",
+    "option_2": "193",
+    "option_3": "191",
+    "option_4": "197",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following actions shows the best judgment in a social situation?",
+    "option_1": "Offering help to an elderly person carrying heavy bags",
+    "option_2": "Yelling at someone who bumped into you",
+    "option_3": "Posting negative comments online anonymously",
+    "option_4": "Ignoring a crying child in a public place",
+    "answer": "1"
+  },
+  {
+    "question": "A is to C as E is to:",
+    "option_1": "I",
+    "option_2": "H",
+    "option_3": "G",
+    "option_4": "F",
+    "answer": "3"
+  },
+  {
+    "question": "Find the next term in the given series. B, DE, HJK, ?, WXYZB",
+    "option_1": "S37T",
+    "option_2": "R74A",
+    "option_3": "OPQR",
+    "option_4": "T89Z",
+    "answer": "3"
+  },
+  {
+    "question": "If A is the mother of B, and B is the father of C, then how is A related to C?",
+    "option_1": "Sister",
+    "option_2": "Grandmother",
+    "option_3": "Mother",
+    "option_4": "Aunt",
+    "answer": "2"
+  },
+  {
+    "question": "A boat travels 40 km upstream in 4 hours and downstream in 2 hours. What is the speed of the stream?",
+    "option_1": "3 km/h",
+    "option_2": "4 km/h",
+    "option_3": "6 km/h",
+    "option_4": "5 km/h",
+    "answer": "4"
+  },
+  {
+    "question": "Find the next term in the given series. K1F, M3E, O8D, Q19C, ?",
+    "option_1": "s37c",
+    "option_2": "S42R",
+    "option_3": "S42B",
+    "option_4": "T42A",
+    "answer": "3"
+  },
+  {
+    "question": "Statements:\n1. All books are papers.\n2. All papers are trees.\nConclusions:\n1. All books are trees.\n2. Some trees are books",
+    "option_1": "Only II follows",
+    "option_2": "Only I follows",
+    "option_3": "Both I and II follow",
+    "option_4": "Neither I nor II follows",
+    "answer": "3"
+  },
+  {
+    "question": "Nishant has 68% B.Sc., pending M.Sc. result, 3 years teaching experience, 27 years old, willing for probation. What to do?",
+    "option_1": "Wait for result then decide",
+    "option_2": "Reject due to incomplete PG",
+    "option_3": "Refer to Principal",
+    "option_4": "Select Nishant",
+    "answer": "3"
+  },
+  {
+    "question": "If \"A\" is coded as 2, \"B\" as 4, \"a\" as 11, \"b\" as 12 (following a pattern for capitals and small letters), what is the code for \"Hi\"?",
+    "option_1": "17,20",
+    "option_2": "19,22",
+    "option_3": "18,21",
+    "option_4": "16,19",
+    "answer": "4"
+  },
+  {
+    "question": "A man walks 10 meters south, then turns left and walks 15 meters. In which direction is he facing now?",
+    "option_1": "North",
+    "option_2": "East",
+    "option_3": "South",
+    "option_4": "West",
+    "answer": "2"
+  },
+  {
+    "question": "In a row of 8 seats, how many ways can 3 people sit next to each other?",
+    "option_1": "48",
+    "option_2": "36",
+    "option_3": "54",
+    "option_4": "72",
+    "answer": "2"
+  },
+  {
+    "question": "In how many ways can 5 people be seated in a row such that A and B are not next to each other?",
+    "option_1": "36",
+    "option_2": "54",
+    "option_3": "72",
+    "option_4": "48",
+    "answer": "3"
+  },
+  {
+    "question": "Select the correct option that will complete the series. (2, 7), (3, 13), (5, 31), ?, (11, 133)",
+    "option_1": "(10, 101)",
+    "option_2": "(8,76)",
+    "option_3": "(7,57)",
+    "option_4": "(9,91)",
+    "answer": "3"
+  },
+  {
+    "question": "A coding rule is followed by Roll numbers ending with an even digit belong to Batch 1 and Roll numbers ending with an odd digit belong to Batch 2. Identify the roll number for Batch 1 and Batch 2.",
+    "option_1": "D1400 and C3882",
+    "option_2": "E2894 and F3917",
+    "option_3": "A3841 and B4537",
+    "option_4": "G8763 and F4711",
+    "answer": "2"
+  },
+  {
+    "question": "All men are mortal. Socrates is a man. Which of the following is true?",
+    "option_1": "Socrates is not mortal",
+    "option_2": "Socrates is immortal",
+    "option_3": "Socrates is a god",
+    "option_4": "Socrates is mortal",
+    "answer": "4"
+  },
+  {
+    "question": "All birds can fly. Some birds cannot fly. Which of the following conclusions is correct?",
+    "option_1": "All birds can swim",
+    "option_2": "Some birds are fish",
+    "option_3": "Some birds cannot fly",
+    "option_4": "All birds are animals",
+    "answer": "3"
+  },
+  {
+    "question": "Select the correct option that will complete the series. (2, 3), (5, 24), (8, 63), ?, (14, 195)",
+    "option_1": "(9,95)",
+    "option_2": "(10,57)",
+    "option_3": "(11, 120)",
+    "option_4": "(12, 136)",
+    "answer": "3"
+  },
+  {
+    "question": "Find the missing term in the following series. ACE, BDF, CEG, DFH, ?",
+    "option_1": "EIK",
+    "option_2": "EGI",
+    "option_3": "EIM",
+    "option_4": "EHL",
+    "answer": "2"
+  },
+  {
+    "question": "D is to H as J is to:",
+    "option_1": "L",
+    "option_2": "O",
+    "option_3": "M",
+    "option_4": "N",
+    "answer": "4"
+  },
+  {
+    "question": "If in a certain code language, \"TRIP\" is written as \"USJQ\", how will \"JUMP\" be written in the same code?",
+    "option_1": "KVNQ",
+    "option_2": "KVOQ",
+    "option_3": "KUNQ",
+    "option_4": "KVMQ",
+    "answer": "1"
+  },
+  {
+    "question": "Input: cat 90 24 tree 48 75 flower bush\nStep 1: 90 cat 24 tree 48 75 flower bush\nStep II: 90 bush cat 24 tree 48 75 flower\nStep III: 90 bush 75 cat 24 tree 48 flower\nStep IV: 90 bush 75 cat flower 24 tree 48\nStep V: 90 bush 75 cat flower 48 24 tree\nQuestion: What is the logic behind the arrangement?",
+    "option_1": "Largest number to front, then alternate word/number shifts",
+    "option_2": "Words alphabetically left, numbers descending right",
+    "option_3": "Numbers and words arranged alternately by rank",
+    "option_4": "Numbers descending left; words in alphabetical order right",
+    "answer": "4"
+  },
+  {
+    "question": "If + means - , ÷ means +, - means x, and x means ÷ then, what is 18/6 - 2 + 8?",
+    "option_1": "24",
+    "option_2": "26",
+    "option_3": "28",
+    "option_4": "22",
+    "answer": "4"
+  },
+  {
+    "question": "Choose the number that is different from the others.",
+    "option_1": "64",
+    "option_2": "49",
+    "option_3": "32",
+    "option_4": "48",
+    "answer": "3"
+  },
+  {
+    "question": "In each of the following questions, a specific relationship is given between two words. Identify the word that shares a similar semantic relationship with the given pair. Choose the most appropriate option from the four choices given below. Knife: Cut:: Pen: ?",
+    "option_1": "Ink",
+    "option_2": "Scribble",
+    "option_3": "Write",
+    "option_4": "Paper",
+    "answer": "3"
+  }
+]
+
