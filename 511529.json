@@ -1,0 +1,403 @@
+[
+  {
+    "question": "Identify the correct statement with reference to Padma Awards.",
+    "option_1": "Padma Award can be used as suffix or prefix to the new name of the awardee",
+    "option_2": "The total number of Padma Awards to be given in a year should not exceed 150.",
+    "option_3": "Padma Awards are given once a year.",
+    "option_4": "The names of the awardees are never published in the Gazette of India.",
+    "answer": "3"
+  },
+  {
+    "question": "Norman Ernest Borlaug was awarded the ______ in 1970 for his contribution to the green revolution.",
+    "option_1": "Nobel Prize in Physics",
+    "option_2": "Nobel Peace Prize",
+    "option_3": "Nobel Prize in Chemistry",
+    "option_4": "Nobel Prize in Physiology",
+    "answer": "2"
+  },
+  {
+    "question": "In which year was the first Arjuna Award given to a woman hockey player?",
+    "option_1": "1963",
+    "option_2": "1964",
+    "option_3": "1962",
+    "option_4": "1961",
+    "answer": "4"
+  },
+  {
+    "question": "In which year the country's highest sporting honour Rajiv Gandhi Khel Ratna Award was renamed as Major Dhyan Chand Khel Ratna Award?",
+    "option_1": "1991",
+    "option_2": "2019",
+    "option_3": "2021",
+    "option_4": "2014",
+    "answer": "3"
+  },
+  {
+    "question": "In which year M. S. Dhoni was awarded the Padma Shri award?",
+    "option_1": "2009",
+    "option_2": "2010",
+    "option_3": "2007",
+    "option_4": "2012",
+    "answer": "1"
+  },
+  {
+    "question": "Most major sports awards are accompanied by a cash prize. Which of the following is the only National Sports Award that does not include a cash prize?",
+    "option_1": "Major Dhyanchand Khel Ratna",
+    "option_2": "National Sports Promotion Award",
+    "option_3": "Maulana Abul Kalam Azad Trophy",
+    "option_4": "Dronacharya Award",
+    "answer": "2"
+  },
+  {
+    "question": "Which citizen of the Republic of India was awarded the Nobel Peace Prize in the year 2014?",
+    "option_1": "Amartya Sen",
+    "option_2": "C. V. Raman",
+    "option_3": "Kailash Satyarthi",
+    "option_4": "Rabindranath Tagore",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following was the first non-European to receive the Nobel Prize in Literature in 1913 for his work 'Gitanjali'?",
+    "option_1": "Rabindranath Tagore",
+    "option_2": "Dwarkanath Tagore",
+    "option_3": "Bankim Chandra Chatterjee",
+    "option_4": "Abanindranath Tagore",
+    "answer": "1"
+  },
+  {
+    "question": "The Bessie Award is a dance award given in which country?",
+    "option_1": "Germany",
+    "option_2": "Norway",
+    "option_3": "Australia",
+    "option_4": "USA",
+    "answer": "4"
+  },
+  {
+    "question": "South Indian film dance choreographer, K. Sivasankar won which of the following prestigious awards for best choreography in the Telugu film Magadheera in 2010?",
+    "option_1": "National Film Awards",
+    "option_2": "Filmfare Awards",
+    "option_3": "International Film Academy Awards",
+    "option_4": "Guild Awards",
+    "answer": "1"
+  },
+  {
+    "question": "The 'Amrita Devi Bishnoi National Award' is given for:",
+    "option_1": "Environmental conservation",
+    "option_2": "Energy conservation",
+    "option_3": "Wildlife conservation",
+    "option_4": "Biodiversity conservation",
+    "answer": "3"
+  },
+  {
+    "question": "The Indira Gandhi Award for National Integrity is given by?",
+    "option_1": "Indian National Congress",
+    "option_2": "Ministry of Human Resource Development,",
+    "option_3": "Ministry of Home Affairs, Government of India",
+    "option_4": "Indira Gandhi National Open University",
+    "answer": "1"
+  },
+  {
+    "question": "The Beating Retreat ceremony during Republic Day is held at which of the following places every year?",
+    "option_1": "Hyderabad",
+    "option_2": "Jaipur",
+    "option_3": "New Delhi",
+    "option_4": "Bengaluru",
+    "answer": "3"
+  },
+  {
+    "question": "Who is the first actor to win an Oscar Award?",
+    "option_1": "Warner Baxter",
+    "option_2": "Emil Jennings",
+    "option_3": "Lionel Barrymore",
+    "option_4": "Charlie Chaplin",
+    "answer": "2"
+  },
+  {
+    "question": "The headquarters of the Board of Control for Cricket in India (BCCI) is located in ______.",
+    "option_1": "Mumbai",
+    "option_2": "Kolkata",
+    "option_3": "New Delhi",
+    "option_4": "Chennai",
+    "answer": "1"
+  },
+  {
+    "question": "The National Sports University is located in ______.",
+    "option_1": "Mizoram",
+    "option_2": "Tripura",
+    "option_3": "Meghalaya",
+    "option_4": "Manipur",
+    "answer": "4"
+  },
+  {
+    "question": "The headquarters of the Indian Institute of Tourism and Travel Management is located in ______.",
+    "option_1": "Guwahati",
+    "option_2": "Bhubaneswar",
+    "option_3": "Gwalior",
+    "option_4": "New Delhi",
+    "answer": "3"
+  },
+  {
+    "question": "The Indian National Science Academy is located in ______.",
+    "option_1": "New Delhi",
+    "option_2": "Hyderabad",
+    "option_3": "Allahabad",
+    "option_4": "Bengaluru",
+    "answer": "1"
+  },
+  {
+    "question": "Where is the headquarter of Spices Board of India located?",
+    "option_1": "Bengaluru (Karnataka)",
+    "option_2": "Kochi (Kerala)",
+    "option_3": "Pune (Maharashtra)",
+    "option_4": "Guntur (Andhra Pradesh)",
+    "answer": "2"
+  },
+  {
+    "question": "Where is the headquarter of International Hockey Federation (FIH) located?",
+    "option_1": "Australia",
+    "option_2": "Nepal",
+    "option_3": "Switzerland",
+    "option_4": "Bhutan",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following is the author of the book The House of Blue Mangoes?",
+    "option_1": "David Davidar",
+    "option_2": "Formidable Data",
+    "option_3": "Aravind Adiga",
+    "option_4": "Shekhar Bandyopadhyay",
+    "answer": "1"
+  },
+  {
+    "question": "Who among the following is the author of the book The Thousand Faces of Night?",
+    "option_1": "Geeta Hariharan",
+    "option_2": "Urvashi Butalia",
+    "option_3": "Meena Alexander",
+    "option_4": "Namita Gokhale",
+    "answer": "1"
+  },
+  {
+    "question": "Who has written the novel 'The Catcher in the Rye'?",
+    "option_1": "H.G. Wells",
+    "option_2": "Ernest Hemingway",
+    "option_3": "Mark Twain",
+    "option_4": "J.D. Salinger",
+    "answer": "4"
+  },
+  {
+    "question": "'Once a Dancer' is the autobiography of whom?",
+    "option_1": "Yamini Krishnamurthy",
+    "option_2": "Audrey Hepburn",
+    "option_3": "Allegra Kent",
+    "option_4": "Sudha Chandran",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following is the author of the autobiography 'Lone Fox Dancing: My Autobiography'?",
+    "option_1": "Khushwant Singh",
+    "option_2": "Brij Mohan Kaul",
+    "option_3": "Ruskin Bond",
+    "option_4": "John Dalvi",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following is the author of the book 'The Guide'?",
+    "option_1": "Rohinton Mistry",
+    "option_2": "R. K. Narayan",
+    "option_3": "Vikram Chandra",
+    "option_4": "Shashi Tharoor",
+    "answer": "2"
+  },
+  {
+    "question": "'Bad Man' is the autobiography of which actor?",
+    "option_1": "Gulshan Grover",
+    "option_2": "Amrish Puri",
+    "option_3": "Raza Murad",
+    "option_4": "Ashish Vidyarthi",
+    "answer": "1"
+  },
+  {
+    "question": "Truth, Love and a Little Malice is the autobiography of whom?",
+    "option_1": "Arjun Singh",
+    "option_2": "Satyajit Ray",
+    "option_3": "Phoolan Devi",
+    "option_4": "Khushwant Singh",
+    "answer": "4"
+  },
+  {
+    "question": "'A Life Apart' is the autobiography of whom?",
+    "option_1": "Prabha Khaitan",
+    "option_2": "Bindu Bhatt",
+    "option_3": "Vineeta Agarwal",
+    "option_4": "Mannu Bhandari",
+    "answer": "1"
+  },
+  {
+    "question": "Who wrote the book 'Gulamgiri'?",
+    "option_1": "Swami Shraddhanand",
+    "option_2": "Dwarkanath Tagore",
+    "option_3": "B. R. Ambedkar",
+    "option_4": "Jyotiba Phule",
+    "answer": "4"
+  },
+  {
+    "question": "Unladylike is the memoir of?",
+    "option_1": "Aditi Mittal",
+    "option_2": "Supriya Joshi",
+    "option_3": "Aishwarya Mohanraj",
+    "option_4": "Radhika Vaz",
+    "answer": "4"
+  },
+  {
+    "question": "The book A Suitable Boy was written by _____ in 1993.",
+    "option_1": "Arundhati Roy",
+    "option_2": "Kiran Desai",
+    "option_3": "Vikram Seth",
+    "option_4": "David Davidar",
+    "answer": "3"
+  },
+  {
+    "question": "'My Country, My Life' is an autobiographical text of which of the following Indian politicians?",
+    "option_1": "Narendra Modi",
+    "option_2": "Atal Bihari Vajpayee",
+    "option_3": "Lal Krishna Advani",
+    "option_4": "Sharad Pawar",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following is the author of the novel 'Tamas'?",
+    "option_1": "Harishankar Parsai",
+    "option_2": "Mohan Rakesh",
+    "option_3": "Rahi Masoom Raza",
+    "option_4": "Bhisham Sahni",
+    "answer": "4"
+  },
+  {
+    "question": "Who among the following is the author of the novel 'Maila Anchal'?",
+    "option_1": "Kamleshwar",
+    "option_2": "Phanishwar Nath 'Renu'",
+    "option_3": "Harishankar Parsai",
+    "option_4": "Kashinath Singh",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following is the autobiography of Dr. Rajendra Prasad, the first President of India?",
+    "option_1": "A Shot at History",
+    "option_2": "My Country My Life",
+    "option_3": "Autobiography",
+    "option_4": "Autobiography",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is the autobiography of international tennis player Andre Agassi?",
+    "option_1": "Me",
+    "option_2": "Becoming",
+    "option_3": "Too Many Reasons to Live",
+    "option_4": "Open: An Autobiography",
+    "answer": "4"
+  },
+  {
+    "question": "Satyajit Ray's work 'Childhood Days A Memoir' is written in which of the following languages?",
+    "option_1": "Telugu",
+    "option_2": "Hindi",
+    "option_3": "Bengali",
+    "option_4": "Kannada",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following is the author of the book 'Unfinished: A Memoir'?",
+    "option_1": "Alia Bhatt",
+    "option_2": "Priyanka Chopra",
+    "option_3": "Deepika Padukone",
+    "option_4": "Kareena Kapoor",
+    "answer": "2"
+  },
+  {
+    "question": "Warli painting is the folk painting of ______ state of India.",
+    "option_1": "Manipur",
+    "option_2": "Mizoram",
+    "option_3": "Karnataka",
+    "option_4": "Maharashtra",
+    "answer": "4"
+  },
+  {
+    "question": "Madhubani painting style originated from ______state.",
+    "option_1": "Gujarat",
+    "option_2": "Karnataka",
+    "option_3": "Bihar",
+    "option_4": "Rajasthan",
+    "answer": "3"
+  },
+  {
+    "question": "Thangka painting style depicts ______ deity.",
+    "option_1": "Islamic",
+    "option_2": "Buddhist",
+    "option_3": "Jewish",
+    "option_4": "Hindu",
+    "answer": "2"
+  },
+  {
+    "question": "In which of the following states is fresco painting a popular art form?",
+    "option_1": "Karnataka",
+    "option_2": "Nagaland",
+    "option_3": "Haryana",
+    "option_4": "Maharashtra",
+    "answer": "3"
+  },
+  {
+    "question": "To which of the following states does the traditional form of 'Kajal Paintings' belong, in which brushes are not used?",
+    "option_1": "Jharkhand",
+    "option_2": "Tamil Nadu",
+    "option_3": "Kerala",
+    "option_4": "Rajasthan",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is a traditional folk art of Kerala state?",
+    "option_1": "Margomakali",
+    "option_2": "Manjari",
+    "option_3": "Phad",
+    "option_4": "Pithora",
+    "answer": "1"
+  },
+  {
+    "question": "The inner fur of which goats is woven into fine shawls called pashmina shawls?",
+    "option_1": "Kashmiri Goat",
+    "option_2": "Jamnapari Goat",
+    "option_3": "Alpine Goat",
+    "option_4": "Boer Goat",
+    "answer": "1"
+  },
+  {
+    "question": "'Jadopatia' is a form of _______ popular in the state of Jharkhand.",
+    "option_1": "Music",
+    "option_2": "Dance",
+    "option_3": "Painting",
+    "option_4": "Sculpture",
+    "answer": "3"
+  },
+  {
+    "question": "The Kodava community of Coorg worships weapons during the _____ festival.",
+    "option_1": "Madai",
+    "option_2": "Kailpodh",
+    "option_3": "Thaipusam",
+    "option_4": "Bhagoria",
+    "answer": "2"
+  },
+  {
+    "question": "Elephant Festival is the cultural pride of ______ among the dance and music festivals of India.",
+    "option_1": "Kerala",
+    "option_2": "Madhya Pradesh",
+    "option_3": "Gujarat",
+    "option_4": "Maharashtra",
+    "answer": "4"
+  },
+  {
+    "question": "Where is the headquarters of Badminton World Federation located?",
+    "option_1": "Malaysia",
+    "option_2": "Japan",
+    "option_3": "Singapore",
+    "option_4": "Switzerland",
+    "answer": "1"
+  }
+]
+
