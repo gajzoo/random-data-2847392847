@@ -1,0 +1,299 @@
+[
+  {
+    "question": "Which of the following national parks is the largest protected area in the Eastern Himalayan sub-region?",
+    "option_1": "Keibul Lamjao National Park",
+    "option_2": "Namdapha National Park",
+    "option_3": "Jim Corbett National Park",
+    "option_4": "Bandipur National Park",
+    "answer": "2"
+  },
+  {
+    "question": "Which wildlife sanctuary is a protected area of three states in North India? It is also famous for the critically endangered gharial, red-crested turtle and the endangered Ganges river dolphin.",
+    "option_1": "National Chambal Sanctuary",
+    "option_2": "Chinnar Wildlife Sanctuary",
+    "option_3": "Dandeli Wildlife Sanctuary",
+    "option_4": "Bhadra Wildlife Sanctuary",
+    "answer": "1"
+  },
+  {
+    "question": "Which sanctuary is most famous for the conservation of endangered estuarine crocodiles in India?",
+    "option_1": "Indira Gandhi Wildlife Sanctuary",
+    "option_2": "Bhitarkanika Wildlife Sanctuary, Odisha",
+    "option_3": "Chinnar Wildlife Sanctuary, Kerala",
+    "option_4": "Dandeli Wildlife Sanctuary, Karnataka",
+    "answer": "2"
+  },
+  {
+    "question": "Baranwapara Wildlife Sanctuary is located in which of the following Indian states?",
+    "option_1": "Assam",
+    "option_2": "Karnataka",
+    "option_3": "Sikkim",
+    "option_4": "Chhattisgarh",
+    "answer": "4"
+  },
+  {
+    "question": "Kali Tiger Reserve is located in which of the following states?",
+    "option_1": "Arunachal Pradesh",
+    "option_2": "Karnataka",
+    "option_3": "Telangana",
+    "option_4": "Assam",
+    "answer": "2"
+  },
+  {
+    "question": "Peppara Wildlife Sanctuary is located in which of the following states?",
+    "option_1": "Tamil Nadu",
+    "option_2": "Meghalaya",
+    "option_3": "Punjab",
+    "option_4": "Kerala",
+    "answer": "4"
+  },
+  {
+    "question": "Laokhowa Wildlife Sanctuary is located on the southern bank of which river in the north eastern states of India?",
+    "option_1": "Barak",
+    "option_2": "Brahmaputra",
+    "option_3": "Subansiri",
+    "option_4": "Gomti",
+    "answer": "2"
+  },
+  {
+    "question": "The Baghmara Pitcher Plant Sanctuary is located in which of the following states?",
+    "option_1": "Meghalaya",
+    "option_2": "Goa",
+    "option_3": "Karnataka",
+    "option_4": "Assam",
+    "answer": "1"
+  },
+  {
+    "question": "In which state is Keoladeo National Park located?",
+    "option_1": "Gujarat",
+    "option_2": "Rajasthan",
+    "option_3": "Odisha",
+    "option_4": "Madhya Pradesh",
+    "answer": "2"
+  },
+  {
+    "question": "Select the natural habitat of Asiatic lion from the following.",
+    "option_1": "Gir Forest",
+    "option_2": "Sundarban",
+    "option_3": "Kanha National Park",
+    "option_4": "Saranda Forest",
+    "answer": "1"
+  },
+  {
+    "question": "As per information received till June 2021, how many biosphere reserves are established in India?",
+    "option_1": "18",
+    "option_2": "20",
+    "option_3": "26",
+    "option_4": "15",
+    "answer": "1"
+  },
+  {
+    "question": "Betul, Hoshangabad and Chhindwara districts of Madhya Pradesh are part of which of the following biosphere reserves?",
+    "option_1": "Manas",
+    "option_2": "Seshachalam",
+    "option_3": "Agasthyamalai",
+    "option_4": "Pachmarhi",
+    "answer": "4"
+  },
+  {
+    "question": "In which state is Kawal Wildlife Sanctuary located?",
+    "option_1": "Telangana",
+    "option_2": "Gujarat",
+    "option_3": "Odisha",
+    "option_4": "Maharashtra",
+    "answer": "1"
+  },
+  {
+    "question": "The four-day harvest festival Pongal is usually celebrated in ____.",
+    "option_1": "North-eastern India",
+    "option_2": "North India",
+    "option_3": "Eastern India",
+    "option_4": "South India",
+    "answer": "4"
+  },
+  {
+    "question": "Dongri festival of Himachal Pradesh is mainly celebrated by which religious community?",
+    "option_1": "Buddhists",
+    "option_2": "Sikhs",
+    "option_3": "Muslims",
+    "option_4": "Hindus",
+    "answer": "4"
+  },
+  {
+    "question": "'Kambala' festival is organised by the farming communities of ____ state.",
+    "option_1": "Himachal Pradesh",
+    "option_2": "Rajasthan",
+    "option_3": "Karnataka",
+    "option_4": "Madhya Pradesh",
+    "answer": "3"
+  },
+  {
+    "question": "Chapchar Kut festival is mainly celebrated in.",
+    "option_1": "Nagaland",
+    "option_2": "Meghalaya",
+    "option_3": "Mizoram",
+    "option_4": "Manipur",
+    "answer": "3"
+  },
+  {
+    "question": "Ker and Garia Puja are traditional tribal festivals of which state?",
+    "option_1": "Manipur",
+    "option_2": "Jharkhand",
+    "option_3": "Tripura",
+    "option_4": "Odisha",
+    "answer": "3"
+  },
+  {
+    "question": "'Gugga (Goga) Navami - is a festival celebrated in Haryana and some parts of Punjab, Rajasthan, UP and Himachal Pradesh. It is known as the festival of ____ ?",
+    "option_1": "Camel - worship",
+    "option_2": "Cow worship",
+    "option_3": "Snake worship",
+    "option_4": "Owl worship",
+    "answer": "3"
+  },
+  {
+    "question": "Kojagiri Purnima is a festival celebrated on the full moon day of the month of Ashwin mainly in ____.",
+    "option_1": "Maharashtra",
+    "option_2": "Kerala",
+    "option_3": "Andhra Pradesh",
+    "option_4": "Bihar",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following festivals is celebrated as the birth anniversary of Guru Nanak Dev?",
+    "option_1": "Hola Mohalla",
+    "option_2": "Baisakhi",
+    "option_3": "Guruparv (Gurpurab)",
+    "option_4": "Chhappar Mela",
+    "answer": "3"
+  },
+  {
+    "question": "'Nuakhai' is the festival of which state?",
+    "option_1": "Meghalaya",
+    "option_2": "Odisha",
+    "option_3": "Tamil Nadu",
+    "option_4": "Bihar",
+    "answer": "2"
+  },
+  {
+    "question": "In which of the following states is Aoleang Monyi celebrated, an ancient spring festival celebrated by all Konyak's in the month of April?",
+    "option_1": "Bihar",
+    "option_2": "Telangana",
+    "option_3": "Odisha",
+    "option_4": "Nagaland",
+    "answer": "4"
+  },
+  {
+    "question": "Kharchi Puja of Tripura is celebrated in ____. Months",
+    "option_1": "September-October",
+    "option_2": "April-May",
+    "option_3": "January-February",
+    "option_4": "July-August",
+    "answer": "4"
+  },
+  {
+    "question": "By which other name is the birth anniversary of Lord Jhulelal of Sindhi community also known?",
+    "option_1": "Jamshedi Navroz",
+    "option_2": "Ulambana",
+    "option_3": "Cheti Chand",
+    "option_4": "Chaliha Sahib",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following classical dance styles is related to the worship of Lord Jaganna",
+    "option_1": "Odissi",
+    "option_2": "Kathak",
+    "option_3": "Satriya",
+    "option_4": "Bharatanatyam",
+    "answer": "1"
+  },
+  {
+    "question": "Lata Mangeshkar was honoured with which of the following awards in the year 2001?",
+    "option_1": "Filmfare Lifetime Achievement Award",
+    "option_2": "Padma Vibhushan",
+    "option_3": "Dada Saheb Phalke Award",
+    "option_4": "Bharat Ratna",
+    "answer": "4"
+  },
+  {
+    "question": "Which folk dance depicts the mock battle between Goddess Durga and Mahishasura?",
+    "option_1": "Bhangra",
+    "option_2": "Raasleela",
+    "option_3": "Kalbelia",
+    "option_4": "Dandiya Raas",
+    "answer": "4"
+  },
+  {
+    "question": "Mundari dance is associated with the tribal community of which Indian state?",
+    "option_1": "Mizoram",
+    "option_2": "Karnataka",
+    "option_3": "Arunachal Pradesh",
+    "option_4": "Jharkhand",
+    "answer": "4"
+  },
+  {
+    "question": "'Lai Haraoba' is the earliest form of which of the following classical dance styles of India?",
+    "option_1": "Kuchipudi",
+    "option_2": "Kathakali",
+    "option_3": "Manipuri",
+    "option_4": "Mohiniyattam",
+    "answer": "3"
+  },
+  {
+    "question": "Indian classical dance is a broad discipline encompassing a variety of arts whose theory and practice can be traced back to the Natya Shastra, the foundational Sanskrit text written by ___",
+    "option_1": "Panini",
+    "option_2": "Bhas",
+    "option_3": "Patanjali",
+    "option_4": "Bharata Muni",
+    "answer": "4"
+  },
+  {
+    "question": "Yakshagana is the folk dance of which of the following states?",
+    "option_1": "Odisha",
+    "option_2": "West Bengal",
+    "option_3": "Madhya Pradesh",
+    "option_4": "Karnataka",
+    "answer": "4"
+  },
+  {
+    "question": "Rauf is a folk dance of which of the following states/union territories?",
+    "option_1": "Karnataka",
+    "option_2": "Kerala",
+    "option_3": "Lakshadweep",
+    "option_4": "Jammu and Kashmir",
+    "answer": "4"
+  },
+  {
+    "question": "Jagoi and Cholom are two styles of Indian classical dance ___",
+    "option_1": "Kathak",
+    "option_2": "Bharatanatyam",
+    "option_3": "Manipuri",
+    "option_4": "Kathakali",
+    "answer": "3"
+  },
+  {
+    "question": "Which classical dance was introduced by the great Vaishnav saint and reformer of Assam?",
+    "option_1": "Kathak",
+    "option_2": "Kuchipudi",
+    "option_3": "Sattriya",
+    "option_4": "Odissi",
+    "answer": "3"
+  },
+  {
+    "question": "In which year Ramsar Convention came into force in India?",
+    "option_1": "1971",
+    "option_2": "1972",
+    "option_3": "1977",
+    "option_4": "1982",
+    "answer": "4"
+  },
+  {
+    "question": "'Chang dance' is popular in which state?",
+    "option_1": "Goa",
+    "option_2": "Bihar",
+    "option_3": "Rajasthan",
+    "option_4": "Tripura",
+    "answer": "3"
+  }
+]
+
