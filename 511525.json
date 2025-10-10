@@ -1,0 +1,803 @@
+[
+  {
+    "question": "In a particular code language 'ABASEMENT' is written as 'EECTEIBLS' then how 'ABANDONED' is written in that language? ",
+    "option_1": "EECODKKDD",
+    "option_2": "EECOEIBLC",
+    "option_3": "EECODKKCC",
+    "option_4": "EECTDLLCC",
+    "answer": "3"
+  },
+  {
+    "question": "Which number will replace the question mark (?) in the following number series?\n\n256, 123, 66, ?, 18, 6 ",
+    "option_1": "32",
+    "option_2": "33",
+    "option_3": "29",
+    "option_4": "27",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: Study the following information carefully and answer the given questions:\n\nA word, symbol and number arrangement machine when given an input line of words, symbols and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. (All the numbers are single-digit numbers).\n\nInput: 6 @ Great 4 Dance $ 1\n\nStep I: @ Great 4 Dance $ 1 6\n\nStep II: 4 Great @ Dance 6 1 $\n\nStep III: Great 4 @ Dance 6 $ 1\n\nAnd Step III is the last step of the above input, as the desired arrangement is obtained.\n\nAs per the rule followed in the above steps, find out in each of the following questions the appropriate step for the given input.\n\nInput: 2 & Car 3 Drive # 5\n\nQuestion: Which word/number/symbol would be at 4th position from the right in Step III?",
+    "option_1": "&",
+    "option_2": "2",
+    "option_3": "#",
+    "option_4": "Drive",
+    "answer": "4"
+  },
+  {
+    "question": "Johnson's current age is 1/5 of his father's age. Five years earlier, Johnson's father's age was 2 years more than 8 times Johnson's age. What is the present age (in years) of Johnson and his father respectively?",
+    "option_1": "11, 55",
+    "option_2": "9, 45",
+    "option_3": "12, 60",
+    "option_4": "10, 50",
+    "answer": "1"
+  },
+  {
+    "question": "Find the minimum number of straight lines required to make the given figure.",
+    "option_1": "17",
+    "option_2": "11",
+    "option_3": "14",
+    "option_4": "16",
+    "answer": "3"
+  },
+  {
+    "question": "'Chapter' is related to 'Book' in the same way as 'Compartment' is related to '_______'.",
+    "option_1": "Engine",
+    "option_2": "Wheel",
+    "option_3": "Train",
+    "option_4": "Rail",
+    "answer": "3"
+  },
+  {
+    "question": "Observe the pair to the left of which has certain relationship. Using the same relationship, what should be the missing on the right side ?\n\nPOWER : TGYQR :: TRAIN : ?",
+    "option_1": "VCTKP",
+    "option_2": "VTCKP",
+    "option_3": "PCKTV",
+    "option_4": "PKCTV",
+    "answer": "4"
+  },
+  {
+    "question": "The next term in the series :\nBA, ED, IH, NM, ________",
+    "option_1": "TS",
+    "option_2": "ST",
+    "option_3": "TU",
+    "option_4": "SU",
+    "answer": "1"
+  },
+  {
+    "question": "Study the following information carefully and answer the given questions:\n\nIf ‘P # Q’ means ‘P is the wife of Q’\n\nIf ‘P % Q’ means ‘P is the husband of Q’\n\nIf ‘P & Q’ means ‘P is the son of Q’\n\nIf ‘P * Q’ means ‘P is the sister of Q’\nIf ‘B % E * G; I & G # N; S & I’ is given, then how is S related to N?",
+    "option_1": "Grandfather",
+    "option_2": "Grandmother",
+    "option_3": "Grandson",
+    "option_4": "Granddaughter",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: Study the information carefully and answer the given questions.\n9 friends – A, B, C, D, E, F, G, H, and I, stand height-wise in a line. Only 3 people are shorter than G, who is just shorter than D. 3 people are between I and B, who is taller than only 2 people. F is taller than both I and A, but is not the tallest. E is taller than H, but shorter than A. C is taller than F. Who is the 3rd tallest of the group?",
+    "option_1": "C",
+    "option_2": "F",
+    "option_3": "I",
+    "option_4": "A",
+    "answer": "3"
+  },
+  {
+    "question": "In a certain code language - \"Harsh is a king\" is written as \"78 79 69 80\", \"King is royal\" is written as \"69 81 79\", \"Royal are best\" is written as \"81 90 91\" and \"best are Harsh\" is written as \"91 78 90\".\n\nWhat is the code for \"Harsh is a royal\"?",
+    "option_1": "91 79 80 81",
+    "option_2": "78 79 80 81",
+    "option_3": "78 91 80 81",
+    "option_4": "78 80 69 90",
+    "answer": "2"
+  },
+  {
+    "question": "After preparing long for competitive exams, you failed to clear any. Your father wants you to help in earning the bread. You will",
+    "option_1": "Look for some job in the private sector.",
+    "option_2": "Start giving tuitions to help your father.",
+    "option_3": "Start tuitions and burn the midnight oil for preparation.",
+    "option_4": "Continue with your preparation more sincerely.",
+    "answer": "3"
+  },
+  {
+    "question": "Read the following question and decide which of the given statements is/are sufficient to answer the question.\n\nWhat is the colour of human blood?\n\nStatements:\n\n1. Blue is called pink, red is called orange and orange is called yellow.\n\n2. White is called black, black is called green, green is called brown and brown is called red.",
+    "option_1": "Either 1 or 2 is sufficient to answer the given question.",
+    "option_2": "1 alone is sufficient while 2 alone is not sufficient to answer the given question.",
+    "option_3": "Both 1 and 2 together are sufficient to answer the given question.",
+    "option_4": "2 alone is sufficient while 1 alone is not sufficient to answer the given question.",
+    "answer": "2"
+  },
+  {
+    "question": "Which two signs should be interchanged to make the given equation correct?\n\n459 + 17 × 12 ÷ 72 - 47 = 349",
+    "option_1": "÷ and +",
+    "option_2": "÷ and -",
+    "option_3": "+ and ×",
+    "option_4": "- and +",
+    "answer": "1"
+  },
+  {
+    "question": "Study the following information carefully and answer the following questions.\n\nDhawan plans to buy a flat at Shyamla Society.\n\nShyamala Society has placed the following conditions for allotment of flats in its society:\n\nApplicant:\n\n(I). State domicile certificate must be submitted.\n\n(II). Must have done a job of at least 5 years.\n\n(III). If needed, he will be ready to pay the entire amount in 5 years.\n\n(IV). Should not be the owner or co-owner (if spouse) of the residential facility in that city\n\n(V). Should not be below 35 years of age as on 31 December 2016.\n\n In the case of the applicant who fulfils all other criteria except:\n\nA) (I) As mentioned above, should be referred to the chairman of the city council.\n\nB) (II) As mentioned above, prepared to provide Aadhaar card. To be referred to the vice-chairman of the committee\n\nC) (III) As mentioned above, but a freedom fighter or ex-soldier or the first relationship with these should be referred to a member of the committee.\n\nThe last date for receipt of applications was 31 December 2016. The conditions of 31 December 2016 are to be met. Based on these criteria, decide whether you have to allot the flat in the following case given on 1 January 2017.\n\nDhawan is an industrialist and from another state who established his factory in 2000 and has a state residence certificate. He is ready to pay the full amount in 4 years if necessary. He does not have a house in that city but his wife has a flat. His date of birth is 11 November 1970.",
+    "option_1": "Will allot flats.",
+    "option_2": "Send for consideration to the Vice President.",
+    "option_3": "Do not allot flat.",
+    "option_4": "Send to the President for consideration.",
+    "answer": "3"
+  },
+  {
+    "question": "Four option are given in the question, three of them are similar in some way and one is different. Find the odd one.",
+    "option_1": "65, 7, 4",
+    "option_2": "12, 3, 2",
+    "option_3": "41, 5, 4",
+    "option_4": "82, 9, 1",
+    "answer": "2"
+  },
+  {
+    "question": "Seven teachers Anil, Kamal, Ram, Sanjay, Aakash, Vivek and Rahul are sitting around a circular table facing opposite to the centre (not necessarily in the same order). Sanjay is to the immediate right of Anil. Anil is third to the right of Rahul. Vivek is not the immediate neighbour of Aakash. Kamal is second to the right of Vivek. Who is second to the right of Anil?",
+    "option_1": "Sanjay",
+    "option_2": "Vivek",
+    "option_3": "Ram",
+    "option_4": "Kamal",
+    "answer": "3"
+  },
+  {
+    "question": "You work in ABC company and one of your female colleagues is always harassed by his senior. She has asked you to help her. You will ",
+    "option_1": "Directly ask your senior regarding it.",
+    "option_2": "Investigate the matter and if it is true, question him.",
+    "option_3": "Go and inform higher authorities.",
+    "option_4": "Investigate, collect proofs and go to higher authorities.",
+    "answer": "4"
+  },
+  {
+    "question": "Select the option that is embedded in the given figure (X) (Rotation is NOT allowed).",
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
+    "option_4": "",
+    "answer": "3"
+  },
+  {
+    "question": "Complete the series choosing the missing letters:\n\npqrp__qq__rppp__qqr__r__qrppq__rr",
+    "option_1": "p, r, p, r, q, p",
+    "option_2": "p, q, r, p, q, r",
+    "option_3": "p, p, q, q, r, r",
+    "option_4": "p, r, q, r, p, q",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: In the question below are given three statements followed by three conclusions numbered I, II and III. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n\nStatements:\n\nAll hens are pigeon.\n\nNo pigeon is crow.\n\nAll crows are peacock.\n\nConclusions:\n\nNo hen is a crow.\n\nAll hens are being peacock is possibility.",
+    "option_1": "Only (II) follow",
+    "option_2": "Only (I) follow",
+    "option_3": "Neither (I) nor (II) follow",
+    "option_4": "Both (I) and (II) follow",
+    "answer": "4"
+  },
+  {
+    "question": "Evaluate the following expression: ∣5×(15−5)+20÷5−50∣ mod 6",
+    "option_1": "0",
+    "option_2": "3",
+    "option_3": "5",
+    "option_4": "4",
+    "answer": "4"
+  },
+  {
+    "question": "Directions: In the question below a statement is given followed by two conclusions, I and II. You have to consider the statement to be true, even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions definitely is drawn from the given statement.\n\nStatement: Sarvika has scored the highest marks in the board exam in her state including all streams.\n\nConclusions:\n\nI. Sarvika has scored the highest marks in her school.\n\nII. Sarvika is not interested in sports.",
+    "option_1": "Only conclusion I follows",
+    "option_2": "Only conclusion II follows",
+    "option_3": "Both conclusion I and II follows ",
+    "option_4": "Either conclusion I or II follows",
+    "answer": "1"
+  },
+  {
+    "question": "Read the statements and choose the 'cause statement' and 'effect statements':\n\nStatement - A: The Government has increased the prices of petrol and diesel by 10% with immediate effect.\n\nStatement - B: The oil producing countries have decided to decrease the oil production level significantly.",
+    "option_1": "Statement 'A' is cause and 'B' effect ",
+    "option_2": "Statement 'B' is a cause and 'A' is effect",
+    "option_3": "both 'A' and 'B' are independent causes.",
+    "option_4": "Both 'A' and 'B' are effects.",
+    "answer": "2"
+  },
+  {
+    "question": "Refer to the following letter, number, symbol series and answer the question that follows.\n\n(Left) K & 4 D π S Q 2 % M 6 ∞ R Z Ω β Y 7 @ 3 E (Right)\n\nHow many such numbers are there in the given series each of which is immediately preceded by a letter and also immediately followed by a symbol?",
+    "option_1": "Three",
+    "option_2": "One",
+    "option_3": "Two",
+    "option_4": "None",
+    "answer": "1"
+  },
+  {
+    "question": "With reference to the cultural history of India, consider the following statements:\n\n1. The Alai-Darwaza was built by Allaudin Khilji entirely in Red Sandstone.\n\n2. White marble was used in making Jama Masjid at Fatehpur Sikri.\n\nWhich of the statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following statement correctly describes the term 'Crowding Out'?",
+    "option_1": "When the government is increasing its expenditure, private expenditure comes down.",
+    "option_2": "It means that some sectors are facing inflation while other sectors of economy do not. ",
+    "option_3": "It is a measure of general price inflation. ",
+    "option_4": "When investors withdraw their investment.",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the given enzymes is responsible for the digestion of milk protein?",
+    "option_1": "Erepsin",
+    "option_2": "Trypsin",
+    "option_3": "Pepsin",
+    "option_4": "Rennin",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is correct regarding the heating of the air?\n\nI. It expands and occupies more space.\n\nII. It becomes heavier on heating.",
+    "option_1": "Only I",
+    "option_2": "Neither I nor II",
+    "option_3": "Both I and II",
+    "option_4": "Only II",
+    "answer": "1"
+  },
+  {
+    "question": "Which country recently became the 107th member of the International Solar Alliance?",
+    "option_1": "Georgia",
+    "option_2": "Ukraine",
+    "option_3": "Moldova",
+    "option_4": "Romania",
+    "answer": "3"
+  },
+  {
+    "question": "Which article of the constitution mentions that \"No person accused of any offence shall be compelled to be witness against himself\"?",
+    "option_1": "23 (2)",
+    "option_2": "20 (3)",
+    "option_3": "19 (5)",
+    "option_4": "22 (4)",
+    "answer": "2"
+  },
+  {
+    "question": "Consider the following statements regarding Break in the South West Monsoons:\n\n1. The breaks are believed to be brought about by the northward shifting of the monsoon trough.\n\n2. During the break period, heavy rainfall occurs over the sub-Himalayan regions and the southern slopes of the Himalayas.\n\nWhich of the statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following nuclear power plants has been INCORRECTLY matched with the state within which it is located?",
+    "option_1": "Kakrapar - Gujarat",
+    "option_2": "Kalpakkam - Karnataka",
+    "option_3": "Kudankulam - Tamil Nadu",
+    "option_4": "Kaiga - Karnataka",
+    "answer": "2"
+  },
+  {
+    "question": "Nagananda, a Sanskrit play which tells the popular story of Vidyadhar King Jimutavahana's self-sacrifice to save the Nagas, is attributed to emperor ______",
+    "option_1": "Bindusara",
+    "option_2": "Ashoka",
+    "option_3": "Harsha",
+    "option_4": "Chandra Gupta I",
+    "answer": "3"
+  },
+  {
+    "question": "Match List - I with List - II and select the correct answer using code given below:\n\n List - I List - II\n (Archeological Sites) (Excavator)\n(A) Sutkagan Dor (i) George F. Dales\n(B) Bhagwanpura (ii) S. R. Rao\n(C) Balakot (iii) Aurel Stein\n(D) Lothal (iv) J. P. Joshi",
+    "option_1": "(A) - (ii), (B) - (iii), (C) - (i), (D) - (iv)",
+    "option_2": "(A) - (iii), (B) - (iv), (C) - (i), (D) - (ii)",
+    "option_3": "(A) - (iii), (B) - (i), (C) - (ii), (D) - (iv)",
+    "option_4": "(A) - (iii), (B) - (i), (C) - (iv), (D) - (ii)",
+    "answer": "2"
+  },
+  {
+    "question": "Thomas Munro had introduced a system in India which allowed the government to deal directly with the cultivator or ryot for revenue collection. This system is called:",
+    "option_1": "Ryotwari",
+    "option_2": "Doctrine of laps",
+    "option_3": "Zamindari",
+    "option_4": "Post Offcie",
+    "answer": "1"
+  },
+  {
+    "question": "\"Wealth is not an end itself, it is a means to an end and the end is human welfare.\" This quote is given by",
+    "option_1": "D. Ricardo",
+    "option_2": "Adam Smith",
+    "option_3": "Marshall",
+    "option_4": "J. B. Say",
+    "answer": "3"
+  },
+  {
+    "question": "The Suresh Tendulkar Committee was constituted by the Planning Commission in 2005 for:",
+    "option_1": "suggesting administrative reforms",
+    "option_2": "poverty estimation",
+    "option_3": "Cauvery water dispute settlement",
+    "option_4": "coming up with an education policy",
+    "answer": "2"
+  },
+  {
+    "question": "A system of government in which power is divided between a central authority and various constituent units is called a _________.",
+    "option_1": "Democratic state",
+    "option_2": "Federal state",
+    "option_3": "Unitary state",
+    "option_4": "Communist state",
+    "answer": "2"
+  },
+  {
+    "question": "Which Vijayanagar ruler adopted the title of 'Gajabetekara (the elephant hunter)'?",
+    "option_1": "Bukka ",
+    "option_2": "Deva Raya I",
+    "option_3": "Deva Raya II",
+    "option_4": "Krishna Dev Raya ",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following statements is/are correct?\n\nI. MO is called broad money\n\nII. M1 is called narrow money\n\nIII. MO = Currency in Circulation + Bankers' Deposits with RBI + 'Other' Deposits with RBI",
+    "option_1": "Only II and III",
+    "option_2": "Only 1",
+    "option_3": "Only I and III",
+    "option_4": "Only III",
+    "answer": "1"
+  },
+  {
+    "question": "Who won the Best Actress award in Dadasaheb Phalke International Film Festival Awards 2024?",
+    "option_1": "Alia Bhatt",
+    "option_2": "Nayanthara",
+    "option_3": "Rani Mukerji",
+    "option_4": "Deepika Padukone",
+    "answer": "3"
+  },
+  {
+    "question": "The Pritzker Prize is awarded for the achievement in the field of _______.",
+    "option_1": "Lirerature",
+    "option_2": "Music",
+    "option_3": "Mathematics",
+    "option_4": "Architecture",
+    "answer": "4"
+  },
+  {
+    "question": "Who among the former INA leaders was not charged with waging war against the British India government?",
+    "option_1": "Gurbaksh Singh Dhillon",
+    "option_2": "Prem Kumar Sehgal",
+    "option_3": "Shah Nawaz Khan ",
+    "option_4": "Mohan Singh ",
+    "answer": "4"
+  },
+  {
+    "question": "Consider the following statements regarding Sarojini Naidu:\n\nStatement I: She was the first Indian woman to become the President of the Indian National Congress.\n\nStatement II: She was the first woman Governor of an Indian state.\n\nWhich of the above statements is/are correct?",
+    "option_1": "Only I",
+    "option_2": "Only II",
+    "option_3": " Both I and II",
+    "option_4": "Neither I nor II",
+    "answer": "3"
+  },
+  {
+    "question": "Who has been appointed as the new Cabinet Secretary of India, succeeding Shri Rajiv Gauba? (August 2024)",
+    "option_1": "Dr. T.V. Somanathan",
+    "option_2": "Ajay Bhushan Pandey",
+    "option_3": "Subhash Chandra Garg",
+    "option_4": "Rakesh Sharma",
+    "answer": "1"
+  },
+  {
+    "question": "Black Card given to a badminton player during the game indicates _____________.",
+    "option_1": "suspension",
+    "option_2": "fault",
+    "option_3": "warning",
+    "option_4": "disqualification",
+    "answer": "4"
+  },
+  {
+    "question": "A narrow belt of pebbles deposited by rivers parallel to the slopes of the Shivaliks is known as-",
+    "option_1": "Bhangar",
+    "option_2": "Kankar",
+    "option_3": "Bhabar",
+    "option_4": "Terai",
+    "answer": "3"
+  },
+  {
+    "question": "With reference to Union Budget, which of the following forms part of Revenue Receipts?\n\n1. Disinvestment of Public Sector undertakings.\n\n2. Income from sale of spectrum.\n\n3. Grants-in-aid from foreign Governments.\n\nSelect the correct answer using the code given below.",
+    "option_1": "2 and 3 only",
+    "option_2": "1, 2 and 3",
+    "option_3": "1 and 3 only",
+    "option_4": "1 and 2 only",
+    "answer": "1"
+  },
+  {
+    "question": "Consider following statements regarding Mission SAGAR :\n\n(A) Under the overall ambit of Mission SAGAR, Indian Navy undertook transhipment of Humanitarian and Disaster Relief (HADR).\n\n(B) Humanitarian and Disaster Relief (HADR) was provided to countries around the world and not confined to Indian Ocean Countries only.\n\nWhich of the statements given above is/are correct?",
+    "option_1": "(A) only",
+    "option_2": "(B) only",
+    "option_3": "Both (A) and (B)",
+    "option_4": "Neither (A) nor (B)",
+    "answer": "1"
+  },
+  {
+    "question": "A rectangular field is 22 m long and 10 m wide. Two hemispherical potholes of radius 2 m are dug from two places and the mud is spread over the remaining part of the field. The rise in the level of the field is",
+    "option_1": "8/93 m",
+    "option_2": "13/93 m",
+    "option_3": "16/93 m",
+    "option_4": "23/93 m",
+    "answer": "3"
+  },
+  {
+    "question": "Varun and Vijay invested Rs. 2500 and Rs. 3250 into a business and after x and (12 - x) months they invested Rs. 1000 and Rs. 750 more respectively. If at the end of the year Varun got Rs. 380 out of total annual profit of Rs. 800, Then find the value of 'x'.",
+    "option_1": "3",
+    "option_2": "7",
+    "option_3": "8",
+    "option_4": "4",
+    "answer": "4"
+  },
+  {
+    "question": "There is a chord of a circle of length 42 cm. Perpendiculars from the midpoint C of the chord are drawn on the either side touch the circle at P and Q. If CP < CQ and CP is 9 cm, then what is the length of CQ? ",
+    "option_1": "50 cm",
+    "option_2": "51 cm",
+    "option_3": "49 cm",
+    "option_4": "48 cm",
+    "answer": "3"
+  },
+  {
+    "question": "The area of the four walls of a room is 780 m2 and its length is twice its breadth. If the height of the room is 13m, then the area of its floor is equal to:",
+    "option_1": "295 m2",
+    "option_2": "150 m2",
+    "option_3": "315 m2",
+    "option_4": "200 m2",
+    "answer": "4"
+  },
+  {
+    "question": "The equation of a circle C1 is x2 + y2 = 4. The equation of a circle C2 is x2 + y2 + 6x + 8y + 16 = 0. What is the number of common tangents between the two circles?",
+    "option_1": "4",
+    "option_2": "3",
+    "option_3": "1",
+    "option_4": "2",
+    "answer": "2"
+  },
+  {
+    "question": "Two pipes 'A' and 'B' can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe 'A' is turned off. What is the total time required to fill the tank?",
+    "option_1": "12 minutes 40 sec.",
+    "option_2": "11 minutes 35 sec.",
+    "option_3": "14 minutes 40 sec.",
+    "option_4": "13 minutes 35 sec.",
+    "answer": "3"
+  },
+  {
+    "question": "If the angle of elevation of the Testbook building from the two distant points on the ground situated at 5 m and 125 m from its foot and in the same straight line on the same side of the building are (90 - θ) and θ respectively. The height (in m) of Testbook building is:",
+    "option_1": "30",
+    "option_2": "25",
+    "option_3": "35",
+    "option_4": "45",
+    "answer": "2"
+  },
+  {
+    "question": "In the figure, the length of chord PQ = 8 cm of a circle of radius = 5 cm. The tangents at P and Q intersect at a point T. Find the length TP.",
+    "option_1": "16/3 cm",
+    "option_2": "20/3",
+    "option_3": "12/7",
+    "option_4": "20/9",
+    "answer": "2"
+  },
+  {
+    "question": "Find the value of (cot³2A + 3cot2A cosec²2A)/(cosec³ 2A(cos⁶A - sin⁶ A))",
+    "option_1": "1",
+    "option_2": "2",
+    "option_3": "3",
+    "option_4": "4",
+    "answer": "4"
+  },
+  {
+    "question": "Noopur is the owner of a perfume shop, She first gave a discount of 19% on the marked price of the perfume but realized that she was making a loss of 10% so she reduced the discount and started giving a 5% discount. Determine her current profit or loss percentage.",
+    "option_1": "5.56 % Profit",
+    "option_2": "5.56 % Loss",
+    "option_3": "4.5 % Profit",
+    "option_4": "4.5 % loss",
+    "answer": "1"
+  },
+  {
+    "question": "The expenditure of Sudha is 200% more than her savings. If her expenditure decreases by 6% and savings increase by 26%, then by what percent does her income increase?",
+    "option_1": "0.07",
+    "option_2": "0.02",
+    "option_3": "0.05",
+    "option_4": "0.06",
+    "answer": "2"
+  },
+  {
+    "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:",
+    "option_1": "4 days",
+    "option_2": "5 days",
+    "option_3": "6 days",
+    "option_4": "7 days",
+    "answer": "1"
+  },
+  {
+    "question": "If P(A ∪ B)=5/9, P(Ā ∪ B̄)=13/27, P(A)=11/18, then the odds against the event B are:",
+    "option_1": "38/17",
+    "option_2": "7/57",
+    "option_3": "29/25",
+    "option_4": "47/7",
+    "answer": "3"
+  },
+  {
+    "question": "Ajay lent a certain amount of money to Vinod at simple interest on a certain agreement. Ajay offers 20 percent per annum for first 2 years, 8 percent per annum for the next 3 years and 10 percent for beyond 5 years. Vinod paid ₹ 147200 at the end of 7 years. What is the amount borrowed by Vinod from Ajay?",
+    "option_1": "80000",
+    "option_2": "90000",
+    "option_3": "70000",
+    "option_4": "85000",
+    "answer": "1"
+  },
+  {
+    "question": "The following tables gives the frequency distribution of number of peas per pea pod of 198 pods:\n\n Number of peas 1 2 3 4 5 6 7\n Frequency 4 33 76 50 26 8 1 \nWhat is the median of this distribution?",
+    "option_1": "3",
+    "option_2": "4",
+    "option_3": "5",
+    "option_4": "6",
+    "answer": "1"
+  },
+  {
+    "question": "The students in three batches of a dance class are in ratio 2 : 3 : 5. If 20 students increase in each batch the ratio changes to 4 : 5 : 7. Find the total number of students in the three batches before the increase.",
+    "option_1": "120",
+    "option_2": "100",
+    "option_3": "150",
+    "option_4": "80",
+    "answer": "2"
+  },
+  {
+    "question": "Three students of class VIII participated in a race during a school sports day. In a 1 km race, A wins the race with B by 100 m, and in a 300 m race, B beats C by 50 m. Then in the race of 1 km, with what margin will A beat C?",
+    "option_1": "700 m",
+    "option_2": "750 m",
+    "option_3": "150 m",
+    "option_4": "250 m",
+    "answer": "4"
+  },
+  {
+    "question": "In ΔPQR, QS ⊥ PR, RT ⊥ PQ and QS and RT intersect each other at O. The bisector of ∠OQR and ∠ORQ meet at the same point M. If ∠QPR = 56°, then what is the measure of ∠QMR?",
+    "option_1": "152°",
+    "option_2": "128°",
+    "option_3": "142°",
+    "option_4": "138°",
+    "answer": "1"
+  },
+  {
+    "question": "The value of (2.7)³-(2.2)³/(2.7)²+2.7×2.2+(2.2)² is",
+    "option_1": "4.9",
+    "option_2": "0.5",
+    "option_3": "0.05",
+    "option_4": "0.49",
+    "answer": "2"
+  },
+  {
+    "question": "A number when divided by 576 gives remainder 75. If the same number is divided by 24, then find the remainder. ",
+    "option_1": "4",
+    "option_2": "3",
+    "option_3": "1",
+    "option_4": "2",
+    "answer": "2"
+  },
+  {
+    "question": "What is the value of (132/69 of 23/44-196/28 × 14/49)?",
+    "option_1": "-1",
+    "option_2": "0",
+    "option_3": "-2",
+    "option_4": "1",
+    "answer": "1"
+  },
+  {
+    "question": "A mixed juice was prepared by mixing orange, apple and pineapple juices in the ratio 18 ∶ 16 ∶ 3 respectively. On adding 8 litres of orange juice and 4 litres of pineapple juice, the ratio of mixed juice changes to 5 ∶ 4 ∶ 1. How much apple juice should be further added to it, so that the ratio of mixed juice becomes 10 ∶ 9 ∶ 2?",
+    "option_1": "1 litres",
+    "option_2": "2 litres",
+    "option_3": "4 litres",
+    "option_4": "8 litres",
+    "answer": "4"
+  },
+  {
+    "question": "There are 50 students in a class. The average marks of 20 students is 70 and the remaining 30 have average marks of 80. Calculate the average score of the whole class.",
+    "option_1": "70",
+    "option_2": "75",
+    "option_3": "76",
+    "option_4": "74",
+    "answer": "3"
+  },
+  {
+    "question": "If sin(x - y) = 1/2 and cos(x + y) = 1/2, where x and y are positive acute angles and x ≥ y, then the value of x is:",
+    "option_1": "30°",
+    "option_2": "45°",
+    "option_3": "50°",
+    "option_4": "70°",
+    "answer": "2"
+  },
+  {
+    "question": "If x + 1/x = 4, then what is the value of x⁵ + 1/x⁵ ?",
+    "option_1": "52",
+    "option_2": "256",
+    "option_3": "1026",
+    "option_4": "724",
+    "answer": "4"
+  },
+  {
+    "question": "Select the alternative that will improve the underlined part of the sentence, in case there is no improvement, select \"No Improvement\".\n\nWe had a hard time in the war.",
+    "option_1": "from the war",
+    "option_2": "since the war",
+    "option_3": "during the war",
+    "option_4": " No improvement",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate synonym of the given word.\nProcrastination",
+    "option_1": "Suspension ",
+    "option_2": "Resumption ",
+    "option_3": "Action ",
+    "option_4": "Limitation ",
+    "answer": "1"
+  },
+  {
+    "question": "Fill in the blank with the most appropriate word.\n\nThe man narrated an ________ tale of valour.",
+    "option_1": "Incredible",
+    "option_2": "Optimum",
+    "option_3": "Efficient",
+    "option_4": "Auspicious",
+    "answer": "1"
+  },
+  {
+    "question": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.\n\nThe politician's cogent argument won many supporters. ",
+    "option_1": "weak",
+    "option_2": "confusing",
+    "option_3": "ineffective",
+    "option_4": "persuasive ",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: Choose the word that is opposite in meaning to the given word.\n\nAdhere",
+    "option_1": "Establish",
+    "option_2": "Approve",
+    "option_3": "Compel",
+    "option_4": "Condemn",
+    "answer": "4"
+  },
+  {
+    "question": "Choose the word that is opposite in meaning to the given word.\n\nSterling ",
+    "option_1": "Sapid ",
+    "option_2": "Atrocious",
+    "option_3": "Legal",
+    "option_4": "Valid",
+    "answer": "2"
+  },
+  {
+    "question": "Find the sentence that is grammatically correct.",
+    "option_1": "When Rahul completed his time, others already left the ground.",
+    "option_2": "When Rahul had completed his time, others already left the ground.",
+    "option_3": "When Rahul has completed his time, others had already left the ground.",
+    "option_4": "When Rahul completed his time, others had already left the ground.",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate option to fill in the blanks. (Ø = No article)\n\n____ doctor suggested doing some eye exercises and wearing ____ pair of powered glasses. ",
+    "option_1": "A; a",
+    "option_2": "Ø;; a",
+    "option_3": "A; Ø;",
+    "option_4": "The; a",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: In the following question, a sentence has been given in Active (or Passive) voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in Passive (or Active) voice. \n\nWho teaches you English ? ",
+    "option_1": "By whom were you taught English? ",
+    "option_2": "By whom are you taught English? ",
+    "option_3": "English is taught by whom? ",
+    "option_4": "By whom will you be taught English? ",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate ANTONYM of the given word.\n\nAbominable",
+    "option_1": "Acceptable",
+    "option_2": "Loathsome",
+    "option_3": "Repugnant",
+    "option_4": "Detestable",
+    "answer": "1"
+  },
+  {
+    "question": "In this section, each item consists of six sentences of a passage. The first and the sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R, and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. \n\nS1: Guru Nanak Jayanti is an essential festival for Sikhs\n\nP: On this day, Guru Nanak was born, so it is important for Sikhism\n\nQ: As the Sikh religion is spread throughout the world, people who belong to it celebrate the day like a festival with a lot of joy and happiness\n\nR: With great joy and enthusiasm all over the world\n\nS: It is popularly known as Gurpurab, and the Sikhs celebrate it\n\nS6: Sikhs commemorate this day to remember the essential teachings of Guru Nanak and follow them rigorously.",
+    "option_1": "PSRQ",
+    "option_2": "PSQR",
+    "option_3": "SQPR",
+    "option_4": "PRSQ",
+    "answer": "1"
+  },
+  {
+    "question": "Direction: Change the sentence from direct speech to indirect speech.\n\nThe king said to his servant, \"Cook me some delicious food today.\"",
+    "option_1": "The king ordered to his servant to cook me some delicious food that day.",
+    "option_2": "The king ordered his servant to cook him some delicious food today.",
+    "option_3": "The king ordered his servant to cook him some delicious food that day.",
+    "option_4": "The king ordered his servant that he cooks some delicious food for him that day.",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: The question below consist of a set of labelled sentences. Out of four options given, select the most logical order of the sentences which form a paragraph.\n\nThe Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh.\n\nP. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with construction starting in 1632 AD and completed in 1648 AD,\n\nQ. The mosque, the guest house and the main gateway on the south, the outer courtyard and its cloisters were added subsequently and completed in 1653 AD.\n\nR. The existence of several historical and Quranic inscriptions in Arabic script have facilitated setting the chronology of Taj Mahal.\n\nS. For its construction, masons, stone-cutters, inlayers, carvers, painters, calligraphers, dome builders and other artisans were requisitioned from the whole of the empire and also from the Central Asia and Iran.\n\nUstad-Ahmad Lahori was the main architect of the Taj Mahal.",
+    "option_1": "SPQR",
+    "option_2": "RQPS",
+    "option_3": "SRQP",
+    "option_4": "PQRS",
+    "answer": "4"
+  },
+  {
+    "question": "Choose the option which can be substituted for the given words/sentence.\n\none who delights in speaking about oneself",
+    "option_1": "altruist",
+    "option_2": "selfish",
+    "option_3": "egotist",
+    "option_4": "arrogant",
+    "answer": "3"
+  },
+  {
+    "question": "A sentence has been given with a blank to be filled with an appropriate option. Choose the correct alternative.\n\nI strained ______ to catch his options.",
+    "option_1": "hardly",
+    "option_2": "hard",
+    "option_3": "hardest",
+    "option_4": "hardness",
+    "answer": "2"
+  },
+  {
+    "question": "Directions: In this section, the item consists of six sentences of a passage. The first and the sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labeled as P, Q, R, and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.\n\nS1 : Obesity is a chronic disorder that involves an excessive amount of body fat which isn't just a cosmetic concern.\n\nS6 : Obese patients were reported with severe coronavirus illness and a poor outcome as compared to normal individuals.\n\n P : But also involves health problems such as heart diseases, diabetes, high blood pressure, severe arthritis, and even certain cancers.\n\n Q : Innumerable co-morbidities are associated with obesity like hypertension, diabetes, ischemic heart disease, fatty liver, liver cirrhosis, gall stones, acidity, stroke, cancers, osteoporosis, infertility, and psychological trauma.\n\n R : It is a public health crisis worldwide where one-third of the world population suffers from it and reportedly about 1 in 5 children and more than 1 in 3 adults struggle with it.\n\n S : Obesity becomes serious as it associates with poorer mental health outcomes and reduced quality of life and even during the Covid-19 pandemic.\n\nThe correct sequence should be:",
+    "option_1": "PRSQ",
+    "option_2": "PRQS",
+    "option_3": "SRQP",
+    "option_4": "RSPQ",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate option to fill in the blank.\nShe is married ______ a diamond merchant.",
+    "option_1": "to",
+    "option_2": "for",
+    "option_3": "with",
+    "option_4": "by",
+    "answer": "1"
+  },
+  {
+    "question": "Choose the sentence with no spelling error.",
+    "option_1": "Peel and pit avocados and cut into slice",
+    "option_2": "Peel and pit avacados and cut into slice.",
+    "option_3": "Peal and pitt avocados and cut into slise.",
+    "option_4": "Peale and pit avocados and cut into slise.",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate meaning of the given idiom.\n\nZonk out",
+    "option_1": "To become more alert and awake",
+    "option_2": "To experience a burst of energy",
+    "option_3": "To fall asleep suddenly or unexpectedly",
+    "option_4": "To engage in intense physical activity",
+    "answer": "3"
+  },
+  {
+    "question": "In the following question, there are six sentences marked S1, S6, P, Q, R, S. The positions of S1 and S6 are fixed. You are required to choose one of the four alternatives which would be the most logical sequence of the sentence in the passage.\n\nS1. This year many States have been badly affected by the drought situation prevailing.\n\nP: No better is the situation elsewhere, where floods have ravaged the standing crop.\n\nQ: Though some have been less affected, even these are facing an uphill task in managing the situation.\n\nR: Especially pitiable is the plight of the poor farmer who cannot afford a tubewell to irrigate his land.\n\nS: Here the predicament is more equitable, for everybody's land is similarly submerged under ten feet of water.\n\nS6. Either way, it seems the lot of the Indian farmer to be at the mercy of the elements.",
+    "option_1": "QRPS",
+    "option_2": "PRQS",
+    "option_3": "PSRQ",
+    "option_4": "RSPQ",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following statements about brown noise is/are correct according to the passage?\n\nA. Brown noise is associated with lower frequencies and has a deeper, more condensed sound compared to white noise.\nB. White noise and brown noise are fundamentally similar in composition, differing only in volume.\nC. Brown noise has been linked with improved sleep quality for individuals who struggle with silence.",
+    "option_1": "Only A and B are correct",
+    "option_2": "Only A and C are correct",
+    "option_3": "Only B and C are correct",
+    "option_4": "All A, B, and C are correct",
+    "answer": "2"
+  },
+  {
+    "question": "Evaluate the truth of the following statements in light of the passage:\n\nA. Pink noise is favoured over brown noise in search trends across the United States.\nB. Brown noise is often described using analogies to natural or environmental phenomena.\nC. Both Castel and Rose found brown noise more tolerable than white noise.",
+    "option_1": "Only A and B are correct",
+    "option_2": "Only B and C are correct",
+    "option_3": "Only A and C are correct",
+    "option_4": "All A, B, and C are correct",
+    "answer": "2"
+  },
+  {
+    "question": "Determine which of the following statements aligns with Ziff’s experience and viewpoint:\n\nA. Ziff’s preference for brown noise is rooted in its ability to mask both internal and external disruptions.\nB. He found traditional white noise machines to be highly effective in treating his sleep issues.\nC. Brown noise provided a solution tailored to his sensory sensitivities and mental health needs.",
+    "option_1": "Only A and C are correct",
+    "option_2": "Only B and C are correct",
+    "option_3": "Only A and B are correct",
+    "option_4": "All A, B, and C are correct",
+    "answer": "1"
+  },
+  {
+    "question": "What can be inferred about the shift from white and pink noise to brown noise?",
+    "option_1": "Technological improvements made brown noise more accessible than pink noise.",
+    "option_2": "Users’ dissatisfaction with high-frequency sounds led them to explore deeper, more soothing alternatives.",
+    "option_3": "Brown noise is clinically proven to be more effective than pink and white noise.",
+    "option_4": "White and pink noise are now obsolete due to the rise of brown noise.",
+    "answer": "2"
+  },
+  {
+    "question": "What conclusion can be drawn from the experiences of the individuals quoted in the passage?",
+    "option_1": "Personal preference plays a major role in the effectiveness of auditory sleep aids.",
+    "option_2": "Brown noise is universally more beneficial than other types of sound therapy.",
+    "option_3": "The scientific community unanimously supports brown noise for mental health management.",
+    "option_4": "Sound therapy is ineffective without visual and environmental cues.",
+    "answer": "1"
+  }
+]
+
