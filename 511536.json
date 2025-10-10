@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Radhika got 16th rank from the top and 13th rank from the bottom in an exam. How many students are there in the class?",
+    "option_1": "30",
+    "option_2": "27",
+    "option_3": "29",
+    "option_4": "28",
+    "answer": "4"
+  },
+  {
+    "question": "In a row of people, Ram is 18th from the left and 23rd from the right. How many people are there in the row?",
+    "option_1": "40",
+    "option_2": "41",
+    "option_3": "42",
+    "option_4": "39",
+    "answer": "1"
+  },
+  {
+    "question": "In a row of trees, the lemon tree is 13th from either end. How many trees are there in the row?",
+    "option_1": "26",
+    "option_2": "25",
+    "option_3": "24",
+    "option_4": "27",
+    "answer": "2"
+  },
+  {
+    "question": "In the row of people, A is 13th from the left and 19th from the right. How many people are there in that row?",
+    "option_1": "32",
+    "option_2": "31",
+    "option_3": "30",
+    "option_4": "33",
+    "answer": "2"
+  },
+  {
+    "question": "There are 47 cars in a row. The black car is 18th from the right end and the white car is 39th from the right end. How many cars are there between the black and white cars?",
+    "option_1": "21",
+    "option_2": "20",
+    "option_3": "19",
+    "option_4": "18",
+    "answer": "2"
+  },
+  {
+    "question": "If 27th May 2007 is Sunday, then what day of the week will be 25th May 2018?",
+    "option_1": "Thursday",
+    "option_2": "Sunday",
+    "option_3": "Friday",
+    "option_4": "Saturday",
+    "answer": "3"
+  },
+  {
+    "question": "Which day of the week was it in January 2009?",
+    "option_1": "Sunday",
+    "option_2": "Friday",
+    "option_3": "Saturday",
+    "option_4": "Monday",
+    "answer": "3"
+  },
+  {
+    "question": "If exactly 1 year and 2 days later it is Tuesday, then what day is today? This is not a leap year.",
+    "option_1": "Monday",
+    "option_2": "Tuesday",
+    "option_3": "Sunday",
+    "option_4": "Saturday",
+    "answer": "4"
+  },
+  {
+    "question": "If 7th May 2000 is Sunday, then what day of the week will be on 15th July 2010?",
+    "option_1": "Monday",
+    "option_2": "Sunday",
+    "option_3": "Friday",
+    "option_4": "Thursday",
+    "answer": "4"
+  },
+  {
+    "question": "If 29 January 2003 is Wednesday, then what day of the week will be on 26 February 2005?",
+    "option_1": "Saturday",
+    "option_2": "Sunday",
+    "option_3": "Friday",
+    "option_4": "Thursday",
+    "answer": "1"
+  },
+  {
+    "question": "The angle formed by the hour and minute hands at 3:25 in a clock is:",
+    "option_1": "32°",
+    "option_2": "65°",
+    "option_3": "54°",
+    "option_4": "47.5°",
+    "answer": "4"
+  },
+  {
+    "question": "At what time between 4 o'clock and 5 o'clock will the two hands of a clock make a right angle to each other for the first time?",
+    "option_1": "4 o'clock 60 / 11 minutes",
+    "option_2": "4 o'clock 420 / 11 minutes",
+    "option_3": "4 o'clock 58 / 11 minutes",
+    "option_4": "4 o'clock 422 / 11 minutes",
+    "answer": "1"
+  },
+  {
+    "question": "What is the smaller of the two angles made by the hour hand and the minute hand at 9:22 pm?",
+    "option_1": "149°",
+    "option_2": "150°",
+    "option_3": "138°",
+    "option_4": "150.5°",
+    "answer": "1"
+  },
+  {
+    "question": "If the hour hand of a clock moves forward by 18°, then by how many degrees will the minute hand move during the same time?",
+    "option_1": "168",
+    "option_2": "196",
+    "option_3": "216",
+    "option_4": "276",
+    "answer": "3"
+  },
+  {
+    "question": "Ramya looks at her wall clock and the clock shows 3:50, where the hour hand is pointing towards east. Which way is the minute hand pointing towards?",
+    "option_1": "South East",
+    "option_2": "North West",
+    "option_3": "North East",
+    "option_4": "South West",
+    "answer": "2"
+  }
+]
