@@ -1,0 +1,771 @@
+[
+  {
+    "question": "There are five trucks A, B, C, D and E having different colours, i.e. blue, green, orange, red and brown, not necessarily in that order. They are running on five different highways, i.e. H1, H2, H3, H4 and H5, not in the same order. A is on H4 and is not blue or brown. B is green and is not running on H3 or H5. C is blue and is not on H1. D is running on H1 and is not orange or brown. E is not running on H5 or H2. On which highway is E running?",
+    "option_1": "H3",
+    "option_2": "H5",
+    "option_3": "H2",
+    "option_4": "H4",
+    "answer": "1"
+  },
+  {
+    "question": "In the set of letters, symbols and numbers given below, how many times does a number come immediately before a letter but not immediately after a symbol?\nP n 4 # 3 a 2 Q r 6 4 N d $ e # f 6 g 9 h u z 7 c h I $ 5 x u 4 #",
+    "option_1": "5",
+    "option_2": "8",
+    "option_3": "3",
+    "option_4": "6",
+    "answer": "1"
+  },
+  {
+    "question": "If 8 θ 12 δ 6 = 60 and 13 θ 15 δ 11 = 74, then 18 θ 21 δ 15 = ?",
+    "option_1": "161",
+    "option_2": "139",
+    "option_3": "153",
+    "option_4": "147",
+    "answer": "3"
+  },
+  {
+    "question": "In one of the following letter-clusters, the number of letters skipped in between the adjacent letters is in a decreasing sequence. Identify the letter-cluster.",
+    "option_1": "UPGIG",
+    "option_2": "OJEBG",
+    "option_3": "UNSOB",
+    "option_4": "VQMJH",
+    "answer": "4"
+  },
+  {
+    "question": "Out of the four numbers listed, three are alike in some manner and one is different. Select the odd one.",
+    "option_1": "143",
+    "option_2": "105",
+    "option_3": "21",
+    "option_4": "65",
+    "answer": "2"
+  },
+  {
+    "question": "Direction: Read the following information carefully and answer the question given below.\nA law firm has decided to give incentives to the employees that are performing above expectations. \nThe criteria for the eligibility of an employee for the incentive are as follows:\n1. S/he must have worked with the firm for at least 7 years.\n2. S/he must have joined the company as a fresher.\n3. S/he should have worked on more than 100 cases.\n4. The employee has a golden membership in the company's club.\nAn employee is also eligible for the incentive if s/he fulfils the above criteria except-\na. S/he has not joined as a fresher but completed more than 12 years of service with the firm.\nb. S/he has not worked for 7 years with the firm but has won over 50 cases.\nc. S/he does not have a golden membership, but has had a silver membership for more than 4 years in the company's club.\nKaran is an advocate who has been working with the company for 5 years. He joined the firm as soon as he graduated and has worked on more than 250 cases. He was a silver member in the company's club for the first two years and then he got the golden membership and he still has it. Will Karan get the incentive?",
+    "option_1": "The matter will be sent for consideration.",
+    "option_2": "He will get the incentive.",
+    "option_3": "He will not get the incentive.",
+    "option_4": "The data given is insufficient to make the decision.",
+    "answer": "4"
+  },
+  {
+    "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.\nStatements:\nAll phones are tablets.\nNo tablet is a calculator.\nAll drives are calculators.\nConclusions:\nI. Some drives are phones.\nII. Some calculators are phones.\nIII. No tablet is a drive.",
+    "option_1": "Only conclusion III follows",
+    "option_2": "Only conclusions I and II follow",
+    "option_3": "Only conclusions I and III follow",
+    "option_4": "Only conclusion II follows",
+    "answer": "1"
+  },
+  {
+    "question": "Consider the given statement and decide which of the given assumptions is/are implicit in the statement.\nStatement:\n\"She has been sneezing and has runny nose since a year. She could be suffering from allergic rhinitis.\"-A doctor told a patient's mother.\nAssumptions:\n1. Very few diseases have the symptoms of a prolonged sneezing and runny nose.\nII. One symptom of allergic rhinitis is a prolonged sneezing and runny nose.\nIII. Many diseases have the symptom of a prolonged sneezing and runny nose.",
+    "option_1": "Only assumption I and II are implicit.",
+    "option_2": "Assumption II and either I or III are implicit.",
+    "option_3": "Only assumption I is implicit.",
+    "option_4": "Only assumption II is implicit.",
+    "answer": "4"
+  },
+  {
+    "question": "What is the missing term in the given series?\n 5,5,15/4,5/2,25/16,...,35/64,5/16",
+    "option_1": "77/45",
+    "option_2": "15/16",
+    "option_3": "15/28",
+    "option_4": "15/11",
+    "answer": "2"
+  },
+  {
+    "question": "A @ B means ‘A is the sister of B’.\nA & B means ‘A is the brother of B’.\nA # B means ‘A is the wife of B’.\nA ^ B means ‘A is the mother of B’.\nA + B means ‘A is the father of B’.\nIf X + T ^ M # G & C ^ K @ H ^ Q, then which of the following statements is NOT correct?",
+    "option_1": "G is the son-in-law of T.",
+    "option_2": "G is the father of K",
+    "option_3": "C is the mother of H.",
+    "option_4": "X is the maternal grandfather of M.",
+    "answer": "2"
+  },
+  {
+    "question": "Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.\nGROW : IMRS : PEST : ?",
+    "option_1": "SZWQ",
+    "option_2": "THVW",
+    "option_3": "RZVP",
+    "option_4": "ODQP",
+    "answer": "3"
+  },
+  {
+    "question": "20 years ago, the average age of a husband and his wife was 23 years. Now, the average age of the family consisting of the husband, wife and their son is 34 years. The present age of the son is:",
+    "option_1": "24 years",
+    "option_2": "42 years",
+    "option_3": "16 years",
+    "option_4": "34 years",
+    "answer": "3"
+  },
+  {
+    "question": "Height of seven girls A, B, C, D, E, F and G are compared. Height of D is more than atleast four girls but she is not the tallest. Height of A is more than B and F and height of F is less than E. Height of A is less than D. Height of G is more than C and D both.\nWhich of the following statement is NOT correct?",
+    "option_1": "G can be second tallest",
+    "option_2": "A can be fifth tallest",
+    "option_3": "C can be fourth tallest",
+    "option_4": "G can be fifth tallest",
+    "answer": "4"
+  },
+  {
+    "question": "Rahul has a deadline for a project in just two days and he has not yet started working on his project. Based on the following courses of action, select the correct one.\nCourses of action:\n(ⅰ) He must immediately read a book on time management to avoid such problems in the future.\n(ⅱ) He must manage his time efficiently and start his project without delay.\n(ⅲ) He must plan a layout of his project first and then start following that layout.",
+    "option_1": "Only (ⅰ) and (ⅱ) are correct",
+    "option_2": "Only (ⅱ) is correct",
+    "option_3": "Only (ⅰ) is correct",
+    "option_4": "Only (ⅱ) and (ⅲ) are correct",
+    "answer": "4"
+  },
+  {
+    "question": "If AMBER = 27 and BROWN = 14. then GREEN will be equal to:",
+    "option_1": "36",
+    "option_2": "24",
+    "option_3": "39",
+    "option_4": "28",
+    "answer": "1"
+  },
+  {
+    "question": "A team is to be selected from 9 players A, B, C, D, E, F, G, H and M. There will be six players in the team. A cannot be selected with B. G cannot be selected with H. H and A should be in the same team. E cannot be selected with F. C cannot be selected with H but always must be selected with D.\nWhich of the following is a correct selection of the team?",
+    "option_1": "B, C, D, E, H and M",
+    "option_2": "B, C, D, E, G and M",
+    "option_3": "A, D, G, E, C and H",
+    "option_4": "A, C, D, E, G and M",
+    "answer": "2"
+  },
+  {
+    "question": "If I denotes ‘÷’, J denotes ‘×’, K denotes ‘−’ and L denotes ‘+’, then what will come in place of ‘?’ in the following equation?\n42 L 18 K (7 J 4) L (21 I 3) J 9 L 22 = ?",
+    "option_1": "117",
+    "option_2": "120",
+    "option_3": "114",
+    "option_4": "127",
+    "answer": "1"
+  },
+  {
+    "question": "Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series.\nu _ _ m p m _ _ u u c m _ m m j _ u c _ p m m _",
+    "option_1": "u c u j p m m j",
+    "option_2": "p c j m p u m j",
+    "option_3": "u c m j p u m j",
+    "option_4": "u c m j u u m m",
+    "answer": "3"
+  },
+  {
+    "question": "In a certain code language, ACCESS is written as 13351919. How will EXCELLENCE be coded as in that language?",
+    "option_1": "52435121251435",
+    "option_2": "53351414123435",
+    "option_3": "52345121414335",
+    "option_4": "524351414355",
+    "answer": "1"
+  },
+  {
+    "question": "In a code language, 'kem bar to' means 'he is clever', 'bar lap tap' means 'clever and rich' and 'jel to lap' means 'she is rich'. Which word stands for 'she' in that language?",
+    "option_1": "lap",
+    "option_2": "kem",
+    "option_3": "to",
+    "option_4": "jel",
+    "answer": "4"
+  },
+  {
+    "question": "Directions: Study the following information carefully and answer the given questions:\nA word, symbol and number arrangement machine when given an input line of words, symbols and numbers rearranges them following a particular rule. The following is an illustration of input and rearrangement. (All the numbers are single-digit numbers).\nInput: Ram 3 $ Good 8 Boy @\nStep I: Ram 3 Good $ 8 Boy @\nStep II: 3 Ram $ Good 8 @ Boy\nStep III: 3 $ Ram Good @ 8 Boy\nStep IV: $ 3 Ram Good @ Boy 8\nAnd Step IV is the last step of the above input, as the desired arrangement is obtained.\nAs per the rule followed in the above steps, find out in each of the following questions the appropriate step for the given input.\nInput: Hill 7 # Station 2 Goes %\nQuestion: Which of the following represents the position of ‘%’ in the third step?",
+    "option_1": "Second from the right",
+    "option_2": "Fourth from the left",
+    "option_3": "Fifth from the left",
+    "option_4": "Third from the left",
+    "answer": "3"
+  },
+  {
+    "question": "Which among the following Constitutions became the source for the feature of \"Federation with Strong Centre\" in Indian Constitution?",
+    "option_1": "Australian Constitution",
+    "option_2": "South African Constitution",
+    "option_3": "Canadian Constitution",
+    "option_4": "British Constitution",
+    "answer": "3"
+  },
+  {
+    "question": "Who has been appointed Director of the Liquid Propulsion Systems Centre (LPSC) in January 2025?",
+    "option_1": "S. Somanath",
+    "option_2": "R. Umamaheswaran",
+    "option_3": "P. Kunhikrishnan",
+    "option_4": "M. Mohan",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is the longest part of the alimentary canal?",
+    "option_1": "Stomach",
+    "option_2": "Food pipe",
+    "option_3": "Large intestine",
+    "option_4": "Small intestine",
+    "answer": "4"
+  },
+  {
+    "question": "Consider the following statements regarding neutrinos and the KM3NeT (Cubic Kilometer Neutrino Telescope):\n1. The KM3NeT (Cubic Kilometer Neutrino Telescope) is an underground neutrino observatory located in Antarctica.\n2. A neutrino is a subatomic particle with a positive electric charge and a negligible mass.\nWhich of the statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "4"
+  },
+  {
+    "question": "Work done on an object depends upon which of the following factors?\n1. Displacement\n2. Angle between force and displacement\n​3. Initial speed of the object\n4. Force applied",
+    "option_1": "1 and 2 only",
+    "option_2": "2, 3 and 4 only",
+    "option_3": "1, 2 and 4 only",
+    "option_4": "All of the above",
+    "answer": "3"
+  },
+  {
+    "question": "With reference to medieval history, consider the following statements.\n1. The founder of the Chola dynasty called the 'Imperial Cholas' was Vijayalaya (9th century AD).\n2. One of the important dynasties which ruled in northern India was Gurjara-Pratiharas.\n3. Palas ruled in western India and Rashtrakutas ruled in southern India in the early years (750 -1000).\nWhich of the given statement(s) is/are correct?",
+    "option_1": "1 and 2 only",
+    "option_2": "1 and 3 only",
+    "option_3": "2 only",
+    "option_4": "1 only",
+    "answer": "1"
+  },
+  {
+    "question": "Known for its rich cultural heritage, which of the following is India's first UNESCO 'City of Literature'?",
+    "option_1": "Jaipur",
+    "option_2": "Lucknow",
+    "option_3": "Bhopal",
+    "option_4": "Kozhikode",
+    "answer": "4"
+  },
+  {
+    "question": "Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Raja Ram Mohan Roy was the Editor of \"Sambad Kaumudi\", a Bengali weekly.\nReason (R): His articles condemning the custom of widow burning were published in it.\nSelect the correct answer using the code given below:",
+    "option_1": "Both (A) and (R) are true and (R) is correct explanation of (A).",
+    "option_2": "Both (A) and (R) are true but (R) is not correct explanation of (A).",
+    "option_3": "(A) is true but (R) is false.",
+    "option_4": "(A) is false but (R) is true.",
+    "answer": "1"
+  },
+  {
+    "question": "In 1960 s, two major programmes _______ and ________ were launched, popularly referred to as green revolution.",
+    "option_1": "Intensive Irrigation Programme (IIP, 1961); Intensive Agriculture District Programme (IADP, 1964)",
+    "option_2": "Intensive Agriculture District Programme (IADP, 1961); Intensive Agriculture Area Programme (IAAP, 1964)",
+    "option_3": "Intensive Agriculture Area Programme (IAAP, 1961); Intensive Agriculture Development Programme (IADP, 1964)",
+    "option_4": "Intensive Agriculture District Programme (IAAP, 1961); Intensive Irrigation Programme (IIP, 1964)",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following options does NOT constitute a national income measurement method?",
+    "option_1": "Expenditure method",
+    "option_2": "Income method",
+    "option_3": "Product method",
+    "option_4": "Credit method",
+    "answer": "4"
+  },
+  {
+    "question": "Maximum number of food chains are found in which of the following type of ecosystem?",
+    "option_1": "Forest ecosystem",
+    "option_2": "Pond ecosystem",
+    "option_3": "Desert ecosystem",
+    "option_4": "Grassland ecosystem",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following physicists is renowned for their groundbreaking research on natural radioactivity?",
+    "option_1": "Niels Bohr",
+    "option_2": "JJ Thomson",
+    "option_3": "Marie Curie",
+    "option_4": "Enrico Fermi",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following incident resulted in the withdrawal of Non-Cooperation Movement, by Gandhiji?",
+    "option_1": "Death of Lala Lajpat Rai",
+    "option_2": "Assassination of Colonel Saunders",
+    "option_3": "Violence at Chauri Chaura",
+    "option_4": "Arrest of Mahatma Gandhi",
+    "answer": "3"
+  },
+  {
+    "question": "Consider these statements for the Monsoon season in India and choose the correct answer\n(A). In the southwest monsoon season, the wind blows from the mainland to the Bay of Bengal.\n(B). In the season of retreating monsoon the wind blows from the mainland to the Bay of Bengal\n(C). The southern parts of India receive rainfall in the season of retreating monsoon.",
+    "option_1": "(A) and (B) are true",
+    "option_2": "(B) and (C) are true",
+    "option_3": "(A) and (C) are true",
+    "option_4": "(A), (B) and (C) are true",
+    "answer": "2"
+  },
+  {
+    "question": "Match List-I with List-II and select the correct answer using the code given below.\n List - I List - II\n A. Nokrek 1. Uttarakhand\n B. Agasthyamalai 2. Arunachal\n C. Nandadevi 3. Kerala\n D. Dehang Debang 4. Meghalaya",
+    "option_1": "A - 4, B - 3, C - 1, D - 2",
+    "option_2": "A - 4, B - 3, C - 2, D - 1",
+    "option_3": "A - 3, B - 4, C - 1, D - 2",
+    "option_4": "A - 2, B - 3, C - 4, D - 1",
+    "answer": "1"
+  },
+  {
+    "question": "Who won India's first-ever medal in the men's 50m Rifle 3-Positions final at the Paris 2024 Olympics?",
+    "option_1": "Anish Bhanwala",
+    "option_2": "Divyansh Singh Panwar",
+    "option_3": "Swapnil Kusale",
+    "option_4": "Arjun Babuta",
+    "answer": "3"
+  },
+  {
+    "question": "Which ruler of Haryanka Dynasty annexed several important and powerful kingdoms in its vicinity such as Kosala, Kashi and Vajji?",
+    "option_1": "Udayabhadra",
+    "option_2": "Nagadarshaka",
+    "option_3": "Ajatashatru",
+    "option_4": "Shishunaga",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT with respect to Start-Up India Seed Fund Scheme?",
+    "option_1": "Rs. 845 crore will be provided as seed fund.",
+    "option_2": "It was launched in 2021.",
+    "option_3": "It is being implemented by the Ministry of Commerce and Industry.",
+    "option_4": "The number of estimated beneficiaries are 3,600 start-ups through 300 incubators.",
+    "answer": "1"
+  },
+  {
+    "question": "The objective of the \"Gadgil Formula,\" introduced during the Fourth Five Year Plan, was to allocate plan assistance to states based on their:",
+    "option_1": "Population and per capita income",
+    "option_2": "Area and literacy rate",
+    "option_3": "Agricultural production and exports",
+    "option_4": "Industrial output and trade balance",
+    "answer": "1"
+  },
+  {
+    "question": "Which state has become the 34th state to implement the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)?",
+    "option_1": "Odisha",
+    "option_2": "Maharastra",
+    "option_3": "West Bengal",
+    "option_4": "Tripura",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following Articles of the Constitution of India says that all public places are open to all citizens?",
+    "option_1": "Article 30",
+    "option_2": "Article 21",
+    "option_3": "Article 15(2)",
+    "option_4": "Article 16(2)",
+    "answer": "3"
+  },
+  {
+    "question": "According to the Census of India-2011, which state has the largest gap between male and female literacy rates?",
+    "option_1": "Bihar",
+    "option_2": "Andhra Pradesh",
+    "option_3": "Rajasthan",
+    "option_4": "Assam",
+    "answer": "3"
+  },
+  {
+    "question": "________ is the rigid outer part of the Earth, consisting of the Crust and Upper Mantle.",
+    "option_1": "Lithosphere",
+    "option_2": "Biosphere",
+    "option_3": "Atmosphere",
+    "option_4": "Hydrosphere",
+    "answer": "1"
+  },
+  {
+    "question": "Consider the following statements about Grand Slam tennis tournaments:\n(i) There are four Grand Slam annual tennis tournaments\n(ii) The First Grand Slam of a year is the US Open\n(iii) The Australian and the US tournaments are played on clay courts\nWhich of the statements given above is/are correct?",
+    "option_1": "(i), (ii) and (iii)",
+    "option_2": "(i) and (iii) only",
+    "option_3": "(i) only",
+    "option_4": "(ii) and (iii) only",
+    "answer": "3"
+  },
+  {
+    "question": "With reference to the National Commission for Minorities, consider the following statements:\n(i) The National Commission for Minorities was established to protect the constitutional rights of minorities.\n(ii) Only Buddhist Jain Christians come under minorities in India.\nWhich of the above statements are/are true?",
+    "option_1": "Neither (i) nor (ii)",
+    "option_2": "only (ii)",
+    "option_3": "only (i)",
+    "option_4": "(i) and (ii) both",
+    "answer": "3"
+  },
+  {
+    "question": "In an office, there are 20 male and 15 female employees. The average salary of the male employees is ₹36500. If the average salary of all the employees is ₹35300, then what is the average salary of female employees?",
+    "option_1": "₹34100",
+    "option_2": "₹33800",
+    "option_3": "₹33700",
+    "option_4": "₹33500",
+    "answer": "3"
+  },
+  {
+    "question": "The value of (sec θ+tan θ)(1-sin θ)/cot θ(1+tan θ+sec θ)(1+cot θ-cosec θ) 0° < θ < 90° is equal to:",
+    "option_1": "2 sin θ",
+    "option_2": "cos θ",
+    "option_3": "1/2 sin θ",
+    "option_4": "1/2 cos θ",
+    "answer": "3"
+  },
+  {
+    "question": "If (x + y)3 + 27 (x − y)3 = (Ax – 2y) (Bx2 + Cxy + 13y2), then the value of (2A + B + C) is :",
+    "option_1": "2",
+    "option_2": "1",
+    "option_3": "-1",
+    "option_4": "-2",
+    "answer": "3"
+  },
+  {
+    "question": "The base of a parallelogram is twice its height. If the area of the parallelogram is 338 cm2, then find its height (in cm).",
+    "option_1": "11",
+    "option_2": "13",
+    "option_3": "14",
+    "option_4": "12",
+    "answer": "2"
+  },
+  {
+    "question": "Two trains are running on opposite tracks between stations A and B. After crossing each other they take 4 hr and 9 hr respectively to reach their destination. If speed of first train is 54 kmph, find the speed of second train.",
+    "option_1": "18 kmph",
+    "option_2": "36 kmph",
+    "option_3": "44 kmph",
+    "option_4": "28 kmph",
+    "answer": "2"
+  },
+  {
+    "question": "Suman sold an article for Rs 882 after allowing 16% discount on its marked price. Had she not allowed any discount, she would have gained 20% on the cost price. What is the cost price of the article?",
+    "option_1": "725",
+    "option_2": "750",
+    "option_3": "850",
+    "option_4": "875",
+    "answer": "4"
+  },
+  {
+    "question": "On a certain sum of money, the compound interest for 2 years is Rs. 304.5 and the simple interest for the same period of time is Rs. 290. The rate of interest per annum:",
+    "option_1": "9%",
+    "option_2": "8%",
+    "option_3": "11%",
+    "option_4": "10%",
+    "answer": "4"
+  },
+  {
+    "question": "A tower has a height of 50 m. It has an angle of elevation from two points on the ground level on its opposite sides are 30 degree and 60 degree respectively. Calculate the distance between two points.",
+    "option_1": "110.97 m",
+    "option_2": "107.56 m",
+    "option_3": "115.47 m",
+    "option_4": "120.93 m",
+    "answer": "3"
+  },
+  {
+    "question": "Simplify:\n25÷10-7/4×1/3×6/5+14/3×9/10-1/5÷1/25 ",
+    "option_1": "11",
+    "option_2": "10",
+    "option_3": "5",
+    "option_4": "1",
+    "answer": "4"
+  },
+  {
+    "question": "Abha and Anuj working together completed a job in 40/9 days. If Abha had worked twice as efficiently as she actually did and Anuj had worked 1/3 of his actual efficiency, then the work would have been completed in 60/17 days. Find the time Abha would take to complete the work alone",
+    "option_1": "10 days",
+    "option_2": "8 days",
+    "option_3": "12 days",
+    "option_4": "6 days",
+    "answer": "2"
+  },
+  {
+    "question": "The time taken by a boat to cover a certain distance along the stream is the same as the time taken by it to cover 60 % of the same distance against the stream. Then the speed of the boat is what percent of the speed of the stream, if the speed of the stream is 10 Km/h?",
+    "option_1": "100%",
+    "option_2": "200%",
+    "option_3": "400%",
+    "option_4": "300%",
+    "answer": "3"
+  },
+  {
+    "question": "ABCD is a cyclic quadrilateral in which AB = BC = 8 cm, O is the center of the circle and one of the diagonal of the cyclic quadrilateral passes through the center of the circle. Find the radius of the circle.",
+    "option_1": "4√2 cm",
+    "option_2": "3√2 cm",
+    "option_3": "6√2 cm",
+    "option_4": "5√2 cm",
+    "answer": "1"
+  },
+  {
+    "question": "If the marked price of a commodity is Rs. 10000 and after three successive discounts 10%, 20% and k%, the selling price of the commodity is Rs. 6120. If the shopkeeper gives only (k+20)% as a single discount then find the selling price of the commodity.",
+    "option_1": "Rs. 7200",
+    "option_2": "Rs. 6250",
+    "option_3": "Rs. 8350",
+    "option_4": "Rs. 6500",
+    "answer": "4"
+  },
+  {
+    "question": "In the given figure, O is the centre of the circle. It is also known that OA = OB and BM = 4 cm. What is the length of QR?",
+    "option_1": "10 cm",
+    "option_2": "11 cm",
+    "option_3": "9 cm",
+    "option_4": "8 cm",
+    "answer": "4"
+  },
+  {
+    "question": "A pair of dice is thrown simultaneously. The probability that the product of the numbers on the two dice is a prime number is",
+    "option_1": "0",
+    "option_2": "1/4",
+    "option_3": "1/6",
+    "option_4": "7/36",
+    "answer": "3"
+  },
+  {
+    "question": "What is the absolute difference, in sq. cm, between the curved surface area of a cone and its total surface area if the radius is 7 cm and the height is 50 cm?",
+    "option_1": "154 sq. cm",
+    "option_2": "7 sq. cm",
+    "option_3": "50 sq. cm",
+    "option_4": "49 sq. cm",
+    "answer": "1"
+  },
+  {
+    "question": "A line passing through the two points (-4, 3) and (-5,6). Find the equation of the line passing through the given points.",
+    "option_1": "3x + y + 9 = 0",
+    "option_2": "x + 3y - 9 = 0",
+    "option_3": "x - 3y + 9 = 0",
+    "option_4": "3x + y + 6 = 0",
+    "answer": "1"
+  },
+  {
+    "question": "if sec2 α + cos2 α = 2 then the value of sec α + cos α?",
+    "option_1": "± 2",
+    "option_2": "2",
+    "option_3": "± 1",
+    "option_4": "-2",
+    "answer": "1"
+  },
+  {
+    "question": "The median of the observations 11, 12, 14, 18, x + 2, 22, 22, 25 and 61, arranged in ascending order, is 21. Then, value of 3x + 7 is:",
+    "option_1": "50",
+    "option_2": "57",
+    "option_3": "64",
+    "option_4": "67",
+    "answer": "3"
+  },
+  {
+    "question": "Suresh lends a certain sum of money to his friends at 10% per annum on compound interest for 2 years. After 2 years, He gained as an interest is Rs.504. Then find the simple interest on the same sum for 4 years at 6% per annum.",
+    "option_1": "576",
+    "option_2": "476",
+    "option_3": "500",
+    "option_4": "423",
+    "answer": "1"
+  },
+  {
+    "question": "O is a point in the interior of ΔPQR such ∠POQ = ∠QOR = ∠ROP, ∠PQR = 60° and OP = 16 cm and OR = 12 cm. What is the length of OQ (in cm)?",
+    "option_1": "8√6",
+    "option_2": "6√6",
+    "option_3": "9√3",
+    "option_4": "8√3",
+    "answer": "4"
+  },
+  {
+    "question": "A invested a certain amount in a business for 6 months. B invested 1000 more than that invested by A for six months. After 6 months, A decreased his capital by 1000. At the same time, B also decreased his investment by 1000. The ratio of their profit after one year is 37 : 39. Find the amount B invested in the initial six months.",
+    "option_1": "18000",
+    "option_2": "17000",
+    "option_3": "19000",
+    "option_4": "20000",
+    "answer": "4"
+  },
+  {
+    "question": "Two pipes, A and B can fill a tank in 16 and 20 hours respectively. If both are opened together and at the end of 4 hours pipe A is closed, How long will the pipe B take to fill the remaining part of the tank?",
+    "option_1": "11 hours",
+    "option_2": "13 hours",
+    "option_3": "16 hours",
+    "option_4": "9 hours",
+    "answer": "1"
+  },
+  {
+    "question": "If (x - y)/(x√y + y√x) = 1/√x;(x > 0,y > 0) then what is the value of x/y?",
+    "option_1": "1",
+    "option_2": "2",
+    "option_3": "4",
+    "option_4": "8",
+    "answer": "3"
+  },
+  {
+    "question": "The ratio of syrup and water in a mixture of 40 liters is 5 : 3, then what amount of water is added, so that the ratio of the mixture becomes 5 : 6?",
+    "option_1": "10 liters",
+    "option_2": "15 liters",
+    "option_3": "12 liters",
+    "option_4": "25 liters",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate meaning of the given idiom.\nNo one even thought that Sheila’s success would burst the bubble.",
+    "option_1": "Suddenly end",
+    "option_2": "Change her into arrogance",
+    "option_3": "Break the border",
+    "option_4": "Last for ever",
+    "answer": "1"
+  },
+  {
+    "question": "Select the correctly spelt word.",
+    "option_1": "Sysetmatically",
+    "option_2": "Systematicaly",
+    "option_3": "Systamatically",
+    "option_4": "Systematically",
+    "answer": "4"
+  },
+  {
+    "question": "Choose the word that means the same as the given word.\nPassionate",
+    "option_1": "Fallacy",
+    "option_2": "Folly",
+    "option_3": "Figure",
+    "option_4": "Fervent",
+    "answer": "4"
+  },
+  {
+    "question": "Convert this active sentence into a passive one:\n\"Sarah is baking cookies.\"",
+    "option_1": "Cookies have been baked by Sarah",
+    "option_2": "Cookies are being baked by Sarah.",
+    "option_3": "Cookies had been baked by Sarah",
+    "option_4": "Sarah's cookies are baking.",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the option that is the indirect form of the sentence.\nThe hostel warden said to the inspector, “Rahul arrived on Sunday from the holiday.”",
+    "option_1": "The hostel warden told the inspector that Rahul will arrive on Sunday from the holiday.",
+    "option_2": "The hostel warden told the inspector that Rahul has arrived on Sunday from the holiday.",
+    "option_3": "The hostel warden told the inspector that Rahul had arrived on Sunday from the holiday.",
+    "option_4": "The hostel warden told the inspector that Rahul is going to arrive on Sunday from the holiday.",
+    "answer": "3"
+  },
+  {
+    "question": "Give Synonym for the following:\nVanquish",
+    "option_1": "Conquer",
+    "option_2": "Introduce",
+    "option_3": "Error",
+    "option_4": "Surprise",
+    "answer": "1"
+  },
+  {
+    "question": "Select the grammatically correct form of the following sentence from the options below:\nThe dog barked loudly, but it wags its tail happily.",
+    "option_1": "The dog bark loudly, but it wags its tail happily",
+    "option_2": "The dogs bark loudly, but it wags its tail happily",
+    "option_3": "The dog barks loudly, but it wags its tail happily",
+    "option_4": "The dog is barking loudly, but it wags its tail happily.",
+    "answer": "3"
+  },
+  {
+    "question": "The roof of the old building ______ during the storm.",
+    "option_1": "Demolished",
+    "option_2": "Collapsed",
+    "option_3": "Scratched",
+    "option_4": "Destroyed",
+    "answer": "2"
+  },
+  {
+    "question": "Given below are four jumbled sentences. Select the option that gives their correct order.\nA) Before germ theory, the methods taken to avoid illness and infection were based on guesses rather than facts.\nB) Developed between 1850 and 1920, germ theory holds that certain diseases are caused by the invasion of the body by microorganisms.\nC) Research by Louis Pasteur, Joseph Lister, and Robert Koch contributed to public acceptance of the once-baffling theory.\nD) The processes such as fermentation and putrefaction, as well as diseases such as cholera and tuberculosis, were caused by germs.",
+    "option_1": "DABC",
+    "option_2": "BCDA",
+    "option_3": "ADCB",
+    "option_4": "CBDA",
+    "answer": "2"
+  },
+  {
+    "question": "Given below are six sentences, out of which sentences A and F are in the correct position. Sentences B, C, D and E are in a jumbled order. Select the option that gives the correct order.\nA. The Rowlatt Act, referred to as the black act.\nB. It was named after the Rowlatt Committee's president Sir Sidney Rowlatt. \nC. The Rowlatt Act entitled the British to arrest anyone found suspicious of plotting against the British Raj.\nD. The aim of enforcing this act was to abolish revolt and uproot conspiracy against the British from India. \nE. It was passed by the British government in 1919, during the First World War. \nF. Under this act, those supposed to be involved in revolt against the British could be sentenced to a term of up to 2 years in jail, without any trial.",
+    "option_1": "ADCEBF",
+    "option_2": "AEBDCF",
+    "option_3": "AEDCBF",
+    "option_4": "AEDBCF",
+    "answer": "2"
+  },
+  {
+    "question": "Select the option that expresses the given sentence in direct speech.\nThe thief asked if he remembered the place where they had hidden their jewellery.",
+    "option_1": "The thief asked, “Where do you remember the place where we have hidden our jewellery?”",
+    "option_2": "The thief asked, “Can you remember the place where we were hiding our jewellery?”",
+    "option_3": "The thief asked, “Do you remember the place where we have hidden our jewellery?”",
+    "option_4": "The thief asked, “Did you remember the place where we hid our jewellery?”",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.\nS1. The revival of ancient cultivation practices is gaining momentum among modern farmers.\nS6. In turn, this could lead to a sustainable agricultural system that benefits both the environment and the farmers.\nP. These methods, including crop rotation and the use of natural fertilizers, improve soil health and reduce dependency on chemicals.\nQ. As more farmers adopt these techniques, there's a noticeable improvement in crop yield and quality.\nR. This movement is seen as a response to the negative impacts of intensive farming methods on the environment.\nS. It also reflects a growing understanding of the interconnectedness between agricultural practices and ecological balance.",
+    "option_1": "PRSQ",
+    "option_2": "RPSQ",
+    "option_3": "SPRQ",
+    "option_4": "QRPS",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following sentences is/are grammatically correct among the three given below?\nA. She does not enjoy reading these kind of novels.\nB. India exports handicrafts to a number of European nations.\nC. The crops sustained significant damage from the unseasonal rains.",
+    "option_1": "Only A and B",
+    "option_2": "Only B and C",
+    "option_3": "All of the above",
+    "option_4": "None of these",
+    "answer": "2"
+  },
+  {
+    "question": "The sentence 'I had been working on this since morning.' is in",
+    "option_1": "Past continuous tense",
+    "option_2": "Past perfect tense",
+    "option_3": "Past indefinite tense",
+    "option_4": "Past perfect continuous tense",
+    "answer": "4"
+  },
+  {
+    "question": "Select the alternative that will improve the underlined part of the sentence. In case there is no improvement, select 'No improvement'\nI told the porter to carry the baggages in my room.",
+    "option_1": "baggage to my room.",
+    "option_2": "No Improvement",
+    "option_3": "baggage in my room.",
+    "option_4": "baggages to my room.",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following sentences is/are grammatically correct among the three given below?\nA. The climate of Kolkata is better than that of Chennai.\nB. I am looking forward to meet you after the party.\nC. What suggestions do you have for her?",
+    "option_1": "All of the above",
+    "option_2": "Only B and C",
+    "option_3": "Only A and C",
+    "option_4": "None of these",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate idiom for the given situation\nDuring the meeting, the manager announced that anyone with innovative suggestions for the new project was welcome to share, and she would be all ears.",
+    "option_1": "Salad days",
+    "option_2": "Turning a blind eye",
+    "option_3": "All Greek to me",
+    "option_4": "All ears",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate word for the given group of words.\nWillingness to give money, or money given to poor people by rich people.",
+    "option_1": "Largess",
+    "option_2": "Inure",
+    "option_3": "Bilk",
+    "option_4": "Imprest",
+    "answer": "1"
+  },
+  {
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n(A) Our rishis of yore retired to forests to meditate and to do penance amidst trees “far from the madding crowd”.\n(B) In India, as perhaps in many other countries of the world, trees have been held in veneration since ancient times. \n(C) Many of them were not cut without good reason.\n(D) Our forefathers loved trees and forests so much so that, they even deified and worshipped them as abodes of Vrikshadevata and Vanadevata.",
+    "option_1": "ADBC",
+    "option_2": "BADC",
+    "option_3": "CDBA",
+    "option_4": "DCAB",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the correct form of verb that is in agreement with the subject:\nThe mother, along with her daughter, ________ tennis on Sundays.",
+    "option_1": "has played",
+    "option_2": "have playing",
+    "option_3": "play",
+    "option_4": "plays",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following statements about Marcus Aurelius and Stoicism is correct?",
+    "option_1": "Marcus Aurelius believed calmness is an inherent quality that cannot be achieved.",
+    "option_2": "Stoics like Aurelius believed that calmness is within our control through our judgements.",
+    "option_3": "Aurelius suggested that calmness is unrelated to personal strength.",
+    "option_4": "Aurelius’s views had no influence on modern psychological practices.",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following statements about the concept of calmness in Stoicism is/are correct?\nA) Stoics believe calmness is only achieved through external changes.\nB) Aurelius believed calmness helps in making good decisions by allowing for reflection rather than reactive behavior.\nC) Calmness in Stoicism is linked to personal strength.",
+    "option_1": "Both B and C",
+    "option_2": "Both A and B",
+    "option_3": "Only A",
+    "option_4": "Both A and C",
+    "answer": "1"
+  },
+  {
+    "question": "What is the tone of the passage?",
+    "option_1": "Cynical",
+    "option_2": "Analytical",
+    "option_3": "Skeptical",
+    "option_4": "Reflective",
+    "answer": "4"
+  },
+  {
+    "question": "What is the central theme of the passage?",
+    "option_1": "The challenges faced by Roman emperors",
+    "option_2": "The importance of external situations in determining emotions",
+    "option_3": "The Stoic philosophy of calmness and its relevance in modern life",
+    "option_4": "The relationship between music and philosophy",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following inferences can be drawn from the passage?",
+    "option_1": "Marcus Aurelius’s Meditations directly inspired modern music artists.",
+    "option_2": "Cognitive Behavioural Therapy (CBT) has no connections with ancient philosophies.",
+    "option_3": "Calmness according to Stoics is less about external situations and more about internal perceptions.",
+    "option_4": "Music is the most effective tool for achieving calmness.",
+    "answer": "3"
+  }
+]
+
