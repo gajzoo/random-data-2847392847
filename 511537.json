@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Radhika got 16th rank from the top and 13th rank from the bottom in an exam. How many students are there in the class?",
+    "option_1": "30",
+    "option_2": "27",
+    "option_3": "29",
+    "option_4": "28",
+    "answer": "4"
+  },
+  {
+    "question": "In a row of people, Ram is 18th from the left and 23rd from the right. How many people are there in the row?",
+    "option_1": "40",
+    "option_2": "41",
+    "option_3": "42",
+    "option_4": "39",
+    "answer": "1"
+  },
+  {
+    "question": "In a row of trees, the lemon tree is 13th from either end. How many trees are there in the row?",
+    "option_1": "26",
+    "option_2": "25",
+    "option_3": "24",
+    "option_4": "27",
+    "answer": "2"
+  },
+  {
+    "question": "In the row of people, A is 13th from the left and 19th from the right. How many people are there in that row?",
+    "option_1": "32",
+    "option_2": "31",
+    "option_3": "30",
+    "option_4": "33",
+    "answer": "2"
+  },
+  {
+    "question": "There are 47 cars in a row. The black car is 18th from the right end and the white car is 39th from the right end. How many cars are there between the black and white cars?",
+    "option_1": "21",
+    "option_2": "20",
+    "option_3": "19",
+    "option_4": "18",
+    "answer": "2"
+  },
+  {
+    "question": "6 persons P, Q, R, S, T, U are sitting in a straight line facing north but not in the same order. Two persons are sitting between P and T. S is sitting to the immediate right of P. R is at the extreme right. Q is sitting second to the left of P. U is sitting between Q and P. Who is sitting at the extreme left?",
+    "option_1": "Q",
+    "option_2": "T",
+    "option_3": "P",
+    "option_4": "s",
+    "answer": "2"
+  },
+  {
+    "question": "In a class, X is ranked seventh from the top and Y is ranked sixteenth from the bottom. If they interchange their positions, then X becomes twenty-first from the top. What will be the position of Y from the bottom now?",
+    "option_1": "16th",
+    "option_2": "29th",
+    "option_3": "30 at",
+    "option_4": "21st",
+    "answer": "3"
+  },
+  {
+    "question": "'A + B' means 'A is the father of B'; 'A - B' means 'A is the sister of B'; 'A × B' means 'A is the brother of B'; 'A + B' means 'A is the daughter of B'. If, R + S ×T – V+ U, then how is S related to U?",
+    "option_1": "Son",
+    "option_2": "Daughter",
+    "option_3": "Husband",
+    "option_4": "Brother",
+    "answer": "1"
+  },
+  {
+    "question": "Siddharth and Murali started jogging from the same point. Siddharth walked 4 km towards east. Murali went 3 km towards west. Siddharth turned left and walked 4 km. Murali turned right and walked 4 km. What is the distance between Siddharth and Murali now?",
+    "option_1": "14 km",
+    "option_2": "6 km",
+    "option_3": "8 km",
+    "option_4": "7 km",
+    "answer": "4"
+  },
+  {
+    "question": "'D' is father of B, 'B' is sister-in-law of 'C' and daughter of 'A'. How is 'A' related to 'D'?",
+    "option_1": "Wife",
+    "option_2": "Mother",
+    "option_3": "Father",
+    "option_4": "Husband",
+    "answer": "1"
+  },
+  {
+    "question": "If A is the mother of D, B is not the son of C, C is the father of D, D is the sister of B, then how is A related to B?",
+    "option_1": "Mother",
+    "option_2": "Brother",
+    "option_3": "Step son",
+    "option_4": "Sister",
+    "answer": "1"
+  },
+  {
+    "question": "600, 590, 575, 550, 510,?",
+    "option_1": "460",
+    "option_2": "420",
+    "option_3": "450",
+    "option_4": "440",
+    "answer": "3"
+  },
+  {
+    "question": "In a certain code language, ‘TORCH’ is written as 'UNPSDI' and 'BEST' is written as 'CDFTU', then how will 'MARKS' be written in the same code language?",
+    "option_1": "NZCSLT",
+    "option_2": "NABSLU",
+    "option_3": "NZBSLT",
+    "option_4": "OZBSMT",
+    "answer": "3"
+  },
+  {
+    "question": "98, 99, 107, ?, 198",
+    "option_1": "146",
+    "option_2": "148",
+    "option_3": "134",
+    "option_4": "154",
+    "answer": "3"
+  },
+  {
+    "question": "If 18 October, 2006 was Wednesday, then what was the day of the week on 17 October, 2000?",
+    "option_1": "Wednesday",
+    "option_2": "Tuesday",
+    "option_3": "Sunday",
+    "option_4": "Monday",
+    "answer": "2"
+  }
+]
