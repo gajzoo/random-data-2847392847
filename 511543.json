@@ -198,6 +198,478 @@
     "option_3": "dark",
     "option_4": "sent",
     "answer": "4"
+  },
+  {
+    "question": "Which of the following states is one of those states that have no Panchayati Raj Institution at all?",
+    "option_1": "Nagaland",
+    "option_2": "Punjab",
+    "option_3": "Assam",
+    "option_4": "Gujarat",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following Acts introduced ‘provincial autonomy’ by discontinuing the application of dyarchy?",
+    "option_1": "India Council Act, 1909",
+    "option_2": "Charter Act of 1813",
+    "option_3": "Government of India Act, 1919",
+    "option_4": "Government of India Act, 1935",
+    "answer": "4"
+  },
+  {
+    "question": "What is the empirically fitted relationship between the rate of change of money, wage, and rate of unemployment known as?",
+    "option_1": "Keynesian model",
+    "option_2": "Friedman's model",
+    "option_3": "Baumol hypothesis",
+    "option_4": "Philips curve",
+    "answer": "4"
+  },
+  {
+    "question": "Filtration of waste products in humans happens in the kidneys. There is a large number of filtration units present inside the kidneys to help them in doing this job. These filtration units are called:",
+    "option_1": "Capillaries",
+    "option_2": "Bowman's capsules",
+    "option_3": "Alveoli",
+    "option_4": "Nephrons",
+    "answer": "4"
+  },
+  {
+    "question": "By which of the following state governments is the Tansen Music Festival organised?",
+    "option_1": "Maharashtra Government",
+    "option_2": "Uttar Pradesh Government",
+    "option_3": "Madhya Pradesh Government",
+    "option_4": "Rajasthan Government",
+    "answer": "3"
+  },
+  {
+    "question": "Which group of people will be benefited by the Mukhya Mantri Sukh Ashray Yojana approved by Himachal Pradesh?",
+    "option_1": "Orphans, specially abled children, destitute women and senior citizens",
+    "option_2": "Farmers and agricultural labourers",
+    "option_3": "Students and teachers",
+    "option_4": "Unemployed youth",
+    "answer": "1"
+  },
+  {
+    "question": "In the year 1952, who among the following lent his voice for the film 'Amar Bhupali', which was being produced in two languages simultaneously and he sang in both Bengali and Marathi ?",
+    "option_1": "Manna Dey",
+    "option_2": "Debabrata Biswas",
+    "option_3": "Hemanta Mukherjee",
+    "option_4": "Kishore Kumar",
+    "answer": "1"
+  },
+  {
+    "question": "Which fundamental duty applies to you when you see your college friends start fighting with the canteen person when he passed a few anti-religious statements?",
+    "option_1": "To protect and improve our natural environment",
+    "option_2": "To develop the scientific temper, humanism, and the spirit of inquiry",
+    "option_3": "To value and preserve the rich heritage",
+    "option_4": "To promote harmony and spirit of brotherhood",
+    "answer": "4"
+  },
+  {
+    "question": "Deimachus who was a Greek ambassador came to India during the reign of the Mauryan king,",
+    "option_1": "Ashoka",
+    "option_2": "Bindusara",
+    "option_3": "Shatadhanvan",
+    "option_4": "Chandragupta Maurya",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following is a landlocked Salt Lake in South- West Asia between Israel and Jordan?",
+    "option_1": "Don Juan Pond",
+    "option_2": "Dead Sea",
+    "option_3": "Aral Sea",
+    "option_4": "Caspian Sea",
+    "answer": "2"
+  },
+  {
+    "question": "What is the other name of tetanus caused by toxin producing bacteria called clostridium tetani?",
+    "option_1": "Broken jaw",
+    "option_2": "Snap jaw",
+    "option_3": "Lockjaw",
+    "option_4": "Cleft jaw",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following books is INCORRECTLY paired with its respective author?",
+    "option_1": "Hind Swaraj - Mahatma Gandhi",
+    "option_2": "Gitanjali - Rabindranath Tagore",
+    "option_3": "Why I am an Atheist - Bhagat Singh",
+    "option_4": "The Discovery of India - Subhash Chandra Bose",
+    "answer": "4"
+  },
+  {
+    "question": "Identify an example of plasma as a state of matter.",
+    "option_1": "Blood",
+    "option_2": "Neon sign bulbs",
+    "option_3": "Freon",
+    "option_4": "Dry ice",
+    "answer": "2"
+  },
+  {
+    "question": "In which year was the temple entry movement started by Bhimrao Ambedkar?",
+    "option_1": "1922",
+    "option_2": "1935",
+    "option_3": "1927",
+    "option_4": "1918",
+    "answer": "3"
+  },
+  {
+    "question": "The Environment (Protection) Act, 1986 empowers the ______ to establish authorities charged with the mandate of preventing environmental pollution in all its forms.",
+    "option_1": "Central Government",
+    "option_2": "State Government",
+    "option_3": "Local municipalities",
+    "option_4": "Supreme Court",
+    "answer": "1"
+  },
+  {
+    "question": "What is the primary benefit offered to businesses in Special Economic Zones (SEZs)?",
+    "option_1": "Unlimited foreign investment",
+    "option_2": "Tax and duty concessions",
+    "option_3": "Guaranteed market share",
+    "option_4": "Mandatory government contracts",
+    "answer": "2"
+  },
+  {
+    "question": "In which year was Smart Cities Mission launched _____ ?",
+    "option_1": "2018",
+    "option_2": "2019",
+    "option_3": "2013",
+    "option_4": "2015",
+    "answer": "4"
+  },
+  {
+    "question": "What happens when two forces act in the opposite directions on an object?",
+    "option_1": "The net force acting on the object is the difference between the two objects.",
+    "option_2": "The net force acting on the object is the difference between the two forces.",
+    "option_3": "The net force acting on the object is the total of the two forces.",
+    "option_4": "The net force acting on the object is the sum of the two objects.",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image073.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image074.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image075.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image076.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image077.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image079.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image080.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image081.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image082.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image083.png",
+    "answer": "3"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image085.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image086.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image087.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image088.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image089.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image090.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image091.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image092.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image093.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image094.png",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate meaning of the underlined idiom. The actress' daughter is just a chip off the old block.",
+    "option_1": "To chip off the edges",
+    "option_2": "Similar to one's parents in behaviour",
+    "option_3": "To get into the enemy's territory",
+    "option_4": "To console the dreary",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate option to fill in the blank. Soon after the doctor gave her the next ______ of the medicine, the patient began to______.",
+    "option_1": "dose, dozed",
+    "option_2": "dose, doze",
+    "option_3": "doze, dose",
+    "option_4": "dosed, doze",
+    "answer": "2"
+  },
+  {
+    "question": "Rearrange the parts of the sentence in the correct order. While physical movement P. activities may not require physical Q. is important for children, all learning R. the part of teachers and students S. movement and facial expressions on",
+    "option_1": "PRQS",
+    "option_2": "RSPQ",
+    "option_3": "QSRP",
+    "option_4": "QPSR",
+    "answer": "4"
+  },
+  {
+    "question": "Correct the spelling of the underlined word. While driving his car, he applied breaks in time to save himself and his family from an accident.",
+    "option_1": "braces",
+    "option_2": "bricks",
+    "option_3": "brakes",
+    "option_4": "brave",
+    "answer": "3"
+  },
+  {
+    "question": "Select the option that can be used as a one-word substitute for the given group of words. A place where airplanes are kept for maintenance.",
+    "option_1": "Scullery",
+    "option_2": "Hangar",
+    "option_3": "Hanger",
+    "option_4": "Aviary",
+    "answer": "2"
+  },
+  {
+    "question": "Select the sentences that contains no spelling errors.",
+    "option_1": "My mother asked me to purchase two bread knives having serrated edges.",
+    "option_2": "My mother asked me to purchase two bread knives having seerated edges.",
+    "option_3": "My mother asked me to purchase two bread knives having serratted edges.",
+    "option_4": "My mother asked me to purchase two bread knives having serated edges.",
+    "answer": "1"
+  },
+  {
+    "question": "The following sentences have been split into four segments. Identify the segment that contains a grammatical error. We hardly knew nothing / about the manager / who had recently joined.",
+    "option_1": "about the manager",
+    "option_2": "No error",
+    "option_3": "who had recently joined",
+    "option_4": "We hardly knew nothing",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate option that can substitute the underlined word in the given sentences. Many a man has succumbed to his temptations.",
+    "option_1": "No improvement required",
+    "option_2": "a men have",
+    "option_3": "men has",
+    "option_4": "man has",
+    "answer": "1"
+  },
+  {
+    "question": "Select the correct active form of the given sentence. By whom were you taught English grammar and composition?",
+    "option_1": "Who has taught you English grammar and composition?",
+    "option_2": "Who taught you English grammar and composition?",
+    "option_3": "Whom taught you English grammar and composition?",
+    "option_4": "Who had taught you English grammar and composition?",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate synonym of the word 'obscene' from the following sentence. Vijay was suspended from duty because he gave dirty and prejudiced remarks to his female colleagues in the office.",
+    "option_1": "Dirty",
+    "option_2": "Suspended",
+    "option_3": "Prejudice",
+    "option_4": "Colleagues",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate option to fill in the blank. She is _________ a peacock in the blue satin saree.",
+    "option_1": "so beautiful as",
+    "option_2": "as beautiful as",
+    "option_3": "beautiful like",
+    "option_4": "very beautiful as",
+    "answer": "2"
+  },
+  {
+    "question": "Select the option that can be used as a one-word substitute for the given group of words. A place where airplanes are kept for maintenance.",
+    "option_1": "Scullery",
+    "option_2": "Hangar",
+    "option_3": "Hanger",
+    "option_4": "Aviary",
+    "answer": "2"
+  },
+  {
+    "question": "Select the sentences that contains no spelling errors.",
+    "option_1": "My mother asked me to purchase two bread knives having serrated edges.",
+    "option_2": "My mother asked me to purchase two bread knives having seerated edges.",
+    "option_3": "My mother asked me to purchase two bread knives having serratted edges.",
+    "option_4": "My mother asked me to purchase two bread knives having serated edges.",
+    "answer": "1"
+  },
+  {
+    "question": "The following sentences have been split into four segments. Identify the segment that contains a grammatical error. We hardly knew nothing / about the manager / who had recently joined.",
+    "option_1": "about the manager",
+    "option_2": "No error",
+    "option_3": "who had recently joined",
+    "option_4": "We hardly knew nothing",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image104.png",
+    "option_1": "70%",
+    "option_2": "80%",
+    "option_3": "60%",
+    "option_4": "50%",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image106.png",
+    "option_1": "3 + tan²A + cot²A",
+    "option_2": "7 + tan²A + cot²A",
+    "option_3": "5 + tan²A + cot²A",
+    "option_4": "1 + tan²A + cot²A",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image108.png",
+    "option_1": "13.55 kg",
+    "option_2": "12.55 kg",
+    "option_3": "14.55 kg",
+    "option_4": "11.55 kg",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image110.png",
+    "option_1": "11 cm",
+    "option_2": "18 cm",
+    "option_3": "16 cm",
+    "option_4": "14 cm",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image112.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image113.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image114.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image115.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image116.png",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image118.png",
+    "option_1": "1,15,000",
+    "option_2": "1,20,000",
+    "option_3": "1,25,000",
+    "option_4": "1,18,000",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image120.png",
+    "option_1": "23 days",
+    "option_2": "19 days",
+    "option_3": "21 days",
+    "option_4": "18 days",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image122.png",
+    "option_1": "11",
+    "option_2": "17",
+    "option_3": "13",
+    "option_4": "15",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image124.png",
+    "option_1": "`620",
+    "option_2": "`624",
+    "option_3": "`605",
+    "option_4": "`750",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image127.png",
+    "option_1": "3 : 9 : 2",
+    "option_2": "2 : 5 : 2",
+    "option_3": "3 : 18 : 4",
+    "option_4": "5 : 18 : 4",
+    "answer": "3"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image129.png",
+    "option_1": "75%",
+    "option_2": "50%",
+    "option_3": "100%",
+    "option_4": "25%",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image132.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image133.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image134.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image135.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image136.png",
+    "answer": "4"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image138.png",
+    "option_1": "1,644",
+    "option_2": "1,824",
+    "option_3": "1,914",
+    "option_4": "1,734",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image140.png",
+    "option_1": "5:48 p.m.",
+    "option_2": "5:36 p.m.",
+    "option_3": "5:12 p.m.",
+    "option_4": "5:40 p.m.",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image142.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image143.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image144.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image145.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image146.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image148.png",
+    "option_1": "71",
+    "option_2": "53",
+    "option_3": "30",
+    "option_4": "48",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image150.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image151.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image152.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image153.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image154.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image156.png",
+    "option_1": "78 km/hr",
+    "option_2": "72 km/hr",
+    "option_3": "60 km/hr",
+    "option_4": "70 km/hr",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image158.png",
+    "option_1": "b² – a²",
+    "option_2": "a² – b²",
+    "option_3": "b – a",
+    "option_4": "a² + b²",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image160.png",
+    "option_1": "72",
+    "option_2": "56",
+    "option_3": "84",
+    "option_4": "80",
+    "answer": "1"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image163.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image164.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image165.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image166.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image167.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image169.png",
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image170.png",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image171.png",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image172.png",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image173.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1737192547635_image175.png",
+    "option_1": "30,000",
+    "option_2": "31,000",
+    "option_3": "20,000",
+    "option_4": "33,000",
+    "answer": "1"
   }
 ]
 
