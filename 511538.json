@@ -1,0 +1,154 @@
+[
+  {
+    "question": "'East' is related to 'direction' in the same way as 'summer' is related to '......'.",
+    "option_1": "Temperature",
+    "option_2": "Heat",
+    "option_3": "Weather",
+    "option_4": "Room cooler",
+    "answer": "3"
+  },
+  {
+    "question": "INCLUDE: CNILEDU :: KEYNOTE: YEKNETO :: NOTABLY :?",
+    "option_1": "TOYANLB",
+    "option_2": "TONAYLB",
+    "option_3": "TONABLY",
+    "option_4": "BLYANOT",
+    "answer": "2"
+  },
+  {
+    "question": "7 : 84 : : 5 : ? : : 9 : 144",
+    "option_1": "36",
+    "option_2": "40",
+    "option_3": "30",
+    "option_4": "45",
+    "answer": "2"
+  },
+  {
+    "question": "(212, 101, 111) (256, 123, 133)",
+    "option_1": "(292, 122, 160)",
+    "option_2": "(182, 74, 108)",
+    "option_3": "(240, 105, 110)",
+    "option_4": "(196, 89, 91)",
+    "answer": "2"
+  },
+  {
+    "question": "OUT 2: WWP 4 :: AXE 5 : HZB 25 :: ART 7 : ?",
+    "option_1": "WTB 14",
+    "option_2": "WTB 35",
+    "option_3": "WTB 49",
+    "option_4": "VTB 49",
+    "answer": "3"
+  },
+  {
+    "question": "In a certain code language, 'GARDEN' is written as ‘FYOEGQ’ and 'GOLDEN' is written as 'FMIEGQ'. How will 'ISLAND' be written in that code language?",
+    "option_1": "HRIBPG",
+    "option_2": "HQIBPG",
+    "option_3": "HQJBPG",
+    "option_4": "HQIBQG",
+    "answer": "2"
+  },
+  {
+    "question": "In a certain code language, 'SOUP' is written as 'VLRS' and 'BACK' is written as 'EXFN '. How will 'TYPE' be written in that code language?",
+    "option_1": "WBSB",
+    "option_2": "VBRB",
+    "option_3": "WBSH",
+    "option_4": "WCSC",
+    "answer": "1"
+  },
+  {
+    "question": "In a certain code language, 'INFORMATIVE' is written as ‘ROFNILEVITA'. How will 'SUPERFICIAL' be written in that code language?",
+    "option_1": "LAICIGREPUS",
+    "option_2": "REPUSGLAICI",
+    "option_3": "REPUSELAICI",
+    "option_4": "USEPRFICAIL",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is a leap year?",
+    "option_1": "1600",
+    "option_2": "1900",
+    "option_3": "1800",
+    "option_4": "All of these",
+    "answer": "1"
+  },
+  {
+    "question": "Eight persons are sitting in two parallel rows containing four persons each in such a way that there is equal distance between adjacent persons. 5, 6, 7 and 8 are seated in the same row facing south. 1, 2, 3 and 4 are seated in the same row facing north. 4 and 2 are not sitting at the extreme ends of their row. 7 is sitting at the extreme right end of the row and is exactly opposite to 1. 3 is sitting exactly opposite to 8. Who is sitting at the extreme left end of the row of persons facing south?",
+    "option_1": "8",
+    "option_2": "6",
+    "option_3": "5",
+    "option_4": "3",
+    "answer": "1"
+  },
+  {
+    "question": "Raju walks 20 km facing north, then he turns to his right and walks 20 km, then walks 10 km in north-east direction, then he turns to his right and walks 20 km He again turns to his right and walks 20 km and then he turns to his left and walks 20 km. In which direction is Raju facing now?",
+    "option_1": "South - East",
+    "option_2": "North - East",
+    "option_3": "South - West",
+    "option_4": "North - West",
+    "answer": "1"
+  },
+  {
+    "question": "Tarun is the father of Rohit. Rohit is the brother of Kala. Kala is the wife of Dilip. How is Dilip related to Rohit?",
+    "option_1": "Brother-in-law",
+    "option_2": "Father-in-law",
+    "option_3": "Son",
+    "option_4": "Uncle",
+    "answer": "1"
+  },
+  {
+    "question": "A, B, C, D, E, F and G are seated in a row facing 'east'. C is seated to the immediate right of D. B is seated at the extreme end of the row and E is seated next to him. G is seated between E and F. D is seated third from the southern end. Who are the persons seated at the extreme ends?",
+    "option_1": "A and E",
+    "option_2": "A and B",
+    "option_3": "F and B",
+    "option_4": "C and D",
+    "answer": "2"
+  },
+  {
+    "question": "In a class of 120 students, 100 students participate in either golf or skating or both. Out of them a total of 60 students participate in golf. A total of 56 students participate in skating. What is the number of students participating in skating only?",
+    "option_1": "44",
+    "option_2": "16",
+    "option_3": "36",
+    "option_4": "40",
+    "answer": "4"
+  },
+  {
+    "question": "Statement Some tasks are jobs. No jobs are duties. Conclusion I. All tasks can never be duties. II. Some tasks are duties.",
+    "option_1": "Only conclusion I follows",
+    "option_2": "Neither conclusion I nor II follows",
+    "option_3": "Either conclusion I or II follows",
+    "option_4": "Only conclusion II follows",
+    "answer": "1"
+  },
+  {
+    "question": "Statement If more encouragement is given to sports, Indians will win more gold medals in Olympic competitions. Prediction I. Indians do not win gold medals. II. More encouragement to sports will improve performance.",
+    "option_1": "Only assumption I is valid",
+    "option_2": "Only assumption II is valid",
+    "option_3": "Both assumptions are valid",
+    "option_4": "Both assumptions are invalid",
+    "answer": "2"
+  },
+  {
+    "question": "Four alternative arguments are given next to a statement. Choose the most appropriate option. Statement Is it necessary that education should be vocational oriented? Arguments I. Yes, the aim of education is to prepare people for earning a livelihood. II. Yes, an educated person should stand on his own feet after completing education. III. No Education should be only for acquiring knowledge. IV. No, one can do agriculture work also. Where education is not necessary.",
+    "option_1": "Only arguments I and II are strong",
+    "option_2": "Only arguments III and IV are logical",
+    "option_3": "Only argument I is logical",
+    "option_4": "Only arguments I and III are logical",
+    "answer": "1"
+  },
+  {
+    "question": "In a class of 64 students, in which Komal's rank is 6 places below (downwards) the rank of her friend Shikha, who is 59th from the last. What will be Komal's rank in the class, seen from the top?",
+    "option_1": "12th",
+    "option_2": "16th",
+    "option_3": "15th",
+    "option_4": "19th",
+    "answer": "1"
+  },
+  {
+    "question": "Select the option that has the same relation with the third word as the second word has with the first word. boxing : ring :: race : ?",
+    "option_1": "track",
+    "option_2": "field",
+    "option_3": "arena",
+    "option_4": "court",
+    "answer": "1"
+  }
+]
