@@ -1,0 +1,763 @@
+[
+  {
+    "question": "In each of the following Questions find out the alternative which will replace the Question mark. Loath : Coercion :: ? : ?",
+    "option_1": "Detest : Caressing",
+    "option_2": "Irritate : Caressing",
+    "option_3": "Irate : Antagonism",
+    "option_4": "Reluctant : Persuasion",
+    "answer": "4"
+  },
+  {
+    "question": "Evaluate the following expression: ∣(7+3)×5−40÷8+10∣ mod 12",
+    "option_1": "11",
+    "option_2": "4",
+    "option_3": "9",
+    "option_4": "7",
+    "answer": "4"
+  },
+  {
+    "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All fruits are leaves. Some mangoes are rotten. All rotten are fruits. Conclusions: I. Some leaves are rotten. II. Some mangoes are fruits. III. All leaves are either rotten or mangoes.",
+    "option_1": "Only conclusions I and II follow",
+    "option_2": "All the conclusions follow",
+    "option_3": "Only conclusion II follows",
+    "option_4": "Only conclusions II and III follow",
+    "answer": "1"
+  },
+  {
+    "question": "The question below consists of two statements labelled I and II. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and give your answer. Question: Deepak is twice as old as Shyam. What is the difference in their ages? Statement: I. Five years hence, the ratio of their ages would be 9 : 5 II. Ten years back, the ratio of their ages was 3 : 1",
+    "option_1": "Data in either statements I alone or II alone are sufficient to answer the question.",
+    "option_2": "Both I and II are necessary to answer the question.",
+    "option_3": "Data in Statement II alone is sufficient to answer the question.",
+    "option_4": "Both I and II are not sufficient to answer the question.",
+    "answer": "1"
+  },
+  {
+    "question": "Select the option that is related to the fifth term in the same way as the second term is related to the first term and fourth term is related to third term. 20 ∶ 1200 ∶∶ 28 ∶ 2352 ∶∶ 50 ∶ ? ",
+    "option_1": "7250",
+    "option_2": "7500",
+    "option_3": "7000",
+    "option_4": "7550",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the number which is different from others in the group.",
+    "option_1": "452",
+    "option_2": "782",
+    "option_3": "583",
+    "option_4": "566",
+    "answer": "3"
+  },
+  {
+    "question": "For selection in IT companies through campus placement certain eligibility criteria has been set up. Following are some requirements as IT companies are looking for some decent candidates for recruitment. i) Candidate should have at least 8 CGPA as average of all the semester exams. CGPA is the score which a student get in semester exams out of 10. ii) Candidate should not have any backlog in the semester exams. iii) Candidate should have done Bachelor of Technology in computer science. iv) Candidate should not be less than 21 years of age and also not more than 24 years of age. In the case of a student fulfilling all the conditions except a) At ii) above, a candidate has CGPA of more than 8.2, then he would be eligible for interview. b) At i) above, a candidate has managed to score at least 7.5 CGPA and has no backlog, then he will be eligible for written test. In question below, details of one candidate are provided. You have to take one of the following course of actions based on the conditions given above and the information provided in the question and mark the number of that course of action as your answer. Nishu, a 22-year-old girl has an average CGPA of 8 in all semesters and has one backlog. She is a graduate in Bachelor of Technology in Mechanical Engineering.",
+    "option_1": "She will be eligible for written test.",
+    "option_2": "She will be eligible for interview.",
+    "option_3": "She will not be selected.",
+    "option_4": "She will be selected.",
+    "answer": "3"
+  },
+  {
+    "question": "A # B means 'A is the mother of B' A @ B means 'A is the sister of B' A & B means 'A is the father of B' A % B means 'A is the wife of B' If W # Q @ T & Y @ M % K, then how is K related to T?",
+    "option_1": "Wife's brother",
+    "option_2": "Son",
+    "option_3": "Daughter's husband",
+    "option_4": "Brother",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: A statement is followed by two inferences I and II. You have to consider the statement to be true even if it seems to be at variance from the commonly known facts. You have to decide which of the given inferences, if any, follow from the statement. Statement: We don’t retrieve information or images or words from memory registers. Computers do all of these things, but we do not. Inference: I. We are not as advanced as computers. II. We are different from computers.",
+    "option_1": "Only inference I follows",
+    "option_2": "Only inference II follows",
+    "option_3": "Both inferences follow",
+    "option_4": "None of the inference follows.",
+    "answer": "2"
+  },
+  {
+    "question": "If a meaningful four letters word can be formed from the 4th, 5th, 7th, and 8th letters of the word 'RECONCILE'. Using that letters how many meaningful words can be formed ?",
+    "option_1": "Two",
+    "option_2": "Three",
+    "option_3": "Four",
+    "option_4": "One",
+    "answer": "2"
+  },
+  {
+    "question": "You married a Pakistani girl but her father insists you to change your nationality. You will",
+    "option_1": "Take Pakistani nationality to be with your wife.",
+    "option_2": "Leave her in Pakistan and marry another girl.",
+    "option_3": "Give divorce to your wife and live happily.",
+    "option_4": "Ask your wife's opinion and decide accordingly.",
+    "answer": "4"
+  },
+  {
+    "question": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series. F G H _ Y _ G _ U Y F_ H _ Y F G _ W _",
+    "option_1": "U F H G V I Y",
+    "option_2": "T G H G V H Y",
+    "option_3": "T F H G V H Y",
+    "option_4": "U G H G V H Y",
+    "answer": "3"
+  },
+  {
+    "question": "In the following question, select the related letter from the given alternatives. SPARK : UUICY ∷ SWEET : ?",
+    "option_1": "UCMQH",
+    "option_2": "UBMMH",
+    "option_3": "UBMPH",
+    "option_4": "UBMQG",
+    "answer": "3"
+  },
+  {
+    "question": "Find the wrong number from the series. 1, 3, 10, 21, 64, 129, 356, 777",
+    "option_1": "21",
+    "option_2": "129",
+    "option_3": "10",
+    "option_4": "356",
+    "answer": "4"
+  },
+  {
+    "question": "Select the word-pair in which the two words are related in the same way as are two words in the following word pair- Mnemonic: Memory",
+    "option_1": "Audition: Music",
+    "option_2": "Sedative: Sleep",
+    "option_3": "Drama: Acting",
+    "option_4": "Audience: Speech",
+    "answer": "2"
+  },
+  {
+    "question": "In a zoo there are some Elephants and Ostriches. If legs and heads are counted, then there are 170 legs and 49 heads. How many Ostriches are there?",
+    "option_1": "21",
+    "option_2": "9",
+    "option_3": "15",
+    "option_4": "13",
+    "answer": "4"
+  },
+  {
+    "question": "Which letter-cluster will replace the question mark (?) to complete the given series? DRBZ, ABKX, ?, UVCT, RFLR ",
+    "option_1": "YDMC",
+    "option_2": "YDBE ",
+    "option_3": "XUIV",
+    "option_4": "XLTV",
+    "answer": "4"
+  },
+  {
+    "question": "Amit told Shweta, \"To reach our apartment, your mother must walk 560 m towards the east from her restaurant. She must then take a right turn and walk 543 m. She must take another right turn and walk 560 m. Then she must take one final right turn and walk 120 m\". How far and in which direction is the apartment from the restaurant? (All turns are 90 degree turns only)",
+    "option_1": "397 m, South",
+    "option_2": "397 m, North",
+    "option_3": "423 m, South",
+    "option_4": "423 m, North",
+    "answer": "3"
+  },
+  {
+    "question": "Refer to the given number, symbol series and answer the question that follows. (Left) 4 * 2 % 3 + = 3 2 % 5 9 & 4 $ 7 5 & # * 8 5 @ 3 (Right) How many such symbols are there, which are immediately preceded by a number and also immediately followed by a number?",
+    "option_1": "8",
+    "option_2": "5",
+    "option_3": "6",
+    "option_4": "7",
+    "answer": "3"
+  },
+  {
+    "question": "Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation. (31 * 3) * 64 * 124 * (492 * 78) * 6 ",
+    "option_1": "+, ÷, −, =, −, ×",
+    "option_2": "−, ×, =, −, −, ÷",
+    "option_3": "+, −, +, ÷, ×, =",
+    "option_4": "×, −, =, −, +, ÷",
+    "answer": "4"
+  },
+  {
+    "question": "Seven people, A, B, C, D, E, F, and G are sitting in a straight row, facing north. Only two people sit to the right of D. Only two people sit to the left of C. Only two people sit between D and G. Only three people sit between C and E. A is not an immediate neighbor of D. B sits to the right of D. Who sits at the extreme right?",
+    "option_1": "E",
+    "option_2": "A",
+    "option_3": "G",
+    "option_4": "B",
+    "answer": "1"
+  },
+  {
+    "question": "Q.Directions: The question consists of two statements an Assertion(A) and a Reason(R). Read both the statements and decide which of the following answer choices correctly depicts the relationship between these two statements. Assertion(A): The Indian Rebellion of 1857 was in the form of a mutiny of sepoys of the Company's army in the garrison town of Meerut. Reason(R): Primary cause of the revolt was the introduction of the new Enfield rifle, which used cartridges lubricated with pigs’ and cows’ lard. ",
+    "option_1": "Both A and R are true and R is the correct explanation of A.",
+    "option_2": "Both A and R are true but R is not the correct explanation of A.",
+    "option_3": "A is true but R is false.",
+    "option_4": "A is false but R is true.",
+    "answer": "1"
+  },
+  {
+    "question": "Who was recently appointed as the third Director General of the International Solar Alliance (ISA) during the 7th ISA Assembly in New Delhi?",
+    "option_1": "Dr. Ajay Mathur",
+    "option_2": "Suresh Prabhu",
+    "option_3": "Ashish Khanna",
+    "option_4": "Piyush Goyal",
+    "answer": "3"
+  },
+  {
+    "question": "The first session of All India Kisan Sabha was held in _____ under the Presidentship of Sahajanand Saraswati.",
+    "option_1": "Lucknow",
+    "option_2": "Kanpur",
+    "option_3": "Kolhapur",
+    "option_4": "Poona",
+    "answer": "1"
+  },
+  {
+    "question": "Match the following element with its Latin name : a. Lead 1.Stibium b. Antimony 2. Plumbum c. Tin 3. Kalium d. Potassium 4. Stannum",
+    "option_1": "a-1, b-3, c-2, d-4",
+    "option_2": "a-1, b-2, c-3, d-4",
+    "option_3": "a-2, b-1, c-4, d-3",
+    "option_4": "a-4, b-1, c-2, d-3",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the given statements about the Union Budget is/are true? a) Vote on Account deals only with the expenditure side of the government budget. b) Vote on Account and Interim Budget are not the same. c) An Interim Budget gives a complete financial statement, similar to a full budget.",
+    "option_1": "(a) and (b)",
+    "option_2": "Only (a)",
+    "option_3": "(a), (b) and (c)",
+    "option_4": "Only (c)",
+    "answer": "3"
+  },
+  {
+    "question": "Which period is referred to as the ‘period of stationary phase’ of growth of India’s population? ",
+    "option_1": "1921-1951",
+    "option_2": "1981-2001",
+    "option_3": "1901-1921",
+    "option_4": "1951-1981",
+    "answer": "3"
+  },
+  {
+    "question": "Match the pairs: 1 Haryana a) 1971 2 Himachal Pradesh b) 2000 3 Mizoram c) 1987 4 Chhattisgarh d) 1966 Select the correct answer by using the codes given below.",
+    "option_1": "1-d, 2-a, 3-c, 4-b",
+    "option_2": "1-d, 2-c, 3-a, 4-b",
+    "option_3": "1-b, 2-a, 3-d, 4-c",
+    "option_4": "1-b, 2-a, 3-c, 4-d",
+    "answer": "1"
+  },
+  {
+    "question": "Which ministry released the final 'Report of India’s G20 Task Force on Digital Public Infrastructure'?",
+    "option_1": "Ministry of Electronics and Information Technology",
+    "option_2": "Ministry of External Affairs",
+    "option_3": "Ministry of Finance",
+    "option_4": "Ministry of Home Affairs",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following organisations publishes the ‘Red List’ of threatened species?",
+    "option_1": "WWF",
+    "option_2": "International Union for Conservation of Nature",
+    "option_3": "Amnesty International",
+    "option_4": "International Atomic Energy Agency",
+    "answer": "2"
+  },
+  {
+    "question": "An Aeroplane is moving due north with a velocity of 400 km/h. The potential difference in volt between the ends of its wings, distant 40 m from each other will be: [Given - the earth's magnetic field intensity B = 0.36 × 10-4 Tesla].",
+    "option_1": "0.153 volt",
+    "option_2": "1.6 volt",
+    "option_3": "0.16 volt",
+    "option_4": "0.016 volt",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following statements is/are correct regarding the Arya Samaj and Swami Dayanand Saraswati? Statement A: The original name of Swami Dayanand Saraswati was Mool Shankar Tiwari. Statement B: Swami Dayanand Saraswati was a native of Gujarat. Statement C: The Arya Samaj was founded in the year 1875.",
+    "option_1": "All of A, B and C ",
+    "option_2": "Only A",
+    "option_3": "Only A and B",
+    "option_4": "Only C",
+    "answer": "1"
+  },
+  {
+    "question": "X-Rays, which are now used on a day to day basis for diagnosis in medicine, was discovered by?",
+    "option_1": "Wilhelm Rontgen",
+    "option_2": "Niels Bohr",
+    "option_3": "Ernest Rutherford",
+    "option_4": "Max Bon",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following is/are the sources of Radioactive pollution? 1. Nuclear reactors 2. Soil sediments 3. Medical equipment 4. Magma Select the correct answer using the code given below.",
+    "option_1": "1 and 3 only",
+    "option_2": "1 and 4 only",
+    "option_3": "1, 2 and 3",
+    "option_4": "1, 2 , 3 and 4",
+    "answer": "4"
+  },
+  {
+    "question": "Consider the following statements : Statement - I: A new form of Buddhism developed during the rule of King Kanishka. Statement - II: Mahayana Buddhism had two distinct features; Buddha's presence was depicted through signs and the belief in Bodhisattvas. ",
+    "option_1": "Both (I) and (II) are true and (II) is linked to (I). ",
+    "option_2": "(I) is false but (II) is true. ",
+    "option_3": "Both (I) and (II) are true but (II) is not linked to (I). ",
+    "option_4": "(I) is true but (II) is false. ",
+    "answer": "4"
+  },
+  {
+    "question": "The popular text, Nalayira Divyaprabandham belongs to which of the following sects?",
+    "option_1": "Nayanars",
+    "option_2": "Buddhists",
+    "option_3": "Alvars",
+    "option_4": "Jains",
+    "answer": "3"
+  },
+  {
+    "question": "Which among following award is given in the field of tribal folk art and traditional art?",
+    "option_1": "Kabir Samman",
+    "option_2": "Kalidas Samman",
+    "option_3": "Tulsi Samman",
+    "option_4": "Iqbal Samman",
+    "answer": "3"
+  },
+  {
+    "question": "According to early Indian philosophers, what are the basic elements described in Pancha Tattva?",
+    "option_1": "Earth, Fire, Sky, Gas and Water",
+    "option_2": "Air, Earth, Fire, Sky and Water",
+    "option_3": "Gas, Land, Fire, Sky and Water",
+    "option_4": "Air, Earth, Fire, Land and Water",
+    "answer": "2"
+  },
+  {
+    "question": "Which among following schemes was first implemented for the alleviation of poverty in India in the year 2015?",
+    "option_1": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "option_2": "Pradhan Mantri Gram Sadak Yojana",
+    "option_3": "MUDRA scheme",
+    "option_4": "Central Cooperative Scheme",
+    "answer": "3"
+  },
+  {
+    "question": "With reference to the 'National Intellectual Property Rights Policy', consider the following statements: 1. It reiterates India's commitment to the Doha Development Agenda and the TRIPS Agreement. 2. Department of Industrial Policy and Promotion of the nodal agency for regulating intellectual property rights in India. Which of the above statements is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following has authored the famous novel ‘To kill a mockingbird’?",
+    "option_1": "Mary Shelley",
+    "option_2": "George Orwell",
+    "option_3": "Harper Lee",
+    "option_4": "Charles Dickens",
+    "answer": "3"
+  },
+  {
+    "question": "Consider the following statements regarding the Trade and Economic Partnership Agreement (TEPA), recently seen in news: 1. TEPA was signed with ASEAN countries to deepen economic integration in the region. 2. TEPA provides an opportunity for India to integrate into Southeast Asian markets. Which of the statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "4"
+  },
+  {
+    "question": "The total number of members of the Legislative Council of a State having a Legislative Council shall not exceed ______ of the total number of members of the Legislative Assembly of that State.",
+    "option_1": "1/4",
+    "option_2": "1/3",
+    "option_3": "2/3",
+    "option_4": "1/6",
+    "answer": "2"
+  },
+  {
+    "question": "Which countries participated in the \"Desert Knight\" trilateral air combat exercise over the Arabian Sea, focusing on interoperability and advanced combat skills.?",
+    "option_1": "India, France, and USA",
+    "option_2": "India, UAE, and Australia",
+    "option_3": "India, UK, and UAE",
+    "option_4": "India, France, and UAE",
+    "answer": "4"
+  },
+  {
+    "question": "The region of the vertebrate eye, where the optic nerve passes out of the retina, is called the",
+    "option_1": "Fovea",
+    "option_2": "Iris",
+    "option_3": "Blind spot",
+    "option_4": "Optic chaisma",
+    "answer": "3"
+  },
+  {
+    "question": "The Andaman and Nicobar Island group of India is an emergent part of which of the following submerged mountain range?",
+    "option_1": "Kunlun Shan",
+    "option_2": "Eastern Ghats",
+    "option_3": "Arakan Yoma",
+    "option_4": "Himalayas",
+    "answer": "3"
+  },
+  {
+    "question": "Consider the following statements regarding Classical Languages: 1. All the Classical Languages are listed in the Eighth Schedule of the Constitution. 2. The Ministry of Culture provides the guidelines regarding Classical languages. Which of the statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "3"
+  },
+  {
+    "question": "If A (2a+3b, a +6b) and B (3a + 4b, 2a + 5b) are two points, then distance between the points A and B is:",
+    "option_1": "2(a2 + b2)",
+    "option_2": "√2 (a + b)",
+    "option_3": "2ab",
+    "option_4": "\\(\\rm \\sqrt{2(a^2+b^2)}\\)",
+    "answer": "4"
+  },
+  {
+    "question": "A solid metallic cylindrical rod of radius 1.4 cm and length 24 cm is melted and recast as identical spherical balls of radius 2 mm. How many maximum such balls could be made?",
+    "option_1": "4580",
+    "option_2": "4410",
+    "option_3": "4450",
+    "option_4": "4500",
+    "answer": "2"
+  },
+  {
+    "question": "A starts business with Rs. 6100 and after 6 months, B joins with A as his partner. After a year, the profit is divided between A and B in the ratio 1 : 2. What is B's contribution in the capital? (In Rs.)",
+    "option_1": "24400",
+    "option_2": "24405",
+    "option_3": "24450",
+    "option_4": "24044",
+    "answer": "1"
+  },
+  {
+    "question": "A rectangle ABCD is inscribed in a circle with centre O. If AC is the diagonal and ∠BAC = 30º, then the radius of the circle will be equal to",
+    "option_1": "\\(\\dfrac{\\sqrt 3}{2} BC\\)",
+    "option_2": "2 BC",
+    "option_3": "BC",
+    "option_4": "None of the above",
+    "answer": "3"
+  },
+  {
+    "question": "If x + \\(\\frac{1}{x}\\) = 7, then the value of x6 + \\(\\frac{1}{x^6}\\) is:",
+    "option_1": "113682",
+    "option_2": "103682",
+    "option_3": "103882 ",
+    "option_4": "103862",
+    "answer": "2"
+  },
+  {
+    "question": "In a Monty Hall game with 3 doors, the host does not know where the car is and opens a door at random. By chance, it reveals a goat. You chose a door initially. What is your probability of winning if you stick with your original choice?",
+    "option_1": "1/3",
+    "option_2": "1/2",
+    "option_3": "2/3",
+    "option_4": "1",
+    "answer": "1"
+  },
+  {
+    "question": "Car A covered a distance of 448 km in 8 hours and Car B covered a distance of 110 km more than Car A in 9 hours. The ratio of the speed of car A and car B is respectively :",
+    "option_1": "28 ∶ 31",
+    "option_2": "29 ∶ 32",
+    "option_3": "55 ∶ 2",
+    "option_4": "62 ∶ 55",
+    "answer": "1"
+  },
+  {
+    "question": "Divide ₹6800 in two part so that S.I. on the first part for \\(3\\frac{1}{3}\\) years at 6% p.a. will be equal to the S.I. on the second part for \\(3\\frac{1}{2}\\) years at 4% p.a.",
+    "option_1": "₹2600, ₹4200",
+    "option_2": "₹2800, ₹4000",
+    "option_3": "₹2500, ₹4300",
+    "option_4": "₹2700, ₹4100",
+    "answer": "2"
+  },
+  {
+    "question": "If \\(1 + tan θ = \\sqrt3, then, \\sqrt3 cot θ - 1\\) = ?",
+    "option_1": "\\((\\sqrt3 \\space+\\space 1)/(2)\\)",
+    "option_2": "\\((2\\sqrt3 \\space-\\space 1)/(2)\\)",
+    "option_3": "\\((2\\sqrt3 \\space+\\space 1)/(2)\\)",
+    "option_4": "\\((\\sqrt3 \\space-\\space 1)/(2)\\)",
+    "answer": "1"
+  },
+  {
+    "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for ₹3,200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+    "option_1": "₹800",
+    "option_2": "₹400",
+    "option_3": "₹375",
+    "option_4": "₹600",
+    "answer": "2"
+  },
+  {
+    "question": "If the mean of a dataset is 50, the median is 48 and the standard deviation is 10, what is Karl Pearson’s coefficient of skewness?",
+    "option_1": "0.3",
+    "option_2": "0.6",
+    "option_3": "0.5",
+    "option_4": "0.2",
+    "answer": "2"
+  },
+  {
+    "question": "The average of the marks of Ram, Ramesh, Somesh and Soham in mathematics is 75, and the average of the marks of Ramesh, Somesh, Soham and Mohan in mathematics is 80. The marks scored by Mohan alone in mathematics is 70. Find the marks scored by Ram alone in mathematics. ",
+    "option_1": "50 ",
+    "option_2": "78 ",
+    "option_3": "62 ",
+    "option_4": "45",
+    "answer": "1"
+  },
+  {
+    "question": "In a circle with a radius of 10 cm. XY and PQ are two parallel chords 12 cm and 16 cm in length, respectively. The two chords are situated on the opposite sides of the centre. The distance between the chords is:",
+    "option_1": "14 cm",
+    "option_2": "18 cm",
+    "option_3": "12.80 cm",
+    "option_4": "12 cm",
+    "answer": "1"
+  },
+  {
+    "question": "The diagonal and one side of a rectangular plot are 65 m and 63 m, respectively. What is the perimeter of the rectangular plot?",
+    "option_1": "158 m",
+    "option_2": "164 m",
+    "option_3": "166 m",
+    "option_4": "156 m",
+    "answer": "1"
+  },
+  {
+    "question": "If \\(\\frac{(15)^3+(4)^3}{(15^2+4^2-k)}=19\\), then what is the value of K?",
+    "option_1": "-60",
+    "option_2": "120",
+    "option_3": "60",
+    "option_4": "-120",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is true in the given figure where AD is the altitude to the hypotenuse of a right angled Δ ABC ? I. Δ ABD ~ Δ CAD II. Δ ABD ≅ Δ CDA III. Δ ADB ~ Δ CAB Of these statements the correct ones are combination of",
+    "option_1": "I and II",
+    "option_2": "I and III",
+    "option_3": "II and III",
+    "option_4": "I, II and III",
+    "answer": "2"
+  },
+  {
+    "question": "Hari bought a cardboard for Rs.18000 and spent Rs.5000 on transport and Rs.2000 on labour. He made 500 boxes and sold them at Rs.60 per box. What was his profit percentage?",
+    "option_1": "22%",
+    "option_2": "25%",
+    "option_3": "15%",
+    "option_4": "20%",
+    "answer": "4"
+  },
+  {
+    "question": "In order to fill an empty pond with water, two pipes A and B are engaged. Pipe A alone can fill the pond in 70 hours and pipe B alone can fill it in 80 hours. If both the pipes A and B are opened simultaneously, how much time will be required to fill the pond?",
+    "option_1": "37.33 hours",
+    "option_2": "27.30 hours",
+    "option_3": "25.85 hours",
+    "option_4": "32.45 hours",
+    "answer": "1"
+  },
+  {
+    "question": "What is the value of a so that the seven-digit number 4645a52 is divisible by 72?",
+    "option_1": "3",
+    "option_2": "1",
+    "option_3": "0",
+    "option_4": "2",
+    "answer": "2"
+  },
+  {
+    "question": "lf X = cotθ + cosθ; and Y = cotθ – cosθ, then find the value of \\(\\frac{X^2 - Y^2}{\\sqrt{XY}}\\).",
+    "option_1": "1",
+    "option_2": "0",
+    "option_3": "2",
+    "option_4": "4",
+    "answer": "4"
+  },
+  {
+    "question": "Find the value of 58 - 25 ÷ 5 + {55 + 25 - (30 + 20 - 10 + 30)}.",
+    "option_1": "68",
+    "option_2": "63",
+    "option_3": "56",
+    "option_4": "66",
+    "answer": "2"
+  },
+  {
+    "question": "Raman purchased soya bean oil and mustard oil for Rs. 62 per liter and Rs. 55 per liter, respectively. In what ratio should the soya bean oil be mixed with the mustard oil so that after selling the mixture at Rs. 72.50/liter, he would get a profit of 25%?",
+    "option_1": "3 : 4",
+    "option_2": "4 : 3",
+    "option_3": "9 : 5",
+    "option_4": "5 : 9",
+    "answer": "1"
+  },
+  {
+    "question": "In an election between two candidates, 75% of the eligible voters cast their votes and 6% of the votes cast were declared invalid. A candidate got 15228 votes, which were 90% of the total valid votes. Find the total number of eligible voters.",
+    "option_1": "25600",
+    "option_2": "27000",
+    "option_3": "24850",
+    "option_4": "24000",
+    "answer": "4"
+  },
+  {
+    "question": "The number of seats in an institute for class 10th, 11th and 12th are in the ratio 5 ∶ 7 ∶ 8. It is proposed to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+    "option_1": "2 ∶ 3 ∶ 4",
+    "option_2": "4 ∶ 5 ∶ 6",
+    "option_3": "3 ∶ 4 ∶ 6",
+    "option_4": "5 ∶ 6 ∶ 7",
+    "answer": "1"
+  },
+  {
+    "question": "Select the option that expresses the given sentence in active voice. The hunchback was being laughed at by everyone",
+    "option_1": "Everyone is laughing at the hunchback",
+    "option_2": "Everyone laughs at the hunchback",
+    "option_3": "Everyone laughed at the hunchback.",
+    "option_4": "Everyone was laughing at the hunchback.",
+    "answer": "4"
+  },
+  {
+    "question": "Match the following groups of words with the correct one-word substitutions. Phrase one-word substitution A. a short, pithy statement expressing a general truth or rule of conduct. 1. gibberish B. outrageous and disgraceful 2. ensemble C. unintelligible speech 3. maxim D. a group of dancers, actors or performers 4. egregious",
+    "option_1": "A-3, B-4, C-1, D-2 ",
+    "option_2": "A-1, B-4, C-2, D-3 ",
+    "option_3": "A-4, B-1, C-3, D-2 ",
+    "option_4": "A-2, B-3, C-1, D-4",
+    "answer": "1"
+  },
+  {
+    "question": "In the following items, each passage consists of six sentences. The first sentence (S1) and the final sentence (S6) are given. The middle four sentences in each have been removed and jumbled up. These are labelled P, Q, R and S. You are required to find out the proper sequence of the four sentences and mark accordingly on the Answer Sheet. S1: A devastating earthquake had hit Mexico city. P: Fifty more were later judged dangerously close to falling. Q: The quake's force was measured at 7.8 on the Richter scale. ​R: In four chaotic minutes, an estimated 250 buildings collapsed in downtown Mexico city. S: It was the world's most severe quake since the quake in Chile last March. S6: The condition of 1000 others was reported unsafe. ",
+    "option_1": "SRPQ ",
+    "option_2": "QSRP",
+    "option_3": "PQSR ",
+    "option_4": "RPQS ",
+    "answer": "2"
+  },
+  {
+    "question": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. She is _______ MP from Rajasthan.",
+    "option_1": "any",
+    "option_2": "a",
+    "option_3": "an",
+    "option_4": "no article",
+    "answer": "3"
+  },
+  {
+    "question": "Select the option that expresses the given sentence in direct speech. She told me that she was expecting to win the race without any difficulty.",
+    "option_1": "She said to me, \"I am expecting to win the race without any difficulty\".",
+    "option_2": "She said \"I expect to win the race without any difficulty\"",
+    "option_3": "She said to me, \" I had expected to win the race without any difficulty.\"",
+    "option_4": "She said, \"I am expected to win the race without any difficulty.\"",
+    "answer": "1"
+  },
+  {
+    "question": "In the following sentence, one phrase has been printed in bold. Below the sentence, three meanings are given. Select the correct meaning of the phrase from the options given below. People who don't finish a job really make me see red.​ A. To see a colour B. Become very angry C. Go blind",
+    "option_1": "Only A",
+    "option_2": "Only B",
+    "option_3": "Only C",
+    "option_4": "Both A and B",
+    "answer": "2"
+  },
+  {
+    "question": "In the following sentence, one phrase has been printed in bold. Below the sentence, three meanings are given. Select the correct meaning of the phrase from the options given below. Tom was stealing the car when the police drove by and caught him red-handed. A. Painting his hands red B. In the act C. Beaten till your body is red",
+    "option_1": "Only A",
+    "option_2": "Only B",
+    "option_3": "Only C",
+    "option_4": "Both A and B",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate idiom for the underlined segment in the following sentence. Everything in the mansion was in great confusion after the robbery. ",
+    "option_1": "Pick holes",
+    "option_2": "Pell-mell",
+    "option_3": "Turn over a new leaf",
+    "option_4": "Damp squib",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. When have you been waiting for me here?",
+    "option_1": "How long",
+    "option_2": "How far ",
+    "option_3": "What time",
+    "option_4": "How late",
+    "answer": "1"
+  },
+  {
+    "question": "Select the INCORRECTLY spelt word. ",
+    "option_1": "Vindication",
+    "option_2": "Conglomirate",
+    "option_3": "Concentrate",
+    "option_4": "Psychometric",
+    "answer": "2"
+  },
+  {
+    "question": "Select the grammatically correct form of the given sentence from the following options. The captain of the red team in the cooking competition, Tessa, has been doing the same thing since the past six hours.",
+    "option_1": "The captain of the red team in the cooking competition, Tessa, has been doing the same thing for 6 O clock.",
+    "option_2": "The captain of the red team in the cooking competition, Tessa, has been done the same thing for the past six hours.",
+    "option_3": "The captain of the red team in the cooking competition, Tessa, has been doing a same thing for the past six hours.",
+    "option_4": "The captain of the red team in the cooking competition, Tessa, has been doing the same thing for the past six hours.",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: Choose the option that is in the indirect form of the sentence. He said to me, “It is time to add a few essentials to your checklist.”",
+    "option_1": "He told me that that was time to add a few essentials to his checklist.",
+    "option_2": "He told me that it is time to add a few essentials to your checklist.",
+    "option_3": "He told to me that that was time to add a few essentials to his checklist.",
+    "option_4": "He told me that that was time to add a few essentials to my checklist.",
+    "answer": "4"
+  },
+  {
+    "question": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as SI and S6. The middle four sentences in each have been jumbled up and labeled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly. S1: The outside sources of energy could be quite varied since the environment is not under the control of the individual organism. P: These sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform source of energy. Q: This energy can be used for the various molecular movements needed for maintaining living structures, as well as for the kind of molecules the body needs to grow. R: For this, a series of chemical reactions in the body are necessary. S: Oxidising-reducing reactions are some of the most common chemical means to break-down molecules. S6 For this, many organisms use oxygen sourced from outside the body. ",
+    "option_1": "RSPQ",
+    "option_2": "PSQR",
+    "option_3": "RSQP",
+    "option_4": "PQRS",
+    "answer": "4"
+  },
+  {
+    "question": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet. S1. Social media platforms have constantly evolved to meet the dynamic needs of users worldwide. S6. It has facilitated the rise of influencer culture, which has now become a significant aspect of digital marketing strategies. P. This transition into virtual community spaces has redefined how people interact and share information. Q. Initially, they served primarily as channels for personal communication and sharing life updates. R. As they grew more sophisticated, these platforms embraced e-commerce and content monetization features. S. Their transformation has been significant, from simple communication tools to complex ecosystems supporting various activities.",
+    "option_1": "QPSR",
+    "option_2": "QSRP",
+    "option_3": "SQRP",
+    "option_4": "SPRQ",
+    "answer": "2"
+  },
+  {
+    "question": "Direction: Sentence is given with the blanks to be filled in with appropriate words. Four alternatives are suggested for each question, choose the correct alternative. Elon Musk grew up in South Africa, then ______ to Canada at the age 17 and he ______ in the U.S. as a transfer student to the University of Pennsylvania.",
+    "option_1": "resided, detected",
+    "option_2": "jumped, roamed",
+    "option_3": "stayed, bounced",
+    "option_4": "immigrated, landed",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: Sentence is given with the blanks to be filled in with appropriate words. Four alternatives are suggested for each question, choose the correct alternative. Racist ______ can be not just overt, such as treating some people according to their race or colour, but also covert, when society systematically treats groups according to some form of ______ judgement.",
+    "option_1": "comment, disconnected",
+    "option_2": "rules, disciplinary",
+    "option_3": "principles, disconcerted",
+    "option_4": "behaviour, discriminating",
+    "answer": "4"
+  },
+  {
+    "question": "Directions: Read the following sentences (A, B, C, and D) and determine which of these sentences is/are grammatically and contextually correct. A. As the project manager, it's his responsibility to ensure deadlines are met promptly. B. The forecast predicts both heavy rains and low temperature across the region. C. She was delighted by the surprise party thrown by her friends, who had organize it elaborately. D. With modern technology, astronomers can explore deeper into space than ever before.",
+    "option_1": "Both A and B",
+    "option_2": "Both B and C",
+    "option_3": "Both C and D",
+    "option_4": "Both A and D",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is not the antonym of the word 'callous'.",
+    "option_1": "kind",
+    "option_2": "compassionate",
+    "option_3": "brutal",
+    "option_4": "sympathetic",
+    "answer": "3"
+  },
+  {
+    "question": "Each of the following questions consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labeled as P, Q, R, and S. Find the proper sequence of the four sentences and mark your response accordingly. S1: India is surrounded by many neighboring countries with whom she has traditionally tried to maintain friendly and good-neighborly relations. S6: On its part, India tried to maintain cordial and friendly relations with these countries but has found considerable difficulties in dealing with these neighboring countries, and often they have adopted hostile postures towards India, presumably at the instigation of these foreign powers. P: Ever since India got her independence in 1947 she was eager to have friendly relations with all the countries of the world particularly her neighbors, with Pakistan being at the top of her priority list. Q: The foreign policy orientations and attitudes of all these countries towards India exercised a profound influence on the framers of India’s foreign policy. R: India’s neighbors are Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Sri Lanka. S: Except for China and Pakistan, India has cordial and friendly relations with all her neighbors though problems keep brewing up.",
+    "option_1": "QSPR",
+    "option_2": "SPQR",
+    "option_3": "RPSQ",
+    "option_4": "PRSQ",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number 1.",
+    "option_1": "at",
+    "option_2": "on",
+    "option_3": "for",
+    "option_4": "with",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number 2.",
+    "option_1": "involves",
+    "option_2": "involve",
+    "option_3": "involving",
+    "option_4": "involved",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number 3.",
+    "option_1": "and",
+    "option_2": "both",
+    "option_3": "until",
+    "option_4": "though",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number 4.",
+    "option_1": "Neither",
+    "option_2": "Whereas",
+    "option_3": "Because",
+    "option_4": "Whether",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number 5.",
+    "option_1": "itself",
+    "option_2": "ourselves",
+    "option_3": "themselves",
+    "option_4": "herself",
+    "answer": "2"
+  }
+]
+
