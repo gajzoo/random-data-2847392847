@@ -1,0 +1,138 @@
+[
+  {
+    "question": "In a certain code language, 'FUTURE' is coded as '91' and 'MONEY' is coded as '72'. How will 'SECURE' be coded in that code language?",
+    "option_1": "72",
+    "option_2": "71",
+    "option_3": "70",
+    "option_4": "75",
+    "answer": "2"
+  },
+  {
+    "question": "In a code language 'you are there' is written as 'ter der jer', 'we stay here' is written as 'yer mer ner' and 'we are late' is written as 'ser ner der' and ‘i stay there' is written as 'yer fer jer'. How will 'you stay late' be written in that code language?",
+    "option_1": "ter yer ser",
+    "option_2": "ter yer mer",
+    "option_3": "der yer ser",
+    "option_4": "ter mer ser",
+    "answer": "1"
+  },
+  {
+    "question": "Siddharth and Murali started for jogging from the same point. Siddharth went 4 km towards east. Murali went 3 km towards west. Siddharth turned left and went 4 km. Murali turned right and went 4 km. What is the distance between Siddharth and Murali now?",
+    "option_1": "14 km",
+    "option_2": "6 km",
+    "option_3": "8 km",
+    "option_4": "7 km",
+    "answer": "4"
+  },
+  {
+    "question": "Ganesh cycles a distance of 8 m in the south-west direction, then turning east he goes a distance of 20 m. From there he goes 8 m towards north-east and goes 6 m towards west. From there he goes a distance of 2 m towards north-east. Then he walks 4 m towards west and then goes 2 m towards south-west and stops at that place. How far is he from the starting point?",
+    "option_1": "12 m",
+    "option_2": "10 m",
+    "option_3": "8 m",
+    "option_4": "6 m",
+    "answer": "2"
+  },
+  {
+    "question": "U is the father of M. V is the wife of K. D is the mother of M, the only brother of K. How is U related to D?",
+    "option_1": "Brother",
+    "option_2": "Uncle",
+    "option_3": "Husband",
+    "option_4": "Father",
+    "answer": "3"
+  },
+  {
+    "question": "Reena is the wife of Asmit and Aditya is the husband of Rani. Rani's father-in-law is the grandfather of Reena's only daughter Siya. How is Asmit related to Aditya?",
+    "option_1": "Maternal cousin",
+    "option_2": "Brother-in-law",
+    "option_3": "Brother",
+    "option_4": "Uncle",
+    "answer": "3"
+  },
+  {
+    "question": "Pointing to the photograph of a man Gopesh, a woman says, “The only son of the father of the husband of the only daughter of the mother of the father of her daughter is the husband of my husband’s sister.” If Gopesh is the only son of his parents, then how is the woman related to Gopesh?",
+    "option_1": "Mother",
+    "option_2": "Niece",
+    "option_3": "Sister",
+    "option_4": "Wife",
+    "answer": "4"
+  },
+  {
+    "question": "‘A + B’ means ‘A is the father of B’; 'A – B' means ‘A is the sister of B; 'A × B' means ‘A is the brother of B’; 'A + B' means ‘A is the daughter of B’. If, R + S × T – V + U, then how is S related to U?",
+    "option_1": "Son",
+    "option_2": "Daughter",
+    "option_3": "Husband",
+    "option_4": "Brother",
+    "answer": "1"
+  },
+  {
+    "question": "A is taller than B. C and D are of equal height. E is shorter than B but taller than D. F is shorter than C, who is shorter than B. Who is the shortest among them?",
+    "option_1": "F",
+    "option_2": "E",
+    "option_3": "D",
+    "option_4": "C",
+    "answer": "1"
+  },
+  {
+    "question": "In a row of students, Paresh is 14th from the left and Dilip is 16th from the right. When Paresh and Dilip interchange their places, Dilip becomes 21st from the right. What is the number of students in the row?",
+    "option_1": "33",
+    "option_2": "36",
+    "option_3": "34",
+    "option_4": "35",
+    "answer": "3"
+  },
+  {
+    "question": "Six persons L, M, N, P, Q and R are sitting in a row facing north (not necessarily in the same order). There are three persons between P and M. P is not at any of the ends. There are only three persons between L and Q. N is to the left of R. L is at one of the ends. M is to the right of P. How many persons are sitting to the left of N?",
+    "option_1": "2",
+    "option_2": "1",
+    "option_3": "4",
+    "option_4": "3",
+    "answer": "1"
+  },
+  {
+    "question": "Eight friends A, B, C, D, E, F, G and H are sitting face to face around a circular table for group discussion. A is opposite to F and second to the right of E. B and D are sitting face to face. G is between C and A. H is to the left of E. Who is sitting opposite to E?",
+    "option_1": "D",
+    "option_2": "F",
+    "option_3": "C",
+    "option_4": "B",
+    "answer": "3"
+  },
+  {
+    "question": "In the year 1996, Republic Day was celebrated on Friday. In the year 2000, Independence Day was celebrated on which day?",
+    "option_1": "Tuesday",
+    "option_2": "Monday",
+    "option_3": "Friday",
+    "option_4": "Saturday",
+    "answer": "1"
+  },
+  {
+    "question": "Statements I. No crow is a bird. II. All birds are animals. Conclusions I. Some animals are crows. II. Some animals are birds. III. No animal is a crow.",
+    "option_1": "Conclusion II and either conclusion I or III follows",
+    "option_2": "Only conclusion III follows",
+    "option_3": "No conclusion follows",
+    "option_4": "Only conclusion I and III follow",
+    "answer": "1"
+  },
+  {
+    "question": "Statements I. All knives are tools. II. Some cutters are knives. Conclusions I. Some cutters are tools. II. All knives are cutters. III. Some knives are not tools.",
+    "option_1": "Only conclusion I follows",
+    "option_2": "Only conclusion III follows",
+    "option_3": "No conclusion follows",
+    "option_4": "Only conclusion II follows",
+    "answer": "1"
+  },
+  {
+    "question": "56, 90, 132, 184, 248, ?",
+    "option_1": "368",
+    "option_2": "316",
+    "option_3": "362",
+    "option_4": "326",
+    "answer": "4"
+  },
+  {
+    "question": "In a certain code language, 'INBOX' is written as 'MRYCL' and 'EMAIL' is written as 'NVZOR'. How will 'DRAFT' be written in the same code language?",
+    "option_1": "WIZGU",
+    "option_2": "IWGZU",
+    "option_3": "IWZGU",
+    "option_4": "UGZWI",
+    "answer": "3"
+  }
+]
