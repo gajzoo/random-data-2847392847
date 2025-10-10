@@ -1,0 +1,763 @@
+[
+  {
+    "question": "If in a certain coding language, 'lo re ga' indicates 'Bears Are Scary', 'sa ga pa' indicates 'Kings Are Hungry', 'so du pa' indicates 'Kings Will Die' and 'bu so' indicates 'They Die'. What would 'bu du' indicate in that code language?",
+    "option_1": "Hungry Are",
+    "option_2": "They Will",
+    "option_3": "Hungry Die",
+    "option_4": "They Die",
+    "answer": "2"
+  },
+  {
+    "question": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nBZA, DYC, FXE, HWG, ____",
+    "option_1": "JVI",
+    "option_2": "HIJ",
+    "option_3": "ISH",
+    "option_4": "PWD",
+    "answer": "1"
+  },
+  {
+    "question": "In a row of 16 girls, when Seema was shifted by two places towards the left, she became the 7th from the left end. What was her earlier position from the right end of the row?",
+    "option_1": "7th",
+    "option_2": "9th",
+    "option_3": "8th",
+    "option_4": "10th",
+    "answer": "3"
+  },
+  {
+    "question": "If all the special characters are dropped from the below arrangement, which of the following will be the 10th to the right of X?\n3 X ! I B O # F 4 5 * 1 K 2 $ 8 R 8 % Z",
+    "option_1": "8",
+    "option_2": "R",
+    "option_3": "S",
+    "option_4": "2",
+    "answer": "1"
+  },
+  {
+    "question": "In a certain code language, ’GHOST’ is written as 'VVSMM' and 'EATER' is written as 'THXFK'. How will 'HANDS' be written in that language?",
+    "option_1": "UGRFN",
+    "option_2": "NFRGV",
+    "option_3": "WHRGN",
+    "option_4": "VGRGN",
+    "answer": "1"
+  },
+  {
+    "question": "The weight of three friends is in the ratio of 4 : 3 : 5. If the sum of their weights is 192 kg, find the weight of the lightest friend.",
+    "option_1": "40 kg",
+    "option_2": "48 kg",
+    "option_3": "56 kg",
+    "option_4": "64 kg",
+    "answer": "2"
+  },
+  {
+    "question": "In the following question, select the related word from the given alternatives.\nWarmish : Gelid :: Reticent : ?",
+    "option_1": "Secretive",
+    "option_2": "Hottish",
+    "option_3": "Candid",
+    "option_4": "Wince",
+    "answer": "3"
+  },
+  {
+    "question": "A letter, number and symbol arranged machine when given an input of letters and numbers rearranges them following a particular pattern in every step. Following is an illustration of output, the final step, when given an input:\nInput: A # Y 8 T 4 @\nStep 1: 8 4 A  # Y T @\nStep 2: 8 4 A Y T # @\nStep 3: 4 8 A T Y # @ (Output)\nWhich will be the output for the below input?\nT $ J 13 P 9 *",
+    "option_1": "9 13 T P J $ *",
+    "option_2": "9 13 J P T $ *",
+    "option_3": "13 9 J P T $ *",
+    "option_4": "13 9 J T P $ *",
+    "answer": "2"
+  },
+  {
+    "question": "Select the related word from the given alternatives.\nLiver : Hepatology :: Human Beauty : ?",
+    "option_1": "Kalology",
+    "option_2": "Myology",
+    "option_3": "Gerontology",
+    "option_4": "Philology",
+    "answer": "1"
+  },
+  {
+    "question": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different.",
+    "option_1": "24 : 130",
+    "option_2": "30 : 225",
+    "option_3": "20 : 100",
+    "option_4": "14 : 49",
+    "answer": "1"
+  },
+  {
+    "question": "Direction: In each question below is given a statement followed by two assumptions numbered | and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.\nStatement : A warning in a train compartment - “To stop train, pull chain. Penalty for improper use Rs, 500.\"\nAssumptions :\nI. Some people misuse the alarm chain:\nII. On certain occasions, people may want to stop a running train.",
+    "option_1": "If only assumption I is implicit.",
+    "option_2": "If only assumption II is implicit.",
+    "option_3": "If neither I nor II is implicit.",
+    "option_4": "If both I and II are implicit.",
+    "answer": "4"
+  },
+  {
+    "question": "A select group of 4 is to be formed from 8 men and 6 women in such a way that the group must have at least 1 woman. In how many different ways can it be done?",
+    "option_1": "931",
+    "option_2": "567",
+    "option_3": "442",
+    "option_4": "728",
+    "answer": "1"
+  },
+  {
+    "question": "If 84 ⊕ 72 = 45\n63 ⊕ 41 = 33\nthen the value of 94 ⊕ 82 is",
+    "option_1": "56",
+    "option_2": "59",
+    "option_3": "45",
+    "option_4": "65",
+    "answer": "1"
+  },
+  {
+    "question": "Tina is Arjun's cousin. Shweta is Ashu's sister-in-law, who is not married. Anu is the mother of Veenu. Rohit is the brother of Ashu. Rohit is Tina's uncle. Anu is the grandmother of Arjun, who is the son of Rohit. Shweta is the wife of Veenu. How is Anu related to Shweta?",
+    "option_1": "Aunt",
+    "option_2": "Sister",
+    "option_3": "Mother-in-law",
+    "option_4": "Mother",
+    "answer": "3"
+  },
+  {
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following series.\n12, 15, 75, ?, 738, 749",
+    "option_1": "259",
+    "option_2": "155",
+    "option_3": "90",
+    "option_4": "82",
+    "answer": "4"
+  },
+  {
+    "question": "In the following question, select the related letters from the given alternatives.\nEAR : KUX :: AIM : ?",
+    "option_1": "FDQ",
+    "option_2": "GCS",
+    "option_3": "GCT",
+    "option_4": "FDS",
+    "answer": "2"
+  },
+  {
+    "question": "After starting from the ATM, Mayur walked a few meters towards the south. Then he took a left turn and walked 15 m and then took a right turn and walked 20 m. Finally, he took a left turn again and walked 10 m to reach his home. The shortest distance (air distance) between the ATM and his home is 65 m.\nHow far did Mayur walk towards the south initially from the ATM?",
+    "option_1": "40 m",
+    "option_2": "70 m",
+    "option_3": "20 m",
+    "option_4": "55 m",
+    "answer": "1"
+  },
+  {
+    "question": "Seven friends A,B,C,D,E,F and G, each has a different height. A is shorter than B but taller than C. B is taller than only four others. E is taller than G but shorter than C. D is taller than B but shorter than F. Who is the tallest among all?",
+    "option_1": "B",
+    "option_2": "A",
+    "option_3": "F",
+    "option_4": "D",
+    "answer": "3"
+  },
+  {
+    "question": "Directions: In the question below, a statement and assumptions numbered I and II are given. An assumption is something supposed or taken for granted. You have to consider the following assumption and decide which of the assumption is implicit in the statement.\nStatement: “I am offering you to be the CEO of my company XYZ Ltd” – A tells B\nAssumptions: \nI. B had expressed an interest in becoming the CEO of XYZ Ltd.\nII. According to A, B is capable of being the CEO of XYZ Ltd.",
+    "option_1": "Only assumption I is implicit.",
+    "option_2": "Only assumption II is implicit.",
+    "option_3": "Both assumptions I and II are implicit.",
+    "option_4": "Neither assumption I nor II is implicit.",
+    "answer": "2"
+  },
+  {
+    "question": "Evaluate the following expression: |100−15×3+20÷4−5| mod 8",
+    "option_1": "5",
+    "option_2": "6",
+    "option_3": "7",
+    "option_4": "4",
+    "answer": "3"
+  },
+  {
+    "question": "Two cards are drawn one by one without replacement from a pack of 52 cards. What is the probability of getting first card is ace and the second card as king?",
+    "option_1": "4/663",
+    "option_2": "5/169",
+    "option_3": "1/169",
+    "option_4": "4/13",
+    "answer": "1"
+  },
+  {
+    "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\nStatements:\nI. All P are Q.\nII. Some Q are Z.\nIII. Some Z are T.\nConclusions:\nI. Some T are P.\nII. Some P are Z.\nIII. No T is Z.",
+    "option_1": "None of the conclusions follow",
+    "option_2": "Only conclusion II follows",
+    "option_3": "Only conclusion I follows",
+    "option_4": "Both conclusions II and III follow",
+    "answer": "1"
+  },
+  {
+    "question": "With reference to the comic book 'India’s Women Unsung Heroes', consider the following statements:\n1. It is a pictorial book telling the stories of 20 unsung women freedom fighters.\n2. It mentions Rani Abbakka who thwarted British attacks for several decades.\nWhich of the following statements given above is/are correct?",
+    "option_1": "1 only",
+    "option_2": "2 only",
+    "option_3": "Both 1 and 2",
+    "option_4": "Neither 1 nor 2",
+    "answer": "1"
+  },
+  {
+    "question": "What is the name of the lake between the Godavari and Krishna river deltas near the city of Eluru in Andhra Pradesh?",
+    "option_1": "Sudarshana lake ",
+    "option_2": "Pichola Lake",
+    "option_3": "Kolleru Lake",
+    "option_4": "Loktak Lake",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following countries is not a part of NAFTA (North American Free Trade Association)?",
+    "option_1": "Brazil",
+    "option_2": "Canada",
+    "option_3": "Mexico",
+    "option_4": "USA",
+    "answer": "1"
+  },
+  {
+    "question": "Given below are two statements one labelled as Assertion (A) and the other labelled as Reason (R).\nAnswer by using the codes given below.\nAssertion (A): Union Ministers can be dismissed by the Prime Minister.\nReason (R): A Union Minister is appointed by the President only on the advice of the Prime Minister.",
+    "option_1": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "option_2": "Both (A) and (R) are true, but (R) is not a correct explanation of (A)",
+    "option_3": "(A) is true, but (R) is false",
+    "option_4": "(A) is false, but (R) is true",
+    "answer": "4"
+  },
+  {
+    "question": " With reference to the Earth’s atmosphere and solar radiation, which one of the following statements is correct?",
+    "option_1": "The ultraviolet (UV) radiation received at the Earth's surface is roughly about one-third of the total solar radiation.",
+    "option_2": "Visible light waves make up the majority of the solar radiation that reaches the Earth's surface.",
+    "option_3": "Ultraviolet (UV) rays are mostly absorbed by nitrogen in the upper atmosphere.",
+    "option_4": "Visible light waves are a part of the infrared spectrum of electromagnetic waves.",
+    "answer": "2"
+  },
+  {
+    "question": "Which one of the following findings is NOT observed in Rutherford's Nuclear Model of Atom?",
+    "option_1": "There is a neutral centre in an atom called nucleus",
+    "option_2": "Nearly all the mass of an atom resides in the nucleus",
+    "option_3": "The electrons revolve around the nucleus in a circular path",
+    "option_4": "The size of a nucleus is very small as compared to the size of atom",
+    "answer": "1"
+  },
+  {
+    "question": "According to clause (2) of ________ of the Constitution of India, the President of India appoints the Chief Justice of India.",
+    "option_1": "Article 127",
+    "option_2": "Article 121",
+    "option_3": "Article 124",
+    "option_4": "Article 118",
+    "answer": "3"
+  },
+  {
+    "question": "What was the theme of the 67th National Conference organized by the Indian Achievers' Forum in January 2025?",
+    "option_1": "Mission Atmanirbhar Bharat",
+    "option_2": "Sustainable Development Goals 2030",
+    "option_3": "Global Collaboration for Ethics and Business",
+    "option_4": "Mission Viksit Bharat 1947 to 2047",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following tools did India adopt for economic development after gaining independence?",
+    "option_1": "Privatisation",
+    "option_2": "Liberalisation",
+    "option_3": "Decentralised planning",
+    "option_4": "Centralised planning",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is left in the sodium hydroxide solution after removing the soap?",
+    "option_1": "Alcohol",
+    "option_2": "Glycerol ",
+    "option_3": "Esters ",
+    "option_4": "Phenol ",
+    "answer": "2"
+  },
+  {
+    "question": "Consider the following statements regarding Rail Kaushal Vikas Yojana:\n1. It was launched in 2021 by the Ministry of Railways under PM Kaushal Vikas Yojana specifically for 10th pass youth in the age group of 18 to 35 years. \n2. Youth skilled and certified under this scheme will be given preferential treatment for vacancy in Railways.\nWhich of the above statements is/are correct?",
+    "option_1": "1 Only ",
+    "option_2": "2 Only ",
+    "option_3": "Both1 and 2",
+    "option_4": "None ",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following friction opposes the impending motion of the car moving away from the circle?",
+    "option_1": "Fluid",
+    "option_2": "Rolling",
+    "option_3": "Sliding",
+    "option_4": "Static",
+    "answer": "4"
+  },
+  {
+    "question": "What is the name of the supercomputing systems inaugurated by Prime Minister Narendra Modi in Pune, developed under the National Supercomputing Mission?",
+    "option_1": "PARAM Rudra",
+    "option_2": "PARAM Vishwakarama",
+    "option_3": "PARAM Siddhi",
+    "option_4": "PARAM Shakti",
+    "answer": "1"
+  },
+  {
+    "question": "‘Ustad Bismillah Khan Yuva Puraskar’ of the Sangeet Natak Akademi is NOT awarded in which of the following categories?",
+    "option_1": "Music",
+    "option_2": "Dance",
+    "option_3": "Theatre",
+    "option_4": "Literature",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following river systems is responsible for the formation of the Sundarbans delta?",
+    "option_1": "Cauvery",
+    "option_2": "Sindhu",
+    "option_3": "Godavari",
+    "option_4": "Ganga-Brahmaputra-Meghna",
+    "answer": "4"
+  },
+  {
+    "question": "Consider the following statements with reference to the 5G Technology:\n1. It enables a new kind of network that is designed to connect virtually everyone and everything together including machines, objects, and devices.\n2. 5G has higher latency as compared to 4G.\n3. High Band Spectrum of 5G greatly enhances futuristic 5G technology applications like Internet of Things (IoT) and smart technology.\nWhich of the above statements is/are correct?",
+    "option_1": "1 and 2 only",
+    "option_2": "2 and 3 only",
+    "option_3": "1 and 3 only",
+    "option_4": "1, 2 and 3",
+    "answer": "3"
+  },
+  {
+    "question": "Which animal was declared the official mascot of 2024 Khelo India Winter Games?",
+    "option_1": "Sheep",
+    "option_2": "Yak ",
+    "option_3": "Snow bear",
+    "option_4": "Snow leopard",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following statements best describe the contribution of Chaitanya Mahaprabhu in the Bhakti movement?",
+    "option_1": "He emphasized the importance of personal devotion to Rama in the Ramcharitmanas.",
+    "option_2": "He was a Vaishnavite saint from Bengal, known for preaching ecstatic devotion to Krishna.",
+    "option_3": "He composed works like Sursagar and Sahitya Lahari, focusing on Krishna bhakti.",
+    "option_4": "He was a proponent of Bhakti for all, accepting ritualistic practices and embracing music and dance as forms of worship.",
+    "answer": "4"
+  },
+  {
+    "question": "Match the following :\n(a) Calcutta Madarsa (i) 1791\n(b) Banaras Sanskrit College (ii) 1781\n(c) English Education Act (iii) 1854\n(d) Wood's Despatch (iv) 1835\nChoose the correct answer of the following:",
+    "option_1": "(a) - (i), (b) - (ii), (c) - (iii), (d) - ​(iv)",
+    "option_2": "(a) - (ii), (b) - (i), (c) - (iv), (d) - ​(iii)",
+    "option_3": "(a) - (iii), (b) - (ii), (c) - (i), (d) - ​(iv)",
+    "option_4": "(a) - (iv), (b) - (iii), (c) - (ii), (d) - ​(i)",
+    "answer": "2"
+  },
+  {
+    "question": "What is a currency whose intrinsic metallic value is less than its face value called?",
+    "option_1": "Hot currency",
+    "option_2": "Fiat currency",
+    "option_3": "Token currency",
+    "option_4": "Standard currency",
+    "answer": "3"
+  },
+  {
+    "question": "Which king rehabilitated the artists of Vijaynagar Kingdom and encouraged Mysore painting?",
+    "option_1": "Serfoji II",
+    "option_2": "Tipu Sultan",
+    "option_3": "Raja Wodeyar I",
+    "option_4": "Yaduraya Wodeyar",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following travellers gave account of Untouchability prevailing in India during his visit? ",
+    "option_1": "Hsuan Tsang",
+    "option_2": "I-Tsing",
+    "option_3": "Sung Yen",
+    "option_4": "Fa-Hien ",
+    "answer": "4"
+  },
+  {
+    "question": "When some goods or productive factors are completely fixed in amount, regardless of price, the supply curve is",
+    "option_1": "horizontal",
+    "option_2": "downward sloping to the right",
+    "option_3": "vertical",
+    "option_4": "upward sloping to the right",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following Committees was constituted for reforms in Tax Structure?",
+    "option_1": "Chelliah Committee",
+    "option_2": "Tendulkar Committee",
+    "option_3": "Lakdawala Committee",
+    "option_4": "Manmohan Singh Committee",
+    "answer": "1"
+  },
+  {
+    "question": "Who among the following popularised the guitar as an instrument in Hindustani classical music?",
+    "option_1": "Ustad Ali Akbar Khan",
+    "option_2": "Pandit Brij Bhushan Kabra",
+    "option_3": "Pandit Shivkumar Sharma",
+    "option_4": "Pandit Hariprasad Chaurasia",
+    "answer": "2"
+  },
+  {
+    "question": "Last year, the ratio of salaries of Arun and Bhargav was 4 : 5. If in the current year, the salary of each of them is increased by ₹5,000, the new ratio becomes 9 : 11. What is Arun's salary in the current year?",
+    "option_1": "₹50,000",
+    "option_2": "₹55,000",
+    "option_3": "₹60,000 ",
+    "option_4": "₹45,000",
+    "answer": "4"
+  },
+  {
+    "question": "A person invested Rs. 10,000 for one year at 10% p.a. (at compound interest) and after one year he invests the complete amount at 20% p.a. for another one year (at compound interest). Find the final amount at the end of two years.",
+    "option_1": "Rs. 11,000",
+    "option_2": "Rs. 10,000",
+    "option_3": "Rs. 14,400",
+    "option_4": "Rs. 13,200",
+    "answer": "4"
+  },
+  {
+    "question": "A pipe can fill a cistern in 10 hours. Another pipe B can empty it in 14 hours. If both the pipes are opened simultaneously, find the time taken to fill the cistern.",
+    "option_1": "30",
+    "option_2": "50",
+    "option_3": "40",
+    "option_4": "35",
+    "answer": "4"
+  },
+  {
+    "question": "If x + y = 4 and 1/x + 1/y = 16/15 then what is the value of (x3 + y3) ?",
+    "option_1": "18",
+    "option_2": "19",
+    "option_3": "21",
+    "option_4": "16",
+    "answer": "2"
+  },
+  {
+    "question": "Three varieties of tea, whose cost prices per kg are Rs. 500, Rs. 720 and Rs. 900 are blended in the ratio 9 : 5 : 11. What should be the selling price per kg of the blended tea if the seller has to make a profit of 20%?",
+    "option_1": "Rs. 884",
+    "option_2": "Rs. 854",
+    "option_3": "Rs. 844",
+    "option_4": "Rs. 864",
+    "answer": "4"
+  },
+  {
+    "question": "A person travels from hostel to college at a speed of 20 kmph and reaches 11.5 minutes late. If he cycles at a speed of 24 kmph and covers the distance 11.5 minutes earlier, find the distance (in km) between the hostel and college.",
+    "option_1": "47 ",
+    "option_2": "49 ",
+    "option_3": "46 ",
+    "option_4": "48",
+    "answer": "3"
+  },
+  {
+    "question": "40 kg of an alloy A is mixed with 63 kg of alloy B. If alloy A has lead and tin in the ratio 2 : 3 and alloy B has tin and copper in the ratio 2 : 5, then find the amount of tin in the new alloy ?",
+    "option_1": "24 kg",
+    "option_2": "18 kg",
+    "option_3": "36 kg",
+    "option_4": "42 kg",
+    "answer": "4"
+  },
+  {
+    "question": "A boat travels a distance of 78 km in the downstream direction and it travels a distance of 56 km in the upstream direction. If the speed of the boat in still water is 20 km/h and the speed of the current is 6 km/h. Find the time taken by boat to travel the total distance.",
+    "option_1": "6 hours",
+    "option_2": "7 hours",
+    "option_3": "8 hours",
+    "option_4": "9 hours",
+    "answer": "2"
+  },
+  {
+    "question": "If ax = by = cz and abc = 1, then what is xy + yz + zx equal to?",
+    "option_1": "xyz",
+    "option_2": "x + y + z",
+    "option_3": "0",
+    "option_4": "1",
+    "answer": "3"
+  },
+  {
+    "question": "The value of (1 +  sin4 A - cos4 A) cosec2 A is:",
+    "option_1": "-2",
+    "option_2": "2",
+    "option_3": "1",
+    "option_4": "-1",
+    "answer": "2"
+  },
+  {
+    "question": "The average age of 15 students of a class is 14 years. Out of these, the average age to 6 students is 15 years and that of the other 8 students in 13 years. Find the age of the 15th student",
+    "option_1": "18 years",
+    "option_2": "16 years",
+    "option_3": "15 years",
+    "option_4": "14 years",
+    "answer": "2"
+  },
+  {
+    "question": "A circle is drawn inside a triangle ΔABC such that the point P, Q and R touches the side AB, AC and BC respectively. If the perimeter of the triangle is 20 cm and length of AQ and BR is 2 cm and 3 cm, then find the length of QC. (in cm)",
+    "option_1": "2 cm",
+    "option_2": "3 cm",
+    "option_3": "10 cm",
+    "option_4": "5 cm",
+    "answer": "4"
+  },
+  {
+    "question": "Sujatha sold 75 % of her goods at a profit of 24 % and the remaining at a loss of 40 %. What is her gain or loss percentage on the whole transaction?",
+    "option_1": "8 % gain",
+    "option_2": "10 % gain",
+    "option_3": "9 % loss",
+    "option_4": "7.5 % loss",
+    "answer": "1"
+  },
+  {
+    "question": "A box contains 3 bottles of juice, 4 bottles of lassi and 6 bottles of milkshake. 2 bottles are picked up randomly, what is the probability that both the bottles are of lassi?",
+    "option_1": "1/9",
+    "option_2": "1/6",
+    "option_3": "1/13",
+    "option_4": "14/13",
+    "answer": "3"
+  },
+  {
+    "question": "Find the median of the following data 27, 33, 67, 56, 42, 39, 38, 40 and 44. If observation 33 is removed from the data then find the ratio of new median to the old median.",
+    "option_1": "32 : 33",
+    "option_2": "41 : 43",
+    "option_3": "41 : 40",
+    "option_4": "37 : 33",
+    "answer": "3"
+  },
+  {
+    "question": "A cuboid of height 9 m and volume 1620 m3. If the sum of length, breadth and height of the cuboid is 36 m and diagonal length is 15√2 m, then find the lateral surface area of the given cuboid. (m2)",
+    "option_1": "180 m2",
+    "option_2": "846 m2",
+    "option_3": "486 m2",
+    "option_4": "886 m2",
+    "answer": "3"
+  },
+  {
+    "question": "What should come in the place of (?) for the expression given below.\n√{1 + [3^2 × 2 + {96 ÷ 6 × 3 - (11_1/9% of 81 + √81)}]} = ?",
+    "option_1": "6",
+    "option_2": "7",
+    "option_3": "9",
+    "option_4": "8",
+    "answer": "2"
+  },
+  {
+    "question": "A starts a business with a capital of Rs. 1200. B and C join the business with some investment after 3 and 6 months respectively. If end of the year their profit is divided in the ratio of 2 : 3 : 5, what is the investment of B in the business?",
+    "option_1": "Rs. 3600",
+    "option_2": "Rs. 1800",
+    "option_3": "Rs. 2400",
+    "option_4": "Rs. 6000",
+    "answer": "3"
+  },
+  {
+    "question": "What should come in the place of (?) for the expression given below?\n√(sec^4 θ - tan^4 θ - tan^2 θ) × √(cosec^4 θ - cot^4 θ - cot^2 θ) = ?",
+    "option_1": "cosθ × cosecθ",
+    "option_2": "sec^2 θ",
+    "option_3": "secθ × cosecθ",
+    "option_4": "cosecθ",
+    "answer": "3"
+  },
+  {
+    "question": "If the length of a chord of a circle, that makes an angle of 60° with the tangent drawn at one end point the chord, is 8√3 cm, then the radius of the circle will be:",
+    "option_1": "6 cm",
+    "option_2": "8 cm",
+    "option_3": "7 cm",
+    "option_4": "5 cm",
+    "answer": "2"
+  },
+  {
+    "question": "The efficiency of A, B, and C is 2 : 3 : 5. A alone can complete a work in 50 days. They all work together for 5 days and then C left the work, in how many days A and B together can complete the remaining work?",
+    "option_1": "50 days",
+    "option_2": "30 days",
+    "option_3": "20 days",
+    "option_4": "10 days",
+    "answer": "4"
+  },
+  {
+    "question": "A plane covers a distance of 800 m before making an angle of 30° while taking off. If the height of the plane from the ground is 2 km then how much distance(in metre) in total it would have covered horizontally?",
+    "option_1": "400(5√3 + 2) m",
+    "option_2": "(1600√3 + 400) m",
+    "option_3": "(1200 + 400√3) m",
+    "option_4": "(2000√3 + 400) m",
+    "answer": "1"
+  },
+  {
+    "question": "If tanA + tan(45°) + tanC = tan(45°) × tanA × tanC, then find the tan(A + C).",
+    "option_1": "1",
+    "option_2": "-1",
+    "option_3": "0",
+    "option_4": "2",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate synonym of the given word.\nContradict ",
+    "option_1": "Permit",
+    "option_2": "Contravene",
+    "option_3": "Verify",
+    "option_4": "Vouch",
+    "answer": "2"
+  },
+  {
+    "question": "Convert this passive voice into active voice.\n\"Is the poetry being recited by her?\"",
+    "option_1": "Is she recites the poetry?",
+    "option_2": "Does she recite the poetry? ",
+    "option_3": "Is she reciting the poetry?",
+    "option_4": "She is reciting the poetry",
+    "answer": "3"
+  },
+  {
+    "question": "You are exploring ways to improve communication. Select a synonym for the underlined word to make it better.\nIndividuals who are _taciturn_ often find it challenging to express themselves in large groups.",
+    "option_1": "Talkative",
+    "option_2": "Verbose",
+    "option_3": "Reticent",
+    "option_4": "Garrulous",
+    "answer": "3"
+  },
+  {
+    "question": "Given below are four jumbled sentences. Select the option that gives their correct order.\nS1: Once in a village, lived two friends Sonu and Monu. \nS6: At this his friend Monu interrupted him.\nA: One day, they had to go to another village for some work.\nB: On their way,  Sonu saw a beautiful sword hanging by a tree.\nC: He quickly went ahead and grabbed it.\nD: And shouted happily \"what a beautiful sword I have found\".",
+    "option_1": "ACBD",
+    "option_2": "BCDA",
+    "option_3": "CABD",
+    "option_4": "ABCD",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate meaning of the underlined word.\nThe father advised his son, ”Don’t be a fool who _squanders_ on idle lavishness and laziness”. ",
+    "option_1": "Never talks of his achievements  ",
+    "option_2": "Utilises any opportunity prudently ",
+    "option_3": "Wastes time and money extravagantly ",
+    "option_4": "Violates the sanctity of a religious place",
+    "answer": "3"
+  },
+  {
+    "question": "The sentence 'We will attend the wedding tonight.' is in",
+    "option_1": "Future Continuous Tense",
+    "option_2": "Future Perfect Tense",
+    "option_3": "Future Perfect Continuous Tense",
+    "option_4": "Future Indefinite Tense",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: Select the most appropriate ANTONYM of the underlined word.\nThe minister was accused of indulging in _nepotism_.",
+    "option_1": "hatred",
+    "option_2": "impartiality",
+    "option_3": "condemnation",
+    "option_4": "indifference",
+    "answer": "2"
+  },
+  {
+    "question": "Directions: Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.\n_Just when I_  sit down, than the doorbell rang.",
+    "option_1": "As soon as I did",
+    "option_2": "No sooner did I",
+    "option_3": "Hardly when I",
+    "option_4": "No substitution required",
+    "answer": "2"
+  },
+  {
+    "question": "Direction: Out of the given four sentences, choose the one which is grammatically correct.",
+    "option_1": "Both of them serve as past record of success.",
+    "option_2": "Both of them serves as past record of success.",
+    "option_3": "Both of them serving as past record of success.",
+    "option_4": "Both of them is serving as past record of success.",
+    "answer": "1"
+  },
+  {
+    "question": "An office for which no salary is paid.",
+    "option_1": "gratis",
+    "option_2": "honorary",
+    "option_3": "free",
+    "option_4": "hospitable",
+    "answer": "2"
+  },
+  {
+    "question": "Choose the correct sequence of tenses.\nBy the time we ________ to the station, the train ________.",
+    "option_1": "arrived, had left",
+    "option_2": "arrive, has left",
+    "option_3": "arrive, had left",
+    "option_4": "had arrived, will leave",
+    "answer": "1"
+  },
+  {
+    "question": "Recast this active sentence into its passive form:\n\"The dog chased the cat.\"",
+    "option_1": "The cat was being chased by the dog",
+    "option_2": "The dog was chased by the cat",
+    "option_3": "The cat had been chased by the dog.",
+    "option_4": "The cat was chased by the dog.",
+    "answer": "4"
+  },
+  {
+    "question": "Directions: This question consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly.\nS1: A team at the Department of Electrical Communication Engineering (ECE), Indian Institute of Science (IISc) has developed a true random number generator (TRNG), which, the team says, can improve data encryption and provide improved security for sensitive digital data such as credit card details, passwords, and other personal information.\nP: The study describing the TRNG device has been published in the journal ACS Nano.\nQ: “Almost everything we do on the internet is encrypted for security.\nR: Encrypted information can be decoded only by authorised users who have access to a cryptographic ‘key’.\nS: The strength of this encryption depends on the quality of random number generation,” explained Nithin Abraham, a PhD student who is a part of a team led by Kausik Majumdar, Associate Professor at ECE, which has developed the TRNG device.\nS6: But the key needs to be unpredictable and, therefore, randomly generated to resist hacking.",
+    "option_1": "PSRQ",
+    "option_2": "PSQR",
+    "option_3": "PQSR",
+    "option_4": "PQRS",
+    "answer": "3"
+  },
+  {
+    "question": "Direction: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.\nS1: The river Ganga is very important for us culturally, spiritually, eco-logically as well as economically.\nS6: Journey in the right direction is firmly making progress, gathering momentum and becoming a people's movement. \nP: It is rich in cultural heritage, natural splendour and biodiversity.\nQ: People have used its water since the beginning of civilisation for different purposes. \nR: It has most dense cultivation in its basin and is critical for ensuring food and water security. \nS: We need to utilise its water for different purposes while ensuring that its natural ecology is protected. aquatic life thrives, and forests along the river remain rejuvenated. \nThe correct sequence should be",
+    "option_1": "QRSP",
+    "option_2": "QSRP",
+    "option_3": "RSQP",
+    "option_4": "PRQS",
+    "answer": "4"
+  },
+  {
+    "question": "Give below are six sentences four of which are jumbled. The first and the last sentences are given. Pick the option that gives the logically correct order of the four sentences.\nS-1: English education and the English language have done immense goods to India despite their glaring drawbacks.\nA: If not how could they have been inspired by these heroic struggles for freedom in other lands?\nB: English education, therefore, did us great good in the past.\nC: They studied Western thoughts, culture and the struggles for freedom done by different countries.\nD: Our leaders were not ignorant of English, instead they had studied this language thoroughly.\nS-6: Not only in the past English education is necessary for making our future.",
+    "option_1": "DCAB",
+    "option_2": "BACD",
+    "option_3": "BADC",
+    "option_4": "CABD",
+    "answer": "1"
+  },
+  {
+    "question": "In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech.\nThe landlady said to the tenant,\" Every room is fitted with an electric fan\".",
+    "option_1": "The landlady said to the tenant that every room is fitted with an electric fan.",
+    "option_2": "The landlady told the tenant that every room was fitted with an electric fan.",
+    "option_3": "The landlady told the tenant that every room is fitted with an electric fan.",
+    "option_4": "The landlady told the tenant that every room has been fitted with an electric fan.",
+    "answer": "2"
+  },
+  {
+    "question": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.\nS1. Climate zones significantly influence how regions across the world experience weather patterns. \nS6. Polar climates, on the other hand, are characterized by long, extremely cold winters and short, cool summers.\nP. These zones are primarily determined by the geographical location and altitude of a region. \nQ. The tropical climate is known for its consistent warmth and significant rainfall throughout the year. \nR. Temperate climates experience a wider range of temperatures throughout the year and distinct seasons. \nS. Based on these determinants, climates can be broadly categorized into tropical, temperate, and polar.",
+    "option_1": "PSQR",
+    "option_2": "SQRP",
+    "option_3": "PSRQ",
+    "option_4": "QRSP",
+    "answer": "1"
+  },
+  {
+    "question": "Select the INCORRECTLY spelt word.",
+    "option_1": "Rivalry",
+    "option_2": "Summary",
+    "option_3": "Primary",
+    "option_4": "Gallary",
+    "answer": "4"
+  },
+  {
+    "question": "Direction: Which of the following options is most similar in meaning to the given word?\nAllude",
+    "option_1": "Tell ",
+    "option_2": "Refer ",
+    "option_3": "Demonstrate ",
+    "option_4": "Instruct",
+    "answer": "2"
+  },
+  {
+    "question": "Find the word which is correctly spelt from the given options.",
+    "option_1": "Efficasy",
+    "option_2": "Mandaytory",
+    "option_3": "Hazardous",
+    "option_4": "Inadeqate",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number (1).\nThe Spartans, inhabitants of the ancient Greek city-state of Sparta, were renowned for their formidable military (1)_________ and disciplined way of life.",
+    "option_1": "prowess",
+    "option_2": "mastery",
+    "option_3": "talent",
+    "option_4": "aptitude",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number (2).\nLiving in a society that prioritized collectivism Spartans were trained from a( 2) _______age in the art of warfare.",
+    "option_1": "primary",
+    "option_2": "nascent",
+    "option_3": "infant",
+    "option_4": "young",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number (3).\nSpartan society was (3) ________ around a rigid system known as the agoge...",
+    "option_1": "constructed",
+    "option_2": "arranged",
+    "option_3": "structured",
+    "option_4": "classified",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number (4).\n...an education and training program that (4) ________ to mould young Spartans into formidable warriors.",
+    "option_1": "aimed",
+    "option_2": "resolved",
+    "option_3": "proposed",
+    "option_4": "wished",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate option to fill in blank number (5).\nThis system focused on (5) ________ qualities such as discipline, loyalty, and physical fitness",
+    "option_1": "instilling",
+    "option_2": "infusing",
+    "option_3": "inserting",
+    "option_4": "injecting",
+    "answer": "1"
+  }
+]
+
