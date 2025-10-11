@@ -1,0 +1,802 @@
+[
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image001.png",
+    "option_1": "1455",
+    "option_2": "1452",
+    "option_3": "1458",
+    "option_4": "1456",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image003.png",
+    "option_1": "4",
+    "option_2": "3",
+    "option_3": "6",
+    "option_4": "5",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image005.png",
+    "option_1": "3, 6, 2, 4, 1, 5",
+    "option_2": "3, 4, 6, 5, 1, 2",
+    "option_3": "3, 6, 5, 1, 4, 2",
+    "option_4": "3, 2, 6, 1, 4, 5",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image007.png",
+    "option_1": "IDMHDNQSFQ",
+    "option_2": "IDMHDNQVCS",
+    "option_3": "IDMHDNQUDS",
+    "option_4": "IDMHDQVCNT",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image009.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image010.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image011.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image012.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image013.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image015.png",
+    "option_1": "160",
+    "option_2": "297",
+    "option_3": "249",
+    "option_4": "196",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image017.png",
+    "option_1": "436",
+    "option_2": "546",
+    "option_3": "463",
+    "option_4": "564",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image019.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image020.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image021.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image022.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image023.png",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image025.png",
+    "option_1": "IPES",
+    "option_2": "EJCK",
+    "option_3": "EOVQ",
+    "option_4": "KRFV",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image027.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image028.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image029.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image030.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image031.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image033.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image034.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image035.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image036.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image037.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image039.png",
+    "option_1": "21",
+    "option_2": "20",
+    "option_3": "18",
+    "option_4": "24",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image041.png",
+    "option_1": "FWTGRQX",
+    "option_2": "EXTGRQX",
+    "option_3": "EWTGRQW",
+    "option_4": "EWTHSQW",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image043.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image044.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image045.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image046.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image047.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image049.png",
+    "option_1": "–, +, ×, ×, ÷, ×, =",
+    "option_2": "×,–, +, ×, ÷, ×, =",
+    "option_3": "×, ÷, ×, ×, =,–, +",
+    "option_4": "–, +, ×, ÷, ×, ×, =",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image051.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image052.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image053.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image054.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image055.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image057.png",
+    "option_1": "3",
+    "option_2": "4",
+    "option_3": "1",
+    "option_4": "2",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image059.png",
+    "option_1": "41",
+    "option_2": "21",
+    "option_3": "22",
+    "option_4": "17",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image061.png",
+    "option_1": "LMJDRIV",
+    "option_2": "UCLKYQI",
+    "option_3": "LMZDRVJ",
+    "option_4": "KQICUYL",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image063.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image064.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image065.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image066.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image067.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image069.png",
+    "option_1": "12 years",
+    "option_2": "14 years",
+    "option_3": "18 years",
+    "option_4": "16 years",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image071.png",
+    "option_1": "(1726, 998, 341)",
+    "option_2": "(127, 1002, 342)",
+    "option_3": "(23, 215, 123)",
+    "option_4": "(1730, 2197, 62)",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image073.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image074.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image075.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image076.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image077.png",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image079.png",
+    "option_1": "715623 – 326517",
+    "option_2": "321645281 - 812546123",
+    "option_3": "65428 - 82456",
+    "option_4": "81962457 – 75426918",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image081.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image082.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image083.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image084.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image085.png",
+    "answer": "1"
+  },
+  {
+    "question": "Which officer under Alauddin Khilji was required to maintain a register of merchants to ensure an adequate supply of goods?माल की पर्याप्त आपूर्ति सुनिश्चित करने हेतु अलाउद्दीन खिलजी के अधीन किस अधिकारी के लिए व्यापारियों का रजिस्टर बनाए रखना आवश्यक था?",
+    "option_1": "Nazir/नजीर",
+    "option_2": "Rais Parwana/रईस परवाना",
+    "option_3": "Muhtasib/मुहतसिब",
+    "option_4": "Shahna-i-Mandi/शहाना-ए-मंडी",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following is NOT correct with regards to the history of calculating National Income (NI) in India?भारत में राष्ट्रीय आय (NI) की गणना के इतिहास के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+    "option_1": "First official attempt to compute NI was made by PC Mahalanobis./NI की गणना करने का पहला आधिकारिक प्रयास पीसी महालनोबिस द्वारा किया गया था।",
+    "option_2": "First scientific method to compute NI was used by Dr VKRV Rao./NI की गणना करने के लिए पहली वैज्ञानिक पद्धति का उपयोग डॉ वी. के. आर.वी राव ने किया था।",
+    "option_3": "Dadabhai Naoroji divided the Indian economy into two parts: primary sector and secondary sector./ दादाभाई नौरोजी ने भारतीय अर्थव्यवस्था को दो भागों में विभाजित कियाः प्राथमिक क्षेत्र और द्वितीयक क्षेत्र।",
+    "option_4": "First attempt to compute NI was made by Dadabhai Naoroji./NI की गणना करने का पहला प्रयास दादाभाई नौरोजी ने किया था।",
+    "answer": "3"
+  },
+  {
+    "question": "Who among the following, while praising the amending feature of the Indian Constitution said that This variety in the amending process is wise but is rarely found'?निम्नलिखित में से किसने भारतीय संविधान की संशोधित विशेषता की प्रशंसा करते हुए कहा था कि 'संशोधन प्रक्रिया में यह विविधता बुद्धिमानी है लेकिन बहुत कम पाई जाती है'?",
+    "option_1": "Granville Austin/ग्रेनविले ऑस्टिन",
+    "option_2": "KC Wheare/के.सी. व्हीर",
+    "option_3": "Ivor Jennings/इवोर जेनिंग्स",
+    "option_4": "HM Seervai/एचएम सीरवई",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following characteristics is NOT of Aves? निम्नलिखित में से कौन-सी विशेषता, एवीज (Aves) की नहीं है?",
+    "option_1": "These are warm-blooded animals./ये गर्म खून वाले जीव होते हैं।",
+    "option_2": "They give birth to live young ones with some exceptions those lay eggs. ये जीवित बच्चों को जन्म देते हैं, कुछ अपवादों को छोड़कर जो कि अंडे देते हैं।",
+    "option_3": "They breathe through the lungs/ये फेफड़ों से सांस लेते हैं।",
+    "option_4": "They have four-chambered heart. / इनका हृदय चार कक्षीय होता है।",
+    "answer": "2"
+  },
+  {
+    "question": "Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?महापद पक्षी, केकड़ाभक्षी मकाक (बंदर), निकोबार कबूतर और विशालकाय दस्यु केकड़े जैसी प्रजातियों का घर है?",
+    "option_1": "Campbell Bay National Park/कैंपबेल बे राष्ट्रीय उद्यान",
+    "option_2": "Raimona National Park / रायमोना राष्ट्रीय उद्यान",
+    "option_3": "Mouling National Park / मौलिंग राष्ट्रीय उद्यान",
+    "option_4": "Papikonda National Park / पापिकोंडा राष्ट्रीय उद्यान",
+    "answer": "1"
+  },
+  {
+    "question": "With which of the following dances is Yamini Krishnamurthy associated?यामिनी कृष्णमूर्ति निम्नलिखित में से किस नृत्य से सम्बंधित हैं?",
+    "option_1": "Bharatanatyam / भरतनाट्यम्",
+    "option_2": "Sattriya/सत्रिया",
+    "option_3": "Mohiniyattam/मोहिनीअट्टम्",
+    "option_4": "Odissi / ओडिसी",
+    "answer": "1"
+  },
+  {
+    "question": "In which year did the Central Government launch the National Air Sports Policy?केंद्र सरकार ने किस वर्ष 'राष्ट्रीय हवाई खेल नीति' शुरू की?",
+    "option_1": "2021",
+    "option_2": "2020",
+    "option_3": "2022",
+    "option_4": "2023",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following options represents the total income earned by individuals from all the sources before deduction of personal income taxes? निम्नलिखित में से कौन-सा विकल्प, वैयक्तिक आयकरों की कटौती से पहले सभी स्रोतों से व्यक्तियों द्वारा अर्जित कुल आय को निरूपित करता",
+    "option_1": "Personal income / वैयक्तिक आय",
+    "option_2": "Gross income / सकल आय",
+    "option_3": "National income / राष्ट्रीय आय",
+    "option_4": "Disposable income/प्रयोज्य आय",
+    "answer": "1"
+  },
+  {
+    "question": "Which of the following statements is/are correct regarding the Arya Samaj and Swami Dayanand Saraswati?आर्य समाज और स्वामी दयानंद सरस्वती के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?Statement/कथन A:The original name of Swami Dayanand Saraswati was Mool Shankar Tiwari.स्वामी दयानंद सरस्वती का मूल नाम, मूलशंकर तिवारी था।Statement/कथन B:Swami Dayanand Saraswati was a native of Gujarat. स्वामी दयानंद सरस्वती, गुजरात के मूल निवासी थे।Statement/कथन C:The Arya Samaj was founded in the year 1875. आर्य समाज की स्थापना वर्ष 1875 में हुई थी।",
+    "option_1": "All of A, B and C/A, B और C सभी",
+    "option_2": "Only A/केवल A",
+    "option_3": "Only A and B/केवल A और B",
+    "option_4": "Only C/केवल C",
+    "answer": "1"
+  },
+  {
+    "question": "In India, who among the following is responsible for auditing all receipts and expenditure of the Union and State governments?भारत में, केंद्र और राज्य सरकारों की सभी प्राप्तियों और व्यय की संपरीक्षा करने की जिम्मेदारी निम्नलिखित में से किसकी होती है?",
+    "option_1": "Attorney General for India / भारत के महान्यायवादी",
+    "option_2": "Advocate General/महाधिवक्ता",
+    "option_3": "Union Public Service Commission/संघ लोक सेवा आयोग",
+    "option_4": "Comptroller and Auditor- General/नियंत्रक एवं महालेखापरीक्षक",
+    "answer": "4"
+  },
+  {
+    "question": "What will be the average kinetic energy per molecule in SI units for an ideal gas at a temperature of 25°C? 25°C के तापमान पर एक आदर्श गैस के लिए एसआई (SI) इकाई में प्रति अणु औसत गतिज ऊर्जा क्या होगी?",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image089.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image090.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image091.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image092.png",
+    "answer": "2"
+  },
+  {
+    "question": "Which amongst the following terms was used for the land given to Brahmins during the Chola empire? चोल साम्राज्य के दौरान ब्राह्मणों को दी गई भूमि के लिए निम्नलिखित में से किस शब्द का उपयोग किया जाता था?",
+    "option_1": "Brahmadeya/ब्रह्मदेय",
+    "option_2": "Shalabhoga/शाला भोग",
+    "option_3": "Tirunmatukkani/तिरुनमटुकन्नी",
+    "option_4": "Vellanvagai/वेल्लनवगाई",
+    "answer": "1"
+  },
+  {
+    "question": "Which law states that endothermic animals from cold climates have smaller extremities or appendages than closely related species from warm climates?कौन-सा सिद्धांत यह उल्लेख करता है कि शीत जलवायु के आंतरोष्मी प्राणियों में ऊष्म जलवायु से संबंधित प्रजातियों की तुलना में छोटे अंग या उपांग होते हैं?",
+    "option_1": "Harper's rule/हार्पर का नियम",
+    "option_2": "Moller's rule/मोलर का नियम",
+    "option_3": "Allen's rule/एलन का नियम",
+    "option_4": "Reich's rule/रीच का नियम",
+    "answer": "3"
+  },
+  {
+    "question": "What was the distance (around in km) covered by the first-ever train between Bombay and Thane in 1853? 1853 में बंबई और ठाणे के बीच पहली बार ट्रेन द्वारा तय की गई दूरी (लगभग किमी में) कितनी थी?",
+    "option_1": "38",
+    "option_2": "25",
+    "option_3": "34",
+    "option_4": "51",
+    "answer": "3"
+  },
+  {
+    "question": "Who was the chief coordinator for the G20 summit hosted by India?भारत द्वारा आयोजित G20 शिखर सम्मेलन के लिए मुख्य समन्वयक कौन है?",
+    "option_1": "Vijay Gokhale/विजय गोखले",
+    "option_2": "Vinay Kwatra/विनय कात्रा",
+    "option_3": "S Jaishankar/एस जयशंकर",
+    "option_4": "Harsh Vardhan Shringla/ हर्षवर्धन श्रृंगला",
+    "answer": "4"
+  },
+  {
+    "question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI onभारतीय रिजर्व बैंक ने को एनबीएफसी-एमएफआई (NBFC- MFI) के लिए एक व्यापक नियामक ढांचा पेश किया था।",
+    "option_1": "10 December 2015/10 दिसंबर 2015",
+    "option_2": "2 December 2011/2 दिसंबर 2011",
+    "option_3": "8 December 2013/8 दिसंबर 2013",
+    "option_4": "5 December 2012/5 दिसंबर 2012",
+    "answer": "2"
+  },
+  {
+    "question": "Identify the INCORRECTLY matched pair(s) of the British Governor-Generals of India and the events with which they are associated.भारत के ब्रिटिश गवर्नर जनरलों और उनसे संबंधित घटनाओं के मिलान के गलत युग्मों का चयन कीजिए।i) Lord Dalhousie Revolt of 1857 -लॉर्ड डलहौजी 1857 का विद्रोहii) Lord Auckland - First Afghan Warलॉर्ड ऑकलैंड - प्रथम अफगान युद्धiii) Lord Canning - Wood's Despatch 1854लॉर्ड कैनिंग - वुड्स डिस्पैच 1854",
+    "option_1": "Only (ii) and (iii) / केवल (ii) और (iii)",
+    "option_2": "Only (i) and (iii) / केवल (i) और (iii)",
+    "option_3": "Only (ii)/केवल (ii)",
+    "option_4": "Only (i)/केवल (i)",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following statements are INCORREСТ?निम्नलिखित में से कौन-सा कथन गलत है?1) The Original Jurisdiction establishes the Supreme Court as an umpire in all disputes regarding federal matters / मूल अधिकार क्षेत्र संघीय मामलों से संबंधित सभी विवादों में सर्वोच्च न्यायालय को एक निर्णायक के रूप में स्थापित करता है।2) The Supreme Court can give special orders in the form of writs/सर्वोच्च न्यायालय रिट के रूप में विशेष आदेश दे सकता है।3) Article 129 of the Indian Constitution mention about appointment of acting Chief Justice of India / भारतीय संविधान के अनुच्छेद 129 में भारत के कार्यवाहक मुख्य न्यायाधीश की नियुक्ति का उल्लेख है।4) Every Judge of the Supreme Court of India shall be appointed by the Prime Minister of India / भारत के सर्वोच्च न्यायालय के प्रत्येक न्यायाधीश की नियुक्ति भारत के प्रधान मंत्री द्वारा की जाएगी।",
+    "option_1": "3 and 2/3 और 2",
+    "option_2": "2 and 1/2 और 1",
+    "option_3": "3 and 4/3 और 4",
+    "option_4": "1 and 4/1 और 4",
+    "answer": "3"
+  },
+  {
+    "question": "According to Mendeleev's Periodic Table, which elements' properties matched up remarkably well with eka-silicon?मेंडलीफ की आवर्त सारणी के अनुसार, किन तत्वों के गुण ईका-सिलिकॉनके साथ पर्याप्त मेल खाते हैं?",
+    "option_1": "Scandium/स्कैंडियम",
+    "option_2": "Germanium/जर्मेनियम",
+    "option_3": "Titanium/टाइटेनियम",
+    "option_4": "Gallium/गैलियम",
+    "answer": "2"
+  },
+  {
+    "question": "Which country do the 'Veddas' traditional forest dwellers who foraged, hunted and lived in close-knit groups in caves in the dense jungles?'वेदा (Veddas)' पारंपरिक वनवासी किस देश के निवासी थे, जो चारा खोजते थे, शिकार करते थे और घने जंगलों में गुफाओं में एकजुट समूहों में रहते थे?",
+    "option_1": "Bhutan/भूटान",
+    "option_2": "Sri Lanka/श्रीलंका",
+    "option_3": "Myanmar/म्यांमार",
+    "option_4": "Nepal/नेपाल",
+    "answer": "2"
+  },
+  {
+    "question": "Papanasam Ramayya Sivan was an Indian composer of which music style?पापनासम रामय्या सिवन किस संगीत शैली के भारतीय संगीतकार थे?",
+    "option_1": "Karnatak music/ कर्नाटक संगीत",
+    "option_2": "Bhajan/भजन",
+    "option_3": "Qawwali/कव्वाली",
+    "option_4": "Folk music/लोक संगीत",
+    "answer": "1"
+  },
+  {
+    "question": "In May 2023, the Supreme Court of India granted couples the right to get divorce on the grounds of 'irretrievable breakdown of marriage' under Indian Constitution. of theमई 2023 में, भारत के सर्वोच्च न्यायालय ने युगलों को भारतीय संविधान के के अंतर्गत 'विवाह के असाध्य रूप से टूटने' के आधार पर तलाक लेने का अधिकार दिया।",
+    "option_1": "Article 142(1)/अनुच्छेद 142(1)",
+    "option_2": "Article 132(1)/अनुच्छेद 132(1)",
+    "option_3": "Article 122(1)/अनुच्छेद 122(1)",
+    "option_4": "Article 152(1)/अनुच्छेद 152(1)",
+    "answer": "1"
+  },
+  {
+    "question": "Who among the following was the author of 'Brihat Katha Kosh'?निम्नलिखित में से कौन 'बृहत कथा कोष (Brihat Katha Kosh)' के लेखक थे?",
+    "option_1": "Kshemendra / क्षेमेंद्र",
+    "option_2": "Harisena/हरिषेण",
+    "option_3": "Dandin/दण्डी",
+    "option_4": "Bhavabhuti / भवभूति",
+    "answer": "2"
+  },
+  {
+    "question": "To check the presence of adulterated sugar solution honey, a cotton wick dipped in sample is ignited with a match stick. Adulteration is confirmed if:शहद में मिलावटी चीनी के घोल की जांच करने के लिए, नमूने में रुई की बत्ती भिगोकर उसे माचिस की तीली से जलाया जाता है। मिलावट की पुष्टि होती है यदिः",
+    "option_1": "it burns with a violet coloured flame/ यह बैंगनी रंग की लौ के साथ जलता है।",
+    "option_2": "it burns smoothly/यह आसानी से जल जाता है।",
+    "option_3": "it burns with a green coloured flame / यह हरे रंग की लौ के साथ जलता है।",
+    "option_4": "it burns with a crackling sound/ यह चटचटाहट की ध्वनि के साथ जलता है।",
+    "answer": "4"
+  },
+  {
+    "question": "When was the None of the Above (NOTA) ballot option first implemented in India?भारत में पहली बार 'इनमें से कोई नहीं' (NOTA) कब लागू किया गया था?",
+    "option_1": "2015",
+    "option_2": "2004",
+    "option_3": "2013",
+    "option_4": "2010",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image095.png",
+    "option_1": "20%",
+    "option_2": "35%",
+    "option_3": "25%",
+    "option_4": "5%",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image097.png",
+    "option_1": "226645",
+    "option_2": "221777",
+    "option_3": "221757",
+    "option_4": "230028",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image099.png",
+    "option_1": "18",
+    "option_2": "20",
+    "option_3": "16",
+    "option_4": "22",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image101.png",
+    "option_1": "3 : 7",
+    "option_2": "7 : 3",
+    "option_3": "2 : 7",
+    "option_4": "7 : 2",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image103.png",
+    "option_1": "16.8",
+    "option_2": "20",
+    "option_3": "19",
+    "option_4": "21",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image107.png",
+    "option_1": "1000",
+    "option_2": "100",
+    "option_3": "1",
+    "option_4": "10",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image109.png",
+    "option_1": "Rs.2,52,500",
+    "option_2": "Rs.2,40,750",
+    "option_3": "Rs.2,43,750",
+    "option_4": "Rs.2,48,750",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image111.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image112.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image113.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image114.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image115.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image117.png",
+    "option_1": "10",
+    "option_2": "3",
+    "option_3": "5",
+    "option_4": "7",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image119.png",
+    "option_1": "6",
+    "option_2": "4",
+    "option_3": "10",
+    "option_4": "8",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image121.png",
+    "option_1": "2",
+    "option_2": "4",
+    "option_3": "1",
+    "option_4": "3",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image124.png",
+    "option_1": "5x + 7y – 16 = 0",
+    "option_2": "7x + 5y – 8 = 0",
+    "option_3": "5x – 7y – 8 = 0",
+    "option_4": "10x + 14y – 16 = 0",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image126.png",
+    "option_1": "27",
+    "option_2": "26.5",
+    "option_3": "25.5",
+    "option_4": "24",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image129.png",
+    "option_1": "88.15%",
+    "option_2": "76.53%",
+    "option_3": "81.21%",
+    "option_4": "80.12%",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image131.png",
+    "option_1": "2,58,233",
+    "option_2": "2,34,888",
+    "option_3": "2,36,807",
+    "option_4": "23,46,807",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image133.png",
+    "option_1": "15 liters",
+    "option_2": "12 liters",
+    "option_3": "27 liters",
+    "option_4": "20 liters",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image135.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image136.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image137.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image138.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image139.png",
+    "answer": "1"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image141.png",
+    "option_1": "160",
+    "option_2": "140",
+    "option_3": "240",
+    "option_4": "260",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image143.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image144.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image145.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image146.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image147.png",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image149.png",
+    "option_1": "27",
+    "option_2": "675",
+    "option_3": "25",
+    "option_4": "35",
+    "answer": "2"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image151.png",
+    "option_1": "60",
+    "option_2": "45",
+    "option_3": "42",
+    "option_4": "56",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image154.png",
+    "option_1": "12",
+    "option_2": "3.2",
+    "option_3": "2.6",
+    "option_4": "11",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image156.png",
+    "option_1": "203467",
+    "option_2": "830942",
+    "option_3": "589270",
+    "option_4": "1234560",
+    "answer": "3"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image158.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image159.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image160.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image161.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image162.png",
+    "answer": "4"
+  },
+  {
+    "question": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image164.png",
+    "option_1": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image165.png",
+    "option_2": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image166.png",
+    "option_3": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image167.png",
+    "option_4": "https://appxcontent.kaxa.in/website/bulk_uploader_images/1729946130755_image168.png",
+    "answer": "1"
+  },
+  {
+    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.(A) It is also called a nuclear family.(B) It is good to be in a small family because there is better management of resources.(C) A small family is one with parents and a maximum of two children.(D) The advantages of a small family are numerous.",
+    "option_1": "CADB ",
+    "option_2": "BACD",
+    "option_3": "CBDA",
+    "option_4": "ACBD",
+    "answer": "1"
+  },
+  {
+    "question": "Select the option that expresses the given sentence in active voice.The painting was admired by art enthusiasts from around the world.",
+    "option_1": "The painting was being admired by art enthusiasts from around the world.",
+    "option_2": "Art enthusiasts from around the world admired the painting.",
+    "option_3": "Art enthusiasts from around the world have admired the painting.",
+    "option_4": "The painting has been admired by art enthusiasts from around the world.",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate synonym of the given word.Taut",
+    "option_1": "Slack",
+    "option_2": "Tight",
+    "option_3": "Torn",
+    "option_4": "Flaccid",
+    "answer": "2"
+  },
+  {
+    "question": "The following sentence has been divided into four segments. Identify the segment that contains an error in the usage of the interjection.He replied / in a dry tone, / “Ouch! I will not work / for you anymore.”",
+    "option_1": "in a dry tone, ",
+    "option_2": "He replied",
+    "option_3": "for you anymore.”",
+    "option_4": "''Ouch! I will not work",
+    "answer": "4"
+  },
+  {
+    "question": "The following sentence has been split into four segments. Identify the segment that contains an error.Dr. Sinha has / brought about a new / book on social / impact of child labour.",
+    "option_1": "impact of child labour ",
+    "option_2": "book on social",
+    "option_3": "brought about a new ",
+    "option_4": "Dr. Sinha has",
+    "answer": "3"
+  },
+  {
+    "question": "Select the sentence that contains a spelling error.",
+    "option_1": "The host institution must provide the delegates with accomodation at a subsidised rate.",
+    "option_2": "The occurrence of the lunar eclipse is often a mystery for children.",
+    "option_3": "The boss addressed the meeting.",
+    "option_4": "Rail lines go parallel",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate homophone to fill in the blank.Her father _______ her to opt for a chemistry ______ in her final year.",
+    "option_1": "aloud; coarse ",
+    "option_2": "aloud; course",
+    "option_3": "allowed; course ",
+    "option_4": "allowed; coarse",
+    "answer": "3"
+  },
+  {
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.A. It was as simple as announcing what you have in your store or the services you offer in your premises.B. Over the years, advertising has evolved into a major industry that goes beyond informing to persuading and influencing.C. Advertising was initially meant to make people aware of the goods available in the market.D. It is a form of brainwashing consumers. ",
+    "option_1": "BADC ",
+    "option_2": "ADBC",
+    "option_3": "DABC ",
+    "option_4": "CABD",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate option to substitute the underlined part of the given sentence. If there is no need to substitute it, select ‘No substitution’.As the rulers of the planet, humans like to think that it is the largest creatures that will emerge victorious from the struggle for survival. ",
+    "option_1": "No substitution",
+    "option_2": "it is the most large creatures",
+    "option_3": "they are a largest creature",
+    "option_4": "they are the largest creatures",
+    "answer": "4"
+  },
+  {
+    "question": "Identify the error in the following sentence.Brr, the city view from the Eiffel Tower is amazing!",
+    "option_1": "amazing ",
+    "option_2": "From",
+    "option_3": "view ",
+    "option_4": "Brr",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence.The patient was suffering from a chronic disease.",
+    "option_1": "Common ",
+    "option_2": "Universal",
+    "option_3": "Usual ",
+    "option_4": "Mild",
+    "answer": "4"
+  },
+  {
+    "question": "Select the most appropriate ANTONYM of the underlined word.The long-standing feud between the two villages was settled due to the intervention of the two chiefs.",
+    "option_1": "Humility ",
+    "option_2": "Harmony",
+    "option_3": "Humble ",
+    "option_4": "Honesty",
+    "answer": "2"
+  },
+  {
+    "question": "Select the most appropriate idiom to fill the blank in the given situation.I thought Sadhna would always stick by me, but when I got into trouble, she turned out to be a/an ___________.",
+    "option_1": "hard nut to crack ",
+    "option_2": "open secret",
+    "option_3": "fair-weather friend ",
+    "option_4": "white elephant",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate option to substitute the underlined word segment in the given sentence.Her thinning grey hair was hanging on her bony forehead.",
+    "option_1": "falling about ",
+    "option_2": "urging ahead",
+    "option_3": "straggling over ",
+    "option_4": "sinking from",
+    "answer": "3"
+  },
+  {
+    "question": "Select the option that spots the error in the use of preposition in the given sentence.Deepa and Seema are both good with running, but Deepa is also good at catching the ball and throwing it to the right corner in time. ",
+    "option_1": "to the right corner. ",
+    "option_2": "at catching the ball",
+    "option_3": "good with running ",
+    "option_4": "in time",
+    "answer": "3"
+  },
+  {
+    "question": "Select the option that can be used as a one-word substitute for the underlined group of words.Humour that describes the weaknesses of the other person is itself a crime among peer groups.",
+    "option_1": "A joke ",
+    "option_2": "Attire",
+    "option_3": "Satire ",
+    "option_4": "A curse",
+    "answer": "3"
+  },
+  {
+    "question": "Select the most appropriate synonym of the given word.Kilter",
+    "option_1": "Order ",
+    "option_2": "Disrepair",
+    "option_3": "Anarchy ",
+    "option_4": "Shambles",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate idiom of the given words.Dog days of summer ",
+    "option_1": "The difficult days ",
+    "option_2": "The happiest days",
+    "option_3": "The hottest day of the summer",
+    "option_4": "The life span of dogs",
+    "answer": "3"
+  },
+  {
+    "question": "Select the option that correctly expresses the given sentence in passive voice.The shareholders will elect him a director",
+    "option_1": "He will be elected as director by the shareholders",
+    "option_2": "The shareholders have elected him a director.",
+    "option_3": "The shareholders elected him a director.",
+    "option_4": "He will be elected a director.",
+    "answer": "1"
+  },
+  {
+    "question": "Select the most appropriate synonym of the bracketed word in the following sentence to fill in the blank.The media, these days, constructs _____ (misleading) narrative on politics and celebrities to increase the viewership.",
+    "option_1": "sincere ",
+    "option_2": "True",
+    "option_3": "candid ",
+    "option_4": "Mendacious",
+    "answer": "4"
+  },
+  {
+    "question": "In the following passage, some words have been left out. Select the most appropriate option to fill in each blank.In today’s fast-paced and technology-driven world, (1) _______ is crucial to disconnect occasionally for the sake of our health. (2) _____ exposure to screens and the demands of the digital era can lead to stress, anxiety and reduced well-being. Taking time to unplug and engage (3) _____ activities that promote relaxation, such as spending time in nature, (4) _____ hobbies or simply enjoying quality time with loved ones allows us to recharge, find balance and (5) ______ our mental and physical health.21. Select the most appropriate option to fill in blank no. 1.",
+    "option_1": "it ",
+    "option_2": "These",
+    "option_3": "this ",
+    "option_4": "That",
+    "answer": "1"
+  },
+  {
+    "question": "In the following passage, some words have been left out. Select the most appropriate option to fill in each blank.In today’s fast-paced and technology-driven world, (1) _______ is crucial to disconnect occasionally for the sake of our health. (2) _____ exposure to screens and the demands of the digital era can lead to stress, anxiety and reduced well-being. Taking time to unplug and engage (3) _____ activities that promote relaxation, such as spending time in nature, (4) _____ hobbies or simply enjoying quality time with loved ones allows us to recharge, find balance and (5) ______ our mental and physical health.Select the most appropriate option to fill in blank no. 2.",
+    "option_1": "Interrupted",
+    "option_2": "Redundant",
+    "option_3": "Constant ",
+    "option_4": "Sporadic",
+    "answer": "3"
+  },
+  {
+    "question": "In the following passage, some words have been left out. Select the most appropriate option to fill in each blank.In today’s fast-paced and technology-driven world, (1) _______ is crucial to disconnect occasionally for the sake of our health. (2) _____ exposure to screens and the demands of the digital era can lead to stress, anxiety and reduced well-being. Taking time to unplug and engage (3) _____ activities that promote relaxation, such as spending time in nature, (4) _____ hobbies or simply enjoying quality time with loved ones allows us to recharge, find balance and (5) ______ our mental and physical health.Select the most appropriate option to fill in blank no. 3.",
+    "option_1": "into ",
+    "option_2": "To",
+    "option_3": "for ",
+    "option_4": "In",
+    "answer": "4"
+  },
+  {
+    "question": "In the following passage, some words have been left out. Select the most appropriate option to fill in each blank.In today’s fast-paced and technology-driven world, (1) _______ is crucial to disconnect occasionally for the sake of our health. (2) _____ exposure to screens and the demands of the digital era can lead to stress, anxiety and reduced well-being. Taking time to unplug and engage (3) _____ activities that promote relaxation, such as spending time in nature, (4) _____ hobbies or simply enjoying quality time with loved ones allows us to recharge, find balance and (5) ______ our mental and physical health.Select the most appropriate option to fill in blank no. 4.",
+    "option_1": "chasing ",
+    "option_2": "Constructing",
+    "option_3": "pursuing ",
+    "option_4": "Trailing",
+    "answer": "3"
+  },
+  {
+    "question": "In the following passage, some words have been left out. Select the most appropriate option to fill in each blank.In today’s fast-paced and technology-driven world, (1) _______ is crucial to disconnect occasionally for the sake of our health. (2) _____ exposure to screens and the demands of the digital era can lead to stress, anxiety and reduced well-being. Taking time to unplug and engage (3) _____ activities that promote relaxation, such as spending time in nature, (4) _____ hobbies or simply enjoying quality time with loved ones allows us to recharge, find balance and (5) ______ our mental and physical health.Select the most appropriate option to fill in blank no. 5.",
+    "option_1": "precede ",
+    "option_2": "Underscore",
+    "option_3": "focus ",
+    "option_4": "prioritise",
+    "answer": "4"
+  }
+]
