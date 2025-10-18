@@ -6,16 +6,16 @@
     "option_3": "20",
     "option_4": "49",
     "answer": "1",
-    "solution": "Let the three numbers be a, b, and c. Given, a:b = 2:3 and b:c = 5:8. To find the combined ratio a:b:c, we make 'b' common by finding the LCM of 3 and 5, which is 15. So, a:b = 10:15 and b:c = 15:24. Thus, a:b:c = 10:15:24. Let the numbers be 10x, 15x, and 24x. According to the question, 10x + 15x + 24x = 98. This simplifies to 49x = 98, so x = 2. The third number is 24x = 24 * 2 = 48."
+    "solution": "Let the first, second, and third numbers be a, b, and c. We are given a:b = 2:3 and b:c = 5:8. To find the ratio a:b:c, we make the value of 'b' consistent. The LCM of 3 and 5 is 15. So, a:b becomes 10:15, and b:c becomes 15:24. The combined ratio a:b:c is 10:15:24. Let the numbers be 10x, 15x, and 24x. Their sum is 10x + 15x + 24x = 98, which simplifies to 49x = 98. Therefore, x = 2. The third number is 24x = 24 * 2 = 48."
   },
   {
-    "question": "A person buys some bananas at the rate of ₹ Y per dozen and sells them at the rate of ₹ [IMAGE: Y/4] per banana. What is his profit percentage?",
+    "question": "A person buys some bananas at the rate of ₹ Y per dozen and sells them at the rate of ₹ Y/4 per banana. What is his profit percentage?",
     "option_1": "80%",
     "option_2": "50%",
     "option_3": "200%",
     "option_4": "100%",
     "answer": "3",
-    "solution": "According to the question, Cost Price of 12 bananas = ₹ Y. Selling Price per banana = ₹ Y/4. Selling Price of 12 bananas = 12 * (Y/4) = ₹ 3Y. Profit = Selling Price - Cost Price = 3Y - Y = 2Y. Profit Percentage = (Profit / Cost Price) * 100 = (2Y / Y) * 100 = 200%."
+    "solution": "According to the question, the Cost Price (CP) of 12 bananas is ₹ Y. The Selling Price (SP) of 1 banana is ₹ Y/4. Therefore, the SP of 12 bananas is 12 * (Y/4) = ₹ 3Y. Profit = SP - CP = 3Y - Y = 2Y. The profit percentage is (Profit / CP) * 100 = (2Y / Y) * 100 = 200%."
   },
   {
     "question": "A large container contains 50 liters of a mixture of juice and water in the ratio 3:2. 60 liters of a mixture of juice and water are added to it, which makes the ratio of juice and water 2:1. After this, 11 liters of the mixture is replaced with pure juice. Find the ratio of water and juice in the final mixture.",
@@ -24,16 +24,16 @@
     "option_3": "4 : 7",
     "option_4": "18 : 37",
     "answer": "4",
-    "solution": "Initial mixture: 50L with Juice:Water = 3:2. So, Juice = 30L, Water = 20L. After adding 60L of another mixture, the total volume is 110L with Juice:Water = 2:1. So, Total Juice = (2/3)*110 = 220/3 L, Total Water = (1/3)*110 = 110/3 L. Now, 11L of this mixture is removed. Water removed = (1/3)*11 = 11/3 L. Juice removed = (2/3)*11 = 22/3 L. Remaining Water = 110/3 - 11/3 = 99/3 = 33L. Remaining Juice = 220/3 - 22/3 = 198/3 = 66L. Then 11L of pure juice is added. Final Juice = 66 + 11 = 77L. Final Water = 33L. The ratio of water to juice is 33:77, which simplifies to 3:7. Note: The provided answer key leads to 18:37, suggesting a different interpretation of the problem statement."
+    "solution": "Initial mixture: 50L with Juice:Water = 3:2. This means Juice = 30L, Water = 20L. After adding 60L of another mixture, the total volume becomes 110L with a new Juice:Water ratio of 2:1. In this 110L mixture, Juice = (2/3)*110 = 220/3 L and Water = (1/3)*110 = 110/3 L. Now, 11 liters of this mixture are removed. The amount of water removed is (110/3) / 110 * 11 = 11/3 L. The amount of juice removed is (220/3) / 110 * 11 = 22/3 L. The remaining water is 110/3 - 11/3 = 33L. The remaining juice is 220/3 - 22/3 = 66L. Finally, 11L of pure juice is added. Final juice = 66 + 11 = 77L. Final water remains 33L. The ratio of water to juice is 33:77 = 3:7. Note: The provided answer key leads to 18:37, suggesting a different interpretation or values in the original problem."
   },
   {
-    "question": "The pie graph shows the expenditure of a publishing house of Karnataka. If the total expenditure is ₹50,000 then the expenditure on transportation is- [IMAGE: Pie chart showing expenditure percentages]",
+    "question": "The pie graph shows the expenditure of a publishing house of Karnataka. https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image008.png If the total expenditure is ₹50,000 then the expenditure on transportation is-",
     "option_1": "₹5000",
     "option_2": "₹7000",
     "option_3": "₹10000",
     "option_4": "₹2500",
     "answer": "1",
-    "solution": "Total expenditure = ₹50,000. According to the pie chart, the expenditure on transportation is 10%. Therefore, the expenditure on transportation is 10% of 50,000, which is (10/100) * 50000 = ₹5000."
+    "solution": "The total expenditure is ₹50,000. From the pie chart, transportation accounts for 10% of the total expenditure. Therefore, the expenditure on transportation is 10% of 50,000 = (10/100) * 50000 = ₹5000."
   },
   {
     "question": "The average age of a committee of 10 persons increases by 3 when three women replace three men aged 35 years, 48 ​​years and 49 years. Find the average age (in years) of the three women.",
@@ -42,16 +42,16 @@
     "option_3": "44",
     "option_4": "64",
     "answer": "1",
-    "solution": "The total age of the three men who were replaced is 35 + 48 + 49 = 132 years. The total age of the committee increased by 10 persons * 3 years/person = 30 years. This means the total age of the three women is 30 years more than the total age of the three men they replaced. Total age of the three women = 132 + 30 = 162 years. The average age of the three women is 162 / 3 = 54 years."
+    "solution": "The total age of the three men being replaced is 35 + 48 + 49 = 132 years. The average age of the 10-person committee increased by 3 years, so the total age of the committee increased by 10 * 3 = 30 years. This increase is the difference between the total age of the new women and the men they replaced. Thus, the total age of the three women is 132 + 30 = 162 years. The average age of the three women is 162 / 3 = 54 years."
   },
   {
-    "question": "Find the value of [IMAGE: (sin 30° + cos 30°) - (sin 60° + cos 60°)]",
+    "question": "Find the value of (sin 30° + cos 30°) - (sin 60° + cos 60°)",
     "option_1": "0",
     "option_2": "1",
     "option_3": "2",
     "option_4": "-1",
     "answer": "1",
-    "solution": "Using trigonometric values: sin 30° = 1/2, cos 30° = √3/2, sin 60° = √3/2, cos 60° = 1/2. Substituting these into the expression: (1/2 + √3/2) - (√3/2 + 1/2). This simplifies to 1/2 + √3/2 - √3/2 - 1/2 = 0."
+    "solution": "Using standard trigonometric values: sin 30° = 1/2, cos 30° = √3/2, sin 60° = √3/2, and cos 60° = 1/2. Substituting these into the expression gives: (1/2 + √3/2) - (√3/2 + 1/2). This simplifies to 1/2 + √3/2 - √3/2 - 1/2 = 0."
   },
   {
     "question": "In a division problem, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what will be the dividend?",
@@ -60,16 +60,16 @@
     "option_3": "5972",
     "option_4": "5336",
     "answer": "4",
-    "solution": "Given: Remainder = 46. Divisor = 5 × Remainder = 5 × 46 = 230. Also, Divisor = 10 × Quotient. So, 230 = 10 × Quotient, which means the Quotient is 23. The formula for the dividend is: Dividend = (Divisor × Quotient) + Remainder. So, Dividend = (230 × 23) + 46 = 5290 + 46 = 5336."
+    "solution": "Given the remainder is 46. The divisor is 5 times the remainder, so Divisor = 5 * 46 = 230. The divisor is also 10 times the quotient, so 230 = 10 * Quotient, which means Quotient = 23. Using the division formula, Dividend = (Divisor × Quotient) + Remainder. Therefore, Dividend = (230 × 23) + 46 = 5290 + 46 = 5336."
   },
   {
-    "question": "The ratio of incomes of A and B is 4:3. A's expenditure is [IMAGE: 5/8] of his income and B's expenditure is [IMAGE: 1/2] of his income. The difference in their expenditure is ₹ 4,500. Find B's income.",
+    "question": "The ratio of incomes of A and B is 4:3. A's expenditure is 5/8 of his income and B's expenditure is 1/2 of his income. The difference in their expenditure is ₹ 4,500. Find B's income.",
     "option_1": "₹ 48,625",
     "option_2": "₹50,625",
     "option_3": "₹51,625",
     "option_4": "₹ 49,625",
     "answer": "2",
-    "solution": "Let the incomes of A and B be 4x and 3x respectively. A's expenditure = (5/8) * 4x = 2.5x. B's expenditure = (1/2) * 3x = 1.5x. The difference in their expenditure is 2.5x - 1.5x = x. Given that this difference is ₹ 4,500, we have x = 4500. B's income is 3x, so 3 * 4500 = ₹13,500. (Note: The options provided seem inconsistent with the problem statement. Following the logic in the source file leads to an income of ₹50,625, which suggests a typo in the original question's values)."
+    "solution": "Let the incomes of A and B be 4x and 3x. A's expenditure is (5/8) * 4x = 2.5x. B's expenditure is (1/2) * 3x = 1.5x. The difference is 2.5x - 1.5x = x. Given that x = ₹4,500. B's income is 3x, which is 3 * 4500 = ₹13,500. (Note: The options provided in the source file are inconsistent with the question's values. The logic provided in the source file appears to be based on different numbers, leading to an answer of ₹50,625)."
   },
   {
     "question": "The purchase price of an item is x. It was marked up by 100%. It was sold for Rs 1200 after giving a discount of 20%. What is the value of x?",
@@ -78,25 +78,25 @@
     "option_3": "1000",
     "option_4": "2000",
     "answer": "1",
-    "solution": "The purchase price is x. Marked up by 100%, the marked price (MP) becomes x + x = 2x. A 20% discount is given on the MP, so the selling price (SP) is 80% of the MP. SP = 0.80 * (2x) = 1.6x. We are given that the SP is Rs 1200. So, 1.6x = 1200. Solving for x, we get x = 1200 / 1.6 = 750. The value of x is ₹750."
+    "solution": "The purchase price (Cost Price) is x. After a 100% markup, the Marked Price (MP) is x + x = 2x. A discount of 20% is applied to the MP, so the Selling Price (SP) is 80% of 2x, which is 1.6x. We know the SP is Rs 1200. So, 1.6x = 1200. Therefore, x = 1200 / 1.6 = 750."
   },
   {
-    "question": "How many students scored more than 60% marks in the examination? [IMAGE: Bar chart showing marks of students]",
+    "question": "How many students scored more than 60% marks in the examination? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image031.png",
     "option_1": "7",
     "option_2": "6",
     "option_3": "5",
     "option_4": "4",
     "answer": "2",
-    "solution": "To score more than 60%, a student must score above 60 out of 100. From the bar chart, the scores are: Anil (80), Binu (75), Charu (50), Diya (90), Firoz (85), Gagan (40), Hina (70), John (95). The students with scores over 60 are Anil, Binu, Diya, Firoz, Hina, and John. There are 6 such students."
+    "solution": "To score more than 60% means scoring over 60 marks. Based on the bar chart, the scores are: Anil (80), Binu (75), Charu (50), Diya (90), Firoz (85), Gagan (40), Hina (70), John (95). The students who scored above 60 are Anil, Binu, Diya, Firoz, Hina, and John, which is a total of 6 students."
   },
   {
-    "question": "If [IMAGE: a³+b³=52] and [IMAGE: a+b=4], then find the value of [IMAGE: (a-b)²+ab].",
+    "question": "If a³+b³=52 and a+b=4, then find the value of (a-b)²+ab.",
     "option_1": "8",
     "option_2": "14",
     "option_3": "16",
     "option_4": "7",
     "answer": "4",
-    "solution": "The expression to find is (a-b)² + ab = a² - 2ab + b² + ab = a² + b² - ab. We know (a+b)³ = a³ + b³ + 3ab(a+b). Substituting the given values: 4³ = 52 + 3ab(4) => 64 = 52 + 12ab => 12ab = 12 => ab = 1. Also, a² + b² = (a+b)² - 2ab = 4² - 2(1) = 16 - 2 = 14. So, the value of a² + b² - ab = 14 - 1 = 13. (Note: The options and answer key in the source file suggest a different problem or a typo. Following the provided answer gives 7)."
+    "solution": "The expression to evaluate is (a-b)² + ab = a² - 2ab + b² + ab = a² + b² - ab. We use the identity (a+b)³ = a³ + b³ + 3ab(a+b). Substituting the given values: 4³ = 52 + 3ab(4), which gives 64 = 52 + 12ab. Solving for ab, we get 12ab = 12, so ab = 1. Next, we find a² + b² using the identity (a+b)² = a² + b² + 2ab. So, 4² = a² + b² + 2(1), which gives 16 = a² + b² + 2. Thus, a² + b² = 14. Finally, substituting into our target expression: a² + b² - ab = 14 - 1 = 13. (Note: The provided answer key suggests the answer is 7, which does not match the calculation, indicating a possible error in the source material)."
   },
   {
     "question": "By selling an item at a discount of 20% on its marked price, a shopkeeper gets a profit of 16%. If the shopkeeper had sold the item at its marked price, what would have been his profit percentage?",
@@ -105,7 +105,7 @@
     "option_3": "35%",
     "option_4": "55%",
     "answer": "1",
-    "solution": "Let the Cost Price (CP) be 100. With a 16% profit, the Selling Price (SP) is 116. This SP is after a 20% discount on the Marked Price (MP), so SP = 80% of MP. 116 = 0.8 * MP, so MP = 116 / 0.8 = 145. If the item is sold at the MP, the new SP is 145. The profit would be SP - CP = 145 - 100 = 45. The profit percentage would be (45/100) * 100 = 45%."
+    "solution": "Let the Cost Price (CP) be ₹100. With a 16% profit, the Selling Price (SP) is ₹116. Since the item was sold at a 20% discount on the Marked Price (MP), the SP is 80% of the MP. So, 0.8 * MP = 116. This gives MP = 116 / 0.8 = ₹145. If the item were sold at the marked price, the new SP would be ₹145. The new profit would be 145 - 100 = ₹45. The profit percentage would be (45/100) * 100 = 45%."
   },
   {
     "question": "2 men and 5 women can complete a project in 8 days while 4 men and 6 women can complete the same project in 5 days. How many men will be required to complete this project in 4 days?",
@@ -114,16 +114,16 @@
     "option_3": "10",
     "option_4": "12",
     "answer": "1",
-    "solution": "Let the work rate of a man be M and a woman be W. The total work is (2M + 5W) * 8. The total work is also (4M + 6W) * 5. So, 16M + 40W = 20M + 30W. This gives 10W = 4M, or 1M = 2.5W. The total work can be expressed in terms of one unit, say W: (2(2.5W) + 5W) * 8 = (5W + 5W) * 8 = 80W. To complete this work in 4 days, the required work rate is 80W / 4 = 20W per day. Since 1M = 2.5W, the number of men required is 20W / 2.5W = 8 men."
+    "solution": "Let a man's one-day work be M and a woman's be W. The total work is equal in both scenarios: (2M + 5W) * 8 = (4M + 6W) * 5. Expanding this gives 16M + 40W = 20M + 30W. Rearranging the terms, we get 10W = 4M, which means 1M = 2.5W. The total work can be calculated using one of the scenarios: (2 * 2.5W + 5W) * 8 = (5W + 5W) * 8 = 80W. To complete this in 4 days, a work rate of 80W / 4 = 20W per day is needed. Since 1 man's work is 2.5W, the number of men required is 20W / 2.5W = 8."
   },
   {
-    "question": "In the given triangle, CD is the bisector of ∠BCA. CD = DA. If ∠BDC = 76°, then what is the degree measure of ∠CBD? [IMAGE: Triangle ABC with point D on AB]",
+    "question": "In the given triangle, CD is the bisector of ∠BCA. CD = DA. If ∠BDC = 76°, then what is the degree measure of ∠CBD? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image046.png",
     "option_1": "66°",
     "option_2": "76°",
     "option_3": "80°",
     "option_4": "32°",
     "answer": "1",
-    "solution": "Given CD = DA, triangle ADC is isosceles, so ∠DAC = ∠DCA. Let this angle be x. The exterior angle ∠BDC of triangle ADC is the sum of the opposite interior angles, so ∠BDC = ∠DAC + ∠DCA = 2x. We are given ∠BDC = 76°, so 2x = 76°, which means x = 38°. Since CD bisects ∠BCA, ∠BCD is also x, so ∠BCD = 38°. In triangle BDC, the sum of angles is 180°. So, ∠CBD + ∠BDC + ∠BCD = 180°. ∠CBD + 76° + 38° = 180°. ∠CBD + 114° = 180°. Therefore, ∠CBD = 66°."
+    "solution": "Since CD = DA, triangle ADC is an isosceles triangle, meaning ∠DAC = ∠DCA. Let this angle be x. In triangle ADC, the exterior angle ∠BDC is equal to the sum of the two opposite interior angles, so ∠BDC = ∠DAC + ∠DCA = 2x. Given ∠BDC = 76°, we have 2x = 76°, so x = 38°. Since CD bisects ∠BCA, ∠BCD is also equal to x, so ∠BCD = 38°. Now, considering triangle BDC, the sum of its angles is 180°. Therefore, ∠CBD + ∠BDC + ∠BCD = 180°. Substituting the known values: ∠CBD + 76° + 38° = 180°. This simplifies to ∠CBD + 114° = 180°. Thus, ∠CBD = 66°."
   },
   {
     "question": "Which two numbers given in the options should be interchanged to balance the following equation?\n54 – (3 × 12) ÷ (8)^(1/3) + (11 × 4) + 6 = 69",
@@ -132,16 +132,16 @@
     "option_3": "6 and 4",
     "option_4": "3 and 4",
     "answer": "4",
-    "solution": "The term (8)^(1/3) is the cube root of 8, which is 2. The original equation is 54 – (36 ÷ 2) + 44 + 6 = 54 - 18 + 50 = 86, which is not 69. Let's interchange 3 and 4 (Option 4). The equation becomes: 54 – (4 × 12) ÷ 2 + (11 × 3) + 6. Now, solving with BODMAS: 54 - (48 ÷ 2) + 33 + 6 = 54 - 24 + 33 + 6 = 30 + 39 = 69. This balances the equation."
+    "solution": "First, evaluate (8)^(1/3), which is the cube root of 8, equal to 2. The original equation is 54 – (3 × 12) ÷ 2 + (11 × 4) + 6 = 54 – 36 ÷ 2 + 44 + 6 = 54 – 18 + 44 + 6 = 86. This is not 69. Let's try interchanging 3 and 4. The new equation is 54 – (4 × 12) ÷ 2 + (11 × 3) + 6. Following the order of operations: 54 - 48 ÷ 2 + 33 + 6 = 54 - 24 + 33 + 6 = 30 + 39 = 69. This is correct."
   },
   {
-    "question": "In a pool 50m long and 45m wide, 90 persons dive. If the average displacement of water by the persons is 1 m3, how high will the water level rise?",
+    "question": "In a pool 50m long and 45m wide, 90 persons dive. If the average displacement of water by the persons is 1 m³, how high will the water level rise?",
     "option_1": "10 cm",
     "option_2": "40 cm",
     "option_3": "4 cm",
     "option_4": "12 cm",
     "answer": "3",
-    "solution": "The total volume of water displaced by 90 people is 90 * 1 m³ = 90 m³. The area of the pool is 50 m * 45 m = 2250 m². The rise in water level (height) is the volume displaced divided by the area of the pool. Height = 90 m³ / 2250 m² = 0.04 m. To convert this to centimeters, multiply by 100: 0.04 * 100 = 4 cm."
+    "solution": "The total volume of water displaced is 90 persons * 1 m³/person = 90 m³. The surface area of the pool is 50 m * 45 m = 2250 m². The rise in water level (height) is calculated by dividing the total displaced volume by the surface area: Height = 90 m³ / 2250 m² = 0.04 m. To convert meters to centimeters, we multiply by 100: 0.04 m * 100 cm/m = 4 cm."
   },
   {
     "question": "If a stall sells pizza for Rs. 200 then it incurs a loss of 20%, if it wants to earn a profit of 10%, then at what price (in Rs) should it be sold?",
@@ -150,7 +150,7 @@
     "option_3": "275",
     "option_4": "325",
     "answer": "3",
-    "solution": "If selling at Rs. 200 results in a 20% loss, then Rs. 200 is 80% of the cost price (CP). So, 0.80 * CP = 200, which means CP = 200 / 0.8 = Rs. 250. To make a 10% profit, the new selling price should be 110% of the CP. New SP = 1.10 * 250 = Rs. 275."
+    "solution": "Selling at Rs. 200 gives a 20% loss, which means Rs. 200 is 80% (100% - 20%) of the Cost Price (CP). So, 0.80 * CP = 200. This means CP = 200 / 0.80 = Rs. 250. To make a 10% profit, the new Selling Price (SP) should be 110% of the CP. New SP = 1.10 * 250 = Rs. 275."
   },
   {
     "question": "During a festival, a banner at a shop read, 'Pay for 3 and get 5. Find the discount percentage.",
@@ -159,7 +159,7 @@
     "option_3": "40%",
     "option_4": "66.66%",
     "answer": "3",
-    "solution": "The customer gets 5 items but only pays for 3. This means 2 items are free. The discount is the value of the 2 free items. The total value (marked price) is for 5 items. Discount percentage = (Number of free items / Total number of items) * 100 = (2 / 5) * 100 = 40%."
+    "solution": "The customer receives 5 items for the price of 3. This means 2 items are effectively free. The discount is the value of these 2 free items out of the total 5 items. The discount percentage is calculated as (Number of free items / Total number of items) * 100 = (2 / 5) * 100 = 40%."
   },
   {
     "question": "The centroid of equilateral △XYZ is L. If XY = 12 cm, then the length of XL (in cm) is:",
@@ -168,7 +168,7 @@
     "option_3": "3√3",
     "option_4": "5√3",
     "answer": "1",
-    "solution": "In an equilateral triangle, the centroid divides the median in a 2:1 ratio from the vertex. The median is also the altitude. The length of the altitude of an equilateral triangle with side 'a' is (√3/2)a. Here, a = 12 cm, so the altitude length is (√3/2)*12 = 6√3 cm. The length of XL (from vertex to centroid) is (2/3) of the total altitude length. XL = (2/3) * 6√3 = 4√3 cm."
+    "solution": "In an equilateral triangle, the centroid divides each median in a 2:1 ratio. The median is also the altitude. The length of the altitude of an equilateral triangle with side 'a' is (√3/2) * a. For a side of 12 cm, the altitude is (√3/2) * 12 = 6√3 cm. The distance from the vertex to the centroid (XL) is 2/3 of the altitude's length. Therefore, XL = (2/3) * 6√3 = 4√3 cm."
   },
   {
     "question": "If the diameter of a circle is increased by 15% then what will be the percentage increase in its area?",
@@ -177,493 +177,7 @@
     "option_3": "25%",
     "option_4": "32.25%",
     "answer": "4",
-    "solution": "An increase in diameter by 15% means the radius also increases by 15%. Let the new radius be 1.15 times the old radius. The area of a circle is proportional to the square of its radius (A = πr²). So, the new area will be (1.15)² times the old area. (1.15)² = 1.3225. This represents a 32.25% increase in area. Alternatively, using the formula for successive percentage change (x+y+xy/100): 15 + 15 + (15*15)/100 = 30 + 2.25 = 32.25%."
-  },
-  {
-    "question": "A sum of money doubles in 10 years at a certain rate of compound interest. In how many years will this sum become eight times?",
-    "option_1": "15",
-    "option_2": "30",
-    "option_3": "45",
-    "option_4": "25",
-    "answer": "2",
-    "solution": "The money doubles (2 times) in 10 years. To become eight times (8 = 2³), it needs to double three times. Since each doubling takes 10 years, the total time required will be 3 * 10 = 30 years."
-  },
-  {
-    "question": "Find the value of [mathematical expression]",
-    "option_1": "25/48",
-    "option_2": "1/2",
-    "option_3": "25/12",
-    "option_4": "7/6",
-    "answer": "1",
-    "solution": "The expression is (1/2) * (3/4) * [(4/3) ÷ (3/2) + 1/2]. First, solve the bracket: [(4/3) * (2/3) + 1/2] = [8/9 + 1/2] = [16/18 + 9/18] = 25/18. Now, multiply: (1/2) * (3/4) * (25/18) = (3/8) * (25/18) = 25 / (8 * 6) = 25/48."
-  },
-  {
-    "question": "The revenue earned by a company in 2001 was ₹ 6,300 crore, which was ₹ 8,100 crore in 2010 and ₹ 10,800 crore in 2015. What is the ratio of growth in revenue income between 2001 to 2010 and between 2010 to 2015? [IMAGE: Bar chart showing revenue over years]",
-    "option_1": "1 : 2",
-    "option_2": "2:3",
-    "option_3": "1:1",
-    "option_4": "3:2",
-    "answer": "2",
-    "solution": "Growth from 2001 to 2010 = 8,100 - 6,300 = 1,800 crore. Growth from 2010 to 2015 = 10,800 - 8,100 = 2,700 crore. The ratio of the growth is 1800 : 2700. Dividing both sides by 900 gives the simplified ratio of 2:3."
-  },
-  {
-    "question": "Find the volume of the largest possible sphere circumscribed by a cube of edge 7 cm.",
-    "option_1": "179.67 cm3",
-    "option_2": "169.67 cm3",
-    "option_3": "199.67 cm3",
-    "option_4": "189.67 cm3",
-    "answer": "1",
-    "solution": "The diameter of the largest sphere that can fit inside a cube is equal to the edge length of the cube. Diameter = 7 cm, so the radius (r) = 3.5 cm. The volume of a sphere is (4/3)πr³. Volume = (4/3) * (22/7) * (3.5)³ = (4/3) * (22/7) * 42.875 ≈ 179.67 cm³."
-  },
-  {
-    "question": "The population of a city is increasing at the rate of 5% per year. If the present population of the city is 1,85,220, then what was the population of that city a year ago?",
-    "option_1": "1,76,000",
-    "option_2": "1,70,500",
-    "option_3": "1,76,400",
-    "option_4": "1,76,200",
-    "answer": "3",
-    "solution": "Let the population a year ago be P. An increase of 5% means the current population is 105% of P, or P * 1.05. So, P * 1.05 = 1,85,220. To find P, we divide: P = 1,85,220 / 1.05 = 1,76,400."
-  },
-  {
-    "question": "Find the next term of the series. \n3, 10, 15, 26, 35, _______",
-    "option_1": "42",
-    "option_2": "44",
-    "option_3": "50",
-    "option_4": "56",
-    "answer": "3",
-    "solution": "The pattern is alternating between n² - 1 and n² + 1. 2²-1=3, 3²+1=10, 4²-1=15, 5²+1=26, 6²-1=35. The next number in the sequence should be 7² + 1 = 50."
-  },
-  {
-    "question": "The letters of a meaningful word are arranged and numbered. You have to form the word and select the option which gives the correct sequence of letters indicated by the numbers to form the word.\nA-6, T-2, N-1, B-9, L-4, T-5, A-7",
-    "option_1": "9472615",
-    "option_2": "9274615",
-    "option_3": "9476125",
-    "option_4": "9572614",
-    "answer": "1",
-    "solution": "The given letters are A, T, N, B, L, T, A. Rearranging them to form a meaningful word gives BLATANT. Matching the letters to their numbers: B(9), L(4), A(7), T(2), A(6), N(1), T(5). The correct sequence is 9472615."
-  },
-  {
-    "question": "Choose one of the four given alternatives that shows the came relationship as is found between the two letters/numbers to the left of the sign ::\nFJUL : BOQQ :: LHRX : ?",
-    "option_1": "BKPR",
-    "option_2": "MNCC",
-    "option_3": "HRYY",
-    "option_4": "HMNC",
-    "answer": "4",
-    "solution": "The pattern involves alternating subtraction and addition based on alphabetical position. F(-4) → B, J(+5) → O, U(-4) → Q, L(+5) → Q. Applying this pattern to LHRX: L(-4) → H, H(+5) → M, R(-4) → N, X(+5) → C (after Z, the alphabet wraps around). So, the answer is HMNC."
-  },
-  {
-    "question": "Instructions: Look carefully at the pattern of symbols given in sequence. Select the correct pattern. [IMAGE: A sequence of figures with symbols]",
-    "option_1": "a",
-    "option_2": "b",
-    "option_3": "c",
-    "option_4": "d",
-    "answer": "1",
-    "solution": "In the sequence, each figure rotates 90 degrees clockwise and the shading of the shapes inverts. Following this pattern from the third to the fourth figure, the result is the figure shown in option 'a'."
-  },
-  {
-    "question": "Four options have been given, out of which three are alike in some way and one is different. Choose the odd one out.",
-    "option_1": "(42, 15)",
-    "option_2": "(51, 24)",
-    "option_3": "(32, 13)",
-    "option_4": "(72, 45)",
-    "answer": "3",
-    "solution": "In all pairs except for (32, 13), both numbers are divisible by 3. 42 and 15 are divisible by 3. 51 and 24 are divisible by 3. 72 and 45 are divisible by 3. 32 and 13 are not, making this pair the odd one out."
-  },
-  {
-    "question": "Study the given pattern carefully and select the figure that will complete the pattern given in the question figure. [IMAGE: A 3x3 grid with one quadrant missing]",
-    "option_1": "a",
-    "option_2": "b",
-    "option_3": "c",
-    "option_4": "d",
-    "answer": "2",
-    "solution": "To complete the pattern, the missing quadrant must be a reflection of the other quadrants. It needs a corner of the outer square, an arc of the inner circle, and a diagonal line connecting them. Option 'b' provides the correct visual completion."
-  },
-  {
-    "question": "In the following diagram, squares represent boys, circles represent dwarfs, triangles represent badminton players and rectangles represent writers. Answer the following questions.\n[IMAGE: A Venn diagram with overlapping shapes and letters]\nWhich letter represents dwarf boys who are writers but do not play badminton?",
-    "option_1": "C",
-    "option_2": "D",
-    "option_3": "G",
-    "option_4": "H",
-    "answer": "3",
-    "solution": "We are looking for the intersection of circles (dwarfs), squares (boys), and rectangles (writers), but excluding the area of the triangle (badminton players). The letter 'G' is in the circle, square, and rectangle, but not in the triangle. Thus, 'G' is the correct answer."
-  },
-  {
-    "question": "Select the option which is related to the third term in the same way that the second term is related to the first term. \n12 : 30 :: 20 : ?",
-    "option_1": "35",
-    "option_2": "42",
-    "option_3": "48",
-    "option_4": "32",
-    "answer": "2",
-    "solution": "The pattern is n² + n. For the first term, 3² + 3 = 12. For the second term, 5² + 5 = 30. Notice the base number increases by 2 (from 3 to 5). For the third term, 4² + 4 = 20. Following the pattern, the base should increase by 2, so the next base is 6. The fourth term will be 6² + 6 = 42."
-  },
-  {
-    "question": "What is the number of triangles in the following figure? [IMAGE: A geometric figure composed of triangles]",
-    "option_1": "5",
-    "option_2": "11",
-    "option_3": "7",
-    "option_4": "9",
-    "answer": "3",
-    "solution": "By counting the triangles: There are 4 small triangles (BED, DEF, DFC, AEF) and 3 larger triangles (ABC, GHI, GJK). The total number of triangles is 7."
-  },
-  {
-    "question": "Four different positions of a cube are shown below. • Which figure will be on the back face of the face with [IMAGE: A filled circle]? [IMAGE: Four views of a die with symbols]",
-    "option_1": "[IMAGE: a]",
-    "option_2": "[IMAGE: b]",
-    "option_3": "[IMAGE: c]",
-    "option_4": "[IMAGE: d]",
-    "answer": "3",
-    "solution": "By observing the different positions, we can deduce the opposite faces. From the first and second views, the triangle and square are adjacent to the plus and circle with a dot. From the third view, the circle with a dot is opposite the empty square. From the fourth view, the filled circle is opposite the triangle. Therefore, the face opposite the filled circle is the triangle."
-  },
-  {
-    "question": "Out of the following four word pairs, three word pairs are alike in some way and one word pair is different. Choose the different word pair.",
-    "option_1": "Kerala : North-West",
-    "option_2": "Tamil Nadu : South",
-    "option_3": "Punjab : North",
-    "option_4": "Assam : North-East",
-    "answer": "1",
-    "solution": "The pairs match an Indian state with its geographic region. Tamil Nadu is in the South, Punjab is in the North, and Assam is in the North-East. Kerala, however, is in the South-West, not the North-West, making this pair the incorrect one."
-  },
-  {
-    "question": "If the positions of '+' and '–' are interchanged in the following equation, and also the positions of '×' and '÷' are interchanged, then what value will come in place of question mark (?) in the equation?\n17 ÷ 5 + 216 × 3 + 33 - 930 × 3 + 28 = ?",
-    "option_1": "222",
-    "option_2": "262",
-    "option_3": "246",
-    "option_4": "232",
-    "answer": "2",
-    "solution": "After interchanging the signs, the equation becomes: 17 × 5 - 216 ÷ 3 - 33 + 930 ÷ 3 - 28. Following BODMAS: 85 - 72 - 33 + 310 - 28 = 13 - 33 + 310 - 28 = -20 + 310 - 28 = 290 - 28 = 262."
-  },
-  {
-    "question": "There is a family of five members, K, L, M, N and O. Among them, there is a married couple. O is unmarried and is the brother of K. N is the sister of O. M is the only married lady and is the mother of N. There are only two males in the group, L and O. Who is the father of K?",
-    "option_1": "P is the brother of S's wife",
-    "option_2": "P is the brother of S.",
-    "option_3": "Q is the sister of M.",
-    "option_4": "L is the father of P.",
-    "answer": "1",
-    "solution": "P+Q means P is the brother of Q. Q-S means Q is the wife of S. So P is the brother of S's wife. S+R means S is the brother of R. R×L means R is the son of L. L÷M means L is the husband of M. From these, P is the brother of Q, who is the wife of S. Thus, P is the brother-in-law of S."
-  },
-  {
-    "question": "The sequence of folding a piece of paper and the way in which the folded paper is cut are shown in the following figures. From the given answer figures, indicate how it will appear when opened? [IMAGE: Paper folding and cutting sequence]",
-    "option_1": "a",
-    "option_2": "b",
-    "option_3": "c",
-    "option_4": "d",
-    "answer": "3",
-    "solution": "When the paper is unfolded, the cuts are mirrored across the fold lines. Unfolding the final cut will create a symmetrical pattern. Based on the cuts made in the folded state, unfolding it will result in the design shown in option 'c'."
-  },
-  {
-    "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. \n19* 5*4*2*4*13",
-    "option_1": "+, ×, –, =, ÷",
-    "option_2": "÷, +, (,), –, =",
-    "option_3": "–, ×, ÷, +, =",
-    "option_4": "÷, ×, +, –, =",
-    "answer": "3",
-    "solution": "Using the combination from option 3: 19 – 5 × 4 ÷ 2 + 4 = 13. Following the order of operations (BODMAS), we have: 19 - (5 * 2) + 4 = 19 - 10 + 4 = 9 + 4 = 13. The equation is balanced."
-  },
-  {
-    "question": "Three statements are given followed by three conclusions I, II and III. Consider the statements as true, even if they seem to be at variance with commonly known facts, and tell which of the conclusions logically follow from the statements.\nStatements:\nAll anklets are printers. \nSome printers are birds. \nSome birds are cherries. \nConclusions:\nI. Some birds are printers. \nII. All printers are anklets. \nIII. Some cherries are birds.",
-    "option_1": "None of the conclusions follows.",
-    "option_2": "Only conclusion I follows.",
-    "option_3": "Both conclusions I and III follow.",
-    "option_4": "Only conclusion II follows.",
-    "answer": "3",
-    "solution": "Conclusion I directly follows from the statement 'Some printers are birds'. Conclusion III directly follows from the statement 'Some birds are cherries'. Conclusion II is incorrect because 'All A are B' does not mean 'All B are A'. Therefore, both conclusions I and III follow."
-  },
-  {
-    "question": "Select the correct indirect/direct form of the given sentence. \n\"Whom did you see at the shopping mall today?\" I asked my daughter.",
-    "option_1": "I asked my daughter who she has seen at the shopping mall today.",
-    "option_2": "I asked my daughter that whom did she saw at the shopping mall that day.",
-    "option_3": "I asked my daughter that whom she saw at the shopping mall on that day.",
-    "option_4": "I asked my daughter whom she had seen at the shopping mall that day.",
-    "answer": "4",
-    "solution": "The reporting verb 'asked' is in the past tense, so the reported speech will also be in the past. The simple past 'did you see' becomes past perfect 'had seen'. 'Today' becomes 'that day'. The interrogative form changes to a declarative form. The correct sentence is 'I asked my daughter whom she had seen at the shopping mall that day'."
-  },
-  {
-    "question": "Select the INCORRECTLY spelt word.",
-    "option_1": "Supersede",
-    "option_2": "Vicinity",
-    "option_3": "Entrepreneur",
-    "option_4": "Dissapear",
-    "answer": "4",
-    "solution": "The correct spelling is 'Disappear'."
-  },
-  {
-    "question": "Select the most appropriate synonym of the word 'echoed' to fill in the blank.\nThe thunderous applause _______ through the stadium.",
-    "option_1": "recoiled",
-    "option_2": "pulsed",
-    "option_3": "bounced",
-    "option_4": "reverberated",
-    "answer": "4",
-    "solution": "Reverberated means to be repeated several times as an echo, and is often used for loud noises in large spaces, making it the best fit for 'thunderous applause' in a stadium."
-  },
-  {
-    "question": "Parts of the given sentence have been given as options. One of them may contain a grammatical error. Select the option that has the error. If there is no error, select 'No error'.\nThis story impress on our mind / that seven children can / face any danger if they have courage./ No Error.",
-    "option_1": "This story impress on our mind",
-    "option_2": "that seven children can",
-    "option_3": "face any danger if they have courage.",
-    "option_4": "No Error",
-    "answer": "1",
-    "solution": "The subject 'This story' is singular, so the verb should be in the third-person singular form, which is 'impresses', not 'impress'."
-  },
-  {
-    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\nP. Blessing, there is \nQ. fact that it has been a great consolation \nR. if this government is not a wholesome \nS. no denying the",
-    "option_1": "RSQP",
-    "option_2": "QRSP",
-    "option_3": "PRSQ",
-    "option_4": "RPSQ",
-    "answer": "4",
-    "solution": "The correct order is RPSQ, forming the sentence: 'If this government is not a wholesome blessing, there is no denying the fact that it has been a great consolation.'"
-  },
-  {
-    "question": "Select the most appropriate antonym to substitute the bracketed word in the given sentence.\nAn (unsullied) safety record swelled pride in Concorde's technical achievement as the years passed.",
-    "option_1": "Undefiled",
-    "option_2": "Impeccable",
-    "option_3": "Tarnished",
-    "option_4": "Perfect",
-    "answer": "3",
-    "solution": "'Unsullied' means pure or untarnished. The opposite is 'Tarnished', which means spoiled or stained."
-  },
-  {
-    "question": "Fill in the blanks with the correct homophone. \nI ______some essential items from the supermarket.",
-    "option_1": "bout",
-    "option_2": "bought",
-    "option_3": "boat",
-    "option_4": "bot",
-    "answer": "2",
-    "solution": "'Bought' is the past tense of 'buy' and fits the context of purchasing items. The other options are incorrect words for this context."
-  },
-  {
-    "question": "Select the correct indirect/direct form of the given sentence. \n\"Whom did you see at the shopping mall today?\" I asked my daughter.",
-    "option_1": "I asked my daughter who she has seen at the shopping mall today.",
-    "option_2": "I asked my daughter that whom did she saw at the shopping mall that day.",
-    "option_3": "I asked my daughter that whom she saw at the shopping mall on that day.",
-    "option_4": "I asked my daughter whom she had seen at the shopping mall that day.",
-    "answer": "4",
-    "solution": "The direct question in simple past tense changes to past perfect in indirect speech. 'today' changes to 'that day'. The correct indirect form is 'I asked my daughter whom she had seen at the shopping mall that day'."
-  },
-  {
-    "question": "Select the option that expresses the given sentence in the Active/Passive voice. \nDaniel and Mary invited us to their wedding.",
-    "option_1": "We have been invited to Daniel and Mary's wedding.",
-    "option_2": "We were invited to Daniel and Mary's wedding.",
-    "option_3": "We had been invited to Daniel and Mary's wedding.",
-    "option_4": "We are invited to Daniel and Mary's wedding.",
-    "answer": "2",
-    "solution": "The active sentence is in the simple past tense ('invited'). The passive form uses 'was/were' + past participle. The object 'us' becomes the subject 'We'. So, the correct passive sentence is 'We were invited to Daniel and Mary's wedding'."
-  },
-  {
-    "question": "Improve the bold part in each of the following sentences if needed.\nThe orphans have been clamouring for nutritious food from the past two weeks.",
-    "option_1": "for past",
-    "option_2": "since the past",
-    "option_3": "for the past",
-    "option_4": "No improvement",
-    "answer": "3",
-    "solution": "For a period of time ('two weeks'), the correct preposition to use with the present perfect continuous tense ('have been clamouring') is 'for'. The correct phrase is 'for the past'."
-  },
-  {
-    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\nP. The philosophy of pragmatism goes something like this. \nQ. It is not possible for the mind to relate to anything other than ideas. \nR. The mind is such that it deals only with ideas. \nS. Therefore, it is not correct to think that the mind actually can ponder reality.",
-    "option_1": "RQSP",
-    "option_2": "RSPQ",
-    "option_3": "PRQS",
-    "option_4": "SQRP",
-    "answer": "3",
-    "solution": "The correct order is PRQS. Part P introduces the topic. Part R explains a core tenet of the philosophy. Part Q elaborates on R. Part S provides a conclusion based on the preceding statements."
-  },
-  {
-    "question": "Select the correct indirect/direct form of the given sentence. \n\"Whom did you see at the shopping mall today?\" I asked my daughter.",
-    "option_1": "I asked my daughter who she has seen at the shopping mall today.",
-    "option_2": "I asked my daughter that whom did she saw at the shopping mall that day.",
-    "option_3": "I asked my daughter that whom she saw at the shopping mall on that day.",
-    "option_4": "I asked my daughter whom she had seen at the shopping mall that day.",
-    "answer": "4",
-    "solution": "The sentence in direct speech is in the simple past tense. In indirect speech, it changes to the past perfect tense. 'Today' changes to 'that day'. The correct indirect form is 'I asked my daughter whom she had seen at the shopping mall that day'."
-  },
-  {
-    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\nP. Blessing, there is \nQ. fact that it has been a great consolation \nR. if this government is not a wholesome \nS. no denying the",
-    "option_1": "RSQP",
-    "option_2": "QRSP",
-    "option_3": "PRSQ",
-    "option_4": "RPSQ",
-    "answer": "4",
-    "solution": "The logical sequence is RPSQ. The sentence begins with a conditional clause 'if this government is not a wholesome' (R), followed by 'Blessing, there is' (P) to form 'wholesome blessing'. Then comes 'no denying the' (S) and 'fact that it has been a great consolation' (Q) to complete the thought."
-  },
-  {
-    "question": "Select the option that expresses the given sentence in the Active/Passive voice. \nDaniel and Mary invited us to their wedding.",
-    "option_1": "We have been invited to Daniel and Mary's wedding.",
-    "option_2": "We were invited to Daniel and Mary's wedding.",
-    "option_3": "We had been invited to Daniel and Mary's wedding.",
-    "option_4": "We are invited to Daniel and Mary's wedding.",
-    "answer": "2",
-    "solution": "The active sentence is in simple past tense. The passive voice form for simple past is 'was/were' + past participle. The object 'us' becomes the subject 'We'. Therefore, the correct passive voice sentence is 'We were invited to Daniel and Mary's wedding'."
-  },
-  {
-    "question": "Improve the bold part in each of the following sentences if needed.\nThe orphans have been clamouring for nutritious food from the past two weeks.",
-    "option_1": "for past",
-    "option_2": "since the past",
-    "option_3": "for the past",
-    "option_4": "No improvement",
-    "answer": "3",
-    "solution": "The present perfect continuous tense ('have been clamouring') is used with 'for' to denote a period of time. Therefore, 'for the past two weeks' is the correct replacement."
-  },
-  {
-    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\nP. The philosophy of pragmatism goes something like this. \nQ. It is not possible for the mind to relate to anything other than ideas. \nR. The mind is such that it deals only with ideas. \nS. Therefore, it is not correct to think that the mind actually can ponder reality.",
-    "option_1": "RQSP",
-    "option_2": "RSPQ",
-    "option_3": "PRQS",
-    "option_4": "SQRP",
-    "answer": "3",
-    "solution": "The correct logical order is PRQS. P introduces the philosophy. R states its premise. Q elaborates on that premise. S draws a conclusion ('Therefore')."
-  },
-  {
-    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nCredit cards originated in the 1920s in the US, with European references dating back to 1890. John Biggins, 1. ____ of the first bank-issued credit card, invented the 'Charge-It' programme in 1946, 2.______ bank customers and local merchants. In 1950, Diners Club introduced their credit card in the US, 3. _______customers to pay restaurant bills without cash. American Express 4. _____ their first credit card in 1958, while the Bank of America introduced the Bank America Card (now Visa) in 1958. Visa, now known as the Visa International Service Association, is accepted in over 150 countries, making it one of the most 5. ______ credit cards available. \nSelect the most appropriate option to fill in blank number 4.",
-    "option_1": "censored",
-    "option_2": "issued",
-    "option_3": "suppressed",
-    "option_4": "published",
-    "answer": "2",
-    "solution": "The word 'issued' means to formally supply or distribute. This is the correct term for what companies do with credit cards. The other options are not contextually appropriate."
-  },
-  {
-    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nCredit cards originated in the 1920s in the US, with European references dating back to 1890. John Biggins, 1.. ____ of the first bank-issued credit card, invented the 'Charge-It' programme in 1946, 2.______ bank customers and local merchants. In 1950, Diners Club introduced their credit card in the US, 3. _______customers to pay restaurant bills without cash. American Express 4. _____ their first credit card in 1958, while the Bank of America introduced the Bank America Card (now Visa) in 1958. Visa, now known as the Visa International Service Association, is accepted in over 150 countries, making it one of the most 5. ______ credit cards available. \nSelect the most appropriate option to fill in blank number 5.",
-    "option_1": "solidify",
-    "option_2": "amateur",
-    "option_3": "universal",
-    "option_4": "entitle",
-    "answer": "3",
-    "solution": "Given that the card is 'accepted in over 150 countries,' it is widely available and applicable globally. The word 'universal' best fits this description."
-  },
-  {
-    "question": "Which of the following is an example of gravitational potential energy?",
-    "option_1": "Moving car",
-    "option_2": "Bullet fired from a gun",
-    "option_3": "Water which is behind the dam",
-    "option_4": "Foot kicking a ball",
-    "answer": "3",
-    "solution": "Gravitational potential energy is stored energy an object has due to its position in a gravitational field. The water held back by a dam has potential energy because of its height. The other options describe kinetic energy (energy of motion)."
-  },
-  {
-    "question": "Which cricket team has won the title of ICC U-19 Women's T20 World Cup 2025?",
-    "option_1": "Sri Lanka",
-    "option_2": "Bangladesh",
-    "option_3": "India",
-    "option_4": "Australia",
-    "answer": "3",
-    "solution": "India won the inaugural ICC Under-19 Women's T20 World Cup in 2023. The question refers to 2025, which at the time of the source data creation would have been a projected or recent event. Based on the provided answer, India won the 2025 title as well, defeating South Africa in Malaysia."
-  },
-  {
-    "question": "Fugdi, a folk dance of Goa performed in Konkan region, is generally performed during which of the following Hindu religious festivals?",
-    "option_1": "Diwali",
-    "option_2": "Holi",
-    "option_3": "Durga Puja",
-    "option_4": "Ganesh Chaturthi",
-    "answer": "4",
-    "solution": "Fugdi is a Goan folk dance performed by women in the Konkan region during Hindu religious festivals like Ganesh Chaturthi and other occasions."
-  },
-  {
-    "question": "How many members are there in GST Council?",
-    "option_1": "33",
-    "option_2": "35",
-    "option_3": "25",
-    "option_4": "23",
-    "answer": "1",
-    "solution": "The GST Council is composed of 33 members. This includes 2 members from the Centre (Union Finance Minister and Union Minister of State for Finance) and 31 members from the states and union territories (28 states and 3 Union Territories with Legislature)."
-  },
-  {
-    "question": "The Kharif season in India largely coincides with ______",
-    "option_1": "Southwest Monsoon",
-    "option_2": "South-east Monsoon",
-    "option_3": "Northeast Monsoon",
-    "option_4": "Northwest Monsoon",
-    "answer": "1",
-    "solution": "The Kharif cropping season is aligned with the Southwest Monsoon, which typically starts in June and ends in September. Crops like rice, maize, and cotton are sown at the beginning of the monsoon."
-  },
-  {
-    "question": "Who among the following persons was associated with the Chittagong armoury raid?",
-    "option_1": "Bishnu Sharan Dublish",
-    "option_2": "Sachindra Nath Bakshi",
-    "option_3": "Manmatha Nath Gupta",
-    "option_4": "Ardhedu Dastidar",
-    "answer": "4",
-    "solution": "Ardhendu Dastidar was a revolutionary associated with the Chittagong armoury raid, which was led by Surya Sen on April 18, 1930."
-  },
-  {
-    "question": "Which states of India have the Nallamala range of forests?",
-    "option_1": "Andhra Pradesh - Telangana",
-    "option_2": "Tamil Nadu - Karnataka",
-    "option_3": "Tamil Nadu - Kerala",
-    "option_4": "Goa - Maharashtra",
-    "answer": "1",
-    "solution": "The Nallamala Range is a section of the Eastern Ghats which stretches primarily over parts of Andhra Pradesh and Telangana."
-  },
-  {
-    "question": "The elements of groups 3 to 12 are called ______ elements or transition elements.",
-    "option_1": "c-block",
-    "option_2": "a-block",
-    "option_3": "d-block",
-    "option_4": "p-block",
-    "answer": "3",
-    "solution": "The elements in groups 3 through 12 of the periodic table are known as the transition metals or d-block elements, as their valence electrons are in the d orbital."
-  },
-  {
-    "question": "How many players are allowed to be substituted in a game of field hockey?",
-    "option_1": "No limit",
-    "option_2": "3",
-    "option_3": "10",
-    "option_4": "5",
-    "answer": "1",
-    "solution": "In modern field hockey, there is no limit to the number of substitutions a team can make. This is known as 'rolling substitutions'."
-  },
-  {
-    "question": "Which of the following commissions is mentioned in the Indian Constitution?",
-    "option_1": "Union Public Service Commission",
-    "option_2": "National Commission for Women",
-    "option_3": "Competition Commission of India",
-    "option_4": "National Human Rights Commission",
-    "answer": "1",
-    "solution": "The Union Public Service Commission (UPSC) is a constitutional body established under Article 315 of the Constitution of India. The other commissions listed are statutory bodies, created by Acts of Parliament."
-  },
-  {
-    "question": "The objective of self-reliance was first incorporated in _____ Five Year Plan.",
-    "option_1": "Third",
-    "option_2": "Second",
-    "option_3": "Fifth",
-    "option_4": "First",
-    "answer": "1",
-    "solution": "The objective of achieving self-reliance was first explicitly stated in the Third Five Year Plan (1961-1966)."
-  },
-  {
-    "question": "Which freedom fighter is also known as the 'Grand Old Man of India'?",
-    "option_1": "Chakravarti Rajagopalachari",
-    "option_2": "Dr. Zakir Hussain",
-    "option_3": "Dadabhai Naoroji",
-    "option_4": "Mahatma Gandhi",
-    "answer": "3",
-    "solution": "Dadabhai Naoroji, a prominent nationalist leader and one of the founders of the Indian National Congress, is widely known as the 'Grand Old Man of India'."
-  },
-  {
-    "question": "Ammonia is produced commercially by which process?",
-    "option_1": "Oswald process",
-    "option_2": "Hall process",
-    "option_3": "Contact process",
-    "option_4": "Haber process",
-    "answer": "4",
-    "solution": "The Haber process, also called the Haber-Bosch process, is the primary industrial procedure for the production of ammonia by reacting nitrogen and hydrogen gases."
-  },
-  {
-    "question": "The formula to find the unemployment rate is _____.",
-    "option_1": "(Unemployed male workers/Total labour force) × 1000",
-    "option_2": "(Unemployed workers/Total labour force) × 100",
-    "option_3": "(Employed workers/Total labour force) × 100",
-    "option_4": "(Employed workers/Male labour force) × 100",
-    "answer": "2",
-    "solution": "The unemployment rate is calculated by dividing the number of unemployed individuals by the total number of people in the labor force (both employed and unemployed), and then multiplying by 100 to get a percentage."
-  },
-  {
-    "question": "Who has been awarded the 'Forbes India Limited Award'?",
-    "option_1": "Narendra Modi",
-    "option_2": "Rahul Gandhi",
-    "option_3": "Jai Shah",
-    "option_4": "S. Jaishankar",
-    "answer": "3",
-    "solution": "At the Forbes India Leadership Awards, Jay Shah, the secretary of the Board of Control for Cricket in India (BCCI), was honored with the 'Icon of Excellence' award."
+    "solution": "If the diameter increases by 15%, the radius also increases by 15%. Let the original radius be 'r'. The new radius is 1.15r. The original area is πr². The new area is π(1.15r)² = π(1.3225r²). The increase in area is 1.3225πr² - πr² = 0.3225πr². The percentage increase is (0.3225πr² / πr²) * 100 = 32.25%. Alternatively, using the successive percentage formula for two increases: 15 + 15 + (15 * 15) / 100 = 30 + 2.25 = 32.25%."
   }
 ]
 
