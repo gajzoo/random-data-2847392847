@@ -27,7 +27,7 @@
     "solution": "Initial mixture: 50L with Juice:Water = 3:2. This means Juice = 30L, Water = 20L. Let the added 60L mixture have juice 'j' and water 'w' (j+w=60). The new mixture is (30+j):(20+w) = 2:1. This gives 30+j = 2(20+w) => 30+j = 40+2w. Using j=60-w, we get 30+60-w = 40+2w => 90-w=40+2w => 50=3w => w=50/3 L, j=130/3 L. Total Juice = 30+130/3 = 220/3 L. Total Water = 20+50/3 = 110/3 L. Ratio is 2:1. Now, 11L is removed. Water removed = (1/3)*11 = 11/3 L. Juice removed = (2/3)*11 = 22/3 L. Remaining water = 110/3 - 11/3 = 99/3 = 33L. Remaining juice = 220/3 - 22/3 = 198/3 = 66L. Add 11L juice. Final juice = 66+11=77L. Final water=33L. Ratio water:juice = 33:77 = 3:7. The desired answer is 18:37, which points to different initial values."
   },
   {
-    "question": "The pie graph shows the expenditure of a publishing house of Karnataka. https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image008.png If the total expenditure is ₹50,000 then the expenditure on transportation is-",
+    "question": "The pie graph shows the expenditure of a publishing house of Karnataka. <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image008.png' alt='pie chart' style='margin-top:15px;' /> If the total expenditure is ₹50,000 then the expenditure on transportation is-",
     "option_1": "₹5000",
     "option_2": "₹7000",
     "option_3": "₹10000",
@@ -45,13 +45,13 @@
     "solution": "The total age of the three men being replaced is 35 + 48 + 49 = 132 years. The average age of the 10-person committee increased by 3 years, so the total age of the committee increased by 10 * 3 = 30 years. This increase is the difference between the total age of the new women and the men they replaced. Thus, the total age of the three women is 132 + 30 = 162 years. The average age of the three women is 162 / 3 = 54 years."
   },
   {
-    "question": "Find the value of https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image015.png",
-    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image016.png",
-    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image017.png",
-    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image018.png",
-    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image019.png",
+    "question": "Find the value of <br> <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image015.png' alt='math expression' />",
+    "option_1": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image016.png' alt='option 1' />",
+    "option_2": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image017.png' alt='option 2' />",
+    "option_3": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image018.png' alt='option 3' />",
+    "option_4": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image019.png' alt='option 4' />",
     "answer": "1",
-    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image020.png"
+    "solution": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image020.png' alt='solution' />"
   },
   {
     "question": "In a division problem, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what will be the dividend?",
@@ -63,12 +63,13 @@
     "solution": "Given, Remainder = 46. Divisor = 5 × Remainder = 5 × 46 = 230. Also, Divisor = 10 × Quotient, so 230 = 10 × Quotient, which means Quotient = 23. We know that Dividend = (Divisor × Quotient) + Remainder. So, Dividend = (230 × 23) + 46 = 5290 + 46 = 5336."
   },
   {
-    "question": "The ratio of incomes of A and B is 4:3. A's expenditure is 5/12 of his income and B's expenditure is 7/15 of his income. The difference in their expenditure is ₹ 4,500. Find B's income. https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image027.png",
+    "question": "<p>The ratio of incomes of A and B is 4:3. A's expenditure is <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image022.png' alt='fraction 5/12' style='vertical-align: middle;'> of his income and B's expenditure is <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image023.png' alt='fraction 7/15' style='vertical-align: middle;'> of his income. The difference in their expenditure is ₹ 4,500. Find B's income.</p>",
     "option_1": "₹ 48,625",
     "option_2": "₹ 50,625",
     "option_3": "₹ 51,625",
     "option_4": "₹ 49,625",
     "answer": "2",
-    "solution": "Let incomes of A and B be 4x and 3x. A's expenditure = (5/12) * 4x = 5x/3. B's expenditure = (7/15) * 3x = 7x/5. The difference is |5x/3 - 7x/5| = |(25x - 21x) / 15| = 4x/15. We are given 4x/15 = 4500. So, x = (4500 * 15) / 4 = 16875. B's income is 3x = 3 * 16875 = ₹ 50,625."
+    "solution": "Let incomes of A and B be 4x and 3x. <br>A's expenditure = (5/12) * 4x = 5x/3. <br>B's expenditure = (7/15) * 3x = 7x/5. <br>The difference is |5x/3 - 7x/5| = |(25x - 21x) / 15| = 4x/15. We are given 4x/15 = 4500. So, x = (4500 * 15) / 4 = 16875. <br>B's income is 3x = 3 * 16875 = ₹ 50,625. <br> <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image027.png' alt='calculation' style='margin-top: 15px;' />"
   }
 ]
+
