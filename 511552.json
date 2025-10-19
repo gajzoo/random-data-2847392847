@@ -27,10 +27,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image010.png"
   },
   {
-    "option_1": "150 km",
-    "option_2": "150 km",
-    "option_3": "180 km",
-    "option_4": "160 km",
+    "option_1": "150 km/h 105 km/h 150 km/h and 105 km/h",
+    "option_2": "150 km/h 250km/h 150 km/h and 250km/h",
+    "option_3": "180 km/h 108 km/h 180 km/h and 108 km/h",
+    "option_4": "160 km/h 106 km/h 160 km/h and 106 km/h",
     "question": "Two trains of length 150 m and 250 m run on parallel lines. When they move in the same direction, they take 20 seconds to cross each other and when they move in opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image011.png"
@@ -49,7 +49,7 @@
     "option_2": "12",
     "option_3": "15",
     "option_4": "18",
-    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?\nएक चोर ने एक पुलिसकर्मी को देखा और वह 12 m",
+    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?\n12 m/s 18 m/s 540m , ( ) ?",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image013.png"
   },
@@ -198,10 +198,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image039.png"
   },
   {
-    "option_1": "1520 sq.m.",
-    "option_2": "2420 sq.m.",
-    "option_3": "2480 sq.m.",
-    "option_4": "2520 sq.m.",
+    "option_1": "1520 / 1520 sq.m.",
+    "option_2": "2420 /2420 sq.m.",
+    "option_3": "2480 /2480 sq.m.",
+    "option_4": "2520 /2520 sq.m.",
     "question": "The difference between the length and breadth of a rectangle is 23. If the perimeter is 206 m, then what will be the area?",
     "answer": "4",
     "solution": "1 – b = 23............. (i)\nआयत का परिमाप = 2 × (l+ b)\n206 = 2 × (1+b)\nl + b=103...........(ii)\nl – b =23......\n2l =126\nl = 63cm\nसमी. (ii) से b = 103 – 63 = 40cm\nआयत का क्षेत्रफल = 1× b = 63× 40"
@@ -216,10 +216,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image044.png"
   },
   {
-    "option_1": "Sodium",
-    "option_2": "Li-ion",
-    "option_3": "M-air",
-    "option_4": "Lead acid",
+    "option_1": "/ Sodium",
+    "option_2": "- / Li-ion",
+    "option_3": "- / M-air",
+    "option_4": "/ Lead acid",
     "question": "A battery manufacturer manufactures five different types of batteries. The total revenue for the year 2020 is ₹25,00,000 and 20,000 units were exported in 2020. The distribution of revenue and units for five different types of batteries is shown in the chart.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image045.png\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image046.png\nWhich type of battery provides the lowest revenue per unit?",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image047.png\nहम स्पष्ट रूप से देख सकते हैं कि लेड एसिड बैटरी की प्रति यूनिट आय सबसे कम है"
@@ -319,7 +319,7 @@
     "option_2": "Mother-in-law",
     "option_3": "Daughter",
     "option_4": "Daughter-in-law",
-    "question": "'A # B' means 'A is the brother of B'\n'A @ B' means 'A is the daughter of B'\n'A & B' means 'A is the husband of B'\n'A % B' means 'A is the wife of B'\nIf V & S @ F % H # T@ Q, then how is F related to Q",
+    "question": "'A # B' means 'A is the brother of B'/'A # B' 'A, B '\n'A @ B' means 'A is the daughter of B'/ 'A @ B' 'A, B '\n'A & B' means 'A is the husband of B'/'A & B' 'A, B\n'A % B' means 'A is the wife of B'/'A % B' 'A, B '\nIf V & S @ F % H # T@ Q, then how is F related to Q",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image011.png"
   },
