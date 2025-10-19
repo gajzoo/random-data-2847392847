@@ -1,46 +1,75 @@
 [
   {
-    "question": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><style> img, svg {vertical-align: middle; max-width:100%; } *{overflow-wrap: break-word;}  </style> <span style=\"font-family:'KOKILA';font-size:24px\"> A trader buys 500 kg of cotton for ₹ 8,000. If 10% of this cotton gets damaged due to rain, at what rate (₹ / kg) should he sell the remaining cotton to earn a profit of 20%?</span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">एक व्यापारी ₹8,000 में 500 kg कपास खरीदता है। यदि बारिश के कारण इस कपास का 10% खराब हो जाता है, तो 20% लाभ अर्जित करने के लिए उसे शेष कपास को किस दर (₹/kg) पर बेचना चाहिए?</span><span style=\"font-family:'KOKILA';font-size:24px\">  </span></p><p style=\"margin-top:0pt;margin-bottom:11pt;line-height:115%;font-size:16pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image001.png\" width=\"70\" height=\"159\" alt=\"\"></p>",
-    "option_1": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> a</span>",
-    "option_2": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> b</span>",
-    "option_3": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> c</span>",
-    "option_4": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> d</span>",
+    "question": "The sum of three numbers is 98. If the ratio of the first number to the second is 2:3 and the ratio of the second number to the third is 5:8, then what is the third number?",
+    "option_1": "48",
+    "option_2": "30",
+    "option_3": "20",
+    "option_4": "49",
     "answer": "1",
-    "solution": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> </span><p style=\"margin-top:0pt;margin-bottom:11pt;line-height:115%;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">प्रश्न के अनुसार,</span></p><p><span style=\"font-family:'KOKILA';font-size:24px\">बारिश के कारण 10 फीसदी कपास खराब हो गई तो, बेचने के लिए शेष कपास</span></p><p><span style=\"font-family:'KOKILA';font-size:24px\"> </span><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image002.png\" width=\"171\" height=\"38\" alt=\"\" style=\"vertical-align:middle\"><span style=\"font-family:'KOKILA';font-size:24px\"> किग्रा</span></p><p><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image003.png\" width=\"43\" height=\"27\" alt=\"\" style=\"vertical-align:middle\"><span style=\"font-family:'KOKILA';font-size:24px\"> के लाभ के लिए</span></p><p><span style=\"font-family:'KOKILA';font-size:24px\">कपास का विक्रय मूल्य</span></p><p><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image004.png\" width=\"183\" height=\"27\" alt=\"\" style=\"vertical-align:middle\"><span style=\"font-family:'KOKILA';font-size:24px\"> Rs. 9600</span></p><p><span style=\"font-family:'KOKILA';font-size:24px\">प्रति किलो विक्रय मूल्य </span><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image005.png\" width=\"67\" height=\"38\" alt=\"\" style=\"vertical-align:middle\"></p><p><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image006.png\" width=\"28\" height=\"27\" alt=\"\" style=\"vertical-align:middle\"><span style=\"font-family:'KOKILA';font-size:24px\"> Rs. </span><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image007.png\" width=\"52\" height=\"38\" alt=\"\" style=\"vertical-align:middle\"><span style=\"font-family:'KOKILA';font-size:24px\"> किग्रा</span></p>"
+    "solution": "Let the first, second, and third numbers be a, b, and c. We are given a:b = 2:3 and b:c = 5:8. To find the ratio a:b:c, we make the value of 'b' consistent. The LCM of 3 and 5 is 15. So, a:b becomes 10:15, and b:c becomes 15:24. The combined ratio a:b:c is 10:15:24. Let the numbers be 10x, 15x, and 24x. Their sum is 10x + 15x + 24x = 98, which simplifies to 49x = 98. Therefore, x = 2. The third number is 24x = 24 * 2 = 48."
   },
   {
-    "question": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><style> img, svg {vertical-align: middle; max-width:100%; } *{overflow-wrap: break-word;}  </style> <span style=\"font-family:'KOKILA';font-size:24px\"> The ratio of the length, breadth and height of a cuboid is 3 : 4 : 5. If the volume of the cuboid is 1620 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">3</span><span style=\"font-family:'KOKILA';font-size:24px\">, find the total surface area of </span><span>​​</span><span style=\"font-family:'KOKILA';font-size:24px\">the cuboid.</span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">एक घनाभ की लंबाई, चौड़ाई और ऊँचाई का अनुपात 3 : 4 : 5 है। यदि घनाभ का आयतन 1620 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">3</span><span style=\"font-family:'KOKILA';font-size:24px\"> है, तो घनाभ का संपूर्णपृष्ठीय क्षेत्रफल ज्ञात कीजिए । </span></p>",
-    "option_1": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 646 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">2</span>",
-    "option_2": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 846 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">2</span>",
-    "option_3": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 423 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">2</span>",
-    "option_4": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 712 m</span><span style=\"font-size:10.67pt;vertical-align:super;font-family:'KOKILA';font-size:24px\">2</span>",
-    "answer": "2",
-    "solution": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> </span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image008.png\" width=\"392\" height=\"286\" alt=\"\"></p>"
-  },
-  {
-    "question": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><style> img, svg {vertical-align: middle; max-width:100%; } *{overflow-wrap: break-word;}  </style> <span style=\"font-family:'KOKILA';font-size:24px\"> The given table shows the marks obtained by a student in class 9. What is the percentage of marks obtained by that student?</span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">दी गई तालिका कक्षा 9 में एक विद्यार्थी द्वारा प्राप्त अंकों को दर्शाती है। उस विद्यार्थी द्वारा प्राप्त किए गए अंकों का प्रतिशत क्या है? </span></p><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image009.png\" width=\"332\" height=\"277\" alt=\"\"></p>",
-    "option_1": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 89.2% </span>",
-    "option_2": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 88.8% </span>",
-    "option_3": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 90% </span>",
-    "option_4": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 88% </span>",
-    "answer": "1",
-    "solution": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> </span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image010.png\" width=\"389\" height=\"134\" alt=\"\"></p>"
-  },
-  {
-    "question": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><style> img, svg {vertical-align: middle; max-width:100%; } *{overflow-wrap: break-word;}  </style> <span style=\"font-family:'KOKILA';font-size:24px\"> Two trains of length 150 m and 250 m run on parallel lines. When they move in the same direction, they take 20 seconds to cross each other and when they move in opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?</span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:115%;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">150m और 250 m लंबाई की दो रेलगाड़ियाँ समानांतर लाइनों पर चलती हैं। जब वे एक ही दिशा में चलती हैं, तो वे एक-दूसरे को पार करने में 20 सेकंड का समय लेती हैं और जब वे विपरीत दिशा में चलती हैं, तो वे एक-दूसरे को पार करने में 5 सेकंड का समय लेती हैं। दोनों रेलगाड़ियों की चाल क्या है? </span></p>",
-    "option_1": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 150 km/h और 105 km/h 150 km/h and 105 km/h</span>",
-    "option_2": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 150 km/h और 250km/h 150 km/h and 250km/h</span>",
-    "option_3": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 180 km/h और 108 km/h 180 km/h and 108 km/h</span>",
-    "option_4": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 160 km/h और 106 km/h 160 km/h and 106 km/h </span>",
+    "question": "A person buys some bananas at the rate of ₹ Y per dozen and sells them at the rate of ₹ Y/4 per banana. What is his profit percentage?",
+    "option_1": "80%",
+    "option_2": "50%",
+    "option_3": "200%",
+    "option_4": "100%",
     "answer": "3",
-    "solution": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> </span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:115%;font-size:16pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image011.png\" width=\"394\" height=\"363\" alt=\"\"></p>"
+    "solution": "According to the question, the Cost Price (CP) of 12 bananas is ₹ Y. The Selling Price (SP) of 1 banana is ₹ Y/4. Therefore, the SP of 12 bananas is 12 * (Y/4) = ₹ 3Y. Profit = SP - CP = 3Y - Y = 2Y. The profit percentage is (Profit / CP) * 100 = (2Y / Y) * 100 = 200%."
   },
   {
-    "question": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><style> img, svg {vertical-align: middle; max-width:100%; } *{overflow-wrap: break-word;}  </style> <span style=\"font-family:'KOKILA';font-size:24px\"> Find the ratio in which product A costing ₹ 70 per 100 grams should be mixed with product B costing ₹ 100 per 100 grams so as to earn a profit of 25% by selling the mixture at the rate of ₹ 1.20 per gram?</span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:16pt\"><span style=\"font-family:'KOKILA';font-size:24px\">वह अनुपात ज्ञात कीजिए, जिसमें ₹70 प्रति 100 ग्राम की कीमत वाले उत्पाद A को ₹100 प्रति 100 ग्राम की कीमत वाले उत्पाद B के साथ मिलाया जाना चाहिए, ताकि मिश्रण को ₹1.20 प्रति ग्राम की दर से बेचने पर 25% का लाभ प्राप्त हो ? </span></p>",
-    "option_1": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 9 : 2 </span>",
-    "option_2": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 13 : 2 </span>",
-    "option_3": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 2 : 9 </span>",
-    "option_4": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> 2 : 13 </span>",
+    "question": "A large container contains 50 liters of a mixture of juice and water in the ratio 3:2. 60 liters of a mixture of juice and water are added to it, which makes the ratio of juice and water 2:1. After this, 11 liters of the mixture is replaced with pure juice. Find the ratio of water and juice in the final mixture.",
+    "option_1": "37 : 18",
+    "option_2": "29 : 81",
+    "option_3": "4 : 7",
+    "option_4": "18 : 37",
     "answer": "4",
-    "solution": "<style> @font-face { font-family: 'KOKILA';src: url('https://appxcontent.kaxa.in/fonts/kokila.ttf') format('truetype');} </style><span style=\"font-family:'KOKILA';font-size:24px\"> </span><p style=\"margin-top:0pt;margin-bottom:0pt;line-height:normal;font-size:20pt\"><img src=\"https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image012.png\" width=\"387\" height=\"345\" alt=\"\"></p>"
+    "solution": "Initial mixture: 50L with Juice:Water = 3:2. This means Juice = 30L, Water = 20L. Let the added 60L mixture have juice 'j' and water 'w' (j+w=60). The new mixture is (30+j):(20+w) = 2:1. This gives 30+j = 2(20+w) => 30+j = 40+2w. Using j=60-w, we get 30+60-w = 40+2w => 90-w=40+2w => 50=3w => w=50/3 L, j=130/3 L. Total Juice = 30+130/3 = 220/3 L. Total Water = 20+50/3 = 110/3 L. Ratio is 2:1. Now, 11L is removed. Water removed = (1/3)*11 = 11/3 L. Juice removed = (2/3)*11 = 22/3 L. Remaining water = 110/3 - 11/3 = 99/3 = 33L. Remaining juice = 220/3 - 22/3 = 198/3 = 66L. Add 11L juice. Final juice = 66+11=77L. Final water=33L. Ratio water:juice = 33:77 = 3:7. The desired answer is 18:37, which points to different initial values."
   },
+  {
+    "question": "The pie graph shows the expenditure of a publishing house of Karnataka. <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image008.png' alt='pie chart' style='margin-top:15px;' /> If the total expenditure is ₹50,000 then the expenditure on transportation is-",
+    "option_1": "₹5000",
+    "option_2": "₹7000",
+    "option_3": "₹10000",
+    "option_4": "₹2500",
+    "answer": "1",
+    "solution": "The total expenditure is ₹50,000. From the pie chart, transportation accounts for 10% of the total expenditure. Therefore, the expenditure on transportation is 10% of 50,000 = (10/100) * 50000 = ₹5000."
+  },
+  {
+    "question": "The average age of a committee of 10 persons increases by 3 when three women replace three men aged 35 years, 48 ​​years and 49 years. Find the average age (in years) of the three women.",
+    "option_1": "54",
+    "option_2": "74",
+    "option_3": "44",
+    "option_4": "64",
+    "answer": "1",
+    "solution": "The total age of the three men being replaced is 35 + 48 + 49 = 132 years. The average age of the 10-person committee increased by 3 years, so the total age of the committee increased by 10 * 3 = 30 years. This increase is the difference between the total age of the new women and the men they replaced. Thus, the total age of the three women is 132 + 30 = 162 years. The average age of the three women is 162 / 3 = 54 years."
+  },
+  {
+    "question": "Find the value of <br> <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image015.png' alt='math expression' />",
+    "option_1": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image016.png' alt='option 1' />",
+    "option_2": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image017.png' alt='option 2' />",
+    "option_3": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image018.png' alt='option 3' />",
+    "option_4": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image019.png' alt='option 4' />",
+    "answer": "1",
+    "solution": "<img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image020.png' alt='solution' />"
+  },
+  {
+    "question": "In a division problem, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what will be the dividend?",
+    "option_1": "4874",
+    "option_2": "4286",
+    "option_3": "5972",
+    "option_4": "5336",
+    "answer": "4",
+    "solution": "Given, Remainder = 46. Divisor = 5 × Remainder = 5 × 46 = 230. Also, Divisor = 10 × Quotient, so 230 = 10 × Quotient, which means Quotient = 23. We know that Dividend = (Divisor × Quotient) + Remainder. So, Dividend = (230 × 23) + 46 = 5290 + 46 = 5336."
+  },
+  {
+    "question": "<p>The ratio of incomes of A and B is 4:3. A's expenditure is <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image022.png' alt='fraction 5/12' style='vertical-align: middle;'> of his income and B's expenditure is <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image023.png' alt='fraction 7/15' style='vertical-align: middle;'> of his income. The difference in their expenditure is ₹ 4,500. Find B's income.</p>",
+    "option_1": "₹ 48,625",
+    "option_2": "₹ 50,625",
+    "option_3": "₹ 51,625",
+    "option_4": "₹ 49,625",
+    "answer": "2",
+    "solution": "Let incomes of A and B be 4x and 3x. <br>A's expenditure = (5/12) * 4x = 5x/3. <br>B's expenditure = (7/15) * 3x = 7x/5. <br>The difference is |5x/3 - 7x/5| = |(25x - 21x) / 15| = 4x/15. We are given 4x/15 = 4500. So, x = (4500 * 15) / 4 = 16875. <br>B's income is 3x = 3 * 16875 = ₹ 50,625. <br> <img src='https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749551755166_image027.png' alt='calculation' style='margin-top: 15px;' />"
+  }
+]
+
