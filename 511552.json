@@ -6,7 +6,7 @@
     "option_4": "d",
     "question": "A trader buys 500 kg of cotton for ₹ 8,000. If 10% of this cotton gets damaged due to rain, at what rate (₹ / kg) should he sell the remaining cotton to earn a profit of 20%?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image001.png",
     "answer": "1",
-    "solution": "प्रश्न के अनुसार,\n\nबारिश के कारण 10 फीसदी कपास खराब हो गई तो, बेचने के लिए शेष कपास\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image002.png किग्रा\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image003.png के लाभ के लिए\n\nकपास का विक्रय मूल्य\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image004.png Rs. 9600\n\nप्रति किलो विक्रय मूल्य https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image005.png\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image006.png Rs. https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image007.png किग्रा"
+    "solution": "प्रश्न के अनुसार,\nबारिश के कारण 10 फीसदी कपास खराब हो गई तो, बेचने के लिए शेष कपास\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image002.png किग्रा\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image003.png के लाभ के लिए\nकपास का विक्रय मूल्य\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image004.png Rs. 9600\nप्रति किलो विक्रय मूल्य https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image005.png\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image006.png Rs. https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image007.png किग्रा"
   },
   {
     "option_1": "646 m 2",
@@ -27,10 +27,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image010.png"
   },
   {
-    "option_1": "150 km",
-    "option_2": "150 km",
-    "option_3": "180 km",
-    "option_4": "160 km",
+    "option_1": "150 km/h 105 km/h 150 km/h and 105 km/h",
+    "option_2": "150 km/h 250km/h 150 km/h and 250km/h",
+    "option_3": "180 km/h 108 km/h 180 km/h and 108 km/h",
+    "option_4": "160 km/h 106 km/h 160 km/h and 106 km/h",
     "question": "Two trains of length 150 m and 250 m run on parallel lines. When they move in the same direction, they take 20 seconds to cross each other and when they move in opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image011.png"
@@ -49,7 +49,7 @@
     "option_2": "12",
     "option_3": "15",
     "option_4": "18",
-    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?",
+    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?\n12 m/s 18 m/s 540m , ( ) ?",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image013.png"
   },
@@ -67,7 +67,7 @@
     "option_2": "178",
     "option_3": "176",
     "option_4": "174",
-    "question": "The average height of a group of 50 students is 175 cm. If another group of 40 students with an average height of 180 cm is included in it, find the average (in cm, rounded off to the nearest cm) of both the groups together.",
+    "question": "The average height of a group of 50 students is 175 cm. If another group of 40 students with an average height of 180 cm is included in it, find the average (in cm, rounded off to the nearest cm) of both the groups together.\n50 175 cm 180 cm 40 , (cm , cm )",
     "answer": "1",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image016.png"
   },
@@ -105,14 +105,14 @@
     "option_4": "124 °",
     "question": "If one angle of a parallelogram is 28° less than three times its smallest angle, then find the measure of the largest angle of the parallelogram.",
     "answer": "3",
-    "solution": "∠ A+ ∠ B+ ∠ C+ ∠ D=360°\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image024.png\n\nमाना समान्तर चतुर्भुज का सबसे छोटा कोण x है ।\n\nप्रश्नानुसार = 3x – 28\n\n∠ A= ∠ C तथा ∠ B = ∠ D\n\nअतः x + x + 3x – 28 + 3x – 28 = 360°\n\n8x = 360° + 56\n\nx = 52\n\nअतः समान्तर चतुर्भुज का सबसे बड़ा कोण = 3×52–28 = 128°"
+    "solution": "∠ A+ ∠ B+ ∠ C+ ∠ D=360°\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image024.png\nमाना समान्तर चतुर्भुज का सबसे छोटा कोण x है ।\nप्रश्नानुसार = 3x – 28\n∠ A= ∠ C तथा ∠ B = ∠ D\nअतः x + x + 3x – 28 + 3x – 28 = 360°\n8x = 360° + 56\nx = 52\nअतः समान्तर चतुर्भुज का सबसे बड़ा कोण = 3×52–28 = 128°"
   },
   {
     "option_1": "168",
     "option_2": "192",
     "option_3": "128",
     "option_4": "158",
-    "question": "The resistance of a wire is directly proportional to its length and inversely proportional to the square of its radius. Two wires of the same material have the same resistance and their radii are in the ratio of 7 : 8. The corresponding lengths of the wires are 147 cm and L cm respectively. Find the value of L.",
+    "question": "The resistance of a wire is directly proportional to its length and inversely proportional to the square of its radius. Two wires of the same material have the same resistance and their radii are in the ratio of 7 : 8. The corresponding lengths of the wires are 147 cm and L cm respectively. Find the value of L.\n7 : 8 147 cm L cm L",
     "answer": "2",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image025.png"
   },
@@ -130,9 +130,9 @@
     "option_2": "13%",
     "option_3": "14.4%",
     "option_4": "14%",
-    "question": "S borrowed some amount from R and promised to pay him 8% interest. S then invested the borrowed amount in a scheme which earned a profit of 5% after paying R's principal along with interest. What percentage profit would R have earned if he had invested directly in such a scheme?",
+    "question": "S borrowed some amount from R and promised to pay him 8% interest. S then invested the borrowed amount in a scheme which earned a profit of 5% after paying R's principal along with interest. What percentage profit would R have earned if he had invested directly in such a scheme?\nS R 8% S , R 5% R , ?",
     "answer": "2",
-    "solution": "R द्वारा S से कमाया गया लाभ = 8%\n\nS द्वारा अर्जित कुल लाभ = 5%\n\nतो, S द्वारा अर्जित लाभ = (8 + 5)% = 13%\n\nइसलिए, हम कह सकते हैं कि R को 13% का लाभ होता,"
+    "solution": "R द्वारा S से कमाया गया लाभ = 8%\nS द्वारा अर्जित कुल लाभ = 5%\nतो, S द्वारा अर्जित लाभ = (8 + 5)% = 13%\nइसलिए, हम कह सकते हैं कि R को 13% का लाभ होता,"
   },
   {
     "option_1": "27.33",
@@ -148,7 +148,7 @@
     "option_2": "82",
     "option_3": "48",
     "option_4": "96",
-    "question": "In triangle ABC, BD is perpendicular to AC. E is a point on BC such that angle BEA is x°. If angle EAC = 38° and angle EBD is 40°, find the value of x.",
+    "question": "In triangle ABC, BD is perpendicular to AC. E is a point on BC such that angle BEA is x°. If angle EAC = 38° and angle EBD is 40°, find the value of x.\nABC , BD, AC E, BC BEA x° EAC = 38° EBD 40° , x",
     "answer": "1",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image028.png"
   },
@@ -166,7 +166,7 @@
     "option_2": "51.6%",
     "option_3": "53.8%",
     "option_4": "52.4%",
-    "question": "The given bar graph shows the import and export of steel (in ₹ crores) by a country during the year 2013 to 2017.\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image030.png\n\nTotal imports in the years 2013, 2015 and 2017 is what percent of exports in all the years together (correct to one decimal place)?",
+    "question": "The given bar graph shows the import and export of steel (in ₹ crores) by a country during the year 2013 to 2017.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image030.png\nTotal imports in the years 2013, 2015 and 2017 is what percent of exports in all the years together (correct to one decimal place)?",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image031.png"
   },
@@ -177,14 +177,14 @@
     "option_4": "12,182",
     "question": "A sum of ₹ 10,240 at a certain rate of simple interest per annum becomes ₹ 14,848 in 3 years. If the interest is compounded every 5 months, the same sum at the same rate becomes ₹ x in 1 https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image032.png years. What is the value of x?",
     "answer": "2",
-    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image035.png\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image036.png"
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image035.png\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image036.png"
   },
   {
     "option_1": "₹1,500",
     "option_2": "₹2,100",
     "option_3": "₹1,900",
     "option_4": "₹1,200",
-    "question": "X and Y started a business. X invested ₹8,000 and Y invested ₹10,000. After 6 months, Z also joined the business with an investment of ₹6,000. If the profit in 3 years is ₹9,660, what is Z's share?",
+    "question": "X and Y started a business. X invested ₹8,000 and Y invested ₹10,000. After 6 months, Z also joined the business with an investment of ₹6,000. If the profit in 3 years is ₹9,660, what is Z's share?\nX Y X ₹8,000 Y ₹10,000 6 , Z ₹6,000 3 ₹9,660 , Z ?",
     "answer": "2",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image037.png"
   },
@@ -198,13 +198,13 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image039.png"
   },
   {
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "1520 / 1520 sq.m.",
+    "option_2": "2420 /2420 sq.m.",
+    "option_3": "2480 /2480 sq.m.",
+    "option_4": "2520 /2520 sq.m.",
     "question": "The difference between the length and breadth of a rectangle is 23. If the perimeter is 206 m, then what will be the area?",
     "answer": "4",
-    "solution": "1 – b = 23............. (i)\n\nआयत का परिमाप = 2 × (l+ b)\n\n206 = 2 × (1+b)\n\nl + b=103...........(ii)\n\nl – b =23......\n\n2l =126\n\nl = 63cm\n\nसमी. (ii) से b = 103 – 63 = 40cm\n\nआयत का क्षेत्रफल = 1× b = 63× 40"
+    "solution": "1 – b = 23............. (i)\nआयत का परिमाप = 2 × (l+ b)\n206 = 2 × (1+b)\nl + b=103...........(ii)\nl – b =23......\n2l =126\nl = 63cm\nसमी. (ii) से b = 103 – 63 = 40cm\nआयत का क्षेत्रफल = 1× b = 63× 40"
   },
   {
     "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image040.png",
@@ -217,12 +217,12 @@
   },
   {
     "option_1": "/ Sodium",
-    "option_2": "/ Li-ion",
-    "option_3": "/ M-air",
+    "option_2": "- / Li-ion",
+    "option_3": "- / M-air",
     "option_4": "/ Lead acid",
-    "question": "A battery manufacturer manufactures five different types of batteries. The total revenue for the year 2020 is ₹25,00,000 and 20,000 units were exported in 2020. The distribution of revenue and units for five different types of batteries is shown in the chart.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image045.png\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image046.png\n\nWhich type of battery provides the lowest revenue per unit?",
+    "question": "A battery manufacturer manufactures five different types of batteries. The total revenue for the year 2020 is ₹25,00,000 and 20,000 units were exported in 2020. The distribution of revenue and units for five different types of batteries is shown in the chart.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image045.png\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image046.png\nWhich type of battery provides the lowest revenue per unit?",
     "answer": "4",
-    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image047.png\n\nहम स्पष्ट रूप से देख सकते हैं कि लेड एसिड बैटरी की प्रति यूनिट आय सबसे कम है"
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image047.png\nहम स्पष्ट रूप से देख सकते हैं कि लेड एसिड बैटरी की प्रति यूनिट आय सबसे कम है"
   },
   {
     "option_1": "(18, 15, 540)",
@@ -231,14 +231,14 @@
     "option_4": "(11, 19, 628)",
     "question": "In which of the following options the numbers are related to each other in the same way as the given group of numbers?\n(13, 17, 442)",
     "answer": "1",
-    "solution": "दिया गया सेट: - (13, 17, 442)\n\n⇒ (13, 17, 13 × 17 × 2)\n\nइसी प्रकार विकल्प (a) में:-\n\n(18, 15, 18 × 15 × 2) 18, 15, 540"
+    "solution": "दिया गया सेट: - (13, 17, 442)\n⇒ (13, 17, 13 × 17 × 2)\nइसी प्रकार विकल्प (a) में:-\n(18, 15, 18 × 15 × 2) 18, 15, 540"
   },
   {
     "option_1": "(a)",
     "option_2": "(b)",
     "option_3": "(c)",
     "option_4": "(d)",
-    "question": "A paper is folded and cut as shown in the following figure. How will it look when opened?\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image001.png",
+    "question": "A paper is folded and cut as shown in the following figure. How will it look when opened?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image001.png",
     "answer": "1",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image002.png"
   },
@@ -247,9 +247,9 @@
     "option_2": "LNAPIPTPOC",
     "option_3": "TNAPIPLPOC",
     "option_4": "LNAIPITPOC",
-    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code?",
+    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code?\n, I P , L A , A O , O N , N C , C T , P L , T I , POLITICIAN ?",
     "answer": "2",
-    "solution": "एक निश्चित कूट भाषा में I को P, L को A, A को O, O को N, N को C, C को T, P को L और\n\nT को I लिखा गया है। तो, दी गई कोडिंग अनुसार POLITICIAN का कोड LNAPIPTPOC होगा ।"
+    "solution": "एक निश्चित कूट भाषा में I को P, L को A, A को O, O को N, N को C, C को T, P को L और\nT को I लिखा गया है। तो, दी गई कोडिंग अनुसार POLITICIAN का कोड LNAPIPTPOC होगा ।"
   },
   {
     "option_1": "391",
@@ -265,7 +265,7 @@
     "option_2": "(b)",
     "option_3": "(c)",
     "option_4": "(d)",
-    "question": "When the mirror is placed at right side, which of the answer figures will be the exact mirror image of the given question figure?\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image004.png",
+    "question": "When the mirror is placed at right side, which of the answer figures will be the exact mirror image of the given question figure?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image004.png",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image005.png"
   },
@@ -310,7 +310,7 @@
     "option_2": "(b)",
     "option_3": "(c)",
     "option_4": "(d)",
-    "question": "Select the figure from the given options which can replace the question mark (?) in the following series.\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image009.png",
+    "question": "Select the figure from the given options which can replace the question mark (?) in the following series.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image009.png",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image010.png"
   },
@@ -319,7 +319,7 @@
     "option_2": "Mother-in-law",
     "option_3": "Daughter",
     "option_4": "Daughter-in-law",
-    "question": "'A # B' means 'A is the brother of B'\n\n'A @ B' means 'A is the daughter of B'\n\n'A & B' means 'A is the husband of B'\n\n'A % B' means 'A is the wife of B'\n\nIf V & S @ F % H # T@ Q, then how is F related to Q",
+    "question": "'A # B' means 'A is the brother of B'/'A # B' 'A, B '\n'A @ B' means 'A is the daughter of B'/ 'A @ B' 'A, B '\n'A & B' means 'A is the husband of B'/'A & B' 'A, B\n'A % B' means 'A is the wife of B'/'A % B' 'A, B '\nIf V & S @ F % H # T@ Q, then how is F related to Q",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image011.png"
   },
@@ -328,7 +328,7 @@
     "option_2": "S",
     "option_3": "R",
     "option_4": "T",
-    "question": "Seven persons P, Q, R, S T U and V are sitting in a straight line facing north. Only two persons sit to the right of U. Only two persons sit to the left of R. Only two persons sit between U and Q. Only three persons sit between R and V. T is not the immediate neighbour of U. S sits to the right of U. Who sits immediate right of U?",
+    "question": "Seven persons P, Q, R, S T U and V are sitting in a straight line facing north. Only two persons sit to the right of U. Only two persons sit to the left of R. Only two persons sit between U and Q. Only three persons sit between R and V. T is not the immediate neighbour of U. S sits to the right of U. Who sits immediate right of U?\nP, Q, R, S T U V U R U Q R V T, U S, U U ?",
     "answer": "2",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image012.png"
   },
@@ -346,25 +346,25 @@
     "option_2": "26",
     "option_3": "18",
     "option_4": "8",
-    "question": "If D means '-', C means ‘×’, F means '÷', B means '+', then what will come in place of question mark (?) in the following equation?\n\n28 B 72 F 6 D 8 C 4 = ?",
+    "question": "If D means '-', C means ‘×’, F means '÷', B means '+', then what will come in place of question mark (?) in the following equation?\n28 B 72 F 6 D 8 C 4 = ?",
     "answer": "4",
-    "solution": "दिया गया :- 28 B 72 F 6 D S C 4 = ?\n\nप्रश्न में दिए गए परिवर्तनों को लागू करने के बाद हमें मिलता है,\n\n28 + 72 ÷ 6 - 8 × 4\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image013.png 28 +12 – 32 = 8"
+    "solution": "दिया गया :- 28 B 72 F 6 D S C 4 = ?\nप्रश्न में दिए गए परिवर्तनों को लागू करने के बाद हमें मिलता है,\n28 + 72 ÷ 6 - 8 × 4\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image013.png 28 +12 – 32 = 8"
   },
   {
     "option_1": "E",
     "option_2": "T",
     "option_3": "O",
     "option_4": "H",
-    "question": "If each letter of the word TOUCHED is arranged in the reverse order of the English alphabet i.e. starting from the last letter (Z), then which letter will be exactly in the middle of the arrangement?",
+    "question": "If each letter of the word TOUCHED is arranged in the reverse order of the English alphabet i.e. starting from the last letter (Z), then which letter will be exactly in the middle of the arrangement?\nTOUCHED (Z) , ?",
     "answer": "4",
-    "solution": "TOUCHED\n\nअक्षरों को उल्टे वर्णमाला क्रम में व्यवस्थित करने पर नया बना शब्द: U T O H E D C\n\nइसलिए अक्षर H का स्थान इस व्यवस्था में ठीक मध्य में होगा।"
+    "solution": "TOUCHED\nअक्षरों को उल्टे वर्णमाला क्रम में व्यवस्थित करने पर नया बना शब्द: U T O H E D C\nइसलिए अक्षर H का स्थान इस व्यवस्था में ठीक मध्य में होगा।"
   },
   {
     "option_1": "Only conclusion I follows",
     "option_2": "Only conclusion II follows",
     "option_3": "Only conclusion II follows",
     "option_4": "None of the conclusions follow",
-    "question": "Statements\n\nI. No J is R\n\nII. No R is C\n\nConclusions\n\nI. All J are C\n\nII. Some R are J\n\nIII. All C are R",
+    "question": "Statements\nI. No J is R\nII. No R is C\nConclusions\nI. All J are C\nII. Some R are J\nIII. All C are R",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image014.png"
   },
@@ -373,7 +373,7 @@
     "option_2": "(b)",
     "option_3": "(c)",
     "option_4": "(d)",
-    "question": "Which answer figure will complete the pattern in the following question figure ?\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image015.png",
+    "question": "Which answer figure will complete the pattern in the following question figure ?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image015.png",
     "answer": "1",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image016.png"
   },
@@ -384,7 +384,7 @@
     "option_4": "22",
     "question": "Select the option that is related to the fourth number in the same way as the first number is related to the second number.\n21: 693 :: ? : 792",
     "answer": "3",
-    "solution": "तर्क: दूसरी संख्या पहली संख्या का 33 गुना है,\n\nइसी प्रकार, 24 × 33 = 792"
+    "solution": "तर्क: दूसरी संख्या पहली संख्या का 33 गुना है,\nइसी प्रकार, 24 × 33 = 792"
   },
   {
     "option_1": "ADGPI",
@@ -400,7 +400,7 @@
     "option_2": "(b)",
     "option_3": "(c)",
     "option_4": "(d)",
-    "question": "Select the option figure which is embedded in the given figure as a part of it (rotation is not allowed).\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image017.png",
+    "question": "Select the option figure which is embedded in the given figure as a part of it (rotation is not allowed).\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image017.png",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image018.png"
   },
@@ -409,18 +409,18 @@
     "option_2": "UILTG",
     "option_3": "UULTG",
     "option_4": "UIUTH",
-    "question": "In a certain code language, BACK is written as YEXP and MIXTURE is written as NOCGAII. How will FROGS be written in that language?",
+    "question": "In a certain code language, BACK is written as YEXP and MIXTURE is written as NOCGAII. How will FROGS be written in that language?\n, BACK YEXP MIXTURE NOCGAII FROGS ?",
     "answer": "4",
-    "solution": "तर्क :- (i) व्यंजन के लिए:- विपरीत अक्षर का प्रयोग किया गया है।\n\n(ii) स्वरों के लिए :- अगले स्वर का प्रयोग किया गया है।\n\nFROGS शब्द में व्यंजन हैं,\n\nF ⇔ U, R ⇔ I, G ⇒ T, S ⇒ H और केवल एक स्वर है,\n\nO ⇔ U\n\nतो, FROGS को UIUTH के रूप में कोडित किया जाएगा।"
+    "solution": "तर्क :- (i) व्यंजन के लिए:- विपरीत अक्षर का प्रयोग किया गया है।\n(ii) स्वरों के लिए :- अगले स्वर का प्रयोग किया गया है।\nFROGS शब्द में व्यंजन हैं,\nF ⇔ U, R ⇔ I, G ⇒ T, S ⇒ H और केवल एक स्वर है,\nO ⇔ U\nतो, FROGS को UIUTH के रूप में कोडित किया जाएगा।"
   },
   {
     "option_1": "10733494",
     "option_2": "21435438",
     "option_3": "13704349",
     "option_4": "24134383",
-    "question": "In a certain code language, 'REASON' is coded as '5410129' and 'HEALTHY' is coded as '716231216'. How will 'DIVULGE' be coded in that language?",
+    "question": "In a certain code language, 'REASON' is coded as '5410129' and 'HEALTHY' is coded as '716231216'. How will 'DIVULGE' be coded in that language?\n, 'REASON' '5410129' 'HEALTHY' '716231216' 'DIVULGE' ?",
     "answer": "2",
-    "solution": "तर्क: सभी स्वर A = 1, E = 2, I = 3, O = 4, U = 5\n\nद्विअंक में स्थानीय मान वाले व्यंजन को अंकों के योग के रूप में लिखा जाना चाहिए और एकल अंक में स्थानीय मान वाले व्यंजन को 2 से गुणा किया जाना चाहिए।\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image019.png"
+    "solution": "तर्क: सभी स्वर A = 1, E = 2, I = 3, O = 4, U = 5\nद्विअंक में स्थानीय मान वाले व्यंजन को अंकों के योग के रूप में लिखा जाना चाहिए और एकल अंक में स्थानीय मान वाले व्यंजन को 2 से गुणा किया जाना चाहिए।\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image019.png"
   },
   {
     "option_1": "638-2552",
@@ -438,7 +438,7 @@
     "option_4": "UASIVERZIL",
     "question": "Select the option that is related to the third letter cluster in the same way as the second letter cluster is related to the first letter cluster.\nABSORPTION: ROSBANOITP :: VISUALIZER: ?",
     "answer": "3",
-    "solution": "तर्क है: शब्द को 5 अक्षरों के दो भागों में विभाजित करें और फिर दोनों को उलट दें\n\nV I S UA – AUS I V, L I Z E R – R E Z I L तो, पूरा कोड A U S I V- R E Z I L है ।"
+    "solution": "तर्क है: शब्द को 5 अक्षरों के दो भागों में विभाजित करें और फिर दोनों को उलट दें\nV I S UA – AUS I V, L I Z E R – R E Z I L तो, पूरा कोड A U S I V- R E Z I L है ।"
   },
   {
     "option_1": "(547,258)",
@@ -447,7 +447,7 @@
     "option_4": "(812, 121)",
     "question": "Select the number pair that is different.",
     "answer": "1",
-    "solution": "तर्क : दूसरी संख्या पहली संख्या के अंकों के योग का वर्ग है।\n\nलेकिन a में विकल्प: 5 + 4 + 7 = 16 और 16 2 = 256 (258 नहीं)"
+    "solution": "तर्क : दूसरी संख्या पहली संख्या के अंकों के योग का वर्ग है।\nलेकिन a में विकल्प: 5 + 4 + 7 = 16 और 16 2 = 256 (258 नहीं)"
   },
   {
     "option_1": "An inexperienced person",
@@ -483,7 +483,7 @@
     "option_4": "I complete all my work before she came.",
     "question": "Select the option that expresses the given sentence in the Active/Passive voice.\nBefore she came all the work had been completed by me.",
     "answer": "2",
-    "solution": "I had completed all my work before she came.\n\nI will complete all my work before she came. (गलत tense का प्रयोग)\n\nI completed all my work before she came. (गलत tense का प्रयोग)\n\nI complete all my work before she came. (गलत tense का प्रयोग)"
+    "solution": "I had completed all my work before she came.\nI will complete all my work before she came. (गलत tense का प्रयोग)\nI completed all my work before she came. (गलत tense का प्रयोग)\nI complete all my work before she came. (गलत tense का प्रयोग)"
   },
   {
     "option_1": "We can also contribute to presarvation of water bodies by not dumpeing our garbage in them.",
@@ -492,7 +492,7 @@
     "option_4": "We can also contribute to presarvation of water bodies by not dumping our garbag in them.",
     "question": "The sentence given below has spelling errors. Select the sentence without spelling errors.\nWe can also contribute to presarvation of water bodies by not dumping our garbage in them.",
     "answer": "2",
-    "solution": "We can also contribute to preservation of water bodies by not dumping our garbage in them.\n\n'Contribute', 'Preservation', 'Dumping' and 'Garbage' are correct spellings."
+    "solution": "We can also contribute to preservation of water bodies by not dumping our garbage in them.\n'Contribute', 'Preservation', 'Dumping' and 'Garbage' are correct spellings."
   },
   {
     "option_1": "Vagabond",
@@ -501,7 +501,7 @@
     "option_4": "Exploration",
     "question": "Select the most appropriate SYNONYM of the word given in Bold/Underline.\nVagrancy",
     "answer": "1",
-    "solution": "Vagabond - a person who has no home and wanders from place to place.\n\nVagrancy - the state of living as a vagrant or homeless.\n\nVagueness - the state of being unclear or inexact.\n\nFragrance - a pleasant smell.\n\nExploration - the activity of searching and finding out about something."
+    "solution": "Vagabond - a person who has no home and wanders from place to place.\nVagrancy - the state of living as a vagrant or homeless.\nVagueness - the state of being unclear or inexact.\nFragrance - a pleasant smell.\nExploration - the activity of searching and finding out about something."
   },
   {
     "option_1": "All his relatives",
@@ -518,7 +518,7 @@
     "option_2": "redress",
     "option_3": "tumultuous",
     "option_4": "barren",
-    "question": "Select the most appropriate option to fill in the blank.\n\nThe show played to full houses for a five- night run and ended to ______ applause on Saturday night.",
+    "question": "Select the most appropriate option to fill in the blank.\nThe show played to full houses for a five- night run and ended to ______ applause on Saturday night.",
     "answer": "3",
     "solution": "'Tumultuous' का अर्थ है जोर से बोलना, उत्साहित होना और भावुक होना । दिए गए sentence में कहा गया है कि यह प्रदर्शनी (show) पांच रातों तक पूरे हाउस में चला और शनिवार रात को तालियों की गड़गड़ाहट के साथ समाप्त हुआ। इसलिए, 'tumultuous' सबसे उपयुक्त उत्तर है।"
   },
@@ -529,16 +529,16 @@
     "option_4": "Polemical",
     "question": "Select the option that can be used as a one-word substitute for the given group of words.\nSomething that is pertaining to controversy",
     "answer": "4",
-    "solution": "Polemical - something that is pertaining to the controversy\n\nPoignancy- a very sharp feeling of sadness\n\nLaudatory- expressing praise and commendation\n\nPutative -generally considered or reputed to be."
+    "solution": "Polemical - something that is pertaining to the controversy\nPoignancy- a very sharp feeling of sadness\nLaudatory- expressing praise and commendation\nPutative -generally considered or reputed to be."
   },
   {
     "option_1": "held to be hostages",
     "option_2": "held as hostages",
     "option_3": "held like hostages",
     "option_4": "No improvement",
-    "question": "Select the most appropriate option to substitute the underline/Bold segment in the given sentence. If there is no need to improve it, select 'no improvement required'.\n\nMany workers were being held hostages.",
+    "question": "Select the most appropriate option to substitute the underline/Bold segment in the given sentence. If there is no need to improve it, select 'no improvement required'.\nMany workers were being held hostages.",
     "answer": "4",
-    "solution": "No improvement\n\nध्यान रखें कि hold somebody/ prisoner/ hostage/ captive का प्रयोग होता है।"
+    "solution": "No improvement\nध्यान रखें कि hold somebody/ prisoner/ hostage/ captive का प्रयोग होता है।"
   },
   {
     "option_1": "The convict told the Bishop that it was difficult for him to thank him.",
@@ -547,16 +547,16 @@
     "option_4": "The convict exclaimed gratefully to the Bishop that how he could ever thank him.",
     "question": "Select the correct indirect/direct form of the given sentence.\n\"Oh, how could I ever thank you, Sir!\" said the convict to the Bishop.",
     "answer": "2",
-    "solution": "Exclaiming gratefully, the convict said to the Bishop that he could never thank him enough. (Correct)\n\nThe convict told the Bishop that it was difficult for him to thank him.(sentence का अर्थ बदल गया)\n\nThe convict said to the Bishop that he could never thank him enough.(गलत Reporting Verb)\n\nThe convict exclaimed gratefully to the Bishop that how he could ever thank him. (sentence का अर्थ बदल गया)"
+    "solution": "Exclaiming gratefully, the convict said to the Bishop that he could never thank him enough. (Correct)\nThe convict told the Bishop that it was difficult for him to thank him.(sentence का अर्थ बदल गया)\nThe convict said to the Bishop that he could never thank him enough.(गलत Reporting Verb)\nThe convict exclaimed gratefully to the Bishop that how he could ever thank him. (sentence का अर्थ बदल गया)"
   },
   {
     "option_1": "RSPQ",
     "option_2": "QRPS",
     "option_3": "PQRS",
     "option_4": "RPSQ",
-    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nP. One's language fluency is determined by the quality of reading.\n\nQ. In all cultures and civilizations, much stress is laid on reading but, in the modern times, this activity is being ignored.\n\nR. Reading is an essential basic skills building activity.\n\nS. Besides, vocabulary enrichment, ideas collection, familiarization with different types of writing formats, speaking fluency, etc, all depend upon reading.",
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nP. One's language fluency is determined by the quality of reading.\nQ. In all cultures and civilizations, much stress is laid on reading but, in the modern times, this activity is being ignored.\nR. Reading is an essential basic skills building activity.\nS. Besides, vocabulary enrichment, ideas collection, familiarization with different types of writing formats, speaking fluency, etc, all depend upon reading.",
     "answer": "4",
-    "solution": "RPSQ\nR में Reading को introduce किया गया है, अतः sequence R से start होगा ।\n\nP में बताया गया है language fluency, reading द्वारा determined होती है, language fluency के अतिरिक्त जो reading पर depend करता है इसका जिक्र S में है, अतः PS एक link है । अतः सही answer option (d) RPSQ है।"
+    "solution": "RPSQ\nR में Reading को introduce किया गया है, अतः sequence R से start होगा ।\nP में बताया गया है language fluency, reading द्वारा determined होती है, language fluency के अतिरिक्त जो reading पर depend करता है इसका जिक्र S में है, अतः PS एक link है । अतः सही answer option (d) RPSQ है।"
   },
   {
     "option_1": "Filth",
@@ -565,7 +565,7 @@
     "option_4": "Obscenity",
     "question": "Select the most appropriate ANTONYM of the word given in Bold/Underline.\nRaciness",
     "answer": "2",
-    "solution": "Perfection - the state of being flawless or without any defects or faults.\n\nRaciness - rude and showing no respect.\n\nFilth - a dirty or corrupt condition.\n\nLewdness - behaviour that is sexually explicit, vulgar, or offensive.\n\nObscenity - something that is offensive, indecent, or morally unacceptable."
+    "solution": "Perfection - the state of being flawless or without any defects or faults.\nRaciness - rude and showing no respect.\nFilth - a dirty or corrupt condition.\nLewdness - behaviour that is sexually explicit, vulgar, or offensive.\nObscenity - something that is offensive, indecent, or morally unacceptable."
   },
   {
     "option_1": "Curiousity",
@@ -583,7 +583,7 @@
     "option_4": "Harmonious",
     "question": "Select the most appropriate SYNONYM of the word given in Bold/Underline.\nConcordant",
     "answer": "4",
-    "solution": "Harmonious - in agreement or concord.\n\nConcordant - being in agreement or harmony.\n\nUnanimous - fully in agreement.\n\nAbnormal - deviating from what is normal or usual.\n\nCertain - known for sure."
+    "solution": "Harmonious - in agreement or concord.\nConcordant - being in agreement or harmony.\nUnanimous - fully in agreement.\nAbnormal - deviating from what is normal or usual.\nCertain - known for sure."
   },
   {
     "option_1": "I may not be able",
@@ -599,9 +599,9 @@
     "option_2": "QPRS",
     "option_3": "PQSR",
     "option_4": "PQRS",
-    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\n\nP. We can be kind to human beings who need our help.\n\nQ. Kindness is a quality that human beings show in various ways.\n\nR. We can also be kind to other life forms like dogs, cats and other pets and domesticated animals, and to wildlife like birds and animals.\n\nS. We can be kind to our family members, relatives, friends and neighbours.",
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nP. We can be kind to human beings who need our help.\nQ. Kindness is a quality that human beings show in various ways.\nR. We can also be kind to other life forms like dogs, cats and other pets and domesticated animals, and to wildlife like birds and animals.\nS. We can be kind to our family members, relatives, friends and neighbours.",
     "answer": "1",
-    "solution": "QPSR\n\nQ में kindness को एक quality के रूप में introduce किया गया है, अतः sequence Q से start होगा। P में we can kind, S में we can be kind आया है तथा R में we can also be kind आया है। 'Also' वाला sequence बाद में आयेगा अतः PSR link है। जो केवल एक option (a) QPSR में हैं।"
+    "solution": "QPSR\nQ में kindness को एक quality के रूप में introduce किया गया है, अतः sequence Q से start होगा। P में we can kind, S में we can be kind आया है तथा R में we can also be kind आया है। 'Also' वाला sequence बाद में आयेगा अतः PSR link है। जो केवल एक option (a) QPSR में हैं।"
   },
   {
     "option_1": "Honour",
@@ -610,7 +610,7 @@
     "option_4": "Venerate",
     "question": "Select the most appropriate ANTONYM of the word given in Bold/Underline.\nDesiccate",
     "answer": "3",
-    "solution": "Hydrate\nDesiccate - to remove the moisture from something; to dry thoroughly\n\nHonour - regard with great respect.\n\nAscend - to move upward\n\nVenerate - to show deep respect"
+    "solution": "Hydrate\nDesiccate - to remove the moisture from something; to dry thoroughly\nHonour - regard with great respect.\nAscend - to move upward\nVenerate - to show deep respect"
   },
   {
     "option_1": "Slouch",
@@ -619,7 +619,7 @@
     "option_4": "Ape",
     "question": "Select the option that can be used as a one-word substitute for the given group of words.\nA big clumsy often slow-witted person",
     "answer": "3",
-    "solution": "Oaf - a big clumsy often slow-witted person.\n\nSlouch - to stand, move, or sit lazily.\n\nChump - a foolish or easily deceived person.\n\nApe - an unintelligent or clumsy person."
+    "solution": "Oaf - a big clumsy often slow-witted person.\nSlouch - to stand, move, or sit lazily.\nChump - a foolish or easily deceived person.\nApe - an unintelligent or clumsy person."
   },
   {
     "option_1": "suffered from",
@@ -635,34 +635,34 @@
     "option_2": "gulp",
     "option_3": "inhale",
     "option_4": "gasp",
-    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\n\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n\n1.",
+    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n1.",
     "answer": "3",
-    "solution": "Sentence को भाव है कि unhealthy air में श्वास लेना और श्वास लेने के लिए inhale verb use की जाती है।Option (c) correct answer है ।\n\nInhale : To take air, smoke, gas, etc. into your lungs as you breathe\n\nGulp : To swallow large amounts of food or drink quickly (Air को निगला नहीं जाता है ।)\n\nGasp : To take a quick deep breath with your mouth open, especially because you are surprised or in pain\n\nDraw : To make pictures, or a picture of something, with a pencil, pen or chalk (but not paint)"
+    "solution": "Sentence को भाव है कि unhealthy air में श्वास लेना और श्वास लेने के लिए inhale verb use की जाती है।Option (c) correct answer है ।\nInhale : To take air, smoke, gas, etc. into your lungs as you breathe\nGulp : To swallow large amounts of food or drink quickly (Air को निगला नहीं जाता है ।)\nGasp : To take a quick deep breath with your mouth open, especially because you are surprised or in pain\nDraw : To make pictures, or a picture of something, with a pencil, pen or chalk (but not paint)"
   },
   {
     "option_1": "became",
     "option_2": "becoming",
     "option_3": "becomes",
     "option_4": "become",
-    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n\n2.",
+    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n2.",
     "answer": "4",
-    "solution": "become\nBlank space के पहले modal verb could आया है और modal verbs के बाद verb की first form का use किया जाता है।\n\nStructure:\n\nSub + modal verb (can/could/may/ might / should / would /will/shall/need/dare/ought to) +V1 st + obj."
+    "solution": "become\nBlank space के पहले modal verb could आया है और modal verbs के बाद verb की first form का use किया जाता है।\nStructure:\nSub + modal verb (can/could/may/ might / should / would /will/shall/need/dare/ought to) +V1 st + obj."
   },
   {
     "option_1": "similar",
     "option_2": "like",
     "option_3": "such",
     "option_4": "same",
-    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n\n3.",
+    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n3.",
     "answer": "2",
-    "solution": "Like का use किसी argument के example show करने के लिए किया जाता है।\n\nGiven sentence में भी Air pollution की वजह से होने वाली diseases के examples बताने के लिए like का use सहीं होगा।"
+    "solution": "Like का use किसी argument के example show करने के लिए किया जाता है।\nGiven sentence में भी Air pollution की वजह से होने वाली diseases के examples बताने के लिए like का use सहीं होगा।"
   },
   {
     "option_1": "human",
     "option_2": "individual",
     "option_3": "people",
     "option_4": "person",
-    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n\n4.",
+    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n4.",
     "answer": "3",
     "solution": "Blank space के पहले seven million (plural numeral adj.) का use हुआ है इसलिए आगे आने वाली noun भी plural होगी। केवल people ही plural noun है"
   },
@@ -671,9 +671,9 @@
     "option_2": "grimy",
     "option_3": "grubby",
     "option_4": "muddy",
-    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n\n5.",
+    "question": "In the following passages, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.\nThere is a new study on air pollution which comes from the experts of the World Health Organization (WHO) which is an agency of the United Nations. If you 1. _____ unhealthy air for long periods of time, you could 2. ____ sick. Air pollution has been linked to many diseases 3. _____stroke and cancer. The WHO says that seven million 4. _______die each year as a result of the 5. _____ air.\n5.",
     "answer": "1",
-    "solution": "Polluted air/ environment/ atmosphere का collocation होता है।\n\nBack ward reading से, Air pollution word का use हुआ है। Noun Air को modify करने के लिए polluted adj का ही use होगा।"
+    "solution": "Polluted air/ environment/ atmosphere का collocation होता है।\nBack ward reading से, Air pollution word का use हुआ है। Noun Air को modify करने के लिए polluted adj का ही use होगा।"
   },
   {
     "option_1": "Vajpeya",
@@ -689,16 +689,16 @@
     "option_2": "i-d, ii-a, iii-b, iv-c",
     "option_3": "i-a, ii-b, iii-c, iv-d",
     "option_4": "i-d, ii-c, iii-b, iv-a",
-    "question": "Match the animals mentioned in Column A with the phylum mentioned in Column B to which they belong:\n\nColumn - A Column – B\n\ni. Jelly fish a. Mollusca\n\nii. Cray fish b. Mammalia\n\niii. Whale c. Insects\n\niv. Debile fish d. Coelenterata",
+    "question": "Match the animals mentioned in Column A with the phylum mentioned in Column B to which they belong:\nColumn - A Column – B\ni. Jelly fish a. Mollusca\nii. Cray fish b. Mammalia\niii. Whale c. Insects\niv. Debile fish d. Coelenterata\n- A - B\ni. a.\nii. b.\niii. c.\niv.",
     "answer": "4",
-    "solution": "पशु संघ (फाइलम)\n\nजेली फिश सीलेंन्ट्रेटा\n\nक्रे फिश कीट\n\nव्हेल स्तनपाई\n\nडेविल मोलस्का"
+    "solution": "पशु संघ (फाइलम)\nजेली फिश सीलेंन्ट्रेटा\nक्रे फिश कीट\nव्हेल स्तनपाई\nडेविल मोलस्का"
   },
   {
     "option_1": "Bal Gangadhar Tilak",
     "option_2": "Gopal Krishna Gokhale",
     "option_3": "Lajpat Rai",
     "option_4": "Dadabhai Naoroji",
-    "question": "Who was associated with the establishment of Fergusson College?",
+    "question": "Who was associated with the establishment of Fergusson College?\n(Fergusson College)",
     "answer": "1",
     "solution": "फर्ग्युसन कालेज की स्थापना डेक्कन एजुकेशन सोसायटी द्वारा 1858 में की गई थी उस समय मुम्बई के गवर्नर सर जेम्स फर्ग्युसन ने इसकी स्थापना के लिए 1200 रूपये चंदा दिया था । इन्ही के नाम पर इस कालेज का नाम रखा गया। लोकमान्य बालगंगाधर तिलक इसके संस्थापक सदस्यों में से एक थे ।"
   },
@@ -709,7 +709,7 @@
     "option_4": "Mars",
     "question": "In the sequence of planets in the solar system, which planet comes between Mercury and Earth?",
     "answer": "2",
-    "solution": "सौरमंडल में ग्रहों के अनुक्रम में बुध और पृथ्वी के बीच 'शुक्र ग्रह आता है।\n\nग्रहों का क्रम-\n\n1. सूर्य से दूरी के अनुसार बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण, वरुण ।\n\n2. पृथ्वी से दूरी के अनुसार शुक्र, मंगल, बुध, बृहस्पति, शनि, अरुण, वरुण ।\n\n3. आकार के अनुसार - बृहस्पति, शनि, अरुण, वरुण, पृथ्वी, शुक्र, मंगल, बुध।\n\n4. द्रव्यमान के अनुसार- बृहस्पति, शनि, वरुण, अरुण, पृथ्वी, शुक्र, मंगल, बुध"
+    "solution": "सौरमंडल में ग्रहों के अनुक्रम में बुध और पृथ्वी के बीच 'शुक्र ग्रह आता है।\nग्रहों का क्रम-\n1. सूर्य से दूरी के अनुसार बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण, वरुण ।\n2. पृथ्वी से दूरी के अनुसार शुक्र, मंगल, बुध, बृहस्पति, शनि, अरुण, वरुण ।\n3. आकार के अनुसार - बृहस्पति, शनि, अरुण, वरुण, पृथ्वी, शुक्र, मंगल, बुध।\n4. द्रव्यमान के अनुसार- बृहस्पति, शनि, वरुण, अरुण, पृथ्वी, शुक्र, मंगल, बुध"
   },
   {
     "option_1": "3 1 2 4",
@@ -725,7 +725,7 @@
     "option_2": "₹15 lakh",
     "option_3": "₹20 lakh",
     "option_4": "₹7.5 lakh",
-    "question": "How much cash prize did each player of the men's hockey team receive from Hockey India for winning the bronze medal in the 2024 Olympics?",
+    "question": "How much cash prize did each player of the men's hockey team receive from Hockey India for winning the bronze medal in the 2024 Olympics?\n2024 (Hockey India) ?",
     "answer": "2",
     "solution": "हॉकी इंडिया ने कांस्य पदक जीतने पर भारतीय पुरुष हॉकी टीम के प्रत्येक खिलाड़ी को 15 लाख रुपये और सहयोगी स्टाफ के प्रत्येक सदस्य को 7.5 लाख रुपये का नकद पुरस्कार देने की घोषणा की है।"
   },
@@ -740,7 +740,7 @@
   },
   {
     "option_1": "Amindivi Islands",
-    "option_2": ") Duncan Passage",
+    "option_2": "() Duncan Passage",
     "option_3": "Reunion Hotspot",
     "option_4": "Minicoy Island",
     "question": "Which of the following separates Little Andaman from South Andaman of India?",
@@ -751,8 +751,8 @@
     "option_1": "COVID-19 Street vendors affected by COVID-19",
     "option_2": "COVID-19 Widows affected by COVID-19",
     "option_3": "COVID-19 Orphaned children affected by COVID-19",
-    "option_4": "Migrant workers affected by COVID-19",
-    "question": "The PM SVANidhi scheme launched by the Ministry of Housing and Urban Affairs is for which of the following sections of the society?",
+    "option_4": "COVID-19 Migrant workers affected by COVID-19",
+    "question": "The PM SVANidhi scheme launched by the Ministry of Housing and Urban Affairs is for which of the following sections of the society?\n(PM SVANidhi) ?",
     "answer": "1",
     "solution": "COVID-19 से प्रभावित स्ट्रीट वेंडर । SMILE - Support for Marginalized Individuals for Livelihood and Enterprise, 'भीख मांगने के कार्य में लगे व्यक्तियों के व्यापक पुनर्वास के लिए केंद्रीय क्षेत्र की योजना (2022)।"
   },
@@ -831,7 +831,7 @@
   {
     "option_1": "Stomata",
     "option_2": "Pollen",
-    "option_3": "",
+    "option_3": "Sperm",
     "option_4": "Zygote",
     "question": "What is the yellow dust present in the middle of a flower called?",
     "answer": "2",
@@ -844,20 +844,20 @@
     "option_4": "To eliminate financial difficulties of poor families",
     "question": "With what objective did the Assam government launch the 'Nijut Moina' scheme in August 2024?",
     "answer": "3",
-    "solution": "छात्राओं को सशक्त बनाकर और कम उम्र में विवाह की जगह शिक्षा को बढ़ावा देकर बाल विवाह को खत्म करना\n\nअसम सरकार ने 'निजुत मोइना' योजना अगस्त 2024 में शुरू की, जिसका उद्देश्य छात्राओं को उच्च शिक्षा के लिए प्रोत्साहित करना और बाल विवाह की प्रथा को समाप्त करना है।"
+    "solution": "छात्राओं को सशक्त बनाकर और कम उम्र में विवाह की जगह शिक्षा को बढ़ावा देकर बाल विवाह को खत्म करना\nअसम सरकार ने 'निजुत मोइना' योजना अगस्त 2024 में शुरू की, जिसका उद्देश्य छात्राओं को उच्च शिक्षा के लिए प्रोत्साहित करना और बाल विवाह की प्रथा को समाप्त करना है।"
   },
   {
     "option_1": "2, 3, 1, 4",
     "option_2": "4, 2, 3, 1",
     "option_3": "3, 2, 4, 1",
     "option_4": "2, 3, 1, 4",
-    "question": "Consider the following words and put them in sequence\nLaw\n\nBill\n\nProposal\n\nChoose the correct answer from the following codes-",
+    "question": "Consider the following words and put them in sequence\nLaw\nBill\nProposal\nAct\nChoose the correct answer from the following codes-",
     "answer": "3",
     "solution": "संसद को मुख्यतः कानून बनाने वाली संस्था माना जाता है । कोई भी प्रस्तावित कानून संसद में एक विधेयक के रूप में प्रतिस्थापित किया जाता है । संसद में पारित और उस विधेयक को राष्ट्रपति की अनुमति मिलने के पश्चात वह विधेयक कानून बन जाता है जिसका पालन करना सभी नागरिकों और गैर नागरिकों को अनिवार्य रूप से माना जाता है। अतः सही क्रम है- प्रस्ताव- विधेयक- अधिनियम - विधि (कानून)।"
   },
   {
-    "option_1": "Assam, Nagaland, Mizoram, and Arunachal Pradesh",
-    "option_2": "Meghalaya, Tripura, Sikkim and Manipur",
+    "option_1": ", , , Assam, Nagaland, Mizoram, and Arunachal Pradesh",
+    "option_2": ", , Meghalaya, Tripura, Sikkim and Manipur",
     "option_3": "Assam, Meghalaya, Tripura and Arunachal Pradesh",
     "option_4": "Assam, Sikkim, Manipur and Mizoram",
     "question": "Which are the four states of the Northeast which are equally associated with the Guwahati High Court?",
@@ -866,17 +866,17 @@
   },
   {
     "option_1": "Article 17 – Abolition of titles",
-    "option_2": "Article 14 – Abolition of untouchability",
-    "option_3": "Article 15 – Right against exploitation",
+    "option_2": "14 - Article 14 – Abolition of untouchability",
+    "option_3": "15 - Article 15 – Right against exploitation",
     "option_4": "Article 19 – Protection of specific rights related to freedom of speech",
     "question": "Which of the following pairs is correctly matched?",
     "answer": "4",
-    "solution": "अनुच्छेद - उपबंध\n\nअनुच्छेद 14 - समानता का अधिकार\n\nअनुच्छेद 17 - अस्पृश्यता का अंत\n\nअनुच्छेद 18 - उपाधियों का अंत\n\nअनुच्छेद 19 - वाक् स्वातंत्र्य संबंधी विशिष्ट अधिकारों का संरक्षण\n\nअनुच्छेद 23, 24 - शोषण के विरुद्ध अधिकार ।"
+    "solution": "अनुच्छेद - उपबंध\nअनुच्छेद 14 - समानता का अधिकार\nअनुच्छेद 17 - अस्पृश्यता का अंत\nअनुच्छेद 18 - उपाधियों का अंत\nअनुच्छेद 19 - वाक् स्वातंत्र्य संबंधी विशिष्ट अधिकारों का संरक्षण\nअनुच्छेद 23, 24 - शोषण के विरुद्ध अधिकार ।"
   },
   {
-    "option_1": "A person who works for at least 160 days.",
+    "option_1": "160 A person who works for at least 160 days.",
     "option_2": "A person who works for at least 200 days.",
-    "option_3": "A person who works for at least 183 days.",
+    "option_3": "183 A person who works for at least 183 days.",
     "option_4": "A person who works for at least 100 days.",
     "question": "As per the standard census definition, who among the following can be classified as a main worker in India?",
     "answer": "3",
@@ -887,7 +887,7 @@
     "option_2": "Wired Interoperability for Microwave Access",
     "option_3": "Worldwide Interoperability for Microwave Access",
     "option_4": "Worldwide Infrastructure for Microwave Access",
-    "question": "What is the full form of WIMAX?",
+    "question": "What is the full form of WIMAX?\nWIMAX ?",
     "answer": "3",
     "solution": "WIMAX का विस्तृत रूप Worldwide Interoperability for Microwave Access होता है। वाइमैक्स (WIMAX) एक दूरसंचार तकनीक है। इस तकनीक के माध्यम से एक कम्प्यूटर, दूसरे कम्प्यूटर से बिना तारों की सहायता से संपर्क स्थापित कर सकेंगे। यह इन्टरनेट और सेल्यूलर दोनों नेटवर्कों पर काम करता है । यह सेवा भारत में सर्वप्रथम जयपुर में आरम्भ की गयी है ।"
   },
@@ -896,7 +896,7 @@
     "option_2": "Thailand",
     "option_3": "Indonesia",
     "option_4": "Lao People's Democratic Republic",
-    "question": "The 44th and 45th ASEAN Summit was held in ________.",
+    "question": "The 44th and 45th ASEAN Summit was held in ________.\n44 45 (ASEAN Summit), ________",
     "answer": "4",
     "solution": "44वां और 45वां आसियान शिखर सम्मेलन 9 से 11 अक्टूबर 2024 के बीच लाओस की राजधानी विएंतियाने में आयोजित किया गया था।"
   }
