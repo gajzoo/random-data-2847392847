@@ -27,10 +27,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image010.png"
   },
   {
-    "option_1": "150 km/h / 105 km/h 150 km/h and 105 km/h",
-    "option_2": "150 km/h / 250km/h 150 km/h and 250km/h",
-    "option_3": "180 km/h / 108 km/h 180 km/h and 108 km/h",
-    "option_4": "160 km/h / 106 km/h 160 km/h and 106 km/h",
+    "option_1": "150 km",
+    "option_2": "150 km",
+    "option_3": "180 km",
+    "option_4": "160 km",
     "question": "Two trains of length 150 m and 250 m run on parallel lines. When they move in the same direction, they take 20 seconds to cross each other and when they move in opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image011.png"
@@ -49,7 +49,7 @@
     "option_2": "12",
     "option_3": "15",
     "option_4": "18",
-    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?",
+    "question": "A thief saw a policeman and started running at a speed of 12 m/s. After a certain time the policeman starts running after the thief at a speed of 18 m/s. If the policeman covers a distance of 540m to catch the thief, then after how much time (in seconds) does the policeman start running?\nएक चोर ने एक पुलिसकर्मी को देखा और वह 12 m",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image013.png"
   },
@@ -67,7 +67,7 @@
     "option_2": "178",
     "option_3": "176",
     "option_4": "174",
-    "question": "The average height of a group of 50 students is 175 cm. If another group of 40 students with an average height of 180 cm is included in it, find the average (in cm, rounded off to the nearest cm) of both the groups together.",
+    "question": "The average height of a group of 50 students is 175 cm. If another group of 40 students with an average height of 180 cm is included in it, find the average (in cm, rounded off to the nearest cm) of both the groups together.\n50",
     "answer": "1",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image016.png"
   },
@@ -198,10 +198,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image039.png"
   },
   {
-    "option_1": "1520 sq.m.",
-    "option_2": "2420 sq.m.",
-    "option_3": "2480 sq.m.",
-    "option_4": "2520 sq.m.",
+    "option_1": "1520",
+    "option_2": "2420",
+    "option_3": "2480",
+    "option_4": "2520",
     "question": "The difference between the length and breadth of a rectangle is 23. If the perimeter is 206 m, then what will be the area?",
     "answer": "4",
     "solution": "1 – b = 23............. (i)\n\nआयत का परिमाप = 2 × (l+ b)\n\n206 = 2 × (1+b)\n\nl + b=103...........(ii)\n\nl – b =23......\n\n2l =126\n\nl = 63cm\n\nसमी. (ii) से b = 103 – 63 = 40cm\n\nआयत का क्षेत्रफल = 1× b = 63× 40"
@@ -247,7 +247,7 @@
     "option_2": "LNAPIPTPOC",
     "option_3": "TNAPIPLPOC",
     "option_4": "LNAIPITPOC",
-    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code?\n\nC POLITICIAN ?",
+    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code?\n\nPOLITICIAN ?",
     "answer": "2",
     "solution": "एक निश्चित कूट भाषा में I को P, L को A, A को O, O को N, N को C, C को T, P को L और\n\nT को I लिखा गया है। तो, दी गई कोडिंग अनुसार POLITICIAN का कोड LNAPIPTPOC होगा ।"
   },
@@ -270,10 +270,10 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image005.png"
   },
   {
-    "option_1": "O",
-    "option_2": "P",
-    "option_3": "P",
-    "option_4": "Q",
+    "option_1": "R",
+    "option_2": "M",
+    "option_3": "Q",
+    "option_4": "N",
     "question": "The given sheet is folded to form a cube. Which of the following pairs of letters will be on opposite sides in the cube thus formed?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image006.png",
     "answer": "1",
     "solution": "घन बनाने पर निम्नलिखित युग्म विपरीत फलकों पर होंगे:-M → Q, R → O, N → P सही है।"
@@ -297,10 +297,10 @@
     "solution": "YZ BCD FGHI KLMNO QRSTUV"
   },
   {
-    "option_1": "Oxygen : Treatment/",
-    "option_2": "Yeast : Fermentation/",
-    "option_3": "Volcano : Eruption/",
-    "option_4": "Antibiotic : Injection/",
+    "option_1": "Oxygen : Treatment",
+    "option_2": "Yeast : Fermentation",
+    "option_3": "Volcano : Eruption",
+    "option_4": "Antibiotic : Injection",
     "question": "Select the word-pair that best represents the same relationship expressed in the pair of words given below. (The words should be considered as meaningful Hindi words and should not be related to each other based on number of letters/consonants/vowels in the word.)\nBacteria : Decomposition",
     "answer": "2",
     "solution": "जिस प्रकार जीवाणु प्रमुख सूक्ष्मजीव हैं जो अपघटन प्रक्रिया में मदद करते हैं उसी प्रकार खमीर प्रमुख सूक्ष्मजीव हैं जो किण्वन प्रक्रिया में मदद करते हैं।"
@@ -315,11 +315,11 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image010.png"
   },
   {
-    "option_1": "Mother/",
-    "option_2": "Mother-in-law/",
-    "option_3": "Daughter/",
-    "option_4": "Daughter-in-law/",
-    "question": "'A # B' means 'A is the brother of B'/'A # B'\n\n'A @ B' means 'A is the daughter of B'/ 'A @ B'\n\n'A & B' means 'A is the husband of B'/'A & B'\n\n'A % B' means 'A is the wife of B'/'A % B'\n\nIf V & S @ F % H # T@ Q, then how is F related to Q/",
+    "option_1": "Mother",
+    "option_2": "Mother-in-law",
+    "option_3": "Daughter",
+    "option_4": "Daughter-in-law",
+    "question": "'A # B' means 'A is the brother of B'\n\n'A @ B' means 'A is the daughter of B'\n\n'A & B' means 'A is the husband of B'\n\n'A % B' means 'A is the wife of B'\n\nIf V & S @ F % H # T@ Q, then how is F related to Q",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image011.png"
   },
@@ -360,11 +360,11 @@
     "solution": "TOUCHED\n\nअक्षरों को उल्टे वर्णमाला क्रम में व्यवस्थित करने पर नया बना शब्द: U T O H E D C\n\nइसलिए अक्षर H का स्थान इस व्यवस्था में ठीक मध्य में होगा।"
   },
   {
-    "option_1": "Only conclusion I follows /",
-    "option_2": "Only conclusion II follows/",
-    "option_3": "Only conclusion II follows/",
-    "option_4": "None of the conclusions follow/",
-    "question": "Statements/\n\nI. No J is R/\n\nII. No R is C/\n\nConclusions/\n\nI. All J are C/\n\nII. Some R are J/\n\nIII. All C are R/",
+    "option_1": "Only conclusion I follows",
+    "option_2": "Only conclusion II follows",
+    "option_3": "Only conclusion II follows",
+    "option_4": "None of the conclusions follow",
+    "question": "Statements\n\nI. No J is R\n\nII. No R is C\n\nConclusions\n\nI. All J are C\n\nII. Some R are J\n\nIII. All C are R",
     "answer": "4",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image014.png"
   },
@@ -677,7 +677,7 @@
   },
   {
     "option_1": "Vajpeya",
-    "option_2": "Muvendavelan",
+    "option_2": "",
     "option_3": "Ashwamedha",
     "option_4": "Rajasuya",
     "question": "Which of the following was not a type of sacrifice performed by kings in ancient India to establish their position?",
@@ -689,13 +689,13 @@
     "option_2": "i-d, ii-a, iii-b, iv-c",
     "option_3": "i-a, ii-b, iii-c, iv-d",
     "option_4": "i-d, ii-c, iii-b, iv-a",
-    "question": "Match the animals mentioned in Column A with the phylum mentioned in Column B to which they belong:\n\nColumn - A Column – B\n\ni. Jelly fish a. Mollusca\n\nii. Cray fish b. Mammalia\n\niii. Whale            c. Insects\n\niv. Debile fish              d. Coelenterata\n\nA B\n\ni. a.\n\nii. b.\n\niii. c.\n\niv.",
+    "question": "Match the animals mentioned in Column A with the phylum mentioned in Column B to which they belong:\n\nColumn - A Column – B\n\ni. Jelly fish a. Mollusca\n\nii. Cray fish b. Mammalia\n\niii. Whale            c. Insects\n\niv. Debile fish              d. Coelenterata\n\ni. a.\n\nii. b.\n\niii. c.\n\niv.",
     "answer": "4",
     "solution": "पशु संघ (फाइलम)\n\nजेली फिश सीलेंन्ट्रेटा\n\nक्रे फिश कीट\n\nव्हेल स्तनपाई\n\nडेविल मोलस्का"
   },
   {
-    "option_1": "Bal Gangadhar Tilak",
-    "option_2": "Gopal Krishna Gokhale",
+    "option_1": "",
+    "option_2": "",
     "option_3": "Lajpat Rai",
     "option_4": "Dadabhai Naoroji",
     "question": "Who was associated with the establishment of Fergusson College?",
@@ -730,9 +730,9 @@
     "solution": "हॉकी इंडिया ने कांस्य पदक जीतने पर भारतीय पुरुष हॉकी टीम के प्रत्येक खिलाड़ी को 15 लाख रुपये और सहयोगी स्टाफ के प्रत्येक सदस्य को 7.5 लाख रुपये का नकद पुरस्कार देने की घोषणा की है।"
   },
   {
-    "option_1": "Dhumal",
-    "option_2": "Hafiza",
-    "option_3": "Rouf",
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
     "option_4": "Dangi",
     "question": "Which of the following is not a folk dance belonging to the Union Territory of Jammu and Kashmir?",
     "answer": "4",
@@ -740,17 +740,17 @@
   },
   {
     "option_1": "Amindivi Islands",
-    "option_2": ") Duncan Passage",
-    "option_3": "Reunion Hotspot",
+    "option_2": "",
+    "option_3": "",
     "option_4": "Minicoy Island",
     "question": "Which of the following separates Little Andaman from South Andaman of India?",
     "answer": "2",
     "solution": "डंकन मार्ग (पैसेज) हिंद महासागर में एक जलडमरूमध्य है, जो दक्षिण अंडमान और लिटिल अंडमान को अलग करता है। रीयूनियन हॉटस्पॉट एक ज्वालामुखी हॉटस्पॉट है जो वर्तमान में हिंद महासागर में फ्रांस के एक विदेशी क्षेत्र रीयूनियन द्वीप के अंतर्गत स्थित है। मिनिकॉय और अमीनदीवी द्वीप समूह (लक्षद्वीप) ।"
   },
   {
-    "option_1": "Street vendors affected by COVID-19",
-    "option_2": "Widows affected by COVID-19",
-    "option_3": "Orphaned children affected by COVID-19",
+    "option_1": "COVID-19",
+    "option_2": "COVID-19",
+    "option_3": "COVID-19",
     "option_4": "COVID-19 Migrant workers affected by COVID-19",
     "question": "The PM SVANidhi scheme launched by the Ministry of Housing and Urban Affairs is for which of the following sections of the society?",
     "answer": "1",
@@ -759,17 +759,17 @@
   {
     "option_1": "Latent solar heating",
     "option_2": "Conductive solar heating",
-    "option_3": "Radiative heating",
+    "option_3": "",
     "option_4": "Passive solar heating",
     "question": "The innovative concept of using sunlight to keep homes warm in cold winters is called ______.",
     "answer": "4",
     "solution": "निष्क्रिय सौर तापन घरों में सूर्य की ऊष्मा को अवशोषित कर लेता है और सूर्य की अनुपस्थिति में उस ऊष्मा को मुक्त कर देता है।"
   },
   {
-    "option_1": "(hydroponic)",
+    "option_1": "",
     "option_2": "Shifting cultivation",
     "option_3": "Dry agriculture",
-    "option_4": "(pastoral farming)",
+    "option_4": "",
     "question": "Soilless agriculture is called _______",
     "answer": "1",
     "solution": "हाइड्रोपोनिक्स मिट्टी का उपयोग किए बिना पौधों की खेती है। स्थानांतरित कृषि में, जंगल में, आमतौर पर पहाड़ियों की ढलानों पर एक समाशोधन किया जाता है। शुष्क खेती सीमित नमी वाले क्षेत्रों में सिंचाई के बिना फसलों की खेती है. आमतौर पर सालाना 20 इंच से कम वर्षा होती है । चारागाह खेती (जिसे कुछ क्षेत्रों में पशुपालन, पशुपालन या चराई के रूप में भी जाना जाता है) का उद्देश्य फसल उगाने के बजाय पशुधन का उत्पादन करना है।"
@@ -777,7 +777,7 @@
   {
     "option_1": "RBI",
     "option_2": "SEBI",
-    "option_3": "Ministry of Finance",
+    "option_3": "",
     "option_4": "IRDA",
     "question": "Which of the following institutions does not regulate the capital market in India?",
     "answer": "4",
@@ -786,7 +786,7 @@
   {
     "option_1": "Mandi",
     "option_2": "Mathura",
-    "option_3": "Muzaffarnagar",
+    "option_3": "",
     "option_4": "Meerut",
     "question": "Actor Arun Govil, best known for playing the role of Lord Ram in the popular Doordarshan series 'Ramayan', won from which Lok Sabha seat in the 2024 general elections?",
     "answer": "4",
@@ -794,7 +794,7 @@
   },
   {
     "option_1": "To prevent tooth decay",
-    "option_2": "To prevent eye disease",
+    "option_2": "",
     "option_3": "To prevent bone disease",
     "option_4": "To prevent vitamin deficiencies",
     "question": "Why is water fluoridation, which is the controlled addition of fluoride to public water supplies, done?",
@@ -802,9 +802,9 @@
     "solution": "दांतों की सड़न को रोकने के लिए जल फ्लोराइडेशन किया जाता है जो कि सार्वजनिक जल आपूर्ति में फ्लोराइड का नियंत्रित समायोजन है। फ्लोराइड फ्लोरीन का आयनिक रूप है। फ्लोराइड एक प्राकृतिक खनिज है जो कई खाद्य पदार्थों और सभी पीने के पानी में पाया जाता है। फ्लोराइड का रासायनिक सूत्र – F – है।"
   },
   {
-    "option_1": "Pongal",
-    "option_2": "Puthandu",
-    "option_3": "Ugadi",
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
     "option_4": "Onam",
     "question": "Which of the following is celebrated as New Year in Tamil Nadu?",
     "answer": "2",
@@ -820,18 +820,18 @@
     "solution": "अनुच्छेद 165: प्रत्येक राज्य का राज्यपाल राज्य के लिए महाधिवक्ता की नियुक्ति करता है, जो उच्च न्यायालय का न्यायाधीश नियुक्त होने के योग्य होता है। वह राज्य सरकार को कानूनी मामलों पर सलाह देने के लिए जिम्मेदार है जो राज्यपाल उसे संदर्भित करता है।"
   },
   {
-    "option_1": "Cost savings and price reduction",
+    "option_1": "",
     "option_2": "Late response to customer requirements",
-    "option_3": "Availability of wider choices",
+    "option_3": "",
     "option_4": "Better customer services",
     "question": "Which of the following is not an advantage of e-commerce?",
     "answer": "2",
     "solution": "ई-कॉमर्स एक बिजनेस मॉडल है जो फर्मों और व्यक्तियों को इंटरनेट पर चीजें खरीदने और बेचने की सुविधा देता है। लाभ: बढ़ी हुई उत्पादकता और सही प्रतिस्पर्धा, वैश्विक बाजार, उत्पाद वितरण श्रृंखला में कटौती, व्यापार को आसानी और सरलता से प्रबंधित करना । नुकसान : (धोखाधड़ी वाले वित्तीय लेनदेन की संभावना और संवेदनशील वित्तीय जानकारी का नुकसान) ।"
   },
   {
-    "option_1": "Stomata",
-    "option_2": "Pollen",
-    "option_3": "Sperm",
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
     "option_4": "Zygote",
     "question": "What is the yellow dust present in the middle of a flower called?",
     "answer": "2",
@@ -839,7 +839,7 @@
   },
   {
     "option_1": "To provide health facilities to all those citizens who cannot afford proper treatment",
-    "option_2": "To support indigenous weavers and promote their traditional handwoven items",
+    "option_2": "",
     "option_3": "To eliminate child marriage by empowering girl students and promoting education instead of early marriage",
     "option_4": "To eliminate financial difficulties of poor families",
     "question": "With what objective did the Assam government launch the 'Nijut Moina' scheme in August 2024?",
@@ -856,8 +856,8 @@
     "solution": "संसद को मुख्यतः कानून बनाने वाली संस्था माना जाता है । कोई भी प्रस्तावित कानून संसद में एक विधेयक के रूप में प्रतिस्थापित किया जाता है । संसद में पारित और उस विधेयक को राष्ट्रपति की अनुमति मिलने के पश्चात वह विधेयक कानून बन जाता है जिसका पालन करना सभी नागरिकों और गैर नागरिकों को अनिवार्य रूप से माना जाता है। अतः सही क्रम है- प्रस्ताव- विधेयक- अधिनियम - विधि (कानून)।"
   },
   {
-    "option_1": "Assam, Nagaland, Mizoram, and Arunachal Pradesh",
-    "option_2": "Meghalaya, Tripura, Sikkim and Manipur",
+    "option_1": "",
+    "option_2": "",
     "option_3": "Assam, Meghalaya, Tripura and Arunachal Pradesh",
     "option_4": "Assam, Sikkim, Manipur and Mizoram",
     "question": "Which are the four states of the Northeast which are equally associated with the Guwahati High Court?",
@@ -866,17 +866,17 @@
   },
   {
     "option_1": "Article 17 – Abolition of titles",
-    "option_2": "Article 14 – Abolition of untouchability",
-    "option_3": "Article 15 – Right against exploitation",
-    "option_4": "Article 19 – Protection of specific rights related to freedom of speech",
+    "option_2": "",
+    "option_3": "",
+    "option_4": "",
     "question": "Which of the following pairs is correctly matched?",
     "answer": "4",
     "solution": "अनुच्छेद - उपबंध\n\nअनुच्छेद 14 - समानता का अधिकार\n\nअनुच्छेद 17 - अस्पृश्यता का अंत\n\nअनुच्छेद 18 - उपाधियों का अंत\n\nअनुच्छेद 19 - वाक् स्वातंत्र्य संबंधी विशिष्ट अधिकारों का संरक्षण\n\nअनुच्छेद 23, 24 - शोषण के विरुद्ध अधिकार ।"
   },
   {
-    "option_1": "A person who works for at least 160 days.",
+    "option_1": "",
     "option_2": "A person who works for at least 200 days.",
-    "option_3": "A person who works for at least 183 days.",
+    "option_3": "",
     "option_4": "A person who works for at least 100 days.",
     "question": "As per the standard census definition, who among the following can be classified as a main worker in India?",
     "answer": "3",
@@ -896,7 +896,7 @@
     "option_2": "Thailand",
     "option_3": "Indonesia",
     "option_4": "Lao People's Democratic Republic",
-    "question": "The 44th and 45th ASEAN Summit was held in ________.",
+    "question": "The 44th and 45th ASEAN Summit was held in ________.\n44",
     "answer": "4",
     "solution": "44वां और 45वां आसियान शिखर सम्मेलन 9 से 11 अक्टूबर 2024 के बीच लाओस की राजधानी विएंतियाने में आयोजित किया गया था।"
   }
