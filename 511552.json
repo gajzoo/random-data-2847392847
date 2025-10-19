@@ -9,11 +9,11 @@
     "solution": "प्रश्न के अनुसार, बारिश के कारण 10 फीसदी कपास खराब हो गई तो, बेचने के लिए शेष कपास किग्रा के लाभ के लिए कपास का विक्रय मूल्य Rs. 9600 प्रति किलो विक्रय मूल्य Rs. किग्रा https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image002.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image003.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image004.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image005.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image006.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image007.png"
   },
   {
-    "question": "The ratio of the length, breadth and height of a cuboid is 3 : 4 : 5. If the volume of the cuboid is 1620 m 3 , find the total surface area of ​​ the cuboid. 3",
-    "option_1": "646 m 2",
-    "option_2": "846 m 2",
-    "option_3": "423 m 2",
-    "option_4": "712 m 2",
+    "question": "The ratio of the length, breadth and height of a cuboid is 3 : 4 : 5. If the volume of the cuboid is 1620 m3, find the total surface area of ​​the cuboid.",
+    "option_1": "646 m2",
+    "option_2": "846 m2",
+    "option_3": "423 m2",
+    "option_4": "712 m2",
     "answer": "2",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image008.png"
   },
@@ -28,10 +28,10 @@
   },
   {
     "question": "Two trains of length 150 m and 250 m run on parallel lines. When they move in the same direction, they take 20 seconds to cross each other and when they move in opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "150 km/h 105 km/h 150 km/h and 105 km/h",
+    "option_2": "150 km/h 250km/h 150 km/h and 250km/h",
+    "option_3": "180 km/h 108 km/h 180 km/h and 108 km/h",
+    "option_4": "160 km/h 106 km/h 160 km/h and 106 km/h",
     "answer": "3",
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image011.png"
   },
@@ -72,7 +72,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image016.png"
   },
   {
-    "question": "If and , then find the value of https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image017.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image018.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image019.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image017.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image018.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image020.png",
+    "question": "If and , then find the value of https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image017.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image018.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image019.png",
     "option_1": "-8",
     "option_2": "8",
     "option_3": "128",
@@ -171,7 +171,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image031.png"
   },
   {
-    "question": "A sum of ₹ 10,240 at a certain rate of simple interest per annum becomes ₹ 14,848 in 3 years. If the interest is compounded every 5 months, the same sum at the same rate becomes ₹ x in 1 years. What is the value of x? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image032.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image033.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image034.png",
+    "question": "A sum of ₹ 10,240 at a certain rate of simple interest per annum becomes ₹ 14,848 in 3 years. If the interest is compounded every 5 months, the same sum at the same rate becomes ₹ x in 1 years. What is the value of x? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image032.png",
     "option_1": "12,242",
     "option_2": "12282.50",
     "option_3": "12342.50",
@@ -199,10 +199,10 @@
   },
   {
     "question": "The difference between the length and breadth of a rectangle is 23. If the perimeter is 206 m, then what will be the area?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "1520 / 1520 sq.m.",
+    "option_2": "2420 /2420 sq.m.",
+    "option_3": "2480 /2480 sq.m.",
+    "option_4": "2520 /2520 sq.m.",
     "answer": "4",
     "solution": "1 – b = 23............. (i) आयत का परिमाप = 2 × (l+ b) 206 = 2 × (1+b) l + b=103...........(ii) l – b =23...... 2l =126 l = 63cm समी. (ii) से b = 103 – 63 = 40cm आयत का क्षेत्रफल = 1× b = 63× 40"
   },
@@ -217,15 +217,15 @@
   },
   {
     "question": "A battery manufacturer manufactures five different types of batteries. The total revenue for the year 2020 is ₹25,00,000 and 20,000 units were exported in 2020. The distribution of revenue and units for five different types of batteries is shown in the chart. Which type of battery provides the lowest revenue per unit? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image045.png https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image046.png",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "/ Sodium",
+    "option_2": "- / Li-ion",
+    "option_3": "- / M-air",
+    "option_4": "/ Lead acid",
     "answer": "4",
     "solution": "हम स्पष्ट रूप से देख सकते हैं कि लेड एसिड बैटरी की प्रति यूनिट आय सबसे कम है https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751017808621_image047.png"
   },
   {
-    "question": "In which of the following options the numbers are related to each other in the same way as the given group of numbers? (13, 17, 442)",
+    "question": "In which of the following options the numbers are related to each other in the same way as the given group of numbers?(13, 17, 442)",
     "option_1": "(18, 15, 540)",
     "option_2": "(17, 21, 367)",
     "option_3": "(15, 14, 415)",
@@ -243,7 +243,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image002.png"
   },
   {
-    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code? ?",
+    "question": "In a certain code language, I is written as P, L is written as A, A is written as O, O is written as N, N is written as C, C is written as T, P is written as L, T is written as I. How will POLITICIAN be written in the same code?",
     "option_1": "LNAPIPTPON",
     "option_2": "LNAPIPTPOC",
     "option_3": "TNAPIPLPOC",
@@ -252,7 +252,7 @@
     "solution": "एक निश्चित कूट भाषा में I को P, L को A, A को O, O को N, N को C, C को T, P को L और T को I लिखा गया है। तो, दी गई कोडिंग अनुसार POLITICIAN का कोड LNAPIPTPOC होगा ।"
   },
   {
-    "question": "Select the number from the given options that can replace the question mark (?) in the following series. 5 8 17 44 125 ?",
+    "question": "Select the number from the given options that can replace the question mark (?) in the following series.5 8 17 44 125 ?",
     "option_1": "391",
     "option_2": "312",
     "option_3": "368",
@@ -271,10 +271,10 @@
   },
   {
     "question": "The given sheet is folded to form a cube. Which of the following pairs of letters will be on opposite sides in the cube thus formed? https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image006.png",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "R O",
+    "option_2": "M P",
+    "option_3": "Q P",
+    "option_4": "N Q",
     "answer": "1",
     "solution": "घन बनाने पर निम्नलिखित युग्म विपरीत फलकों पर होंगे:-M → Q, R → O, N → P सही है।"
   },
@@ -288,7 +288,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image008.png"
   },
   {
-    "question": "Select the letter group that can replace the question mark (?) in the following series. YZ, BCD, FGHI, ?, QRSTUV",
+    "question": "Select the letter group that can replace the question mark (?) in the following series.YZ, BCD, FGHI, ?, QRSTUV",
     "option_1": "JKLMN",
     "option_2": "LMNOP",
     "option_3": "KLMNO",
@@ -297,11 +297,11 @@
     "solution": "YZ BCD FGHI KLMNO QRSTUV"
   },
   {
-    "question": "Select the word-pair that best represents the same relationship expressed in the pair of words given below. (The words should be considered as meaningful Hindi words and should not be related to each other based on number of letters/consonants/vowels in the word.) Bacteria : Decomposition",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "question": "Select the word-pair that best represents the same relationship expressed in the pair of words given below. (The words should be considered as meaningful Hindi words and should not be related to each other based on number of letters/consonants/vowels in the word.)Bacteria : Decomposition",
+    "option_1": "Oxygen : Treatment/ :",
+    "option_2": "Yeast : Fermentation/ :",
+    "option_3": "Volcano : Eruption/ :",
+    "option_4": "Antibiotic : Injection/ :",
     "answer": "2",
     "solution": "जिस प्रकार जीवाणु प्रमुख सूक्ष्मजीव हैं जो अपघटन प्रक्रिया में मदद करते हैं उसी प्रकार खमीर प्रमुख सूक्ष्मजीव हैं जो किण्वन प्रक्रिया में मदद करते हैं।"
   },
@@ -333,7 +333,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image012.png"
   },
   {
-    "question": "Select the option in which the given letters when placed in the same order from left to right in the blank spaces of the letter series given below will complete the series. L _ J _ G _ K _ H G _ K J H_ L _ _ H G",
+    "question": "Select the option in which the given letters when placed in the same order from left to right in the blank spaces of the letter series given below will complete the series.L _ J _ G _ K _ H G _ K J H_ L _ _ H G",
     "option_1": "KILKLH K J",
     "option_2": "KILKLGKI",
     "option_3": "KILJ LG KJ",
@@ -378,7 +378,7 @@
     "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1751019028831_image016.png"
   },
   {
-    "question": "Select the option that is related to the fourth number in the same way as the first number is related to the second number. 21: 693 :: ? : 792",
+    "question": "Select the option that is related to the fourth number in the same way as the first number is related to the second number.21: 693 :: ? : 792",
     "option_1": "26",
     "option_2": "36",
     "option_3": "24",
@@ -432,7 +432,7 @@
     "solution": "तर्क: विकल्प c को छोड़कर सभी संख्याएँ पहली संख्या से पूरी तरह से विभाज्य है।"
   },
   {
-    "question": "Select the option that is related to the third letter cluster in the same way as the second letter cluster is related to the first letter cluster. ABSORPTION: ROSBANOITP :: VISUALIZER: ?",
+    "question": "Select the option that is related to the third letter cluster in the same way as the second letter cluster is related to the first letter cluster.ABSORPTION: ROSBANOITP :: VISUALIZER: ?",
     "option_1": "AUSIVREILZ",
     "option_2": "VUAISREZIL",
     "option_3": "AUSIVREZIL",
@@ -504,7 +504,7 @@
     "solution": "Vagabond - a person who has no home and wanders from place to place. Vagrancy - the state of living as a vagrant or homeless. Vagueness - the state of being unclear or inexact. Fragrance - a pleasant smell. Exploration - the activity of searching and finding out about something."
   },
   {
-    "question": "The following sentences have been divided into parts. One of them contains an error. Select the part that contains the error from the given options. All his relatives/expect his daughter/have gone on/ a month's vacation tour./No Error.",
+    "question": "The following sentences have been divided into parts. One of them contains an error. Select the part that contains the error from the given options.All his relatives/expect his daughter/have gone on/ a month's vacation tour./No Error.",
     "option_1": "All his relatives",
     "option_2": "expect his daughter",
     "option_3": "have gone on",
@@ -522,7 +522,7 @@
     "solution": "'Tumultuous' का अर्थ है जोर से बोलना, उत्साहित होना और भावुक होना । दिए गए sentence में कहा गया है कि यह प्रदर्शनी (show) पांच रातों तक पूरे हाउस में चला और शनिवार रात को तालियों की गड़गड़ाहट के साथ समाप्त हुआ। इसलिए, 'tumultuous' सबसे उपयुक्त उत्तर है।"
   },
   {
-    "question": "Select the option that can be used as a one-word substitute for the given group of words. Something that is pertaining to controversy",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words.Something that is pertaining to controversy",
     "option_1": "Poignancy",
     "option_2": "laudatory",
     "option_3": "Putative",
@@ -677,7 +677,7 @@
   {
     "question": "Which of the following was not a type of sacrifice performed by kings in ancient India to establish their position?",
     "option_1": "Vajpeya",
-    "option_2": "",
+    "option_2": "Muvendavelan",
     "option_3": "Ashwamedha",
     "option_4": "Rajasuya",
     "answer": "2",
@@ -694,8 +694,8 @@
   },
   {
     "question": "Who was associated with the establishment of Fergusson College?",
-    "option_1": "",
-    "option_2": "",
+    "option_1": "Bal Gangadhar Tilak",
+    "option_2": "Gopal Krishna Gokhale",
     "option_3": "Lajpat Rai",
     "option_4": "Dadabhai Naoroji",
     "answer": "1",
@@ -721,18 +721,18 @@
   },
   {
     "question": "How much cash prize did each player of the men's hockey team receive from Hockey India for winning the bronze medal in the 2024 Olympics?",
-    "option_1": "₹5 lakh",
-    "option_2": "₹15 lakh",
-    "option_3": "₹20 lakh",
-    "option_4": "₹7.5 lakh",
+    "option_1": "₹5 ₹5 lakh",
+    "option_2": "₹15 ₹15 lakh",
+    "option_3": "₹20 ₹20 lakh",
+    "option_4": "₹7.5 ₹7.5 lakh",
     "answer": "2",
     "solution": "हॉकी इंडिया ने कांस्य पदक जीतने पर भारतीय पुरुष हॉकी टीम के प्रत्येक खिलाड़ी को 15 लाख रुपये और सहयोगी स्टाफ के प्रत्येक सदस्य को 7.5 लाख रुपये का नकद पुरस्कार देने की घोषणा की है।"
   },
   {
     "question": "Which of the following is not a folk dance belonging to the Union Territory of Jammu and Kashmir?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
+    "option_1": "Dhumal",
+    "option_2": "Hafiza",
+    "option_3": "Rouf",
     "option_4": "Dangi",
     "answer": "4",
     "solution": "डांगी लोक नृत्य हिमाचल प्रदेश का है । डांगियों द्वारा किए गए नृत्य को डांगी नरुत्या कहा जाता है। पुरुष और महिलाएं सर्पीन गतिविधियों को बनाने वाली श्रृंखला बनाने के लिए शामिल होते हैं, जिनमें से एक अग्रणी होता है। इस नृत्य के अद्भुत स्थलों में से एक मानव पिरामिड का निर्माण है।"
@@ -740,18 +740,18 @@
   {
     "question": "Which of the following separates Little Andaman from South Andaman of India?",
     "option_1": "Amindivi Islands",
-    "option_2": "",
-    "option_3": "",
+    "option_2": "( ) Duncan Passage",
+    "option_3": "Reunion Hotspot",
     "option_4": "Minicoy Island",
     "answer": "2",
     "solution": "डंकन मार्ग (पैसेज) हिंद महासागर में एक जलडमरूमध्य है, जो दक्षिण अंडमान और लिटिल अंडमान को अलग करता है। रीयूनियन हॉटस्पॉट एक ज्वालामुखी हॉटस्पॉट है जो वर्तमान में हिंद महासागर में फ्रांस के एक विदेशी क्षेत्र रीयूनियन द्वीप के अंतर्गत स्थित है। मिनिकॉय और अमीनदीवी द्वीप समूह (लक्षद्वीप) ।"
   },
   {
     "question": "The PM SVANidhi scheme launched by the Ministry of Housing and Urban Affairs is for which of the following sections of the society?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "Migrant workers affected by COVID-19",
+    "option_1": "COVID-19 Street vendors affected by COVID-19",
+    "option_2": "COVID-19 Widows affected by COVID-19",
+    "option_3": "COVID-19 Orphaned children affected by COVID-19",
+    "option_4": "COVID-19 Migrant workers affected by COVID-19",
     "answer": "1",
     "solution": "COVID-19 से प्रभावित स्ट्रीट वेंडर । SMILE - Support for Marginalized Individuals for Livelihood and Enterprise, 'भीख मांगने के कार्य में लगे व्यक्तियों के व्यापक पुनर्वास के लिए केंद्रीय क्षेत्र की योजना (2022)।"
   },
@@ -759,17 +759,17 @@
     "question": "The innovative concept of using sunlight to keep homes warm in cold winters is called ______.",
     "option_1": "Latent solar heating",
     "option_2": "Conductive solar heating",
-    "option_3": "",
+    "option_3": "Radiative heating",
     "option_4": "Passive solar heating",
     "answer": "4",
     "solution": "निष्क्रिय सौर तापन घरों में सूर्य की ऊष्मा को अवशोषित कर लेता है और सूर्य की अनुपस्थिति में उस ऊष्मा को मुक्त कर देता है।"
   },
   {
     "question": "Soilless agriculture is called _______",
-    "option_1": "",
+    "option_1": "(hydroponic)",
     "option_2": "Shifting cultivation",
     "option_3": "Dry agriculture",
-    "option_4": "",
+    "option_4": "(pastoral farming)",
     "answer": "1",
     "solution": "हाइड्रोपोनिक्स मिट्टी का उपयोग किए बिना पौधों की खेती है। स्थानांतरित कृषि में, जंगल में, आमतौर पर पहाड़ियों की ढलानों पर एक समाशोधन किया जाता है। शुष्क खेती सीमित नमी वाले क्षेत्रों में सिंचाई के बिना फसलों की खेती है. आमतौर पर सालाना 20 इंच से कम वर्षा होती है । चारागाह खेती (जिसे कुछ क्षेत्रों में पशुपालन, पशुपालन या चराई के रूप में भी जाना जाता है) का उद्देश्य फसल उगाने के बजाय पशुधन का उत्पादन करना है।"
   },
@@ -777,7 +777,7 @@
     "question": "Which of the following institutions does not regulate the capital market in India?",
     "option_1": "RBI",
     "option_2": "SEBI",
-    "option_3": "",
+    "option_3": "Ministry of Finance",
     "option_4": "IRDA",
     "answer": "4",
     "solution": "IRDA । भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI), वित्त मंत्रालय (MoF), और भारतीय रिजर्व बैंक (RBI) भारतीय पूंजी बाजारों को नियंत्रित करने वाले तीन नियामक प्राधिकरण हैं।"
@@ -786,7 +786,7 @@
     "question": "Actor Arun Govil, best known for playing the role of Lord Ram in the popular Doordarshan series 'Ramayan', won from which Lok Sabha seat in the 2024 general elections?",
     "option_1": "Mandi",
     "option_2": "Mathura",
-    "option_3": "",
+    "option_3": "Muzaffarnagar",
     "option_4": "Meerut",
     "answer": "4",
     "solution": "अरुण गोविल ने 2024 के आम चुनावों में उत्तर प्रदेश की मेरठ लोकसभा सीट से जीत हासिल की थी।"
@@ -794,7 +794,7 @@
   {
     "question": "Why is water fluoridation, which is the controlled addition of fluoride to public water supplies, done?",
     "option_1": "To prevent tooth decay",
-    "option_2": "",
+    "option_2": "To prevent eye disease",
     "option_3": "To prevent bone disease",
     "option_4": "To prevent vitamin deficiencies",
     "answer": "1",
@@ -802,9 +802,9 @@
   },
   {
     "question": "Which of the following is celebrated as New Year in Tamil Nadu?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
+    "option_1": "Pongal",
+    "option_2": "Puthandu",
+    "option_3": "Ugadi",
     "option_4": "Onam",
     "answer": "2",
     "solution": "पुथंडु (पुथुवरुदम, तमिल नव वर्ष), तमिल कैलेंडर पर पहले तमिल महीने, चित्तिरई (14 अप्रैल) का पहला दिन है, जिसे तमिलनाडु और पुडुचेरी के तमिल हिंदुओं द्वारा एक त्योहार के रूप में मनाया जाता है। पोंगल (ताई पोंगल) भारत (तमिलनाडु, कर्नाटक, केरल और आंध्र प्रदेश, तेलंगाना और पुडुचेरी) और श्रीलंका में तमिलों द्वारा मनाया जाने वाला 3-4 दिनों का हिंदू फसल उत्सव है। उगादी त्यौहार (नए साल का त्योहार, आंध्र प्रदेश, कर्नाटक और तेलंगाना राज्यों में मनाया जाता है)। ओणम (केरल का फसल उत्सव) ।"
@@ -820,18 +820,18 @@
   },
   {
     "question": "Which of the following is not an advantage of e-commerce?",
-    "option_1": "",
+    "option_1": "Cost savings and price reduction",
     "option_2": "Late response to customer requirements",
-    "option_3": "",
+    "option_3": "Availability of wider choices",
     "option_4": "Better customer services",
     "answer": "2",
     "solution": "ई-कॉमर्स एक बिजनेस मॉडल है जो फर्मों और व्यक्तियों को इंटरनेट पर चीजें खरीदने और बेचने की सुविधा देता है। लाभ: बढ़ी हुई उत्पादकता और सही प्रतिस्पर्धा, वैश्विक बाजार, उत्पाद वितरण श्रृंखला में कटौती, व्यापार को आसानी और सरलता से प्रबंधित करना । नुकसान : (धोखाधड़ी वाले वित्तीय लेनदेन की संभावना और संवेदनशील वित्तीय जानकारी का नुकसान) ।"
   },
   {
     "question": "What is the yellow dust present in the middle of a flower called?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "",
+    "option_1": "Stomata",
+    "option_2": "Pollen",
+    "option_3": "Sperm",
     "option_4": "Zygote",
     "answer": "2",
     "solution": "फूल के बीच में मौजूद पीले रंग के पाउडर को पराग कहते हैं, जो परागकणों के परागकणों पर मौजूद होता है और इसे धारण करने वाली छड़ी को पुंकेसर कहते हैं। जब मधुमक्खियां या अन्य परागणक फूलों के बीच पराग ले जाते हैं तो फूल पुन: उत्पन्न होते हैं।"
@@ -839,14 +839,14 @@
   {
     "question": "With what objective did the Assam government launch the 'Nijut Moina' scheme in August 2024?",
     "option_1": "To provide health facilities to all those citizens who cannot afford proper treatment",
-    "option_2": "",
+    "option_2": "To support indigenous weavers and promote their traditional handwoven items",
     "option_3": "To eliminate child marriage by empowering girl students and promoting education instead of early marriage",
     "option_4": "To eliminate financial difficulties of poor families",
     "answer": "3",
     "solution": "छात्राओं को सशक्त बनाकर और कम उम्र में विवाह की जगह शिक्षा को बढ़ावा देकर बाल विवाह को खत्म करना असम सरकार ने 'निजुत मोइना' योजना अगस्त 2024 में शुरू की, जिसका उद्देश्य छात्राओं को उच्च शिक्षा के लिए प्रोत्साहित करना और बाल विवाह की प्रथा को समाप्त करना है।"
   },
   {
-    "question": "Consider the following words and put them in sequence Law Bill Proposal Act Choose the correct answer from the following codes-",
+    "question": "Consider the following words and put them in sequenceChoose the correct answer from the following codes-",
     "option_1": "2, 3, 1, 4",
     "option_2": "4, 2, 3, 1",
     "option_3": "3, 2, 4, 1",
@@ -856,28 +856,28 @@
   },
   {
     "question": "Which are the four states of the Northeast which are equally associated with the Guwahati High Court?",
-    "option_1": "",
-    "option_2": "",
-    "option_3": "Assam, Meghalaya, Tripura and Arunachal Pradesh",
-    "option_4": "Assam, Sikkim, Manipur and Mizoram",
+    "option_1": ", , , Assam, Nagaland, Mizoram, and Arunachal Pradesh",
+    "option_2": ", , Meghalaya, Tripura, Sikkim and Manipur",
+    "option_3": ", , Assam, Meghalaya, Tripura and Arunachal Pradesh",
+    "option_4": ", , Assam, Sikkim, Manipur and Mizoram",
     "answer": "1",
     "solution": "पूर्वोत्तर के चार राज्य असम, नागालैण्ड, मिजोरम एवं अरुणाचल प्रदेश सम्मिलित रूप से गुवाहाटी उच्च न्यायालय के क्षेत्राधिकार के अन्तर्गत आते हैं। 5 अप्रैल, 1948 को असम उच्च- न्यायालय के नाम से इसकी स्थापना हुयी थी जिसे 1971 में उत्तर- पूर्वी क्षेत्र (पुनर्गठन) अधिनियम, 1971 द्वारा नाम बदलकर गुवाहाटी उच्च न्यायालय कर दिया गया।"
   },
   {
     "question": "Which of the following pairs is correctly matched?",
-    "option_1": "Article 17 – Abolition of titles",
-    "option_2": "",
-    "option_3": "",
-    "option_4": "",
+    "option_1": "17 - Article 17 – Abolition of titles",
+    "option_2": "14 - Article 14 – Abolition of untouchability",
+    "option_3": "15 - Article 15 – Right against exploitation",
+    "option_4": "19 – Article 19 – Protection of specific rights related to freedom of speech",
     "answer": "4",
     "solution": "अनुच्छेद - उपबंध अनुच्छेद 14 - समानता का अधिकार अनुच्छेद 17 - अस्पृश्यता का अंत अनुच्छेद 18 - उपाधियों का अंत अनुच्छेद 19 - वाक् स्वातंत्र्य संबंधी विशिष्ट अधिकारों का संरक्षण अनुच्छेद 23, 24 - शोषण के विरुद्ध अधिकार ।"
   },
   {
     "question": "As per the standard census definition, who among the following can be classified as a main worker in India?",
-    "option_1": "",
-    "option_2": "A person who works for at least 200 days.",
-    "option_3": "",
-    "option_4": "A person who works for at least 100 days.",
+    "option_1": "160 A person who works for at least 160 days.",
+    "option_2": "200 A person who works for at least 200 days.",
+    "option_3": "183 A person who works for at least 183 days.",
+    "option_4": "100 A person who works for at least 100 days.",
     "answer": "3",
     "solution": "भारत में ऐसा व्यक्ति जो वर्ष में 183 दिन या 6 महीने कार्य में संलग्न है, उसे मुख्य कामगार माना जाता है। जो श्रमिक वर्ष के अधिकांश भाग (183 दिनों से कम) काम नहीं करते, उन्हें सीमांत श्रमिक कहा जाता है।"
   },
