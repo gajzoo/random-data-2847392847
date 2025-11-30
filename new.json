@@ -4,18 +4,18 @@
     "option_2": "40",
     "option_3": "29",
     "option_4": "33",
-    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.\n[5, 2, 8]\n[13, 5, 37]\n[14, 3, ?]\n[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
+    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.<br>[5, 2, 8]<br>[13, 5, 37]<br>[14, 3, ?]<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed]",
     "answer": "1",
-    "solution": "[5,2,8]→5+22 =5+4 -1 = 8\n[13,5,37]→13+52=13+25 -1 = 37\n[14,3,?]→14+32=14 +9 -1 = 22"
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">[</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">5,2,8</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">]</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">→5+2</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2 </span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">=5+4 -1 = 8</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: Tahoma,serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">[</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">13,5,37</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">]</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">→</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">13+5</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">=13+25 -1 = 37</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: Tahoma,serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">[</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">14,3,</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">?]</span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">→</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">14+3</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">=14 +9 -1 = 22</span></span></span></p>"
   },
   {
     "option_1": "64 and 36",
     "option_2": "9 and 64",
     "option_3": "3 and 9",
     "option_4": "32 and 36",
-    "question": "Which two numbers should be interchanged to make the given equation correct?\n64 + 36 ÷ 3 × 9 – 32 = 44",
+    "question": "Which two numbers should be interchanged to make the given equation correct?<br>64 + 36 ÷ 3 × 9 – 32 = 44",
     "answer": "3",
-    "solution": "64 + 36 ÷ 9 × 3 - 32=44\n64 + 4 × 3 -32 = 44\n64 + 12 -32 =44\n76 -32 = 44\n44 = 44\nLHS = RHS"
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">64 + 36 ÷ 9 × 3 - 32=44</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">64 + 4 × 3 -32 = 44</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">64 + 12 -32 =44</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">76 -32 = 44</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">44 = 44</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">LHS = RHS</span></span></span></p>"
   },
   {
     "option_1": "72",
@@ -24,25 +24,25 @@
     "option_4": "144",
     "question": "In a certain code language, ‘LILY’ is coded as ‘67’ and ‘LOTUS’ is coded as ’138’. How will ‘TULIP’ be coded in that language?",
     "answer": "4",
-    "solution": "LILY:\nL = 12, I = 9 (opposite 18), L = 12, Y = 25\n12+18+12+25= 67\n67×1 = 67 (1 is the number of vowels)\nLOTUS:\nL = 12, O = 15 (opposite 12), T = 20, U = 21 (opposite 6), S = 19\n12+12+20+6+19 = 69\n69×2=138 (2 is the number of vowels)\nApply the Pattern to \"TULIP\"\nT = 20, U = 21 (opposite 6), L = 12, I = 9 (opposite 18), P = 16\n20+6+12+18+16=72\n72×2=144 (2 is the number of vowels)"
+    "solution": "<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">LILY:</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">L = 12, I = 9 (opposite 18), L = 12, Y = 25</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">12+18+12+25= 67</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">67×1 = 67 (1 is the number of vowels)</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">LOTUS:</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">L = 12, O = 15 </span></span></span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">(opposite 12)</span><span style=\"font-size: 19px; font-family: 'Cambria Math', serif;\">, T = 20, U = 21 </span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">(opposite 6)</span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">, S = 19</span></p>\n<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">12+12+20+6+19 = 69</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">69×2=138 (2 is the number of vowels)</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Apply the Pattern to \"TULIP\"</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">T = 20, U = 21 </span></span></span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">(opposite 6)</span><span style=\"font-size: 19px; font-family: 'Cambria Math', serif;\">, L = 12, I = 9 </span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">(opposite 18)</span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">, P = 16</span></p>\n<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">20+6+12+18+16=72</span></span></span><br /><strong><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">72×2=144 </span></span></span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px;\">(2 is the number of vowels)</span></strong></p>"
   },
   {
     "option_1": "P is the mother of R.",
     "option_2": "H is the paternal grandfather of M.",
     "option_3": "S is the mother – in - law of R.",
     "option_4": "U is the son of S",
-    "question": "‘A + B’ means ‘A is the mother of B’\n‘A - B’ means ‘A is the husband of B’\n‘A × B’ means ‘A is the father of B’\n‘A ÷ B’ means ‘A is the daughter of B’\nHence, if we consider S + Z – R ÷ H – P + U × M, then which of the following is NOT correct?",
+    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br><br>Hence, if we consider S + Z – R ÷ H – P + U × M, then which of the following is NOT correct?",
     "answer": "4",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png\nClearly, U is not son of S."
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n</span></span></span>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png\" name=\"Picture 7\" align=\"bottom\" width=\"269\" height=\"214\" border=\"0\">\n</img><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Clearly,\nU is not son of S.</span></span></span><br/>"
   },
   {
     "option_1": "D",
     "option_2": "C",
     "option_3": "B",
     "option_4": "A",
-    "question": "Two positions of the same dice are shown. Which letter will be on the face opposite to the face with the letter F?\nhttps://cms-cdn.classplus.co/parserImages/production/322305_1750010194085.png",
+    "question": "Two positions of the same dice are shown. Which letter will be on the face opposite to the face with the letter F?<br>https://cms-cdn.classplus.co/parserImages/production/322305_1750010194085.png",
     "answer": "3",
-    "solution": "B can be seen on both the dices with other 4 letters i.e. A, C, D and E. Only F is hidden, which must be opposite to B."
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nB can be seen on both the dices with other 4 letters i.e. A, C, D and\nE. Only F is hidden, which must be opposite to B.</span></span></span><br/>"
   },
   {
     "option_1": "RVEK",
@@ -51,34 +51,34 @@
     "option_4": "CGTZ",
     "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.",
     "answer": "2",
-    "solution": "https://cms-cdn.classplus.co/parserImages/7467af67-714f-4475-b0c4-7eed0b5c661a.png"
+    "solution": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/7467af67-714f-4475-b0c4-7eed0b5c661a.png\" alt=\"\" width=\"407\" height=\"271\" /></p>"
   },
   {
     "option_1": "727 : 609",
     "option_2": "191 : 177",
     "option_3": "373 : 255",
     "option_4": "797 : 679",
-    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?\n[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
+    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
     "answer": "2",
-    "solution": "Logic: 1st no – 2nd no = 118\n727- 609 = 118\n191- 177 ≠118\n373 – 255 = 118\n797 - 679= 118\nOpt B."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Logic: 1</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">st</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> no – 2</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">nd</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> no = 118</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">727- 609 = 118</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">191- 177 ≠118</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">373 – 255 = 118</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">797 - 679= 118</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Opt B.</span></span></span></p>"
   },
   {
     "option_1": "Herd",
     "option_2": "Milk",
     "option_3": "Calf",
     "option_4": "Bull",
-    "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. [The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word]\nMare :Stallion :: Cow : ?",
+    "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. [The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word]<br>Mare :Stallion :: Cow : ?",
     "answer": "4",
-    "solution": "The logic followed here is:\nThe second word is the opposite gender of the first word.\nHere,\nMare : Stallion → Stallion is a male horse and Mare is female horse.\nSimilarly,\nCow: Bull → Bull is a male cattle and Cow is female cattle.\nHence, the correct answer is \"Option D\""
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nThe logic followed here is:</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">The\nsecond word is the opposite gender of the first word.</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Here,</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Mare\n: Stallion → Stallion is a male horse and Mare is female horse.</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Similarly,</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Cow:\nBull → Bull is a male cattle and Cow is female cattle.</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">Hence,\nthe correct answer is \"Option D\"</span></span></span><br/>"
   },
   {
     "option_1": "191",
     "option_2": "255",
     "option_3": "133",
     "option_4": "156",
-    "question": "Which of the following numbers will replace the question mark ‘?’ in the given series?\n17, 20, 30, 45, 71, 106, ?",
+    "question": "Which of the following numbers will replace the question mark ‘?’ in the given series?<br>17, 20, 30, 45, 71, 106, ?",
     "answer": "4",
-    "solution": "17 + [22 -1] = 17 + 3 = 20\n20 + [32 + 1] = 20 + 10 = 30\n30 + [42 – 1] = 30 + 15 = 45\n45 + [52 + 1] = 45 + 26 = 71 \n71 + [62 – 1] = 71 + 35 = 106\n106 + [7 2+ 1] = 106 + 50 = 156"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n17 + [2</span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n -1] = 17 + 3 = 20</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">20\n+ [3</span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n+ 1] = 20 + 10 = 30</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">30\n+ [4</span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">–\n1] = 30 + 15 = 45</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">45\n+ [5</span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n+ 1] = 45 + 26 = 71 </span></span></span>\n<br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">71\n+ [6</span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">–\n1] = 71 + 35 = 106</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">106\n+ [7 </span></span></span><span style=\"color: #000000\"><sup><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">2</span></span></sup></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">+\n1] = 106 + 50 = 156</span></span></span><br/>"
   },
   {
     "option_1": "Integrity",
@@ -87,52 +87,52 @@
     "option_4": "Truthfulness",
     "question": "Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.",
     "answer": "2",
-    "solution": "Integrity, Honesty and Truthfulness are synonyms but Joviality has a different meaning."
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nIntegrity</span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">,</span></span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nHonesty and Truthfulness are synonym</span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">s\nbut</span></span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nJoviality</span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">\nhas a different meaning.</span></span></span></span><br/>"
   },
   {
     "option_1": "JRFQ, LUIW",
     "option_2": "JRES, LUIX",
     "option_3": "JREQ, LUIV",
     "option_4": "JREQ, LUIW",
-    "question": "Which of the following letter-clusters will replace the question mark ‘?’ in the given series?\nZCKR, BFOW, DISB, FLWG, HOAL, ?, ?",
+    "question": "Which of the following letter-clusters will replace the question mark ‘?’ in the given series?<br>ZCKR, BFOW, DISB, FLWG, HOAL, ?, ?",
     "answer": "3",
-    "solution": "https://cms-cdn.classplus.co/parserImages/b2a2baf5-ee26-44f2-8af9-01165c65939b.png"
+    "solution": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/b2a2baf5-ee26-44f2-8af9-01165c65939b.png\" alt=\"\" width=\"432\" height=\"154\" /></p>"
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/148879_1750010194514.png",
     "option_2": "https://cms-cdn.classplus.co/parserImages/production/591457_1750010194635.png",
     "option_3": "https://cms-cdn.classplus.co/parserImages/production/371047_1750010194761.png",
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/187084_1750010194867.png",
-    "question": "Select the option figure in which the given figureis embedded as its part [rotation NOT allowed].\nhttps://cms-cdn.classplus.co/parserImages/production/229263_1750010194411.png",
+    "question": "Select the option figure in which the given figureis embedded as its part [rotation NOT allowed].<br>https://cms-cdn.classplus.co/parserImages/production/229263_1750010194411.png",
     "answer": "2",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/794223_1750010194967.png"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n</span></span></span>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/794223_1750010194967.png\" name=\"Image14\" align=\"bottom\" width=\"130\" height=\"127\" border=\"0\">\n</img><br/>"
   },
   {
     "option_1": "16 : 8",
     "option_2": "4 : 5",
     "option_3": "9 : 6",
     "option_4": "25 : 8",
-    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?\n[NOTE: Operations should be performed on the whole numbers, without breaking down the numbersinto its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
+    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br>[NOTE: Operations should be performed on the whole numbers, without breaking down the numbersinto its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
     "answer": "1",
-    "solution": "Logic: {Number}2 : {Number+3}\nOption A is odd."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Logic: {Number}</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> : {Number+3}</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Option A is odd.</span></span></span></p>"
   },
   {
     "option_1": "Only conclusion I follows",
     "option_2": "Only conclusion II follows",
     "option_3": "Neither I nor II follows",
     "option_4": "Only conclusion I and II follow",
-    "question": "Three statements are given, followed by two conclusions numbered I and II Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements?\n\nStatement:\nAll tablets are laptops.\nAll laptop are mobiles.\nSome mobiles are camera.\n\nConclusions:\nI: Some mobiles are tablets.\nII: All tablets are mobiles.\nIII: Some tablets are camera.",
+    "question": "Three statements are given, followed by two conclusions numbered I and II Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements?<br><br><b>Statement</b>:<br>All tablets are laptops.<br>All laptop are mobiles.<br>Some mobiles are camera.<br><br><b>Conclusions</b>:<br>I: Some mobiles are tablets.<br>II: All tablets are mobiles.<br>III: Some tablets are camera.",
     "answer": "4",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/421353_1750010195071.png\nI. Yes\nII. Yes\nIII. No"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n</span></span></span>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/421353_1750010195071.png\" name=\"Image16\" align=\"bottom\" width=\"296\" height=\"251\" border=\"0\">\n</img><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">I.\nYes</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">II.\nYes</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">III.\nNo</span></span></span><br/>"
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/145133_1750010195274.png",
     "option_2": "https://cms-cdn.classplus.co/parserImages/production/133964_1750010195386.png",
     "option_3": "https://cms-cdn.classplus.co/parserImages/production/361849_1750010195499.png",
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/608531_1750010195601.png",
-    "question": "Select the correct mirror image of the given figure when the mirror is placed at PQ as shown below.\nhttps://cms-cdn.classplus.co/parserImages/production/714847_1750010195171.png",
+    "question": "Select the correct mirror image of the given figure when the mirror is placed at PQ as shown below.<br>https://cms-cdn.classplus.co/parserImages/production/714847_1750010195171.png",
     "answer": "1",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/689907_1750010195707.png"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n</span></span></span>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/689907_1750010195707.png\" name=\"Image23\" align=\"bottom\" width=\"335\" height=\"137\" border=\"0\">\n</img><br/>"
   },
   {
     "option_1": "Wednesday",
@@ -141,16 +141,16 @@
     "option_4": "Saturday",
     "question": "If 19 July 2000 was a Wednesday, then what would be the day of the week on 15 June 2012?",
     "answer": "3",
-    "solution": "We will count the total number of days from 19 July 2000 to 15 June 2012 and calculate the number of leap years and normal years.\nYears Breakdown\n\nFrom 19 July 2000 to 19 July 2011 → 11 years\n\n\nFrom 19 July 2011 to 15 June 2012 → Nearly 1 year\n\n\nLeap Years [Extra Day in February]\nLeap years: 2004, 2008, 2012 → 3 leap years\nNormal years: 2001, 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2011 → 9 normal years\nCount Days from 19 July 2011 to 15 June 2012\n\nFrom 19 July 2011 to 19 June 2012 = 11 months\n\n\nSubtract 4 days [from 19 June to 15 June]\n\n\nDays in each month\n\nJuly 19 to December 31 → 166 days\n\n\nJanuary 2012 → 31 days\n\n\nFebruary 2012 [leap year] → 29 days\n\n\nMarch 2012 → 31 days\n\n\nApril 2012 → 30 days\n\n\nMay 2012 → 31 days\n\n\n1 June to 15 June 2012 → 15 days\n\n\nTotal days from 19 July 2011 to 15 June 2012:\n166+31+29+31+30+31+15=333 days166 + 31 + 29 + 31 + 30 + 31 + 15 = 333 days 333÷7=47 full weeks+4 extra days \nSince 19 July 2011 was a Thursday,\n\n+4 days → Monday, Tuesday, Wednesday, Thursday → Friday\n\n\nThus, 15 June 2012 was a Friday."
+    "solution": "<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">We will count the total number of days from 19 July 2000 to 15 June 2012 and calculate the number of leap years and normal years.</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Years Breakdown</span></span></span></p>\n<ul>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-top: 0.1824px; margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">From 19 July 2000 to 19 July 2011 → 11 years</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0.1824px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">From 19 July 2011 to 15 June 2012 → Nearly 1 year</span></span></span></p>\n</li>\n</ul>\n<p><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Leap Years [Extra Day in February]</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Leap years: 2004, 2008, 2012 → 3 leap years<br />Normal years: 2001, 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2011 → 9 normal years</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Count Days from 19 July 2011 to 15 June 2012</span></span></span></p>\n<ul>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-top: 0.1824px; margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">From 19 July 2011 to 19 June 2012 = 11 months</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0.1824px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Subtract 4 days [from 19 June to 15 June]</span></span></span></p>\n</li>\n</ul>\n<p><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Days in each month</span></span></span></p>\n<ul>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-top: 0.1824px; margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">July 19 to December 31 → 166 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">January 2012 → 31 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">February 2012 [leap year] → 29 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">March 2012 → 31 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">April 2012 → 30 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">May 2012 → 31 days</span></span></span></p>\n</li>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-bottom: 0.1824px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">1 June to 15 June 2012 → 15 days</span></span></span></p>\n</li>\n</ul>\n<p><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Total days from 19 July 2011 to 15 June 2012:</span></span></span><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">166+31+29+31+30+31+15=333 days166 + 31 + 29 + 31 + 30 + 31 + 15 = 333 days 333÷7=47 full weeks+4 extra days </span></span></span> <br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Since 19 July 2011 was a Thursday,</span></span></span></p>\n<ul>\n<li>\n<p lang=\"en-IN\" class=\"western\" align=\"justify\" style=\"margin-top: 0.1824px; margin-bottom: 0.1824px; line-height: 100%;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">+4 days → Monday, Tuesday, Wednesday, Thursday → </span></span></span><span style=\"font-family: 'Cambria Math', serif; font-size: 19px; text-align: left;\">Friday</span></p>\n</li>\n</ul>\n<p><br /><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">Thus, 15 June 2012 was a Friday.</span></span></span></p>"
   },
   {
     "option_1": "5, 3, 1, 6, 4, 2",
     "option_2": "3, 5, 2, 1, 6, 4",
     "option_3": "5, 3, 1, 6, 2, 4",
     "option_4": "3, 5, 1, 2, 4, 6",
-    "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Cardinal\n2. Cartography\n3. Cardiac\n4. Carrot\n5. Callous\n6. Careless",
+    "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.<br>1. Cardinal<br>2. Cartography<br>3. Cardiac<br>4. Carrot<br>5. Callous<br>6. Careless",
     "answer": "1",
-    "solution": "The words mentioned above according to the dictionary will be :\nCallous, Cardiac, Cardinal, Careless, Carrot, Cartography"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"/></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">\nThe words mentioned above according to the dictionary will be :</span></span></span></span><br/>\n<span style=\"color: #000000\"> <span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">Callous,\nCardiac, Cardinal, Careless, Carrot, Cartography</span></span></span></span><br/>"
   },
   {
     "option_1": "Decline",
@@ -159,34 +159,34 @@
     "option_4": "Flourish",
     "question": "‘Wilt’ is related to ‘Droop’ in the same way as ‘Thrive’ is related to ?",
     "answer": "4",
-    "solution": "Wilt is the synonym is Droop\nSimilarly,\nThrive is the synonym is Flourish"
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Wilt </span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">is the </span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">synonym is Droop</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Similarly,</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Thrive </span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span lang=\"en-US\">is the </span></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">synonym is Flourish</span></span></span></p>"
   },
   {
     "option_1": "28",
     "option_2": "20",
     "option_3": "26",
     "option_4": "24",
-    "question": "In the given matrix, which option will replace the question mark ‘?’ ?\n| 7 | 35 | 13 |\n| 9 | 24 | 14 |\n| 13 | 120 | ? |",
+    "question": "In the given matrix, which option will replace the question mark ‘?’ ?<br><br>| 7 | 35 | 13 |<br>|---|---|---|<br>| 9 | 24 | 14 |<br>| 13 | 120 | ? |",
     "answer": "4",
-    "solution": "Here the pattern followed in each row is:\n[3rd number - 1st number]2 - 1 = 2nd number\n\nRow 1: 7, 35, 13\n[13-7]2 -1=62-1=36-1=35\n\nRow 2: 9, 24, 14\n[14-9]2-1=52-1=25-1=24\n\nSimilarly\n\nRow 3: 13, 120, ?\n[? – 13]2 - 1 = 120\n= [? – 13]2 = 120 + 1\n= [? – 13]2 = 121\n=? - 13 = 11\n=? =11 + 13 = 24\nHence, \"24\" is correct answer."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Here the pattern followed in each row is:</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">[3rd number - 1st number]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> - 1 = 2nd number</span></span></span></p>\n<p><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Row 1: 7, 35, 13</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">[13-7]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2 </span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">-1=6</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">-1=36-1=35</span></span></span></p>\n<p><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Row 2: 9, 24, 14</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">[14-9]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">-1=5</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">-1=25-1=24</span></span></span></p>\n<p><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Similarly</span></span></span></p>\n<p><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Row 3: 13, 120, ?</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">[? – 13]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> - 1 = 120</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">= [? – 13]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> = 120 + 1</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">= [? – 13]</span></span></span><span style=\"color: #000000;\"><sup><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sup></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> = 121</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">=? - 13 = 11</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">=? =11 + 13 = 24</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Hence, \"24\" is correct answer.</span></span></span></p>"
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/840377_1750010195901.png",
     "option_2": "https://cms-cdn.classplus.co/parserImages/production/194055_1750010196010.png",
     "option_3": "https://cms-cdn.classplus.co/parserImages/production/841813_1750010196119.png",
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/683451_1750010196232.png",
-    "question": "Which of the four option figures will complete the following figure series?\nhttps://cms-cdn.classplus.co/parserImages/production/508687_1750010195803.png",
+    "question": "Which of the four option figures will complete the following figure series?<br>https://cms-cdn.classplus.co/parserImages/production/508687_1750010195803.png",
     "answer": "2",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png\nIn the first step, the position of first two figures interchange. In the second step, the position of last two figures interchanged. And this interchanging process is continued.\nThe combination will be option B."
+    "solution": "<p><img src=\"https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png\" width=\"368\" height=\"167\" name=\"Image30\" align=\"bottom\" border=\"0\" /></p>\n<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">In the first step, the position of first two figures interchange. In the second step, the position of last two figures interchanged. And this interchanging process is continued.</span></span></span></p>\n<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The combination will be option B.</span></span></span></p>"
   },
   {
     "option_1": "zznzmzn",
     "option_2": "zznznzm",
     "option_3": "nznnzzn",
     "option_4": "znzmznn",
-    "question": "Select the option that represents the letters that, when placed from left to right in the followingblanks, will complete the letter-series?\n_ _ m _ oznz_ _ no_ _ zzm",
+    "question": "Select the option that represents the letters that, when placed from left to right in the followingblanks, will complete the letter-series?<br>_ _ m _ oznz_ _ no_ _ zzm",
     "answer": "1",
-    "solution": "A. zznzmzn\nzzmnozn / zzmnozn / zzm\n'zzmnozn' is repeating itself in the series."
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nA. zznzmzn</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">zzmnozn\n/ zzmnozn / zzm</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">'zzmnozn'\nis repeating itself in the series.</span></span></span><br/>"
   },
   {
     "option_1": "28",
@@ -195,7 +195,7 @@
     "option_4": "35",
     "question": "In a class of 75 students, 40 students participate in Cricket, 28 students participate in Hockey, and 12 students participate in both Cricket and Hockey, whereas 19 students do not participate in any of the two sports. How many students participate only in Hockey?",
     "answer": "3",
-    "solution": "In a class of 75 students.\n19 students do not participate in any of the two sports. \nStudents who participate in any of the two sports or both the sports = 75 - 19 = 56\n12 students participate in both Cricket and Hockey.\n40 students participate in Cricket.\nStudents who participate only in Cricket = 40 - 12 = 28\n28 students participate in Hockey\nStudents who participate only in Hockey = 28 - 12 = 16\nClearly, 16 students participate only in Hockey.\nHence, '16' is the correct answer.\nOpt C."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> In a class of 75 students.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">19 students do not participate in any of the two sports. </span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Students who participate in any of the two sports or both the sports = 75 - 19 = 56</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">12 students participate in both Cricket and Hockey.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">40 students participate in Cricket.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Students who participate only in Cricket = 40 - 12 = 28</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">28 students participate in Hockey</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Students who participate only in Hockey = 28 - 12 = 16</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Clearly, 16 students participate only in Hockey.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Hence, '16' is the correct answer.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Opt C.</span></span></span></p>"
   },
   {
     "option_1": "ZBSUT",
@@ -204,25 +204,25 @@
     "option_4": "DEUVT",
     "question": "In a certain coded language, ‘BANGED’ is coded as ‘JJKQCC’ and ‘TILTS’ is coded as ‘XXOKU’. What is the code for ‘STRAY’ in the same coded language?",
     "answer": "4",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/908256_1750010196436.png\nhttps://cms-cdn.classplus.co/parserImages/production/556517_1750010196486.png"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\n</span></span></span>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/908256_1750010196436.png\" name=\"Image32\" align=\"bottom\" width=\"424\" height=\"127\" border=\"0\">\n</img><br/>\n<img src=\"https://cms-cdn.classplus.co/parserImages/production/556517_1750010196486.png\" name=\"Image33\" align=\"bottom\" width=\"156\" height=\"121\" border=\"0\">\n</img><br/>"
   },
   {
     "option_1": "÷, -, ×, =, +",
     "option_2": "×, ÷, -, +",
     "option_3": "- , ×, +, -",
     "option_4": "÷, ×, -, +,=",
-    "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the equation.\n221 * 17 * 12 * 130 * 24 *50",
+    "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the equation.<br>221 * 17 * 12 * 130 * 24 *50",
     "answer": "4",
-    "solution": "Option D:\n221÷17×12−130+24=50\n221÷17×12−130+24=50\n\n13×12 – 130 +24 = 50\n156 – 130 +24 = 50 \n\n26+ 24 = 50"
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\nO</span></span></span><span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">ption\nD:</span></span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">221÷17×12−130+24=50</span></span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\"><span lang=\"en-US\">221÷17×12−130+24=50\n</span></span></span></span>\n<br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">13×12\n– 130 +24 = 50</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">156\n– 130 +24 = 50 </span></span></span>\n<br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">26+\n24 = 50</span></span></span><br/>"
   },
   {
     "option_1": "i. 32, ii. 23",
     "option_2": "i. 40, ii. 28",
     "option_3": "i. 13, ii. 36",
     "option_4": "i. 37, ii. 40",
-    "question": "https://cms-cdn.classplus.co/parserImages/production/359412_1750010196652.png \nIn the diagram, circle represents players, triangle represents doctors, rectangle represents females.\nThen,\ni. Find how many females neither doctor nor players.\nii. Find how many females are players but not doctor?",
+    "question": "https://cms-cdn.classplus.co/parserImages/production/359412_1750010196652.png <br>In the diagram, circle represents players, triangle represents doctors, rectangle represents females.<br>Then,<br>i. Find how many females neither doctor nor players.<br>ii. Find how many females are players but not doctor?",
     "answer": "1",
-    "solution": "i. No. of females out-side triangle and circle is 32.\nii. No. of females who are in circle but, not in triangle are 23."
+    "solution": "<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">\ni. No. of females out-side triangle and circle is 32.</span></span></span><br/>\n<span style=\"color: #000000\"><span style=\"font-family: 'Cambria Math',serif\"><span style=\"font-size: 19px\">ii.\nNo. of females who are in circle but, not in triangle are 23.</span></span></span><br/>"
   },
   {
     "option_1": "Battle of Chandabar",
@@ -231,7 +231,7 @@
     "option_4": "Battle of Chanderi",
     "question": "Which battle has led to the foundation of Mughal Empire?",
     "answer": "2",
-    "solution": "The First Battle of Panipat in 1526, where Babur defeated Ibrahim Lodi, the Sultan of Delhi, marked the beginning of the Mughal Empire in India. The battle demonstrated the power of gunpowder weapons, including cannons and muskets, which were effectively used by Babur's forces. The Battle of Chandawar, fought in 1194, saw Muhammad Ghori defeat Jayachandra. The Second Battle of Panipat was fought on November 5, 1556, between the Mughal army and the Hindu army of Hemu. The Battle of Chanderi, fought in 1528, pitted the Mughal forces of Babur against the Rajput forces led by Medini Rai."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The First Battle of Panipat in 1526, where Babur defeated Ibrahim Lodi, the Sultan of Delhi, marked the beginning of the Mughal Empire in India. The battle demonstrated the power of gunpowder weapons, including cannons and muskets, which were effectively used by Babur's forces. The Battle of Chandawar, fought in 1194, saw Muhammad Ghori defeat Jayachandra. The Second Battle of Panipat was fought on November 5, 1556, between the Mughal army and the Hindu army of Hemu.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Battle of Chanderi, fought in 1528, pitted the Mughal forces of Babur against the Rajput forces led by Medini Rai.</span></span></span></p>"
   },
   {
     "option_1": "Lord Curzon",
@@ -240,7 +240,7 @@
     "option_4": "Warren Hastings",
     "question": "Who is considered as father of Indian Archaeology?",
     "answer": "3",
-    "solution": "Sir Alexander Cunningham, the first Director-General of the Archaeological Survey of India is considered the \"father of Indian archaeology\". He conducted the first excavations at Harappa in 1856 and 1872-73, making it the first site to be recognized on the world archaeological map. In 1905 partition of Bengal by Lord Curzon, divided it into East Bengal and West Bengal. Lord William Bentinck was the first Governor-General of British India. Warren Hastings was the first Governor-General of Bengal."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Sir Alexander Cunningham, the first Director-General of the Archaeological Survey of India is considered the \"father of Indian archaeology\". He conducted the first excavations at Harappa in 1856 and 1872-73, making it the first site to be recognized on the world archaeological map. In 1905 partition of Bengal by Lord Curzon, divided it into East Bengal and West Bengal.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Lord William Bentinck was the first Governor-General of British India.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Warren Hastings was the first Governor-General of Bengal.</span></span></span></p>"
   },
   {
     "option_1": "Lord Mayo",
@@ -249,7 +249,7 @@
     "option_4": "Lord Dufferin",
     "question": "Who among the following was the Viceroy of India during the formation of the Indian National Congress?",
     "answer": "4",
-    "solution": "Lord Dufferin was the Viceroy of India during the formation of the Indian National Congress. During Dufferin's tenure, the British annexed Upper Burma, ending its independence. \nThe first census in India was conducted in 1872, during the tenure of Lord Mayo. \nThomas Babington Macaulay, is famous for his role in shaping India's education policy. \nLord Curzon is known for the partition of Bengal in 1905."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Lord Dufferin was the Viceroy of India during the formation of the Indian National Congress.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">During Dufferin's tenure, the British annexed Upper Burma, ending its independence.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The first census in India was conducted in 1872, during the tenure of Lord Mayo.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Thomas Babington Macaulay, is famous for his role in shaping India's education policy.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Lord Curzon is known for the partition of Bengal in 1905.</span></span></span></p>"
   },
   {
     "option_1": "Rouf",
@@ -258,7 +258,7 @@
     "option_4": "Garba",
     "question": "Which folk dance is associated with Jammu and Kashmir?",
     "answer": "1",
-    "solution": "Folk dance is vital for preserving cultural traditions, celebrating community, and connecting people to their heritage. Rouf folk dance is associated with Jammu Kashmir. \nThe Jhora dance is a folk dance primarily associated with the state of Uttarakhand.\nThe Matki dance is a traditional folk dance from the Malwa region of Madhya Pradesh. \nGarba is a folk dance from the state of Gujarat."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Folk dance is vital for preserving cultural traditions, celebrating community, and connecting people to their heritage. Rouf folk dance is associated with Jammu Kashmir. </span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Jhora dance is a folk dance primarily associated with the state of Uttarakhand.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Matki dance is a traditional folk dance from the Malwa region of Madhya Pradesh.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Garba is a folk dance from the state of Gujarat.</span></span></span></p>"
   },
   {
     "option_1": "Shivkumar Sharma",
@@ -267,7 +267,7 @@
     "option_4": "Pandit Uday Shankar",
     "question": "Which Bharat Ratna awardee was famous as a Karnatic classical vocalist?",
     "answer": "2",
-    "solution": "Bharat Ratna, India's highest civilian award was established on January 2, 1954 by India's first President Dr. Rajendra Prasad. The winners of this award have made remarkable contributions in their respective fields. Every year the Prime Minister nominates three people for this award. Karnatak Singer M. S. Subbulakshmi for Bharat Ratna award in 1998.\nPandit Shivkumar Sharma was an Indian classical musician and santoor player.\nPt Bhimsen Joshi is known for the khayal form of singing. \nPandit Uday Shankar is renowned as the \"Father of Modern Dance in India\"."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Bharat Ratna, India's highest civilian award was established on January 2, 1954 by India's first President Dr. Rajendra Prasad. The winners of this award have made remarkable contributions in their respective fields. Every year the Prime Minister nominates three people for this award. Karnatak Singer M. S. </span></span></span><span style=\"color: #001d35;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"><span style=\"background: #ffffff;\">Subbulakshmi</span></span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">for Bharat Ratna award in 1998.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Pandit Shivkumar Sharma was an Indian classical musician and santoor player.</span></span></span><br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Pt Bhimsen Joshi is known for the khayal form of singing.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Pandit Uday Shankar is renowned as the \"Father of Modern Dance in India\".</span></span></span></p>"
   },
   {
     "option_1": "Nagaland",
@@ -276,7 +276,7 @@
     "option_4": "Uttrakhand",
     "question": "According to Census 2011, which of the following States had negative population growth?",
     "answer": "1",
-    "solution": "The census is important to estimate the death rate and growth rate of the population of a country. According to the 2011 Census, Nagaland was the only Indian state to record a negative population growth rate. The decadal growth rate for Nagaland was -0.58%. \nIn 2011, Kerala had the highest literacy rate in India, at 94%. In the 2011 census, Bihar had the lowest literacy rate in India, with an overall literacy rate of 61.80%. \nAccording to the 2011 census, Kerala had the highest sex ratio in India, with 1084 females per 1000 males, The lowest sex ratio in India, according to the 2011 Census, was observed in Haryana, with 877 females per 1000 males."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The census is important to estimate the death rate and growth rate of the population of a country. According to the 2011 Census, Nagaland was the only Indian state to record a negative population growth rate. The decadal growth rate for Nagaland was -0.58%. </span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">In 2011, Kerala had the highest literacy rate in India, at 94%. In the 2011 census, Bihar had the lowest literacy rate in India, with an overall literacy rate of 61.80%.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">According to the 2011 census, Kerala had the highest sex ratio in India, with 1084 females per 1000 males,</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The lowest sex ratio in India, according to the 2011 Census, was observed in Haryana, with 877 females per 1000 males.</span></span></span></p>"
   },
   {
     "option_1": "Munshi Prem Chandra",
@@ -285,7 +285,7 @@
     "option_4": "Jay Shankar Prasad",
     "question": "Who is the author of ‘Adhe Adhure’?",
     "answer": "2",
-    "solution": "Mohan Rakesh's major plays include \"Ashadh Ka Ek Din\", \"Lahron Ke Rajhans\", and \"Aadhe-Adhure\". Mohan Rakesh has depicted social reality, human relationships, and the inconsistencies of modern society in his plays. \nSumitranandan Pant, known for his nature-inspired poetry, wrote numerous poems, including \"Gram Shree,\" \"Chidambara,\" \"Veena,\" \"Pallav,\". \nStories of Premchand- Poos Ki Raat, Kafan, Bade Ghar Ki Beti,Boodhi Kaaki etc. \nKamayani is a Hindi epic poem by Jaishankar Prasad."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Mohan Rakesh's major plays include \"Ashadh Ka Ek Din\", \"Lahron Ke Rajhans\", and \"Aadhe-Adhure\". Mohan Rakesh has depicted social reality, human relationships, and the inconsistencies of modern society in his plays.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Sumitranandan Pant, known for his nature-inspired poetry, wrote numerous poems, including \"Gram Shree,\" \"Chidambara,\" \"Veena,\" \"Pallav,\".</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Stories of Premchand- Poos Ki Raat, Kafan, Bade Ghar Ki Beti,Boodhi Kaaki etc.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Kamayani is a Hindi epic poem by Jaishankar Prasad.</span></span></span></p>"
   },
   {
     "option_1": "South America",
@@ -294,7 +294,7 @@
     "option_4": "Africa",
     "question": "Sahara desert found in which Continent?",
     "answer": "4",
-    "solution": "Deserts are arid regions characterized by extremely low rainfall, receiving less than 10 inches [25cm] annually. There are various types of deserts, including hot and dry, semi-arid, coastal, and cold deserts. The Sahara Desert is the world's largest hot desert and the third largest desert behind Antarctica and the Arctic. Located in North Africa, it covers large sections of the continent."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Deserts are arid regions characterized by extremely low rainfall, receiving less than 10 inches [25cm] annually.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">There are various types of deserts, including hot and dry, semi-arid, coastal, and cold deserts. The Sahara Desert is the world's largest hot desert and the third largest desert behind Antarctica and the Arctic. Located in North Africa, it covers large sections of the continent.</span></span></span></p>"
   },
   {
     "option_1": "Canada",
@@ -303,7 +303,7 @@
     "option_4": "India",
     "question": "The first Common wealth Games were held in 1930 at-",
     "answer": "1",
-    "solution": "The Commonwealth is a voluntary association of 56 countries which work together towards shared goals in democracy and development. Each year on 24th May, Commonwealth Day is commemorated. Commonwealth Day is observed on the birthday of Queen Victoria of England. The 1st Commonwealth Games were held in 1930 at Hamilton, Canada. After Olympics, Commonwealth Games is the second-largest sports festival in the world. These Games are held once in four years."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The Commonwealth is a voluntary association of 56 countries which work together towards shared goals in democracy and development. Each year on 24th May, Commonwealth Day is commemorated. Commonwealth Day is observed on the birthday of Queen Victoria of England. The 1st Commonwealth Games were held in 1930 at Hamilton, Canada. After Olympics, Commonwealth Games is the second-largest sports festival in the world. These Games are held once in four years.</span></span></span></p>"
   },
   {
     "option_1": "Article 79",
@@ -312,7 +312,7 @@
     "option_4": "Article 75",
     "question": "Which among the following Articles of the Indian Constitution provides for the Attorney General of India?",
     "answer": "3",
-    "solution": "The Attorney General of India is the highest law officer of the country, who serves as the chief legal advisor to the Central Government. Appointed by the President. Article 76 of the Indian Constitution deals with the Attorney General of India. Article 79 of the Constitution of India, concerning the \"Constitution of Parliament\". Article 72 of the Constitution of India gives the President the power to pardon and+ remit sentences. In Article 75 The Prime Minister shall be appointed by the President, and the other Ministers shall be appointed by the President on the advice of the Prime Minister."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The Attorney General of India is the highest law officer of the country, who serves as the chief legal advisor to the Central Government. Appointed by the President. Article 76 of the Indian Constitution deals with the Attorney General of India. Article 79 of the Constitution of India, concerning the \"Constitution of Parliament\".</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Article 72 of the Constitution of India gives the President the power to pardon and+ remit sentences.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">In Article 75 The Prime Minister shall be appointed by the President, and the other Ministers shall be appointed by the President on the advice of the Prime Minister.</span></span></span></p>"
   },
   {
     "option_1": "1665",
@@ -321,7 +321,7 @@
     "option_4": "1865",
     "question": "The Battle of Talikota was fought in the year?",
     "answer": "2",
-    "solution": "Vijayanagara Empire Founded in 1336, it was a powerful South Indian empire known for its cultural and economic prosperity. These were five Muslim-ruled states in the Deccan Plateau – Bijapur, Golconda, Ahmednagar, Berar and Bidar – which often clashed with one another. The Battle of Talikota was fought in 1565 between the Vijayanagara Empire and the allied forces of the Deccan Sultanates. The coalition of the Deccan Sultanates won, leading to the downfall of the Vijayanagara Emperor."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Vijayanagara Empire Founded in 1336, it was a powerful South Indian empire known for its cultural and economic prosperity. These were five Muslim-ruled states in the Deccan Plateau – Bijapur, Golconda, Ahmednagar, Berar and Bidar – which often clashed with one another. The Battle of Talikota was fought in 1565 between the Vijayanagara Empire and the allied forces of the Deccan Sultanates.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The coalition of the Deccan Sultanates won, leading to the downfall of the Vijayanagara Emperor.</span></span></span></p>"
   },
   {
     "option_1": "Greater Noida- Agra",
@@ -330,7 +330,7 @@
     "option_4": "Agra‌-Delhi",
     "question": "Which pair of cities does the Yamuna Expressway connect?",
     "answer": "1",
-    "solution": "Yamuna Expressway connects Greater Noida-Agra. Yamuna Expressway or Taj Expressway is 165 km long with 6 lanes. It was inaugurated in 2012 and is India's longest motorway. The project was a Public-Private Partnership initiative developed by the Jaypee Group. \nThe Ganga Expressway is a crucial infrastructure project in Uttar Pradesh, connecting Meerut to Prayagraj. It's a six-lane expressway spanning approximately 594 kilometers."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Yamuna Expressway connects Greater Noida-Agra. Yamuna Expressway or Taj Expressway is 165 km long with 6 lanes. It was inaugurated in 2012 and is India's longest motorway. The project was a Public-Private Partnership initiative developed by the Jaypee Group. </span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Ganga Expressway is a crucial infrastructure project in Uttar Pradesh, connecting Meerut to Prayagraj. It's a six-lane expressway spanning approximately 594 kilometers.</span></span></span></p>"
   },
   {
     "option_1": "Japan",
@@ -339,7 +339,7 @@
     "option_4": "Russia",
     "question": "2024, which country’s men’s team won 11th Thomas Cup by defeating Indonesia?",
     "answer": "2",
-    "solution": "Uber Cup and Thomas Cup are associated with badminton. Thomas Cup is the world championship for men's national teams, while Uber Cup is for women's national teams. China achieved a historic feat, triumphing in both Thomas and Uber Cup finals against Indonesia. The men's team secured their 11th Thomas Cup, while the women's team claimed their 16th Uber Cup title with a flawless victory."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Uber Cup and Thomas Cup are associated with badminton. Thomas Cup is the world championship for men's national teams, while Uber Cup is for women's national teams. China achieved a historic feat, triumphing in both Thomas and Uber Cup finals against Indonesia. The men's team secured their 11th Thomas Cup, while the women's team claimed their 16th Uber Cup title with a flawless victory.</span></span></span></p>"
   },
   {
     "option_1": "Tenth Schedule",
@@ -348,7 +348,7 @@
     "option_4": "Third Schedule",
     "question": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?",
     "answer": "1",
-    "solution": "The 10th Schedule of the Indian Constitution referred to as the 'Anti-Defection Law' was inserted by the 52nd Amendment [1985] to the Constitution. \nThe Fifth Schedule of the Indian Constitution deals with the administration and control of Scheduled Areas and Scheduled Tribes in any state except Assam, Meghalaya, Tripura, and Mizoram. \nThe 2nd Schedule of the Indian Constitution outlines the emoluments, allowances, and privileges of various high-ranking officials, including the President of India, Governors of states, Speaker and Deputy Speaker of the Lok Sabha among others. \nThe Third Schedule of the Indian Constitution outlines the forms of oaths or affirmations to be taken by various officials, including members of Parliament, Union Ministers, Supreme Court and High Court judges, and the Comptroller and Auditor General."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The 10th Schedule of the Indian Constitution referred to as the 'Anti-Defection Law' was inserted by the 52nd Amendment [1985] to the Constitution.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Fifth Schedule of the Indian Constitution deals with the administration and control of Scheduled Areas and Scheduled Tribes in any state except Assam, Meghalaya, Tripura, and Mizoram.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The 2nd Schedule of the Indian Constitution outlines the emoluments, allowances, and privileges of various high-ranking officials, including the President of India, Governors of states, Speaker and Deputy Speaker of the Lok Sabha among others.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Third Schedule of the Indian Constitution outlines the forms of oaths or affirmations to be taken by various officials, including members of Parliament, Union Ministers, Supreme Court and High Court judges, and the Comptroller and Auditor General.</span></span></span></p>"
   },
   {
     "option_1": "Martin Loother",
@@ -357,7 +357,7 @@
     "option_4": "Anne Wojcicki",
     "question": "Who will receive the Golden lion for life time Achievement award at the 2025 Venice film festival?",
     "answer": "2",
-    "solution": "The Golden Lion for Lifetime Achievement of the 82nd Venice International Film Festival of La Biennale di Venezia [August 27 – September 6, 2025] has been awarded to the great German director Werner Herzog. Martin Luther was a German theologian and religious reformer."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The Golden Lion for Lifetime Achievement of the 82nd Venice International Film Festival of La Biennale di Venezia [August 27 – September 6, 2025] has been awarded to the great German director Werner Herzog.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Martin Luther was a German theologian and religious reformer.</span></span></span></p>"
   },
   {
     "option_1": "Crust",
@@ -366,7 +366,7 @@
     "option_4": "Internal",
     "question": "Which layer of the Earth extends to a depth of about 2900 km?",
     "answer": "3",
-    "solution": "The Earth is composed of four main layers: the crust, the mantle, the outer core, and the inner core. The Earth's mantle layer extends to a depth of about 2900 km. It lies between the crust and the outer core. The upper part of the mantle is called the asthenosphere. The crust, along with the uppermost part of the mantle, makes up the lithosphere, which is divided into tectonic plates. The Earth's core is the extremely hot and dense center of the planet, made up of mostly iron and nickel."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The Earth is composed of four main layers: the crust, the mantle, the outer core, and the inner core. The Earth's mantle layer extends to a depth of about 2900 km. It lies between the crust and the outer core. The upper part of the mantle is called the asthenosphere.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The crust, along with the uppermost part of the mantle, makes up the lithosphere, which is divided into tectonic plates.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The Earth's core is the extremely hot and dense center of the planet, made up of mostly iron and nickel.</span></span></span></p>"
   },
   {
     "option_1": "SBI",
@@ -375,7 +375,7 @@
     "option_4": "SEBI",
     "question": "Which body is the regulator of the Money Market in the country?",
     "answer": "3",
-    "solution": "The Reserve Bank of India was established on April 1, 1935 in accordance with the provisions of the Reserve Bank of India Act, 1934. The Reserve Bank of India [RBI] is the primary regulator of the money market in India. State Bank of India [SBI] is India's largest public sector bank, offering a wide range of financial services and products. UNDP works to alleviate poverty and reduce inequalities, providing support to countries in developing strategies to combat it. the Securities and Exchange Board of India, is a statutory body established to protect investor interests, regulate the securities market."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The Reserve Bank of India was established on April 1, 1935 in accordance with the provisions of the Reserve Bank of India Act, 1934. The Reserve Bank of India [RBI] is the primary regulator of the money market in India.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">State Bank of India [SBI] is India's largest public sector bank, offering a wide range of financial services and products.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">UNDP works to alleviate poverty and reduce inequalities, providing support to countries in developing strategies to combat it.</span></span></span> <span style=\"color: #000000;"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">the Securities and Exchange Board of India, is a statutory body established to protect investor interests, regulate the securities market.</span></span></span></p>"
   },
   {
     "option_1": "Schleiden & Schwann",
@@ -384,7 +384,7 @@
     "option_4": "None of these",
     "question": "Who has presented the cell theory?",
     "answer": "1",
-    "solution": "The cell theory is a foundational concept in biology, stating that all living organisms are composed of one or more cells, and that the cell is the basic unit of structure and function in living things. The cell theory was primarily developed by German scientists Schleiden and Schwann in 1838. The cell was first discovered and named by Robert Hooke in 1665. Robert Brown is famous for his discovery of the cell nucleus in 1831."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The cell theory is a foundational concept in biology, stating that all living organisms are composed of one or more cells, and that the cell is the basic unit of structure and function in living things. The cell theory was primarily developed by German scientists Schleiden and Schwann in 1838.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The cell was first discovered and named by Robert Hooke in 1665. Robert Brown is famous for his discovery of the cell nucleus in 1831.</span></span></span></p>"
   },
   {
     "option_1": "159th position",
@@ -393,7 +393,7 @@
     "option_4": "93th position",
     "question": "What position has India got in the world Press Freedom Index 2024?",
     "answer": "1",
-    "solution": "In the 2024 World Press Freedom Index, India was ranked 159th out of 180 countries. India is currently ranked as the 5th largest economy globally in 2025. Climate Change Performance Index 2025, Indias rank is 10th."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> In the 2024 World Press Freedom Index, India was ranked 159th out of 180 countries. India is currently ranked as the 5th largest economy globally in 2025.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Climate Change Performance Index 2025, Indias rank is 10th.</span></span></span></p>"
   },
   {
     "option_1": "Potassium Sulphate",
@@ -402,16 +402,16 @@
     "option_4": "Sodium hydroxide",
     "question": "What is the chemical name of Saltpetre?",
     "answer": "2",
-    "solution": "Potassium nitrate [KNO3] is also called Saltpetre or Nitre. Potassium sulphate, commonly known as potash sulphate, the chemical formula is K2SO4. NH4Cl is an inorganic compound with the chemical name Ammonium Chloride. Sodium hydroxide, also known as lye and caustic soda, is an inorganic compound with the formula NaOH."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Potassium nitrate [KNO3] is also called Saltpetre or Nitre.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Potassium sulphate, commonly known as potash sulphate, the chemical formula is K2SO4.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">NH4Cl is an inorganic compound with the chemical name Ammonium Chloride.</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Sodium hydroxide, also known as lye and caustic soda, is an inorganic compound with the formula NaOH.</span></span></span></p>"
   },
   {
     "option_1": "A – 3, B – 2, C – 1, D – 4",
     "option_2": "A – 4, B – 3, C – 2, D – 1",
     "option_3": "A – 3, B – 4, C – 2, D – 1",
     "option_4": "A – 1, B – 3, C – 4, D – 2",
-    "question": "Match the following?\n| River | Tributary |\n|---|---|\n| A) Godavari | 1) Seonath |\n| B) Krishna | 2) Tungabhadra |\n| C) Maha Nadi | 3) Indravati |\n| D) Yamuna | 4) Chambal |",
+    "question": "Match the following?<br><br>| River | Tributary |<br>|---|---|<br>| A) Godavari | 1) Seonath |<br>| B) Krishna | 2) Tungabhadra |<br>| C) Maha Nadi | 3) Indravati |<br>| D) Yamuna | 4) Chambal |",
     "answer": "3",
-    "solution": "Tributary of Godavari is Indravati, tributary of Krishna is Tungabhadra, tributary of Mahanadi is Seonath and tributary of Yamuna is Chambal."
+    "solution": "<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> Tributary of Godavari is Indravati, tributary of Krishna is Tungabhadra, tributary of Mahanadi is Seonath and tributary of Yamuna is Chambal.</span></span></p>"
   },
   {
     "option_1": "2025",
@@ -420,7 +420,7 @@
     "option_4": "2020",
     "question": "When did the Viksit Bharat by 2047 scheme start?",
     "answer": "2",
-    "solution": "September 14, 2024 \"Viksit Bharat 2047\" is an initiative aimed at realizing Indias aspiration. Prime Minister’s vision is to actively involve the youth of the country in formulation of national plans, priorities and goals of the country. Economic growth, technological upgradation, infrastructure development, social empowerment, and sustainability are the criteria of this programme."
+    "solution": "<p><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> September 14, 2024 \"Viksit Bharat 2047\" is an initiative aimed at realizing Indias aspiration.</span></span> <span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">Prime Minister’s vision is to actively involve the youth of the country in formulation of national plans, priorities and goals of the country. Economic growth, technological upgradation, infrastructure development, social empowerment, and sustainability are the criteria of this programme.</span></span></p>"
   },
   {
     "option_1": "Na2B4O7",
@@ -429,7 +429,7 @@
     "option_4": "C2H5",
     "question": "What is the chemical formula of Alcohol?",
     "answer": "2",
-    "solution": "C2H5OH is the chemical formula of Alcohol. The general formula for the alcohols is CnH2n+1OH [where n is the number of carbon atoms in the molecule]. Borax is sodium tetraborate decahydrate [Na2B4O7 10H2O]. The chemical formula for glucose is C6H12O6. C2H5 represents the ethyl group."
+    "solution": "<p><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> C</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">H</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">5</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">OH is the chemical formula of Alcohol. The general formula for the alcohols is CnH2n+1OH [where n is the number of carbon atoms in the molecule]. Borax is sodium tetraborate decahydrate [Na2B4O7 10H2O].</span></span></span> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The chemical formula for glucose is C</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">6</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">H</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">12</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">O</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">6</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">. C</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">2</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">H</span></span></span><span style=\"color: #000000;\"><sub><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">5</span></span></sub></span><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> represents the ethyl group.</span></span></span><br /><br /></p>"
   },
   {
     "option_1": "Force",
@@ -438,7 +438,7 @@
     "option_4": "Energy",
     "question": "Newton/kg is a unit of:",
     "answer": "3",
-    "solution": "The rate of change of velocity with respect to time is called acceleration. Acceleration is a vector quantity because it has both magnitude and direction. The unit \"newton per kilogram\" [N/kg or N kg⁻¹] is the unit of acceleration. \nThe SI unit of force is the Newton [N]. \nThe SI unit of both work and Energy are the joule [J]."
+    "solution": "<p><a name=\"_l1nkobanoqg5\"></a> <span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\"> The rate of change of velocity with respect to time is called acceleration. Acceleration is a vector quantity because it has both magnitude and direction. The unit \"newton per kilogram\" [N/kg or N kg⁻¹] is the unit of acceleration.</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The SI unit of force is the Newton [N].</span></span></span> <br /><span style=\"color: #000000;\"><span style=\"font-family: 'Cambria Math',serif;\"><span style=\"font-size: 19px;\">The SI unit of both work and Energy are the joule [J].</span></span></span></p>"
   },
   {
     "option_1": "Rajiv Kumar",
@@ -447,6 +447,6 @@
     "option_4": "Shakti Kant Das",
     "question": "Who is the present chairman of NITI Aayog?",
     "answer": "3",
-    "solution": "Planning Commission was replaced by a new institution – NITI Aayog on January 1, 2015. PM Narendra Modi is the present chairman of NITI Aayog. Shri B.V.R. Subrahmanyam is joined as Chief Executive Officer of NITI Aayog. Shri Suman Bery is currently Vice Chairperson, NITI Aayog."
+    "solution": "<p><span style=\"font-size: 14.0pt; line-height: 115%; font-family: 'Cambria Math','serif'; mso-fareast-font-family: 'Cambria Math'; mso-bidi-font-family: 'Cambria Math'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Planning Commission was replaced by a new institution – NITI Aayog on January 1, 2015. PM Narendra Modi is the present chairman of NITI Aayog.</span> <span style=\"font-size: 14.0pt; line-height: 115%; font-family: 'Cambria Math','serif'; mso-fareast-font-family: 'Cambria Math'; mso-bidi-font-family: 'Cambria Math'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Shri B.V.R. Subrahmanyam is joined as Chief Executive Officer of NITI Aayog.</span> <span style=\"font-size: 14.0pt; line-height: 115%; font-family: 'Cambria Math','serif'; mso-fareast-font-family: 'Cambria Math'; mso-bidi-font-family: 'Cambria Math'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Shri Suman Bery is currently Vice Chairperson, NITI Aayog.</span></p>"
   }
 ]
