@@ -60,7 +60,7 @@
     "option_4": "797 : 679",
     "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.]",
     "answer": "2",
-    "solution": "<strong>Logic:</strong> Difference between numbers is 118.<br><br>A) 727 - 609 = 118<br>B) 191 - 177 = <strong>14</strong> (≠ 118)<br>C) 373 - 255 = 118<br>D) 797 - 679 = 118<br><br>Option B is the odd one out."
+    "solution": "<strong>Logic:</strong> 1st no – 2nd no = 118<br>727 - 609 = 118<br>191 - 177 = <strong>14</strong> (≠ 118)<br>373 – 255 = 118<br>797 - 679 = 118<br><strong>Option B is odd.</strong>"
   },
   {
     "option_1": "Herd",
@@ -177,7 +177,7 @@
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/683451_1750010196232.png",
     "question": "Which of the four option figures will complete the following figure series?<br>https://cms-cdn.classplus.co/parserImages/production/508687_1750010195803.png",
     "answer": "2",
-    "solution": "https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png<br>In the first step, the position of first two figures interchange. In the second step, the position of last two figures interchanged. And this interchanging process is continued.<br>The combination will be option 2."
+    "solution": "<strong>Logic:</strong><br>Step 1: First two figures interchange positions.<br>Step 2: Last two figures interchange positions.<br>This process continues.<br><br>Correct Answer Figure:<br>https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png"
   },
   {
     "option_1": "zznzmzn",
@@ -222,7 +222,7 @@
     "option_4": "i. 37, ii. 40",
     "question": "https://cms-cdn.classplus.co/parserImages/production/359412_1750010196652.png<br>In the diagram, circle represents players, triangle represents doctors, rectangle represents females.<br>Then,<br>i. Find how many females neither doctor nor players.<br>ii. Find how many females are players but not doctor?",
     "answer": "1",
-    "solution": "i. Number of females outside triangle and circle is <strong>32</strong>.<br>ii. Number of females who are in circle but not in triangle is <strong>23</strong>."
+    "solution": "i. Females (Rectangle) outside Circle and Triangle = <strong>32</strong><br>ii. Females (Rectangle) inside Circle (Players) but outside Triangle (Doctors) = <strong>23</strong>"
   },
   {
     "option_1": "Battle of Chandabar",
@@ -231,7 +231,7 @@
     "option_4": "Battle of Chanderi",
     "question": "Which battle has led to the foundation of Mughal Empire?",
     "answer": "2",
-    "solution": "The <strong>First Battle of Panipat in 1526</strong>, where Babur defeated Ibrahim Lodi, marked the beginning of the Mughal Empire in India. The battle demonstrated the power of gunpowder weapons."
+    "solution": "The <strong>First Battle of Panipat (1526)</strong> between Babur and Ibrahim Lodi led to the foundation of the Mughal Empire in India."
   },
   {
     "option_1": "Lord Curzon",
@@ -240,7 +240,7 @@
     "option_4": "Warren Hastings",
     "question": "Who is considered as father of Indian Archaeology?",
     "answer": "3",
-    "solution": "<strong>Sir Alexander Cunningham</strong>, the first Director-General of the Archaeological Survey of India, is considered the \"father of Indian archaeology\"."
+    "solution": "<strong>Alexander Cunningham</strong> is considered the Father of Indian Archaeology. He was the first Director-General of the Archaeological Survey of India (ASI)."
   },
   {
     "option_1": "Lord Mayo",
@@ -249,7 +249,7 @@
     "option_4": "Lord Dufferin",
     "question": "Who among the following was the Viceroy of India during the formation of the Indian National Congress?",
     "answer": "4",
-    "solution": "<strong>Lord Dufferin</strong> was the Viceroy of India during the formation of the Indian National Congress in 1885."
+    "solution": "<strong>Lord Dufferin</strong> was the Viceroy during the formation of the Indian National Congress in 1885."
   },
   {
     "option_1": "Rouf",
@@ -258,7 +258,7 @@
     "option_4": "Garba",
     "question": "Which folk dance is associated with Jammu and Kashmir?",
     "answer": "1",
-    "solution": "<strong>Rouf</strong> is a traditional folk dance associated with Jammu and Kashmir.<br>Jhora: Uttarakhand<br>Matki: Madhya Pradesh<br>Garba: Gujarat"
+    "solution": "<strong>Rouf</strong> is a traditional folk dance from Jammu and Kashmir, primarily performed by women."
   },
   {
     "option_1": "Shivkumar Sharma",
@@ -267,7 +267,7 @@
     "option_4": "Pandit Uday Shankar",
     "question": "Which Bharat Ratna awardee was famous as a Karnatic classical vocalist?",
     "answer": "2",
-    "solution": "<strong>M.S. Subbulakshmi</strong> was a renowned Carnatic classical vocalist and the first musician to be awarded the Bharat Ratna (1998)."
+    "solution": "<strong>M.S. Subbulakshmi</strong> was a renowned Carnatic classical vocalist. She was the first musician to be awarded the Bharat Ratna (1998)."
   },
   {
     "option_1": "Nagaland",
@@ -276,7 +276,7 @@
     "option_4": "Uttrakhand",
     "question": "According to Census 2011, which of the following States had negative population growth?",
     "answer": "1",
-    "solution": "According to the 2011 Census, <strong>Nagaland</strong> was the only Indian state to record a negative population growth rate (-0.58%)."
+    "solution": "According to Census 2011, <strong>Nagaland</strong> was the only state that recorded a negative population growth rate (-0.58%)."
   },
   {
     "option_1": "Munshi Prem Chandra",
@@ -285,7 +285,7 @@
     "option_4": "Jay Shankar Prasad",
     "question": "Who is the author of ‘Adhe Adhure’?",
     "answer": "2",
-    "solution": "<strong>Mohan Rakesh</strong> is the author of the Hindi play 'Adhe Adhure'."
+    "solution": "<strong>Mohan Rakesh</strong> is the author of the Hindi play 'Adhe Adhure' (Halfway House)."
   },
   {
     "option_1": "South America",
@@ -294,7 +294,7 @@
     "option_4": "Africa",
     "question": "Sahara desert found in which Continent?",
     "answer": "4",
-    "solution": "The Sahara Desert is the world's largest hot desert and is located in <strong>Africa</strong>."
+    "solution": "The Sahara Desert is located in the continent of <strong>Africa</strong>. It is the largest hot desert in the world."
   },
   {
     "option_1": "Canada",
@@ -303,7 +303,7 @@
     "option_4": "India",
     "question": "The first Common wealth Games were held in 1930 at-",
     "answer": "1",
-    "solution": "The 1st Commonwealth Games were held in 1930 at <strong>Hamilton, Canada</strong>."
+    "solution": "The first Commonwealth Games were held in 1930 in <strong>Hamilton, Canada</strong>."
   },
   {
     "option_1": "Article 79",
@@ -312,7 +312,7 @@
     "option_4": "Article 75",
     "question": "Which among the following Articles of the Indian Constitution provides for the Attorney General of India?",
     "answer": "3",
-    "solution": "<strong>Article 76</strong> of the Indian Constitution deals with the Attorney General of India."
+    "solution": "<strong>Article 76</strong> of the Indian Constitution provides for the office of the Attorney General of India."
   },
   {
     "option_1": "1665",
@@ -321,7 +321,7 @@
     "option_4": "1865",
     "question": "The Battle of Talikota was fought in the year?",
     "answer": "2",
-    "solution": "The Battle of Talikota was fought in <strong>1565</strong> between the Vijayanagara Empire and the Deccan Sultanates."
+    "solution": "The Battle of Talikota was fought in <strong>1565</strong>. It led to the decline of the Vijayanagara Empire."
   },
   {
     "option_1": "Greater Noida- Agra",
@@ -339,7 +339,7 @@
     "option_4": "Russia",
     "question": "2024, which country’s men’s team won 11th Thomas Cup by defeating Indonesia?",
     "answer": "2",
-    "solution": "<strong>China's</strong> men's team won the 11th Thomas Cup title in 2024 by defeating Indonesia."
+    "solution": "<strong>China's</strong> men's team won the 11th Thomas Cup in 2024 by defeating Indonesia."
   },
   {
     "option_1": "Tenth Schedule",
@@ -348,7 +348,7 @@
     "option_4": "Third Schedule",
     "question": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?",
     "answer": "1",
-    "solution": "The <strong>Tenth Schedule</strong> contains provisions regarding anti-defection (Anti-Defection Law), added by the 52nd Amendment (1985)."
+    "solution": "The <strong>Tenth Schedule</strong> contains provisions regarding anti-defection. It was added by the 52nd Amendment Act, 1985."
   },
   {
     "option_1": "Martin Loother",
@@ -357,7 +357,7 @@
     "option_4": "Anne Wojcicki",
     "question": "Who will receive the Golden lion for life time Achievement award at the 2025 Venice film festival?",
     "answer": "2",
-    "solution": "German director <strong>Werner Herzog</strong> will receive the Golden Lion for Lifetime Achievement at the 2025 Venice Film Festival."
+    "solution": "German filmmaker <strong>Werner Herzog</strong> will receive the Golden Lion for Lifetime Achievement at the 2025 Venice Film Festival."
   },
   {
     "option_1": "Crust",
@@ -366,7 +366,7 @@
     "option_4": "Internal",
     "question": "Which layer of the Earth extends to a depth of about 2900 km?",
     "answer": "3",
-    "solution": "The <strong>Mantle</strong> extends to a depth of about 2900 km, lying between the crust and the core."
+    "solution": "The <strong>Mantle</strong> extends from the base of the crust to a depth of about 2900 km."
   },
   {
     "option_1": "SBI",
@@ -384,7 +384,7 @@
     "option_4": "None of these",
     "question": "Who has presented the cell theory?",
     "answer": "1",
-    "solution": "The cell theory was primarily developed by <strong>Schleiden and Schwann</strong> in 1838-39."
+    "solution": "The Cell Theory was presented by <strong>Schleiden and Schwann</strong> in 1839."
   },
   {
     "option_1": "159th position",
@@ -402,7 +402,7 @@
     "option_4": "Sodium hydroxide",
     "question": "What is the chemical name of Saltpetre?",
     "answer": "2",
-    "solution": "Potassium nitrate (KNO₃) is commonly called <strong>Saltpetre</strong> or Nitre."
+    "solution": "Saltpetre is the common name for <strong>Potassium Nitrate (KNO₃)</strong>."
   },
   {
     "option_1": "A – 3, B – 2, C – 1, D – 4",
@@ -411,7 +411,7 @@
     "option_4": "A – 1, B – 3, C – 4, D – 2",
     "question": "Match the following?<br><br><table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'><tr><td><strong>River</strong></td><td><strong>Tributary</strong></td></tr><tr><td>A) Godavari</td><td>1) Seonath</td></tr><tr><td>B) Krishna</td><td>2) Tungabhadra</td></tr><tr><td>C) Maha Nadi</td><td>3) Indravati</td></tr><tr><td>D) Yamuna</td><td>4) Chambal</td></tr></table>",
     "answer": "3",
-    "solution": "Correct Matches:<br>Godavari → Indravati (3)<br>Krishna → Tungabhadra (2)<br>Mahanadi → Seonath (1)<br>Yamuna → Chambal (4)"
+    "solution": "Correct Matches:<br>A) Godavari → 3) Indravati<br>B) Krishna → 2) Tungabhadra<br>C) Mahanadi → 1) Seonath<br>D) Yamuna → 4) Chambal"
   },
   {
     "option_1": "2025",
@@ -420,7 +420,7 @@
     "option_4": "2020",
     "question": "When did the Viksit Bharat by 2047 scheme start?",
     "answer": "2",
-    "solution": "\"Viksit Bharat 2047\" initiative was actively pushed in <strong>2024</strong>."
+    "solution": "The 'Viksit Bharat @2047' initiative was actively launched and promoted in <strong>2024</strong>."
   },
   {
     "option_1": "Na2B4O7",
@@ -429,7 +429,7 @@
     "option_4": "C2H5",
     "question": "What is the chemical formula of Alcohol?",
     "answer": "2",
-    "solution": "<strong>C₂H₅OH</strong> is the chemical formula of Ethyl Alcohol (Ethanol)."
+    "solution": "The chemical formula for Ethyl Alcohol (Ethanol) is <strong>C₂H₅OH</strong>."
   },
   {
     "option_1": "Force",
@@ -438,7 +438,7 @@
     "option_4": "Energy",
     "question": "Newton/kg is a unit of:",
     "answer": "3",
-    "solution": "Newton/kg = Force/Mass = <strong>Acceleration</strong>."
+    "solution": "Newton (Force) = Mass (kg) × Acceleration<br>Acceleration = Force / Mass = N/kg<br>Thus, N/kg is a unit of <strong>Acceleration</strong>."
   },
   {
     "option_1": "Rajiv Kumar",
@@ -447,10 +447,8 @@
     "option_4": "Shakti Kant Das",
     "question": "Who is the present chairman of NITI Aayog?",
     "answer": "3",
-    "solution": "The Prime Minister is the ex-officio Chairman of NITI Aayog. Currently, it is <strong>PM Narendra Modi</strong>."
-  }
-]
-[
+    "solution": "The Prime Minister of India is the ex-officio Chairman of NITI Aayog. Currently, it is <strong>PM Narendra Modi</strong>."
+  },
   {
     "option_1": "765",
     "option_2": "774",
