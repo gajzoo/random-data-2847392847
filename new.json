@@ -4,9 +4,9 @@
     "option_2": "40",
     "option_3": "29",
     "option_4": "33",
-    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.<br>[5, 2, 8]<br>[13, 5, 37]<br>[14, 3, ?]<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
+    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.<br>[5, 2, 8]<br>[13, 5, 37]<br>[14, 3, ?]<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.]",
     "answer": "1",
-    "solution": "[5,2,8]→5+2² =5+4 -1 = 8<br>[13,5,37]→13+5²=13+25 -1 = 37<br>[14,3,?]→14+3²=14 +9 -1 = 22"
+    "solution": "<strong>Logic:</strong> (1st Number) + (2nd Number)² - 1 = 3rd Number<br><br><strong>Row 1:</strong> 5 + 2² - 1 = 5 + 4 - 1 = 8<br><strong>Row 2:</strong> 13 + 5² - 1 = 13 + 25 - 1 = 37<br><strong>Row 3:</strong> 14 + 3² - 1 = 14 + 9 - 1 = <strong>22</strong>"
   },
   {
     "option_1": "64 and 36",
@@ -15,7 +15,7 @@
     "option_4": "32 and 36",
     "question": "Which two numbers should be interchanged to make the given equation correct?<br>64 + 36 ÷ 3 × 9 – 32 = 44",
     "answer": "3",
-    "solution": "64 + 36 ÷ 9 × 3 - 32=44<br>64 + 4 × 3 -32 = 44<br>64 + 12 -32 =44<br>76 -32 = 44<br>44 = 44<br>LHS = RHS"
+    "solution": "Given Equation: 64 + 36 ÷ 3 × 9 – 32 = 44<br>Interchanging 3 and 9:<br>= 64 + 36 ÷ 9 × 3 - 32<br>= 64 + 4 × 3 - 32<br>= 64 + 12 - 32<br>= 76 - 32<br>= <strong>44</strong><br>LHS = RHS"
   },
   {
     "option_1": "72",
@@ -24,16 +24,16 @@
     "option_4": "144",
     "question": "In a certain code language, ‘LILY’ is coded as ‘67’ and ‘LOTUS’ is coded as ’138’. How will ‘TULIP’ be coded in that language?",
     "answer": "4",
-    "solution": "<strong>LILY:</strong><br>L = 12, I = 9 (opposite 18), L = 12, Y = 25<br>12+18+12+25= 67<br>67×1 = 67 (1 is the number of vowels)<br><br><strong>LOTUS:</strong><br>L = 12, O = 15 (opposite 12), T = 20, U = 21 (opposite 6), S = 19<br>12+12+20+6+19 = 69<br>69×2=138 (2 is the number of vowels)<br><br><strong>Apply the Pattern to \"TULIP\"</strong><br>T = 20, U = 21 (opposite 6), L = 12, I = 9 (opposite 18), P = 16<br>20+6+12+18+16=72<br><strong>72×2=144</strong> (2 is the number of vowels)"
+    "solution": "<strong>LILY:</strong> (L=12, I=9 (Opposite R=18), L=12, Y=25)<br>Sum: 12 + 18 + 12 + 25 = 67<br>67 × 1 (1 vowel) = 67<br><br><strong>LOTUS:</strong> (L=12, O=15 (Opposite L=12), T=20, U=21 (Opposite F=6), S=19)<br>Sum: 12 + 12 + 20 + 6 + 19 = 69<br>69 × 2 (2 vowels) = 138<br><br><strong>TULIP:</strong> (T=20, U=21 (Opposite F=6), L=12, I=9 (Opposite R=18), P=16)<br>Sum: 20 + 6 + 12 + 18 + 16 = 72<br>72 × 2 (2 vowels) = <strong>144</strong>"
   },
   {
     "option_1": "P is the mother of R.",
     "option_2": "H is the paternal grandfather of M.",
     "option_3": "S is the mother – in - law of R.",
     "option_4": "U is the son of S",
-    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br><br>Hence, if we consider S + Z – R ÷ H – P + U × M, then which of the following is NOT correct?",
+    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br><br>Hence, if we consider <strong>S + Z – R ÷ H – P + U × M</strong>, then which of the following is NOT correct?",
     "answer": "4",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png\"><br>Clearly, U is not son of S."
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png<br>From the diagram constructed based on the equation, we can see the family tree.<br><strong>Conclusion:</strong> U is the brother-in-law of R, not the son of S.<br>Therefore, Option 4 is incorrect."
   },
   {
     "option_1": "D",
@@ -42,7 +42,7 @@
     "option_4": "A",
     "question": "Two positions of the same dice are shown. Which letter will be on the face opposite to the face with the letter F?<br>https://cms-cdn.classplus.co/parserImages/production/322305_1750010194085.png",
     "answer": "3",
-    "solution": "B can be seen on both the dices with other 4 letters i.e. A, C, D and E. Only F is hidden, which must be opposite to B."
+    "solution": "By comparing the two positions shown in the image:<br>Letter B is adjacent to A, C, D, and E.<br>The only letter hidden is F.<br>Therefore, <strong>F must be opposite to B.</strong>"
   },
   {
     "option_1": "RVEK",
@@ -51,7 +51,7 @@
     "option_4": "CGTZ",
     "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.",
     "answer": "2",
-    "solution": "Logic: Reverse letter pairs + gap logic.<br><img src=\"https://cms-cdn.classplus.co/parserImages/7467af67-714f-4475-b0c4-7eed0b5c661a.png\">"
+    "solution": "<strong>Logic:</strong> Analyzing the gap between letters.<br><br>https://cms-cdn.classplus.co/parserImages/7467af67-714f-4475-b0c4-7eed0b5c661a.png<br>Option 2 (NRIP) does not follow the same pattern as the others."
   },
   {
     "option_1": "727 : 609",
@@ -60,7 +60,7 @@
     "option_4": "797 : 679",
     "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.]",
     "answer": "2",
-    "solution": "<strong>Logic:</strong> 1st no – 2nd no = 118<br>727 - 609 = 118<br>191 - 177 = <strong>14</strong> (≠118)<br>373 – 255 = 118<br>797 - 679 = 118<br><strong>Option B is odd.</strong>"
+    "solution": "<strong>Logic:</strong> Difference between numbers is 118.<br><br>A) 727 - 609 = 118<br>B) 191 - 177 = <strong>14</strong> (≠ 118)<br>C) 373 - 255 = 118<br>D) 797 - 679 = 118<br><br>Option B is the odd one out."
   },
   {
     "option_1": "Herd",
@@ -69,7 +69,7 @@
     "option_4": "Bull",
     "question": "Select the option that is related to the third word in the same way as the second word is related to the first word.<br><br>Mare : Stallion :: Cow : ?",
     "answer": "4",
-    "solution": "<strong>Logic:</strong> The second word is the opposite gender of the first word.<br><br>Mare : Stallion → Stallion is a male horse and Mare is female horse.<br>Cow : <strong>Bull</strong> → Bull is a male cattle and Cow is female cattle."
+    "solution": "<strong>Logic:</strong> Female : Male (Gender Pair)<br><br>Mare (Female Horse) : Stallion (Male Horse)<br>Cow (Female Cattle) : <strong>Bull</strong> (Male Cattle)"
   },
   {
     "option_1": "191",
@@ -78,7 +78,7 @@
     "option_4": "156",
     "question": "Which of the following numbers will replace the question mark ‘?’ in the given series?<br>17, 20, 30, 45, 71, 106, ?",
     "answer": "4",
-    "solution": "17 + [2² - 1] = 17 + 3 = 20<br>20 + [3² + 1] = 20 + 10 = 30<br>30 + [4² – 1] = 30 + 15 = 45<br>45 + [5² + 1] = 45 + 26 = 71<br>71 + [6² – 1] = 71 + 35 = 106<br>106 + [7² + 1] = 106 + 50 = <strong>156</strong>"
+    "solution": "The pattern is adding consecutive squares with alternating +1/-1:<br><br>17 + (2² - 1) = 20<br>20 + (3² + 1) = 30<br>30 + (4² - 1) = 45<br>45 + (5² + 1) = 71<br>71 + (6² - 1) = 106<br>106 + (7² + 1) = 106 + 50 = <strong>156</strong>"
   },
   {
     "option_1": "Integrity",
@@ -87,7 +87,7 @@
     "option_4": "Truthfulness",
     "question": "Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.",
     "answer": "2",
-    "solution": "<strong>Integrity, Honesty, and Truthfulness</strong> are synonyms related to moral character.<br><strong>Joviality</strong> has a different meaning (cheerfulness)."
+    "solution": "<strong>Integrity, Honesty, and Truthfulness</strong> are all synonyms relating to moral character and truth.<br><strong>Joviality</strong> means a cheerful and friendly mood, which is unrelated to the others."
   },
   {
     "option_1": "JRFQ, LUIW",
@@ -96,7 +96,7 @@
     "option_4": "JREQ, LUIW",
     "question": "Which of the following letter-clusters will replace the question mark ‘?’ in the given series?<br>ZCKR, BFOW, DISB, FLWG, HOAL, ?, ?",
     "answer": "3",
-    "solution": "The series follows a specific pattern of addition.<br><img src=\"https://cms-cdn.classplus.co/parserImages/b2a2baf5-ee26-44f2-8af9-01165c65939b.png\">"
+    "solution": "The pattern follows a specific increment for each letter position.<br><br>https://cms-cdn.classplus.co/parserImages/b2a2baf5-ee26-44f2-8af9-01165c65939b.png"
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/148879_1750010194514.png",
@@ -105,7 +105,7 @@
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/187084_1750010194867.png",
     "question": "Select the option figure in which the given figure is embedded as its part [rotation NOT allowed].<br>https://cms-cdn.classplus.co/parserImages/production/229263_1750010194411.png",
     "answer": "2",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/794223_1750010194967.png\">"
+    "solution": "The question figure is embedded in Option 2.<br><br>https://cms-cdn.classplus.co/parserImages/production/794223_1750010194967.png"
   },
   {
     "option_1": "16 : 8",
@@ -114,7 +114,7 @@
     "option_4": "25 : 8",
     "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?",
     "answer": "1",
-    "solution": "<strong>Logic:</strong> {Number}² : {Number+3}<br><br>4 (2²) : 2+3 = 5<br>9 (3²) : 3+3 = 6<br>25 (5²) : 5+3 = 8<br>16 (4²) : 4+3 = 7 (But given 8)<br><strong>Option A is odd.</strong>"
+    "solution": "<strong>Logic:</strong> (Number)² : (Number + 3)<br><br>4 : 5 → 2² : 2+3<br>9 : 6 → 3² : 3+3<br>25 : 8 → 5² : 5+3<br><strong>16 : 8</strong> → 4² : 4+3 should be 7, but it is 8.<br>Thus, Option A is the odd one."
   },
   {
     "option_1": "Only conclusion I follows",
@@ -123,7 +123,7 @@
     "option_4": "Only conclusion I and II follow",
     "question": "Three statements are given, followed by two conclusions numbered I and II. Decide which of the conclusions logically follow(s) from the statements?<br><br><strong>Statements:</strong><br>All tablets are laptops.<br>All laptops are mobiles.<br>Some mobiles are camera.<br><br><strong>Conclusions:</strong><br>I: Some mobiles are tablets.<br>II: All tablets are mobiles.<br>III: Some tablets are camera.",
     "answer": "4",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/421353_1750010195071.png\"><br>I. Yes<br>II. Yes<br>III. No"
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/421353_1750010195071.png<br><br>I. <strong>True:</strong> Since all tablets are mobiles, some mobiles must be tablets.<br>II. <strong>True:</strong> Tablets are inside Laptops, which are inside Mobiles.<br>III. <strong>False:</strong> There is no direct relation between tablets and cameras."
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/145133_1750010195274.png",
@@ -132,7 +132,7 @@
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/608531_1750010195601.png",
     "question": "Select the correct mirror image of the given figure when the mirror is placed at PQ as shown below.<br>https://cms-cdn.classplus.co/parserImages/production/714847_1750010195171.png",
     "answer": "1",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/689907_1750010195707.png\">"
+    "solution": "The correct mirror image is shown below:<br><br>https://cms-cdn.classplus.co/parserImages/production/689907_1750010195707.png"
   },
   {
     "option_1": "Wednesday",
@@ -141,7 +141,7 @@
     "option_4": "Saturday",
     "question": "If 19 July 2000 was a Wednesday, then what would be the day of the week on 15 June 2012?",
     "answer": "3",
-    "solution": "We will count the total number of days from 19 July 2000 to 15 June 2012.<br><br><strong>Years Breakdown:</strong><br>From 19 July 2000 to 19 July 2011 → 11 years<br>From 19 July 2011 to 15 June 2012 → Nearly 1 year<br><br><strong>Leap Years:</strong> 2004, 2008, 2012 (3)<br><strong>Normal Years:</strong> 9<br><br><strong>Days Calculation (July 2011 to June 2012):</strong><br>Total odd days calculated results in 4 extra days.<br>Wednesday + 4 days = <strong>Friday</strong>."
+    "solution": "We count the odd days from 19 July 2000 to 15 June 2012.<br><br><strong>Years (2000-2011):</strong> 11 years. Leap years: 2004, 2008, 2012 (3). Normal years: 9.<br><strong>Months (July 2011 - June 2012):</strong><br>July(12) + Aug(3) + Sep(2) + Oct(3) + Nov(2) + Dec(3) + Jan(3) + Feb(1) + Mar(3) + Apr(2) + May(3) + June(15)<br><br>Total Odd Days = 4.<br>Wednesday + 4 = <strong>Friday</strong>."
   },
   {
     "option_1": "5, 3, 1, 6, 4, 2",
@@ -150,7 +150,7 @@
     "option_4": "3, 5, 1, 2, 4, 6",
     "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.<br>1. Cardinal<br>2. Cartography<br>3. Cardiac<br>4. Carrot<br>5. Callous<br>6. Careless",
     "answer": "1",
-    "solution": "Dictionary Order:<br>1. Callous (5)<br>2. Cardiac (3)<br>3. Cardinal (1)<br>4. Careless (6)<br>5. Carrot (4)<br>6. Cartography (2)<br><br><strong>Correct Order: 5, 3, 1, 6, 4, 2</strong>"
+    "solution": "<strong>Dictionary Order:</strong><br>1. Callous (5)<br>2. Cardiac (3)<br>3. Cardinal (1)<br>4. Careless (6)<br>5. Carrot (4)<br>6. Cartography (2)<br><br>Correct Sequence: <strong>5, 3, 1, 6, 4, 2</strong>"
   },
   {
     "option_1": "Decline",
@@ -159,16 +159,16 @@
     "option_4": "Flourish",
     "question": "‘Wilt’ is related to ‘Droop’ in the same way as ‘Thrive’ is related to ?",
     "answer": "4",
-    "solution": "<strong>Logic:</strong> Synonyms<br>Wilt is the synonym of Droop.<br>Thrive is the synonym of <strong>Flourish</strong>."
+    "solution": "<strong>Logic:</strong> Synonyms<br>Wilt is to Droop (become weak).<br>Thrive is to <strong>Flourish</strong> (grow well)."
   },
   {
     "option_1": "28",
     "option_2": "20",
     "option_3": "26",
     "option_4": "24",
-    "question": "In the given matrix, which option will replace the question mark ‘?’ ?<br><br>| 7 | 35 | 13 |<br>|---|---|---|<br>| 9 | 24 | 14 |<br>| 13 | 120 | ? |",
+    "question": "In the given matrix, which option will replace the question mark ‘?’ ?<br><br><table border='1' style='border-collapse: collapse; width: 200px; text-align: center;'><tr><td>7</td><td>35</td><td>13</td></tr><tr><td>9</td><td>24</td><td>14</td></tr><tr><td>13</td><td>120</td><td>?</td></tr></table>",
     "answer": "4",
-    "solution": "<strong>Pattern:</strong> [3rd number - 1st number]² - 1 = 2nd number<br><br>Row 1: [13-7]² -1 = 6² - 1 = 36 - 1 = 35<br>Row 2: [14-9]² -1 = 5² - 1 = 25 - 1 = 24<br>Row 3: [? – 13]² - 1 = 120<br>[? – 13]² = 121<br>? - 13 = 11<br><strong>? = 24</strong>"
+    "solution": "<strong>Logic: (3rd Number - 1st Number)² - 1 = 2nd Number</strong><br><br>Row 1: (13 - 7)² - 1 = 6² - 1 = 35<br>Row 2: (14 - 9)² - 1 = 5² - 1 = 24<br>Row 3: (? - 13)² - 1 = 120<br>⇒ (? - 13)² = 121<br>⇒ ? - 13 = 11<br>⇒ ? = 24"
   },
   {
     "option_1": "https://cms-cdn.classplus.co/parserImages/production/840377_1750010195901.png",
@@ -177,7 +177,7 @@
     "option_4": "https://cms-cdn.classplus.co/parserImages/production/683451_1750010196232.png",
     "question": "Which of the four option figures will complete the following figure series?<br>https://cms-cdn.classplus.co/parserImages/production/508687_1750010195803.png",
     "answer": "2",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png\"><br>In the first step, the position of first two figures interchange. In the second step, the position of last two figures interchanged. And this interchanging process is continued.<br>The combination will be option 2."
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png<br>In the first step, the position of first two figures interchange. In the second step, the position of last two figures interchanged. And this interchanging process is continued.<br>The combination will be option 2."
   },
   {
     "option_1": "zznzmzn",
@@ -186,7 +186,7 @@
     "option_4": "znzmznn",
     "question": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series?<br>_ _ m _ oznz_ _ no_ _ zzm",
     "answer": "1",
-    "solution": "<strong>Pattern:</strong> zzmnozn<br>Breakdown: <strong>zz</strong>m<strong>n</strong>ozn / <strong>z</strong>zmno<strong>zn</strong> / zzm<br>Missing letters: <strong>zznzmzn</strong>"
+    "solution": "<strong>Pattern:</strong> zzmnozn<br>Sequence: <strong>zz</strong>m<strong>n</strong>ozn / <strong>z</strong>zmno<strong>zn</strong> / zzm...<br>Filled letters: <strong>zznzmzn</strong>"
   },
   {
     "option_1": "28",
@@ -195,7 +195,7 @@
     "option_4": "35",
     "question": "In a class of 75 students, 40 students participate in Cricket, 28 students participate in Hockey, and 12 students participate in both Cricket and Hockey, whereas 19 students do not participate in any of the two sports. How many students participate only in Hockey?",
     "answer": "3",
-    "solution": "Total = 75, None = 19<br>Players = 75 - 19 = 56<br>Both = 12, Hockey = 28<br>Only Hockey = Total Hockey - Both<br>Only Hockey = 28 - 12 = <strong>16</strong>"
+    "solution": "Total Students = 75<br>None = 19<br>Students playing at least one = 75 - 19 = 56<br>Cricket (C) = 40, Hockey (H) = 28, Both = 12<br><br>Only Hockey = Total Hockey - Both<br>Only Hockey = 28 - 12 = <strong>16</strong>"
   },
   {
     "option_1": "ZBSUT",
@@ -204,7 +204,7 @@
     "option_4": "DEUVT",
     "question": "In a certain coded language, ‘BANGED’ is coded as ‘JJKQCC’ and ‘TILTS’ is coded as ‘XXOKU’. What is the code for ‘STRAY’ in the same coded language?",
     "answer": "4",
-    "solution": "<img src=\"https://cms-cdn.classplus.co/parserImages/production/908256_1750010196436.png\"><br><img src=\"https://cms-cdn.classplus.co/parserImages/production/556517_1750010196486.png\">"
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/908256_1750010196436.png<br>https://cms-cdn.classplus.co/parserImages/production/556517_1750010196486.png"
   },
   {
     "option_1": "÷, -, ×, =, +",
@@ -213,7 +213,7 @@
     "option_4": "÷, ×, -, +,=",
     "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the equation.<br>221 * 17 * 12 * 130 * 24 * 50",
     "answer": "4",
-    "solution": "Option D: 221 ÷ 17 × 12 − 130 + 24 = 50<br>13 × 12 – 130 + 24 = 50<br>156 – 130 + 24 = 50<br>26 + 24 = 50"
+    "solution": "Option D: 221 ÷ 17 × 12 − 130 + 24 = 50<br>13 × 12 – 130 + 24 = 50<br>156 – 130 + 24 = 50<br>26 + 24 = 50<br>50 = 50"
   },
   {
     "option_1": "i. 32, ii. 23",
@@ -409,7 +409,7 @@
     "option_2": "A – 4, B – 3, C – 2, D – 1",
     "option_3": "A – 3, B – 4, C – 2, D – 1",
     "option_4": "A – 1, B – 3, C – 4, D – 2",
-    "question": "Match the following?<br><br>| River | Tributary |<br>|---|---|<br>| A) Godavari | 1) Seonath |<br>| B) Krishna | 2) Tungabhadra |<br>| C) Maha Nadi | 3) Indravati |<br>| D) Yamuna | 4) Chambal |",
+    "question": "Match the following?<br><br><table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'><tr><td><strong>River</strong></td><td><strong>Tributary</strong></td></tr><tr><td>A) Godavari</td><td>1) Seonath</td></tr><tr><td>B) Krishna</td><td>2) Tungabhadra</td></tr><tr><td>C) Maha Nadi</td><td>3) Indravati</td></tr><tr><td>D) Yamuna</td><td>4) Chambal</td></tr></table>",
     "answer": "3",
     "solution": "Correct Matches:<br>Godavari → Indravati (3)<br>Krishna → Tungabhadra (2)<br>Mahanadi → Seonath (1)<br>Yamuna → Chambal (4)"
   },
