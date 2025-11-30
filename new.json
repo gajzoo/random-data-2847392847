@@ -6,7 +6,7 @@
     "option_4": "33",
     "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.<br>[5, 2, 8]<br>[13, 5, 37]<br>[14, 3, ?]<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed]",
     "answer": "1",
-    "solution": "[5,2,8]→5+22 =5+4 -1 = 8<br>[13,5,37]→13+52=13+25 -1 = 37<br>[14,3,?]→14+32=14 +9 -1 = 22"
+    "solution": "[5,2,8]→5+2^2 =5+4 -1 = 8<br>[13,5,37]→13+5^2=13+25 -1 = 37<br>[14,3,?]→14+3^2=14 +9 -1 = 22"
   },
   {
     "option_1": "64 and 36",
@@ -31,7 +31,7 @@
     "option_2": "H is the paternal grandfather of M.",
     "option_3": "S is the mother – in - law of R.",
     "option_4": "U is the son of S",
-    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br><br>Hence, if we consider S + Z – R ÷ H – P + U × M, then which of the following is NOT correct?",
+    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br>Hence, if we consider S + Z – R ÷ H – P + U × M, then which of the following is NOT correct?",
     "answer": "4",
     "solution": "https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png<br>Clearly, U is not son of S."
   },
@@ -58,7 +58,7 @@
     "option_2": "191 : 177",
     "option_3": "373 : 255",
     "option_4": "797 : 679",
-    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
+    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is NOT allowed]",
     "answer": "2",
     "solution": "Logic: 1st no – 2nd no = 118<br>727- 609 = 118<br>191- 177 ≠118<br>373 – 255 = 118<br>797 - 679= 118<br>Opt B."
   },
@@ -78,7 +78,7 @@
     "option_4": "156",
     "question": "Which of the following numbers will replace the question mark ‘?’ in the given series?<br>17, 20, 30, 45, 71, 106, ?",
     "answer": "4",
-    "solution": "17 + [2^2 -1] = 17 + 3 = 20<br>20 + [3^2 + 1] = 20 + 10 = 30<br>30 + [4^2 – 1] = 30 + 15 = 45<br>45 + [5^2 + 1] = 45 + 26 = 71<br>71 + [6^2 – 1] = 71 + 35 = 106<br>106 + [7^2 + 1] = 106 + 50 = 156"
+    "solution": "17 + [2^2 -1] = 17 + 3 = 20<br>20 + [3^2 + 1] = 20 + 10 = 30<br>30 + [4^2 – 1] = 30 + 15 = 45<br>45 + [5^2 + 1] = 45 + 26 = 71 <br>71 + [6^2 – 1] = 71 + 35 = 106<br>106 + [7^2 + 1] = 106 + 50 = 156"
   },
   {
     "option_1": "Integrity",
@@ -447,6 +447,6 @@
     "option_4": "Shakti Kant Das",
     "question": "Who is the present chairman of NITI Aayog?",
     "answer": "3",
-    "solution": "<p>Planning Commission was replaced by a new institution – NITI Aayog on January 1, 2015. PM Narendra Modi is the present chairman of NITI Aayog. Shri B.V.R. Subrahmanyam is joined as Chief Executive Officer of NITI Aayog. Shri Suman Bery is currently Vice Chairperson, NITI Aayog.</p>"
+    "solution": "Planning Commission was replaced by a new institution – NITI Aayog on January 1, 2015. PM Narendra Modi is the present chairman of NITI Aayog. Shri B.V.R. Subrahmanyam is joined as Chief Executive Officer of NITI Aayog. Shri Suman Bery is currently Vice Chairperson, NITI Aayog."
   }
 ]
