@@ -1,0 +1,902 @@
+[
+  {
+    "option_1": "1180",
+    "option_2": "1185",
+    "option_3": "1172",
+    "option_4": "1182",
+    "question": "The average value of five numbers is 612. If the average of the first two numbers is 418 and the average of the last two numbers is 521, then what is the third number?",
+    "answer": "4",
+    "solution": "पाँच संख्याओं का कुल योग = 5 × 612 = 3060\n\nप्रथम दो संख्याओं का योग = 2 × 418 = 836\n\nअंतिम दो संख्याओं का योग = 2 × 521 = 1042\n\n∴ तीसरी संख्या = 3060 – (836 + 1042)\n\n= 3060 – 1878 = 1182"
+  },
+  {
+    "option_1": "5",
+    "option_2": "10",
+    "option_3": "8",
+    "option_4": "15",
+    "question": "By selling 12 organes for a rupee, a man loses 20% How many for a rupee must he sell to gain 20%?",
+    "answer": "3",
+    "solution": "माना 1 रू . में x नारंगी बेचने चाहिए।\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_92e1022d0784b4f7.gif\n\nअतः 1 रु . में 8 नारंगी बेचना होगा ।"
+  },
+  {
+    "option_1": "173",
+    "option_2": "146",
+    "option_3": "186",
+    "option_4": "195",
+    "question": "Solve\n96 + [47 + { 93 ÷ 3 – (15 + 80 ÷ 10) ÷ 23}]",
+    "answer": "1",
+    "solution": "= 96 + [47 + {93 ÷ 3 − (15 + 80 ÷ 10) ÷ 23}]\n\n=96 + [47 + {93 + 3 – (15 + 8) + 23}]\n\n=96 + [47 + {31 – 23 – 23}]\n\n= 96 + [47 + {31−1}]\n\n=96 + [47 + 30]\n\n= 96 + 77\n\n= 173"
+  },
+  {
+    "option_1": "178.3",
+    "option_2": "208.3",
+    "option_3": "198.3",
+    "option_4": "188.3",
+    "question": "The average weight of 269 fertilizer bags is 69 kg. If the weight of the box (in which the fertilizer bags are kept) is included, the calculated average weight of each fertilizer bag increases by 0.7 kg. What is the weight of the box? (in kg)\n269 69 kg ( ) , 0.7 kg ? ( kg )",
+    "answer": "4",
+    "solution": "269 उर्वरक बैगों का कुल वजन = 269 × 69 = 18561\n\nबॉक्स में उर्वरक बैग शामिल करने पर कुल वजन = 269 × 69.7\n\n= 18749.3\n\nअतः बॉक्स का वजन = कुल वजन – उर्वरक बैग का कुल वजन\n\n= 18749.3 – 18561 = 188.3 kg"
+  },
+  {
+    "option_1": "12",
+    "option_2": "10",
+    "option_3": "10.5",
+    "option_4": "12.5",
+    "question": "In △ ABC, AB = 10 cm, BD = 6 cm and DC = 7.5 cm. The line bisecting ∠ A cuts the BC line internally at point D. What is the length of CA?\n△ ABC , AB = 10 BD = 6 DC = 7.5 A BC D CA ?",
+    "answer": "4",
+    "solution": "प्रश्नानुसार △ ABC में\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_a81c87e21610a0d5.png\n\nसमद्विभाजक प्रमेय से ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_d0bd5588841fe67e.gif"
+  },
+  {
+    "option_1": "200",
+    "option_2": "320",
+    "option_3": "160",
+    "option_4": "240",
+    "question": "The difference of the cubes of any two natural numbers is 6272, while the positive difference of the two given numbers is 8. What will be the product of the two given numbers?",
+    "answer": "4",
+    "solution": "प्रश्नानुसार ,\n\nx 3 – y 3 = 6272\n\nतथा\n\nx – y = 8\n\nx 3 – y 3 = (x – y) 3 – 3xy (x – y)\n\n6272 = 8 3 + 3xy (8)\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_6ad9bce83dc4e226.gif\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_fa9a9a6f89b69c14.gif\n\nxy = 240\n\nअतः दो संख्याओं का गुणनफल 240 होगा।"
+  },
+  {
+    "option_1": "74%",
+    "option_2": "72.5%",
+    "option_3": "73%",
+    "option_4": "74.5%",
+    "question": "Directions:\nThe following table shows the percentage of marks obtained by six students in four different subjects.\n\nAnswer the following questions based on the table.\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_7653a1e49e69cffa.png\n\nWhat is the overall percentage of marks obtained by student T?",
+    "answer": "4",
+    "solution": "एक विद्यार्थी का पूर्णांक = 200\n\nT का प्राप्तांक = (32 + 35 + 34 + 48) = 149\n\nप्राप्तांक का प्रतिशत = https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_7d714b77f743afa3.gif × 100 = 74.5%"
+  },
+  {
+    "option_1": "₹10,800",
+    "option_2": "₹9,800",
+    "option_3": "₹ 9,200",
+    "option_4": "₹6,400",
+    "question": "A sum of ₹17,200 is lent at simple interest in two parts for 2 years at 8% per annum and 10% per annum respectively. If the total interest received after 2 years is ₹3,008, then what is the amount (in ₹) lent at 8% per annum?",
+    "answer": "1",
+    "solution": "दिया है -\n\nP = ₹17200\n\nR 1 = 8% वार्षिक\n\nR 2 = 10% वार्षिक\n\nSI = ₹3008\n\nT = 2 वर्ष\n\nमाना 8% की दर पर दी गयी उधार धनराशि = ₹ x\n\n∴ 10% की दर पर दी गई धनराशि = ₹ (17200 –x)\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_b116e94fa85475f0.gif"
+  },
+  {
+    "option_1": "4kg",
+    "option_2": "30 kg",
+    "option_3": "5 kg",
+    "option_4": "8 kg",
+    "question": "A mixture of 20 kg of spirit and water contains 10% water. How much water must be added to this mixture to raise the percentage of water to 25%?",
+    "answer": "1",
+    "solution": "माना मिलाए गए पानी की मात्रा = x kg\n\nप्रारम्भिक मिश्रण में स्पिरिट की मात्रा = नये मिश्रण में स्पिरिट की मात्रा\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_72b9d4ed350e2d17.gif"
+  },
+  {
+    "option_1": "3 : 4",
+    "option_2": "1 : 2",
+    "option_3": "16 : 25",
+    "option_4": "25 : 16",
+    "question": "Given that △ ABCD ∼ △ DEF, if BC = 12.5 cm and EF = 10 cm, then find the ratio of the areas of △ ABC and △ DEF.\n\nABCD ∼ △ DEF, BC = 12.5 cm EF = 10 cm , ABC DEF",
+    "answer": "4",
+    "solution": ""
+  },
+  {
+    "option_1": "98cm",
+    "option_2": "70 cm",
+    "option_3": "78 cm",
+    "option_4": "91 cm",
+    "question": "The circumference is 481 cm more than the radius of the circle. What is the radius of this circle? [Suppose https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_4c41c77309eb07e0.gif ]",
+    "answer": "4",
+    "solution": ""
+  },
+  {
+    "option_1": "10,000 .",
+    "option_2": "6,000 .",
+    "option_3": "8,000 .",
+    "option_4": "6,600 .",
+    "question": "The salaries of Mukesh, Yogesh and Suresh are in the ratio of 3 : 4 : 5. Their salaries were increased by 10%, 25% and 20% respectively. If the total amount of their revised salaries is Rs 28,600, what was the original salary of Mukesh?",
+    "answer": "2",
+    "solution": "मुकेश : योगेश : सुरेश = 3 : 4:5\n\nअतः मुकेश का वेतन = 3x\n\nयोगेश का वेतन = 4x\n\nसुरेश का वेतन = 5x\n\nवृद्धि के बाद तीनों का वेतन\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_888f14006d7d3b0f.gif\n\nअतः मुकेश का मूल वेतन https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_45968052e7eeab79.gif\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_abd7bbd894e8998.gif"
+  },
+  {
+    "option_1": "15 /15 seconds",
+    "option_2": "20 /20 seconds",
+    "option_3": "25 /25 seconds",
+    "option_4": "26 /26 seconds",
+    "question": "Lalita can walk at 6 m/s or cycle at 25 m/s. Using both modes of transport, she takes 45 seconds to cover a distance of 650 m. How long would Lalita have cycled?",
+    "answer": "2",
+    "solution": "माना ललिता x मीटर पैदल चलती है तब साइकिल द्वारा ( 650 – x ) मीटर चलेगी।\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_97ed77da292ffa2f.gif\n\nतब साइकिल द्वारा चली गयी दूरी https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_6d2e4bce101b5b19.gif मीटर अभीष्ट समय https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_13bd8ac8abbd42b8.gif सेकेंड"
+  },
+  {
+    "option_1": "13",
+    "option_2": "10",
+    "option_3": "12",
+    "option_4": "14",
+    "question": "A 24 cm long chord is at a distance of 5 cm from the centre of a circle. Find the radius (in cm) of the circle.",
+    "answer": "1",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_5a531a96a8c174bd.png\n\nत्रिभुज https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_f16bcd7e8c17a1fa.gif में पाइथागोरस प्रमेय से ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_268cc86471278925.gif"
+  },
+  {
+    "option_1": "16",
+    "option_2": "12",
+    "option_3": "9",
+    "option_4": "8",
+    "question": "A and B start together and move towards each other from places X and Y respectively. After meeting each other at a certain point on the route, A and B take 3.2 hours and 1.8 hours to reach Y and X respectively. If the speed of B was 12 km/h, find the speed of A (in km/h).\nA B X Y A B Y X 3.2 1.8 B 12 km/h , A (km/h )",
+    "answer": "3",
+    "solution": "दोनों के मिलने के बाद Y तथा X पर पहुचने में उनके चालों का अनुपात\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_7a334dd313420b77.gif\n\nजहाँ A की चाल https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_90d6abf032f26b8b.gif\n\nB की चाल https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_c56e67bb884eb073.gif\n\nA द्वारा लिया गया समय https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_169d220fdb5deff2.gif घंटा\n\nB द्वारा लिया गया समय https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_5cd0c1732cf7fb4e.gif घंटा\n\nसभी का मान सूत्र में रखने पर -\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_6ed1a68e57e0b110.gif"
+  },
+  {
+    "option_1": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_6c9a3b7aa9d12def.gif",
+    "option_2": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_8a11177082d90139.gif",
+    "option_3": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_90eb4974e3147025.gif",
+    "option_4": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_7638837c79a44ef5.gif",
+    "question": "If A is 95% of B, then what percent of A is B?",
+    "answer": "2",
+    "solution": "प्रश्नानुसार ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_2394f12efdd9eb5b.gif\n\nअभीष्ट प्रतिशत https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_ca3e167db11a9e18.gif\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_ec82c09848878b5c.gif"
+  },
+  {
+    "option_1": "1",
+    "option_2": "2",
+    "option_3": "3",
+    "option_4": "4",
+    "question": "If then what is the value of x ?",
+    "answer": "3",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_31cbded2ca25550d.gif"
+  },
+  {
+    "option_1": "81",
+    "option_2": "65",
+    "option_3": "86",
+    "option_4": "98",
+    "question": "A shopkeeper has 3 different varieties of oil. 713 liters of the first variety, 759 liters of the second variety and 782 liters of the third variety. Find the minimum possible number of bottles of the same size that can be filled with different varieties of oil without mixing them?",
+    "answer": "4",
+    "solution": "713, 759, 782 का म . स . प .\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_2b7e216195ed94c4.png\n\nम . स . https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_2071b10699da9338.gif\n\nसमान आकार के बोतलों की कम से कम संभावित संख्या\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_129883c45c81a9dd.gif"
+  },
+  {
+    "option_1": "17.39%",
+    "option_2": "36.34%",
+    "option_3": "11.11%",
+    "option_4": "15.65%",
+    "question": "Directions:\nStudy the following bar graph and the given information to answer the following questions:\n\nSales of 3 different companies selling T-shirts from 2006 to 2009 are given.\n\nWhat is the percentage decrease in sales for Brand X T-shirts in 2009 as compared to 2007?\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_447799f388e51e7d.gif",
+    "answer": "1",
+    "solution": "2007 में x टी शर्ट की कुल बिक्री = 1150\n\n2009 में x टी शर्ट की कुल बिक्री = 950\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_c8f31f4a057d5ce0.gif"
+  },
+  {
+    "option_1": "2:5",
+    "option_2": "1:2",
+    "option_3": "1:3",
+    "option_4": "2:3",
+    "question": "The cost of one litre of milk is ₹40. Water is added to the milk and the mixture is sold for ₹30 per litre. Find the ratio of water and milk in the mixture.",
+    "answer": "3",
+    "solution": "मिश्रण के नियम से -\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_392047232a0d1555.png\n\nअतः मिश्रण में पानी और दूध का अनुपात = 1:3"
+  },
+  {
+    "option_1": "8:13",
+    "option_2": "1:4",
+    "option_3": "1:8",
+    "option_4": "8:1",
+    "question": "Find the ratio of the volumes of two spheres whose curved surface areas are in the ratio 1:4.",
+    "answer": "3",
+    "solution": ""
+  },
+  {
+    "option_1": "15360",
+    "option_2": "307200",
+    "option_3": "30720",
+    "option_4": "153600",
+    "question": "The ratio between the length and the breadth of rectangular park is 3 : 2 If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. meters) is",
+    "answer": "4",
+    "solution": "माना पार्क की लम्बाई = 3 x\n\nतथा चौड़ाई = 2x\n\nप्रश्नानुसार ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_421b44b654602878.gif\n\nअतः आयत का क्षेत्रफल https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_7f56ac6a6960ffeb.gif\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_a86539ec09d52402.gif"
+  },
+  {
+    "option_1": "6",
+    "option_2": "4",
+    "option_3": "2",
+    "option_4": "8",
+    "question": "When a number is divided by 17, the remainder is 6. When the square of the same number is divided by 17, find the remainder obtained.",
+    "answer": "3",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_46fb555e39c57f71.gif\n\nअतः विकल्प (c) सही है ।"
+  },
+  {
+    "option_1": "Toddler toys",
+    "option_2": "Musical toys",
+    "option_3": "Soft toys",
+    "option_4": "Learning toys",
+    "question": "The following pie chart shows the sales data of a toy manufacturing company \"XYZ\" during the financial year 2017-18\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_f2e69bfc7833e39c.gif\n\nThe total revenue from the sale of toys was ₹3872000/-. Which type of toy earned the highest revenue for the company?",
+    "answer": "2",
+    "solution": "कुल राजस्व https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_453170d600bdf16c.gif\n\nअधिकतम राजस्व https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_696228c58f37a078.gif\n\nअत : म्यूजिकल टॉय का राजस्व अधिकतम था।"
+  },
+  {
+    "option_1": "60 / / 60 km/h",
+    "option_2": "70 ./ /70 km/h",
+    "option_3": "80 ./ /80 km/h",
+    "option_4": "75 ./ /75 km/h",
+    "question": "A 145 m long train crosses a 655 m long bridge in 36 seconds. What is the speed of the train?",
+    "answer": "3",
+    "solution": "माना ट्रेन की चाल x मी ./ से . है ।\n\nप्रश्नानुसार ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749795649971_html_a0061385256fe858.gif"
+  },
+  {
+    "option_1": "– ÷ / – and ÷",
+    "option_2": "+ × / + and ×",
+    "option_3": "÷ × / ÷ and ×",
+    "option_4": "+ / + and –",
+    "question": "Which of the following interchangeable two signs will make the given equation correct?\n162÷3+5×6-2=274",
+    "answer": "2",
+    "solution": "162 ÷ 3 + 5 × 6 – 2 = 274\nविकल्प (b) द्वारा + और x को आपस में बदलने पर -\n\n⇒ 162 ÷ 3 × 5 + 6 – 2 = 274\n\n⇒ 54 × 5 + 6 – 2 = 274\n\n⇒ 270 + 6 – 2 = 274\n\n⇒ 274 = 274 (L.H.S. = R.H.S.)"
+  },
+  {
+    "option_1": "Swadeshi",
+    "option_2": "Foreign",
+    "option_3": "Banjara",
+    "option_4": "Honest",
+    "question": "Select the relative word for the second pair from the given options which will replace the question mark (?) following the relationship of the first pair :\nBanjara : Resident : : Foreigner : ........",
+    "answer": "1",
+    "solution": "जिस प्रकार बंजारा का विलोम निवासी होता है। उसी प्रकार विदेशी का विलोम स्वदेशी होता है ।"
+  },
+  {
+    "option_1": "20",
+    "option_2": "21",
+    "option_3": "26",
+    "option_4": "25",
+    "question": "How many squares are there in the given figure?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_9ee483efb3c82126.png",
+    "answer": "3",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_6f6d5cc7662f346f.png\n\nएक अंक से मिलकर बने वर्गों की संख्या = 9\n\nचार अंकों से मिलकर बने वर्गों की संख्या = (1,2,5,6)(5,6,7,8)=2\n\nअतः कुल वर्गों की संख्या = 9 + 2 + 5 + 5 + 5 = 26"
+  },
+  {
+    "option_1": "CDE",
+    "option_2": "AIGD",
+    "option_3": "JBKC",
+    "option_4": "HIGF",
+    "question": "In the following figure, the quadrilateral represents painters, the triangle represents men, the circle represents accountants and the rectangle represents Americans. Which set of letters represents Americans who are not men?\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_63d235a64b7f4fef.png",
+    "answer": "4",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_811e2768366afeab.png\n\nअक्षरों का वह सेट जो उन अमेरिकियों को दर्शाता है जो पुरुष नहीं है।\n\n→ HIGF"
+  },
+  {
+    "option_1": "Lungs : Tuberculosis",
+    "option_2": "Iron : Anaemia",
+    "option_3": "Heart: Cardiovascular",
+    "option_4": "Stomach: Blindness",
+    "question": "Select the word pair that best represents a similar relationship to the one expressed in\nthe pair of words given below. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)\n\nCalcium : Osteomalacia",
+    "answer": "2",
+    "solution": ""
+  },
+  {
+    "option_1": "8 – 7 – 45",
+    "option_2": "11 – 13 – 77",
+    "option_3": "9 – 12 – 26",
+    "option_4": "5 – 9 – 18",
+    "question": "Select the triad in which the numbers are related in the same way as the numbers of the following triads.\n4 – 5 – 14\n\n7 – 8 – 20\n\n( Note: Operations must be performed on whole numbers without breaking the number into its constituent digits. Ex. 13 - Operations such as addition / subtraction / multiplication of 13 etc. can be performed on number 13. Breaking 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed. )\n\n4 – 5 – 14\n\n7 – 8 – 20",
+    "answer": "3",
+    "solution": "जिस प्रकार 4 – 5 – 14 ⇒ (4 + 5) + 5 = 14\n\nतथा ,\n\n7 – 8 – 20 ⇒ (7 + 8) + 5 = 20\n\nउसी प्रकार विकल्प (c) से\n\n9 −12 − 26 ⇒ (9 + 12) + 5 = 26\n\nअतः विकल्प (c) सही है।"
+  },
+  {
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "c",
+    "option_4": "d",
+    "question": "Select the figure that will replace the question mark (?) in the following series.\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_a988706983ecc23f.png",
+    "answer": "3",
+    "solution": "श्रृंखला में अगली आकृति विकल्प (c) में दी गई आकृति होगी।"
+  },
+  {
+    "option_1": "P, J P is the mother of J.",
+    "option_2": "K, M K is the father of M.",
+    "option_3": "R, T R is the daughter of T.",
+    "option_4": "Z, J Z is the father of J.",
+    "question": "'A + B' means 'A is the wife of B'.\n'A - B' means 'A is the father of B'.\n\n'A × B' means 'A is the son of B'.\n\n'A ÷ B' means 'A is the brother of B'.\n\nIf P + K – R + J ÷ M × T + Z then which of the following statements is correct?\n\n'A + B' 'A, B\n\n'A - B' 'A, B '\n\n'A × B' 'A, B '\n\n'A ÷ B' 'A, B\n\nP + K – R + J ÷ M × T + Z - ?",
+    "answer": "4",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_9660e474aadd092.png"
+  },
+  {
+    "option_1": "I II Both conclusions I and II follow.",
+    "option_2": "II Neither conclusion I nor conclusion II follows.",
+    "option_3": "II Only conclusion II follows.",
+    "option_4": "I Only conclusion I follows.",
+    "question": "In the question below are given some statements and some conclusions are given based on those statements. You have to assume that the given statements are true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\nStatements:\n\nAll bottles are bags.\n\nSome bags are pencils.\n\n, Some pencils are sharpeners.\n\nConclusions:\n\nI. , Some sharpeners are bottles.\n\nII. , Some bottles are pencils.",
+    "answer": "2",
+    "solution": "कथनानुसार वेन आरेख बनाने पर –\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_91ea88c65101fcfa.png\n\nउपर्युक्त वेन आरेख से स्पष्ट है कि न तो निष्कर्ष (I) और न तो निष्कर्ष (II) अनुसरण करता है।"
+  },
+  {
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "c",
+    "option_4": "d",
+    "question": "Select the correct mirror image of the given combination, when the mirror is placed at MN, as shown below.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_ad152b347eaf9ea0.png",
+    "answer": "3",
+    "solution": "दी गई चित्र का दर्पण प्रतिबिम्ब विकल्प (c) में दी गई आकृति है\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_3df22b63c9b8a8cb.png"
+  },
+  {
+    "option_1": "138 : 38",
+    "option_2": "429 : 94",
+    "option_3": "241 : 21",
+    "option_4": "93 : 39",
+    "question": "Select the relative numbers for the second pair from the given options that will replace the question mark (?) following the same relationship as the first pair.\n357: 73: : ?",
+    "answer": "2",
+    "solution": "जिस प्रकार ,\n\n357:73\n\nउसी प्रकार विकल्प (b) से ,\n\n429 : 94"
+  },
+  {
+    "option_1": "P",
+    "option_2": "M",
+    "option_3": "N",
+    "option_4": "R",
+    "question": "If all the vowels in the word MISAPPROPRIATION are dropped, then the letters of the word are arranged alphabetically, then which letter will be 3rd to the left of 4th letter from the right?\nMISAPPROPRIATION , , - ?",
+    "answer": "1",
+    "solution": "दिया है , MISAPPROPRIATION\n\nप्रश्नानुसार ,\n\nसभी स्वर हटाने के बाद अक्षरों को वर्णानुक्रम में व्यवस्थित करने पर ,\n\nM N P P P R R S T\n\nअतः दाईं ओर से चौथे अक्षर के बाईं ओर तीसरा अक्षर P होगा ।"
+  },
+  {
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "c",
+    "option_4": "d",
+    "question": "Select the option figure in which the given figure is embedded. (Rotation is not allowed.)\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_49e192decd87de35.png",
+    "answer": "2",
+    "solution": "विकल्प आकृतियों के अवलोकन से स्पष्ट है कि प्रश्न आकृति विकल्प (b) की आकृति में अन्तर्निहित है।"
+  },
+  {
+    "option_1": "545",
+    "option_2": "560",
+    "option_3": "575",
+    "option_4": "555",
+    "question": "Find the next number in the series.\n5, 4, 10, 27, 112, ?",
+    "answer": "4",
+    "solution": "दी गयी श्रेणी का क्रम निम्नवत् है –\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_a7e363db76d8fbc4.png\n\nअतः ? = 555"
+  },
+  {
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "c",
+    "option_4": "d",
+    "question": "A transparent sheet with a pattern is given in the following figure. Identify from the options how the pattern will appear when the transparent sheet is folded at the middle horizontal line.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_f3302456b19ee236.png",
+    "answer": "4",
+    "solution": "https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_c0d7ffaa1532b205.png"
+  },
+  {
+    "option_1": "4 : 27",
+    "option_2": "16 : 125",
+    "option_3": "49 : 218",
+    "option_4": "9 : 64",
+    "question": "Out of the following four number-pairs, three pairs are alike in some way and one pair is different. Choose the different number pair.",
+    "answer": "3",
+    "solution": "विकल्पों को जाँचने पर -\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_215925c30da3f5d9.png"
+  },
+  {
+    "option_1": "36 48 / 36 and 48",
+    "option_2": "48 15 /48 and 15",
+    "option_3": "2 6 /2 and 6",
+    "option_4": "6 14 / 6 and 14",
+    "question": "Which two numbers should be interchanged to balance the following equation?\n36 ÷ 6 – 15 × 2 + 48 = 14",
+    "answer": "1",
+    "solution": "समीकरण 36 ÷ 6 – 15 × 2 + 48 = 14\n\nविकल्प (a) द्वारा 36 और 48 को परस्पर बदलने पर -\n\n48 ÷ 6 – 15 × 2 + 36 = 14\n\n= 8 – 15 × 2 + 36 = 14\n\n= 8 – 30+36= 14\n\n44 – 30 = 14\n\n14 = 14\n\nL.H.S = R.H.S"
+  },
+  {
+    "option_1": "a",
+    "option_2": "b",
+    "option_3": "c",
+    "option_4": "d",
+    "question": "The sequence of folding a piece of paper and the way the folded paper is cut is shown in the following figures. How will the given figures look when opened.\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_fd684dd1bf068b5e.png",
+    "answer": "1",
+    "solution": "कागज के टुकड़े को दिये गये क्रम में मोड़कर काटने के बाद खोलने पर विकल्प (a) के अनुसार दिखाई देगा ।"
+  },
+  {
+    "option_1": "neat",
+    "option_2": "floor",
+    "option_3": "clean",
+    "option_4": "bright",
+    "question": "In a certain code language:\nWhat is the code word 'ma' used for?\n\n‘ clean and neat’ is written as 'so ra ni'.\n\n‘ clean and neat' 'so ra ni',\n\n‘ neat white floor’ is written as 'ju pa ra'.\n\n‘ neat white floor' 'ju pa ra',\n\n‘ bright clean floor’ is written as 'ni ju ma'.\n\n‘ bright clean floor' 'ni ju ma',\n\nWhat is the code word 'ma' used for?",
+    "answer": "4",
+    "solution": "प्रश्नानुसार ,\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_e3a8f359a64defe9.png\n\nअतः 'ma' का उपयोग 'bright' के लिए किया गया है।"
+  },
+  {
+    "option_1": "VFVGR",
+    "option_2": "VTTGR",
+    "option_3": "VFTGR",
+    "option_4": "VFTGG",
+    "question": "Select the option that represents the letters that when placed sequentially from left to right in the blanks given below will complete the letter series.\nRF_GTR_VG_RFV_T_FVGT",
+    "answer": "3",
+    "solution": "R F V G T / R F V G T / R F V G T / R F V G T"
+  },
+  {
+    "option_1": "1",
+    "option_2": "2",
+    "option_3": "3",
+    "option_4": "6",
+    "question": "In the following question, choose the number that will come in place of question mark (?) from the given alternatives.\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_2f26baea22fd0705.png",
+    "answer": "2",
+    "solution": "जिस प्रकार , 2×3×4×3 = 72\n\n9 × 2 × 2 × 2 = 72\n\nउसी प्रकार ,\n\n6 × 3 × 2 × 2 = 72\n\nअत : रिक्त स्थान पर 2 आयेगा।"
+  },
+  {
+    "option_1": "T",
+    "option_2": "S",
+    "option_3": "Y",
+    "option_4": "U",
+    "question": "Seven friends S, T, U, V, W, X and Y are sitting around a circle with their backs to the circle. There are three persons between Y and V. W is sitting immediate right of V. U is sitting between Y and X. T is not sitting next to W or Y. S is sitting next to W. Who is sitting between V and X?\nS, T, U, V, W, X Y - Y V W, V U, Y X T, W Y S, W V X ?",
+    "answer": "1",
+    "solution": "सात दोस्त के बैठने का क्रम निम्न है -\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_19eee184ae657b91.png\n\nअतः स्पष्ट है कि V और X के बीच में 'T' बैठा है ।"
+  },
+  {
+    "option_1": "VWNBU",
+    "option_2": "VWNBV",
+    "option_3": "WVMBU",
+    "option_4": "WVNBV",
+    "question": "In a certain code language, if POWER is coded as RSUUH, then how will STORY be coded in that language?\n, POWER RSUUH , STORY ?",
+    "answer": "3",
+    "solution": "POWER - RSUUH\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_f6b4d97787a4e2c7.png\n\nउसी प्रकार , STORY – WVMBU\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_1c51b684887efad0.png"
+  },
+  {
+    "option_1": "(90, 54, 12)",
+    "option_2": "(70, 38, 20)",
+    "option_3": "(72, 34, 15)",
+    "option_4": "(64, 50, 40)",
+    "question": "Select the option in which the numbers have the same relationship as the numbers in the given set of numbers.\n(31, 18, 7)",
+    "answer": "1",
+    "solution": "जिस प्रकार ,\n\n(31, 18, 7)\n\n⇒ 31+18\n\n= 49 = (7) 2\n\nउसी प्रकार ,\n\n(90, 54, 12)\n\n⇒ 90+54\n\n= 144 = (12) 2\n\nअत : विकल्प (a) सही होगा ।"
+  },
+  {
+    "option_1": "TMOM",
+    "option_2": "TMNO",
+    "option_3": "TNON",
+    "option_4": "TMON",
+    "question": "A series is given with one term missing. Choose the correct option from the given options that will complete the series.\nLAGB, NDIE, PGKH, RJMK, ?",
+    "answer": "4",
+    "solution": "दी गई श्रृंखला निम्नवत है -\n\nhttps://appx-content-v2.classx.co.in/website/bulk_uploader_images/1749800757692_html_7afc20ceab673fa7.png\n\nअतः ? = TMON"
+  },
+  {
+    "option_1": "natives",
+    "option_2": "tourists",
+    "option_3": "residents",
+    "option_4": "citizens",
+    "question": "Select the most appropriate SYNONYM of the word given in the Brackets to fill in the blank.\n\nThe city's infrastructure was ill-equipped to handle the influx of ________(visitors) during the peak season.",
+    "answer": "2",
+    "solution": "Visitors  - someone who visits a person or place.\n\nNatives  - a person born in a specified place.\n\nResidents - a person who lives somewhere permanently.\n\nCitizens  - someone who has a legal right to live in a particular country."
+  },
+  {
+    "option_1": "Measerement",
+    "option_2": "Region",
+    "option_3": "Confidential",
+    "option_4": "Strengths",
+    "question": "Select the INCORRECTLY spelt word.",
+    "answer": "1",
+    "solution": "Measerement\n'Measurement' सही spelling है।"
+  },
+  {
+    "option_1": "His father left him a fortune,",
+    "option_2": "but he is so extravagant",
+    "option_3": "that he will have spent it all before he is 30.",
+    "option_4": "No Error",
+    "question": "Parts of the given sentence have been given as options. One of them may contain a grammatical error. Select the option that has the error. If there is no error, select 'No error'.\n\nHis father left him a fortune, /but he is so extravagant / that he will have spent it all before he is 30. /No Error",
+    "answer": "1",
+    "solution": "'His father left' के बदले 'His father has left का प्रयोग करना पड़ेगा क्योंकि इस वाक्य में Present तथा Future combination है।"
+  },
+  {
+    "option_1": "CABD",
+    "option_2": "DCBA",
+    "option_3": "BDAC",
+    "option_4": "DBAC",
+    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\nA. Finally, it can be termed as the channel for all trade, and what is more important, of all ideas.\n\nB. It also provides framework to all economic development.\n\nC. It is the road which determines the site of many cities and the growth and nourishment of all.\n\nD. The road is one of the great fundamental institutions of mankind.",
+    "answer": "2",
+    "solution": "DCBA\nA में finally आया है। Finally, hence, thus, therefore, in the end, eventually आदि words conclusion show करने के लिए sequence के end में use होते हैं। अतः sequence A पर समाप्त होगी, ऐसा केवल एक ही option (b) DCBA में है।"
+  },
+  {
+    "option_1": "Engage",
+    "option_2": "Instill",
+    "option_3": "Measure",
+    "option_4": "Liberate",
+    "question": "Select the most appropriate ANTONYM of the word given in Bold/Underline .\n\nThe brave knight set out to vanquish the fearsome dragon and protect the kingdom from its menace.",
+    "answer": "4",
+    "solution": "Liberate - to set free or release.\n\nVanquish - to defeat thoroughly or conquer.\n\nEngage - to participate or become involved.\n\nInstill - to gradually impart or introduce an idea or feeling.\n\nMeasure - to discover the exact size or amount of something."
+  },
+  {
+    "option_1": "derived",
+    "option_2": "expressed",
+    "option_3": "assumed",
+    "option_4": "voiced",
+    "question": "Select the most appropriate option to fill in the blank.\n\nThe greatest source of income in India is ______ from agriculture and related industries.",
+    "answer": "1",
+    "solution": "'Derived' का अर्थ है किसी स्रोत से प्राप्त किया गया । । दिए गए वाक्य में कहा गया है कि भारत में आय का सबसे बड़ा स्रोत कृषि और संबंधित उद्योगों से प्राप्त होता है। अतः, 'Derived' सबसे उपयुक्त उत्तर है।"
+  },
+  {
+    "option_1": "Strategy",
+    "option_2": "Planning",
+    "option_3": "Conditioning",
+    "option_4": "Conspiracy",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA secret plan, made to do something (usually wrong)",
+    "answer": "4",
+    "solution": "Conspiracy - A secret plan, made to do something (usually wrong).\n\nStrategy - a plan of action designed to achieve a particular goal or objective.\n\nPlanning - the process of making plans for something, organizing and arranging activities in advance.\n\nConditioning - the process of training or influencing someone to behave in a certain way."
+  },
+  {
+    "option_1": "Obey the rules blindly",
+    "option_2": "Act as suggested",
+    "option_3": "Discontinue impulsively",
+    "option_4": "Perform without any rehearsals",
+    "question": "Select the most appropriate meaning of the idiom/phrase given in Bold/Underline in the following Questions.\n\nPlay it by ear",
+    "answer": "4",
+    "solution": "Play it by ear - perform without any rehearsals."
+  },
+  {
+    "option_1": "outlet",
+    "option_2": "inlet",
+    "option_3": "drainage",
+    "option_4": "No improvement",
+    "question": "Improve the bold part in each of the following sentences, if needed.\n\nThere is no escape in the container for the water to flow.",
+    "answer": "1",
+    "solution": "‘escape' के बदले 'outlet' का प्रयोग होगा क्योंकि ‘escape का प्रयोग Verb के रूप में ' निकलना ’ के अर्थ में तथा Noun के रूप में 'पलायन' के अर्थ में होता है जबकि 'outlet का अर्थ है 'गैस या द्रव की निकासी का पाइप ।"
+  },
+  {
+    "option_1": "The homework is assigning by the professor every week.",
+    "option_2": "The homework will be assigned by the professor every week.",
+    "option_3": "The homework assigns by the professor every week.",
+    "option_4": "The homework is assigned by the professor every week.",
+    "question": "Select the option that expresses the given sentence in the Active/Passive voice.\nThe professor assigns the homework every week.",
+    "answer": "4",
+    "solution": "The homework is assigned by the professor every week. (Correct)\n(a) The homework is assigning by the professor every\n\nweek. (Verb का गलत form)\n\n(b) The homework will be assigned by the professor every week. (गलत Tense)\n\n(c) The homework assigns by the professor every week.(गलत Verb)"
+  },
+  {
+    "option_1": "She said she has to leave all the bad habits",
+    "option_2": "She said that she must have leave all the bad habits",
+    "option_3": "She said that she had to leave all the bad habits.",
+    "option_4": "She said that she could leave all the bad habits",
+    "question": "Select the correct indirect/direct form of the given sentence.\n\nShe said, \"She must leave all the bad habits.\"",
+    "answer": "3",
+    "solution": "She said that she had to leave all the bad habits.\n\nShe said she has to leave all the bad habits. (गलत Verb)\n\nShe said that she must have leave all the bad habits. (गलत Modal Verb)\n\nShe said that she could leave all the bad habits. (गलत Modal Verb)"
+  },
+  {
+    "option_1": "It was a letter that was shot throught with the writer's personality.",
+    "option_2": "Thre is plenty of student accomodation in Edinvurgh.",
+    "option_3": "He advised the government not to persue a gas deal with that company.",
+    "option_4": "Their skilled colleague soon satisfied them that they were wrong.",
+    "question": "Select the INCORRECTLY spelt word.\nFour sentences are given, out of which three have spelling errors. Choose the sentence with all correctly spelt words.",
+    "answer": "4",
+    "solution": "Their skilled colleague soon satisfied them that they were wrong.\n\n'Through, there, accommodation, Edinburgh और pursue' सही spellings है।"
+  },
+  {
+    "option_1": "A",
+    "option_2": "B",
+    "option_3": "C",
+    "option_4": "D",
+    "question": "Parts of the given sentence have been given as options. One of them may contain a grammatical error. Select the option that has the error. If there is no error, select 'No error'.\nThings will not (A) /improve unless (B) /you yourself look into it. (C) /No Error. (D)",
+    "answer": "3",
+    "solution": "'it' के बदले 'them' का प्रयोग होगा क्योंकि Part (A) में Plural Noun Things' का प्रयोग वाक्य के Subject के रूप में है जिसके लिए Plural Pronoun का प्रयोग होना चाहिए;"
+  },
+  {
+    "option_1": "PQRS",
+    "option_2": "PSRQ",
+    "option_3": "SPRQ",
+    "option_4": "PQSR",
+    "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.\n\nP. Reading books is a habit\n\nQ. but also enlarges the mind\n\nR. because it not only increases knowledge\n\nS. which must be cultivated by everybody",
+    "answer": "2",
+    "solution": "PSRQ\n\nP में 'Reading Books' subject है अतः sequence P से start होगी।\n\nR में 'not only' आया है तथा Q में 'but also' आया है अतः यह not only but also के conjunction pair की structure है।\n\nअतः RQ एक link है।"
+  },
+  {
+    "option_1": "Real",
+    "option_2": "Dare",
+    "option_3": "Fierce",
+    "option_4": "Superficial",
+    "question": "Select the most appropriate ANTONYM of the word given in Bold/Underline.\n\nIntensive",
+    "answer": "4",
+    "solution": "Superficial - only on the surface, not deep.\n\nIntensive - very focused and thorough.\n\nReal - genuine or authentic.\n\nDare - to have the courage to do something.\n\nFierce - very strong or aggressive."
+  },
+  {
+    "option_1": "blow",
+    "option_2": "blew",
+    "option_3": "blues",
+    "option_4": "blue",
+    "question": "Select the correct homonym from the given options to fill in the blank.\nThe wind _______ so powerfully that the door closed.",
+    "answer": "2",
+    "solution": "'Blew' का अर्थ है किसी चीज का स्थान- परिवर्तन करना । दिए गए sentence में कहा गया है कि 'हवा इतनी तेज चली कि दरवाजा बंद हो गया'। इसलिए, 'blew\" सबसे उपयुक्त उत्तर है।"
+  },
+  {
+    "option_1": "very happy",
+    "option_2": "extremely nervous or anxious",
+    "option_3": "very cold",
+    "option_4": "very hard",
+    "question": "Select the most appropriate appropriate meaning of the idiom/phrase given in Bold/Underline in the following Questions.\n\nI was so nervous for the job interview that I was sweating bullets the whole time.",
+    "answer": "2",
+    "solution": "Sweating bullets - extremely nervous or anxious."
+  },
+  {
+    "option_1": "act",
+    "option_2": "obey",
+    "option_3": "observe",
+    "option_4": "No improvement",
+    "question": "Direction: Improve the bold part in each of the following sentences if needed.\n\nSoliders are trained to behave without questions.",
+    "answer": "2",
+    "solution": "behave' के बदले 'obey' का प्रयोग होगा क्योंकि behave' का अर्थ है 'व्यवहार करना' जबकि 'obey' का अर्थ है 'आज्ञा का पालन करना ।"
+  },
+  {
+    "option_1": "Whale sharks were caught commercially in some places around the world.",
+    "option_2": "Whale sharks are being caught commercially in some places around the world.",
+    "option_3": "Whale sharks have been caught commercially in some places around the world.",
+    "option_4": "Whale sharks are caught commercially in some places around the world.",
+    "question": "Select the option that expresses the given sentence in the Active/Passive voice.\n\nThey catch whale sharks commercially in some places around the world.",
+    "answer": "4",
+    "solution": "Whale sharks are caught commercially in some places around the world. (Correct)\n\nWhale sharks were caught commercially in some places around the world. (Wrong use of tense (simple past) का)\n\nWhale sharks are being caught commercially in some places around the world. (Wrong use of verb ( are being caught )\n\nWhale sharks have been caught commercially in some places around the world. (Wrong use of tense (present perfect) )"
+  },
+  {
+    "option_1": "Exploded",
+    "option_2": "Demolished",
+    "option_3": "Restored",
+    "option_4": "Sealed",
+    "question": "Select the most appropriate ANTONYM of the word given in Bold/Underline.\n\nThe dacoits ravaged the bungalow in the absence of its owner.",
+    "answer": "3",
+    "solution": "Restored- to put somebody/something back into his/her/its former condition or position\n\nRavaged- to damage something very badly\n\nExploded- to burst with a loud noise\n\nDemolished- to destroy something\n\nSealed-to close or fasten a package, envelope, etc."
+  },
+  {
+    "option_1": "about",
+    "option_2": "with",
+    "option_3": "among",
+    "option_4": "amongst",
+    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank\n\nIt was one Jnauary morning, very early –– a pinching, frosty morning –– the cove all grey ______1____ hoar-frost and the ripple lapping softly on the stones. The captain had ___2___ earlier than usual and set out down the beach. Mother was upstairs with father and I was ____3___ the breakfast table against the captain’s return when the parlour door opened and a man stepped in on whom I has never set my eyes before. He was a pale, Tallowy creature, wanting two fingers of the left hand, and _____4_____ he wore a cutlass, he did not look much like a fighter. I had always my eye open for seafaring _____5____ with one leg or two, and I remember thes one puzzled me.\n\nSelect the most appropriate option to fill in blank number 1.",
+    "answer": "2",
+    "solution": "With- to indicate connection, accompaniment, possession, means, or cause.\n\nAbout -to introduce the subject or topic of a discussion, feeling, or action, or to indicate a time or location.\n\n\"Amongst\" and \"among\" is used referring for three or more.\n\nBlank space needs a word that connects cove and hoar frost. \"With\" is the word that connects cove and hoar frost? So, option (b) is the appropriate word."
+  },
+  {
+    "option_1": "danced",
+    "option_2": "written",
+    "option_3": "risen",
+    "option_4": "waltzed",
+    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank\n\nIt was one Jnauary morning, very early –– a pinching, frosty morning –– the cove all grey ______1____ hoar-frost and the ripple lapping softly on the stones. The captain had ___2___ earlier than usual and set out down the beach. Mother was upstairs with father and I was ____3___ the breakfast table against the captain’s return when the parlour door opened and a man stepped in on whom I has never set my eyes before. He was a pale, Tallowy creature, wanting two fingers of the left hand, and _____4_____ he wore a cutlass, he did not look much like a fighter. I had always my eye open for seafaring _____5____ with one leg or two, and I remember thes one puzzled me.\n\nSelect the most appropriate option to fill in blank number 2.",
+    "answer": "3",
+    "solution": "\"Rise early\" is a phrase that means \"the practice of getting out of bed before the typical or usual time\". So option \"risen\" (V3) is the correct answer"
+  },
+  {
+    "option_1": "throwing",
+    "option_2": "lying",
+    "option_3": "playing",
+    "option_4": "laying",
+    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank\n\nIt was one Jnauary morning, very early –– a pinching, frosty morning –– the cove all grey ______1____ hoar-frost and the ripple lapping softly on the stones. The captain had ___2___ earlier than usual and set out down the beach. Mother was upstairs with father and I was ____3___ the breakfast table against the captain’s return when the parlour door opened and a man stepped in on whom I has never set my eyes before. He was a pale, Tallowy creature, wanting two fingers of the left hand, and _____4_____ he wore a cutlass, he did not look much like a fighter. I had always my eye open for seafaring _____5____ with one leg or two, and I remember thes one puzzled me.\n\nSelect the most appropriate option to fill in blank number 3.",
+    "answer": "4",
+    "solution": "\"Lay the table\" is phrase used to describe the action of preparing the dining table for a meal. So the appropriate option for the given blank is \"laying\"."
+  },
+  {
+    "option_1": "through",
+    "option_2": "threw",
+    "option_3": "though",
+    "option_4": "throw",
+    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank\n\nIt was one Jnauary morning, very early –– a pinching, frosty morning –– the cove all grey ______1____ hoar-frost and the ripple lapping softly on the stones. The captain had ___2___ earlier than usual and set out down the beach. Mother was upstairs with father and I was ____3___ the breakfast table against the captain’s return when the parlour door opened and a man stepped in on whom I has never set my eyes before. He was a pale, Tallowy creature, wanting two fingers of the left hand, and _____4_____ he wore a cutlass, he did not look much like a fighter. I had always my eye open for seafaring _____5____ with one leg or two, and I remember thes one puzzled me.\n\nSelect the most appropriate option to fill in blank number 4.",
+    "answer": "3",
+    "solution": "'Cutlass' is a short curving sword formerly used by sailors on warships. The first close is contradicting the second close.So, it is appropriate to use the contradictory word \"though\"."
+  },
+  {
+    "option_1": "plants",
+    "option_2": "birds",
+    "option_3": "men",
+    "option_4": "flowers",
+    "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank\n\nIt was one Jnauary morning, very early –– a pinching, frosty morning –– the cove all grey ______1____ hoar-frost and the ripple lapping softly on the stones. The captain had ___2___ earlier than usual and set out down the beach. Mother was upstairs with father and I was ____3___ the breakfast table against the captain’s return when the parlour door opened and a man stepped in on whom I has never set my eyes before. He was a pale, Tallowy creature, wanting two fingers of the left hand, and _____4_____ he wore a cutlass, he did not look much like a fighter. I had always my eye open for seafaring _____5____ with one leg or two, and I remember thes one puzzled me.\n\nSelect the most appropriate option to fill in blank number 5.",
+    "answer": "3",
+    "solution": "Backward reading reveals that this entire passage is based on marine things and sea travel.\n\nSo, the appropriate option for blank would be \"men\" which gives the complete phrase \"seafaring men\" which means \"a person who works on or travels by sea, often as a sailor or member of a ship's crew\"."
+  },
+  {
+    "option_1": "India, Pakistan, Nepal, Bhutan",
+    "option_2": "Bangladesh, Sri Lanka, Thailand, Vietnam",
+    "option_3": "India, Myanmar, Sri Lanka, Thailand, Bangladesh, Nepal, Bhutan",
+    "option_4": "India, Afghanistan, Bhutan, Bangladesh",
+    "question": "Which countries are included in the member countries of BIMSTEC?",
+    "answer": "3",
+    "solution": "स्थापित वर्ष: 6 जून 1997\nस्थापना का स्थान: बैंकॉक, थाईलैंड\n\nप्रारंभ में इसका नाम था BIST-EC (Bangladesh, India, Sri Lanka, Thailand Economic Cooperation)\n\nम्यांमार के जुड़ने के बाद इसका नाम BIMST-EC हुआ\n\nअंततः इसे BIMSTEC कहा जाने लगा\n\nसदस्य देश (7 देश):\n\n1. बांग्लादेश\n\n2. भारत\n\n3. म्यांमार\n\n4. श्रीलंका\n\n5. थाईलैंड\n\n6. नेपाल (2004 में शामिल)\n\n7. भूटान (2004 में शामिल)\n\nमुख्यालय:\n\nढाका, बांग्लादेश"
+  },
+  {
+    "option_1": "Nickel",
+    "option_2": "Zinc",
+    "option_3": "Manganese",
+    "option_4": "Lead",
+    "question": "The dry cell consists of an outer container, which acts as the anode.",
+    "answer": "2",
+    "solution": "शुष्क सेल एक प्राथमिक सेल है।\n\nइसमें कैथोड के रूप में मैंगनीज डाइऑक्साइड और कार्बन (ग्रेफाइट रॉड) का प्रयोग होता है।\n\nइस सेल का बाहरी कंटेनर जिंक (Zn) का बना होता है जो एनोड का कार्य करता है।\n\nइसमें अमोनियम क्लोराइड (NHCI) और जिंक क्लोराइड (ZNCI ₂ ) के पेस्ट का उपयोग किया जाता है।"
+  },
+  {
+    "option_1": "CRPF",
+    "option_2": "BSF",
+    "option_3": "ITBP",
+    "option_4": "Assam Rifles",
+    "question": "Which of the following is the oldest paramilitary force?",
+    "answer": "4",
+    "solution": "असम राइफल्स\nअसम राइफल्स भारत का सबसे पुराना अर्द्धसैनिक बल है, जिसकी स्थापना 1835 में की गई थी।\n\nसीआरपीएफ क्राउन प्रतिनिधि पुलिस के रूप में 27 जुलाई 1939 को अस्तित्व में आया। भारतीय स्वतंत्रता के बाद यह 28 दिसंबर 1949 को सीआरपीएफ अधिनियम के लागू होने पर केंद्रीय रिजर्व पुलिस बल बन गया।\n\nबीएसएफ की स्थापना 1 दिसंबर 1965 को की गई, इसका उद्देश्य भारत-पाकिस्तान व भारत-बांग्लादेश अंतरराष्ट्रीय सीमाओं की रक्षा करना है ।\n\nआईटीबीपी: 24 अक्टूबर 1962 को भारत-चीन युद्ध के बाद सीमा सुरक्षा सुधार हेतु स्थापित ।"
+  },
+  {
+    "option_1": "In the short run, market price should be greater than or equal to average variable cost",
+    "option_2": "Market price should be equal to marginal cost",
+    "option_3": "In the long run, market price should be equal to average cost",
+    "option_4": "Marginal cost decreases at the equilibrium output",
+    "question": "Which of the following statements is not correct for the equilibrium of a firm in perfect competition?",
+    "answer": "4",
+    "solution": "पूर्ण प्रतिस्पर्धा (Perfect Competition) के अंतर्गत किसी फर्म का सन्तुलन तब होता है जब वह अपने लाभ को अधिकतम कर रही होती है।\n\nयदि बाजार मूल्य औसत परिवर्ती लागत(AVC)से कम हो जाए, तो फर्म को संचालन से अधिक घाटा होगा, और वह उत्पादन बंद कर देगी।\n\nपूर्ण प्रतिस्पर्धा में, एक फर्म लाभ को अधिकतम करने के लिए उस बिंदु तक उत्पादन करती है जहाँ सीमांत लागत (MC) सीमांत राजस्व (MR) के बराबर होती है, और पूर्ण प्रतिस्पर्धा में MR, मूल्य के बराबर होता है।\n\nदीर्घावधि में, एक फर्म केवल सामान्य लाभ (Normal Profit) कमाती है, और इस स्थिति में, मूल्य (Price) औसत कुल लागत (Average Total Cost) के बराबर होता है।\n\nसन्तुलन तब होता है जब सीमान्त लागत (MC) बढ़ रही हो और वह मूल्य या MR को काट रही हो ऊपर से। यदि MC घट रही हो, तो वह लाभ अधिकतम नहीं होगा।"
+  },
+  {
+    "option_1": "Football",
+    "option_2": "Hockey",
+    "option_3": "Cricket",
+    "option_4": "Kabaddi",
+    "question": "Rangaswamy Cup is related to which sport?",
+    "answer": "2",
+    "solution": "रंगास्वामी कप भारत में पुरुषों की राष्ट्रीय हॉकी प्रतियोगिता के लिए दिया जाने वाला प्रमुख कप है।\nहॉकी की सर्वोच्च संस्था 'इंटरनेशनल हॉकी फेडरेशन' (FIH) है ।\n\nस्थापना: 1924\n\nमुख्यालय: लुसाने (स्विट्ज़रलैंड)\n\nहॉकी का पहला संगठित क्लब:\n\nनाम: Blackheath and Elthamians Hockey Club\n\nस्थापना वर्ष: 1861\n\nस्थान: इंग्लैंड\n\nहॉकी का पहला विश्वकप 1971 में बार्सिलोना (स्पेन) में आयोजित किया गया, जिसमें विजेता पाकिस्तान था।\n\nभारत ने अब तक सिर्फ एक बार 1975 में कुआलालंपुर (मलेशिया) में आयोजित तीसरे हॉकी विश्वकप को जीता है,\n\nमहिला हॉकी वर्ल्ड कप की शुरुआत हुई 1974 में फ्रांस में\n\nमुख्य हॉकी कप\n\nआगा खाँ कप, जवाहर लाल नेहरू हॉकी प्रतियोगिता,, लाल बहादुर शास्त्री हॉकी प्रतियोगिता, गुरु नानक ट्रॉफी, गुरमीत ट्रॉफी, अब्दुल रज्जाक कप, अजलान शाह कप, के.डी. सिंह बाबू ट्रॉफी, लेडी रतन टाटा ट्रॉफी"
+  },
+  {
+    "option_1": "Ajanta Caves",
+    "option_2": "Statue of Nataraja",
+    "option_3": "' Bharat Mata by Abanindranath Tagore",
+    "option_4": "Natya Shastra by Bharat Muni",
+    "question": "Which artwork was praised by Sister Nivedita as 'the first great masterpiece of Indian art'?",
+    "answer": "3",
+    "solution": "अवनीन्द्रनाथ टैगोर कृत 'भारतमाता'\nयह चित्र भारतमाता को चार हाथों में शंख, पुस्तक, चावल और वस्त्र लिए दिखाता है — यह स्वतंत्रता संग्राम के दौरान भारतीय आत्मा का प्रतीक बन गया।\n\nअजंता की गुफाएँ- ये गुफाएँ महाराष्ट्र में औरंगाबाद के पास वाघोरा नदी के पास सह्याद्रि पर्वतमाला (पश्चिमी घाट) में रॉक-कट गुफाओं की एक श्रृंखला के रूप में स्थित हैं।\n\nइसमें कुल 29 गुफाएँ हैं, जिनमें से 25 को विहार या आवासीय गुफाओं के रूप में जबकि 4 को चैत्य या प्रार्थना हॉल के रूप में इस्तेमाल किया जाता था।\n\nगुफाओं का विकास 200 ई.पू. से 650 ईस्वी के मध्य हुआ था।\n\nनटराज: शिव जी का एक प्रसिद्ध नृत्य रूप।\n\nचोल वंश के काल में कांस्य की अत्यंत सुंदर नटराज मूर्तियाँ बनाई गईं।\n\nविजयालय: चोल साम्राज्य की स्थापना विजयालय ने की थी\n\nचोल वास्तुकला (871-1173 ई.) मंदिर वास्तुकला की द्रविड़ शैली का प्रतीक था।\n\nराजराजेश्वर मंदिर का निर्माण चोल शासक राजराजा प्रथम ने 11वीं शताब्दी में करवाया था। यह मंदिर तमिलनाडु के तंजावुर में स्थित है और इसे बृहदेश्वर मंदिर के नाम से भी जाना जाता है। यह मंदिर भगवान शिव को समर्पित है और वास्तुकला का एक उत्कृष्ट नमूना है।\n\nचोल साम्राज्य अपने नौसेना के लिए विख्यात था।"
+  },
+  {
+    "option_1": "Bacteria",
+    "option_2": "Fungi",
+    "option_3": "Protozoa",
+    "option_4": "Virus",
+    "question": "Polio disease is caused by which of the following types of organisms?",
+    "answer": "4",
+    "solution": "पोलियो विषाणु जनित रोग है, पोलियो की वैक्सीन (टीका) 1955 में जोनास सॉल्क ने बनाया, फिर 1961 में डॉ. अल्बर्ट साबिन ने ओरल पोलियो वैक्सीन (OPV) बनाया।\n\nअन्य विषाणु जनित रोग हैं - (HIV) एड्स, चेचक, चिकनपॉक्स, इन्फ्लुएंजा (फ्लू), मीजल्स आदि।\n\nजीवाणु जनित रोग-टी.बी. कुष्ठ रोग, टायफाइड आदि।\n\nप्रोटोजोआ जनित रोग-मलेरिया, पायरिया, अमीबियासिस आदि।\n\nकवक जनित रोग-दाद, एथलीट फुट, गंजापन आदि।"
+  },
+  {
+    "option_1": "1971",
+    "option_2": "1975",
+    "option_3": "1982",
+    "option_4": "1991",
+    "question": "In which year did India join the Ramsar Treaty?",
+    "answer": "3",
+    "solution": "स्थापना वर्ष - 2 फरवरी 1971\nस्थल- रामसर शहर, ईरान (इसलिए इसका नाम \"रामसर सन्धि\")\n\nप्रवर्तन तिथि :1975 से लागू\n\nमौलिक उद्देश् :आर्द्रभूमियों का संरक्षण और सतत उपयोग\n\nप्रत्येक वर्ष दिवस 2 फरवरी: विश्व आर्द्रभूमि दिवस\n\nभारत ने इस सन्धि पर 1982 में हस्ताक्षर किए।\n\nभारत के प्रमुख रामसर स्थल:\n\nस्थल राज्य\n\nचिल्का झील ओडिशा\n\nकेवला देव राष्ट्रीय उद्यान राजस्थान\n\nलोकटक झील मणिपुर\n\nवुल्लर झील जम्मू-कश्मीर\n\nकाजीरंगा राष्ट्रीय उद्यान असम\n\nसुंदरबन आर्द्रभूमि पश्चिम बंगाल\n\nनाल सरोवर पक्षी अभयारण्य गुजरात\n\nभारत में, तमिलनाडु राज्य में सबसे ज्यादा रामसर स्थल (Ramsar sites) हैं। तमिलनाडु में कुल 20 रामसर स्थल हैं।\n\nभारत में सबसे पुराना रामसर स्थल चिल्का झील (ओडिशा) और केवलादेव राष्ट्रीय उद्यान (राजस्थान) हैं, जिन्हें 1981 में घोषित किया गया था।"
+  },
+  {
+    "option_1": "Nepal",
+    "option_2": "Myanmar",
+    "option_3": "Bangladesh",
+    "option_4": "Indonesia",
+    "question": "Who has recently become the 54th country to sign the Artemis Agreement?",
+    "answer": "3",
+    "solution": "बांग्लादेश\n\nबांग्लादेश हाल ही में आर्टेमिस समझौते पर हस्ताक्षर करने वाला 54वाँ देश बना है। यह समझौता नासा और अमेरिका द्वारा अंतरिक्ष के शांतिपूर्ण अन्वेषण के दिशा-निर्देश तय करने के लिए शुरू किया गया था।\n\nआर्टेमिस समझौते (Artemis Accords)\n\nशुरुआत 13 अक्टूबर 2020\n\nनेतृत्व NASA (अमेरिका) और साझेदार देश\n\nप्रमुख उद्देश्य- चंद्रमा और अंतरिक्ष की खोज के लिए अंतर्राष्ट्रीय सहयोग के नियम तय करना\n\nकुल सदस्य देश (2025 तक) - 40+ देश\n\nभारत ने हस्ताक्षर कब किया?- 21 जून 2023 (प्रधानमंत्री नरेंद्र मोदी की अमेरिका यात्रा के दौरान)"
+  },
+  {
+    "option_1": "Biome",
+    "option_2": "Ecozone",
+    "option_3": "Hotspot",
+    "option_4": "Mega zone",
+    "question": "Those areas of the world where a wide reserve of biodiversity is found are called—",
+    "answer": "3",
+    "solution": "हॉटस्पॉट\nजैव-विविधता हॉटस्पॉट ऐसे क्षेत्र होते हैं जहाँ जैव प्रजातियों की अत्यधिक विविधता पाई जाती है और जहाँ संरक्षण की अत्यधिक आवश्यकता होती है। नॉर्मन मायर्स ने इस अवधारणा को लोकप्रिय किया।\n\nविश्वभर में वर्तमान में 36 जैव विविधता हॉटस्पॉट मान्यता प्राप्त हैं (Conservation International के अनुसार)।\n\nभारत में कुल 4 जैव-विविधता हॉटस्पॉट हैं\n\nएक क्षेत्र को जैव-विविधता हॉटस्पॉट घोषित करने के लिए दो प्रमुख शर्तें होती हैं:\n\n1. कम से कम 1,500 स्थानिक (endemic) पौधों की प्रजातियाँ उस क्षेत्र में पाई जाती हों।\n\n2. उस क्षेत्र के कम से कम 70% प्राकृतिक वन क्षेत्र का नाश हो चुका हो।"
+  },
+  {
+    "option_1": "Vedika",
+    "option_2": "Vimana",
+    "option_3": "Chhatra",
+    "option_4": "Harmika",
+    "question": "Which of the following terms is not related to the structure of 'stupa'?",
+    "answer": "2",
+    "solution": "विमान\n'स्तूप' शब्द से तात्पर्य है- 'किसी वस्तु का ढेर'।\n\nसर्वप्रथम 'स्तूप' शब्द की जानकारी 'ऋग्वेद' से प्राप्त हुई थी।\n\nमुख्य रूप से स्तूपों को निम्नलिखित भागों में विभाजित किया जा सकता है-\n\n1. उद्देशिका स्तूप\n\n2. शारीरिक स्तूप\n\n3. पूजार्थक स्तूप\n\n4. पारिभोगिक स्तूप\n\n'स्तूप' की संरचना से संबंधित प्रमुख शब्दावली:-\n\n1. वेदिका/रेलिंग- स्तूप की सुरक्षा हेतु निर्मित।\n\n2. छत्र- धार्मिक प्रतीक/चिह्न।\n\n3. हर्मिका- स्तूप के शिखर पर अस्थियों की सुरक्षा हेतु निर्मित ।\n\n4. अंड- अर्द्धगोलाकार भाग (स्तूप का)।\n\n5. सोपान- सीढ़ी (मेधि पर चढ़ने-उतरने के लिए)\n\n6. मेधि/कुर्सी- स्तूप का मुख्य हिस्सा (चबूतरा"
+  },
+  {
+    "option_1": "Number of exports",
+    "option_2": "Number of imports",
+    "option_3": "Ratio of international trade",
+    "option_4": "Difference between imports and exports",
+    "question": "What is the trade balance of a country?",
+    "answer": "4",
+    "solution": "किसी देश के निर्यात और आयात के मूल्य में एक निश्चित समयावधि में अंतर को व्यापार संतुलन (Balance of Trade-BOT) कहा जाता है।\nजब कोई देश निर्यात की तुलना में अधिक आयात करता है तो उसे व्यापार घाटे (Trade Deficit) कहा जाता है। इसके विपरीत जब कोई देश आयात की तुलना में अधिक निर्यात करता है, तो उसे व्यापार अधिशेष (Trade Surplus) की स्थिति कहते है।\n\nव्यापार संतुलन किसी भी देश के भुगतान संतुलन का एक महत्वपूर्ण घटक है तथा प्रत्येक देश का केंद्रीय बैंक अपने चालू खाते के मूल्य की गणना करने के लिए व्यापार संतुलन का उपयोग करता है।"
+  },
+  {
+    "option_1": "Manipuri",
+    "option_2": "Kathak",
+    "option_3": "Mohiniyattam",
+    "option_4": "Kuchipudi",
+    "question": "This is Gopika Verma. a classical dancer from",
+    "answer": "3",
+    "solution": "मोहिनीअट्टम की उत्पत्ति केरल से हुई है।\n\nमोहिनीअट्टम का नाम भगवान विष्णु के स्त्री रूप 'मोहिनी' शब्द से अवतरित है।\n\n'मोहिनी' का अर्थ संदुर स्त्री तथा 'अट्टम' का अर्थ नृत्य होता है।\n\nमोहिनीअट्टम 'वायु' तत्व को अभिव्यक्त करता है।\n\nगोपिका वर्मा ने केरल पांरपरिक नृत्य मोहिनीअट्टम में स्नातक की उपाधि प्राप्त की।"
+  },
+  {
+    "option_1": "Governor's pardon power",
+    "option_2": "Power to impose financial emergency",
+    "option_3": "Power to repeatedly re-promulgate ordinances",
+    "option_4": "Recommendation to impose President's rule",
+    "question": "The case of D.C. Wadhwa vs. State of Bihar (1986) was related to which power of the Governor?",
+    "answer": "3",
+    "solution": "अध्यादेशों को बार-बार पुनः प्रख्यापित करने की शक्ति\n\nइस मामले में सर्वोच्च न्यायालय ने कहा था कि अध्यादेशों का बार-बार पुनः प्रख्यापन संविधान की भावना के विरुद्ध है। अध्यादेश अस्थायी कानून होते हैं और उन्हें विधानमंडल की मंजूरी से स्थायी बनाया जाना चाहिए।\n\nडॉ. डी.सी. वाधवा एक प्रमुख संविधान विद्वान और शोधकर्ता थे।\n\nउन्होंने अपने शोध के दौरान पाया कि बिहार सरकार ने कई अध्यादेशों को बार-बार बिना विधायिका की स्वीकृति के पुनः लागू किया, जिससे वे कानून वर्षों तक लागू रहे।\n\nउदाहरण: बिहार सरकार ने ‘बिहार संशोधन अध्यादेश’ को 14 वर्षों तक केवल अध्यादेशों के माध्यम से जारी रखा, न कि विधायिका के कानून द्वारा।\n\nअनुच्छेद 123: जब संसद के दोनों सदन अथवा एक सदन सत्र में ना हों, तब राष्ट्रपति द्वारा अध्यादेश जारी किया जा सकता है।\n\nअनुच्छेद 213: भारतीय संविधान राज्यपाल को ,जब राज्य विधानमंडल या विधानसभा सत्र में ना हों, अध्यादेश जारी करने की शक्ति प्रदान करता है।"
+  },
+  {
+    "option_1": "Complete autonomy to the states",
+    "option_2": "All powers with the Union only",
+    "option_3": "Division of powers between the Centre and the states",
+    "option_4": "Supreme power with the President",
+    "question": "What is the main feature of Indian federalism?",
+    "answer": "3",
+    "solution": "केंद्र और राज्यों के बीच शक्तियों का विभाजन\n\nभारतीय संविधान के अनुच्छेद 245 से 254 तक केंद्र और राज्यों की विधायी शक्तियों का स्पष्ट रूप से विभाजन किया गया है। यह संघात्मक व्यवस्था की मुख्य विशेषता है।"
+  },
+  {
+    "option_1": "1947 5 August, 1947",
+    "option_2": "1948 16 November, 1948",
+    "option_3": "1946 13 December, 1946",
+    "option_4": "1946 17 November, 1946",
+    "question": "When was the Objective Resolution introduced by Pt. Jawaharlal Nehru?",
+    "answer": "3",
+    "solution": "उद्देश्य प्रस्ताव को संविधान सभा द्वारा सर्वसम्मति से 22 जनवरी, 1947 को संविधान की प्रस्तावना के रूप में स्वीकार किया।\n\nउद्देश्य प्रस्ताव में संवैधानिक संरचना के ढाँचे एवं दर्शन की झलक थी।\n\nउद्देश्य प्रस्ताव में कुल 8 बिन्दु थे।\n\nउद्देश्य प्रस्ताव की मुख्य बातें-\n\n1. भारत के सभी लोगों के लिए न्याय, सामाजिक, आर्थिक एवं राजनीतिक स्वतंत्रता व सुरक्षा।\n\n2. अवसर की समता तथा विधि के समक्ष समता।\n\n3. विचार एवं अभिव्यक्ति, विश्वास, भ्रमण व संघ बनाने की स्वतंत्रता ।\n\n4. समाज के पिछड़े वर्गों SC, ST और अल्पसंख्यकों के हितों की रक्षा।\n\n5. भारत एक संप्रभु राज्य हो और विश्व शांति पर बल दिया जाये।\n\nतिथि: क्या अपनाया / सत्यापित किया गया\n\n22 जुलाई 1947 : राष्ट्रीय ध्वज (तिरंगा) को संविधान सभा ने अपनाया\n\nमई 1949 : भारत की राष्ट्रमंडल (Commonwealth) में सदस्यता स्वीकृत\n\n24 जनवरी 1950 : राष्ट्रीय गान \"जन गण मन\" को आधिकारिक रूप से अपनाया गया\n\n24 जनवरी 1950 : राष्ट्रीय गीत \"वन्दे मातरम्\" को अपनाया गया\n\n24 जनवरी 1950 : डॉ. राजेन्द्र प्रसाद को भारत के प्रथम राष्ट्रपति के रूप में चुना गया"
+  },
+  {
+    "option_1": "Paris",
+    "option_2": "Los Angeles",
+    "option_3": "Brisbane",
+    "option_4": "Tokyo",
+    "question": "Where will the Olympic Games be held in the year 2028?",
+    "answer": "2",
+    "solution": "लॉस एंजिल्स, अमेरिका को 2028 ग्रीष्मकालीन ओलंपिक की मेज़बानी सौंपी गई है। इससे पहले यहाँ 1932 और 1984 में भी ओलंपिक आयोजन हुआ था।\n\nओलंपिक खेल का प्रारंभ यूनान के ओलंपिया शहर में 776 ईसा पूर्व में हुआ।\n\nआधुनिक ओलंपिक खेल की शुरुआत फ्राँस के बैरोन पियरे डि कोबार्टिन के प्रयासों से एथेंस में 1896 में हुई।\n\nअंतर्राष्ट्रीय ओलंपिक समिति (IOC) की स्थापना 1894 में की गई। इसका मुख्यालय लुसाने (स्विट्जरलैंड) में है।\n\nअंतर्राष्ट्रीय ओलंपिक समिति के प्रथम अध्यक्ष डिमिट्रियास विकेलास (1894-1896) थे।\n\nअंतर्राष्ट्रीय ओलंपिक समिति की पहली भारतीय महिला सदस्य नीता अंबानी हैं।\n\nभारतीय ओलंपिक संघ की स्थापना 1927 में हुई।\n\nसर दोराबजी टाटा इसके प्रथम अध्यक्ष थे।\n\nओलंपिक ध्वज में सिल्क कपड़े के बने ध्वज के बीच में पाँच रंगीन चक्र होते हैं, जो विश्व के पाँच महाद्वीपों के प्रतिनिधित्व के साथ-साथ निष्पक्ष, एकता व मुक्त स्पर्धा के प्रतीक हैं।\n\nरंग महाद्वीप\n\nनीला यूरोप (Europe)\n\nपीला एशिया (Asia)\n\nकाला अफ्रीका (Africa)\n\nहरा ओसिएनिया (Oceania / Australia)\n\nलाल अमेरिका (America — उत्तर व दक्षिण दोनों)\n\n1913 में पियरे डी कूपर्टिन (Pierre de Coubertin) ने ओलंपिक रिंग्स के रंगों को डिज़ाइन किया था\n\n1928 के एम्सटर्डम ओलंपिक से मशाल जलाने की शुरुआत हुई तथा वर्तमान मशाल के स्वरूप को 1936 के बर्लिन ओलंपिक में अपनाया गया।\n\nओलंपिक में शुभंकर की परंपरा 1968 के ग्रेनोबल शीतकालीन ओलंपिक से शुरू हुई ।\n\nओलंपिक के उद्घाटन समारोह में मार्च पास्ट में यूनान की टीम सबसे आगे रहती है, और मेजबान देश की टीम सबसे पीछे। यूनान को यह सम्मान इसलिए मिलता है क्योंकि वह आधुनिक ओलंपिक खेलों का जन्मस्थान है\n\nअन्य टीमें सामान्यतः मेजबान देश की भाषा की वर्णमाला के आधार पर निश्चित होती हैं।\n\nएक ही ओलंपिक में सर्वाधिक स्वर्ण पदक जीतने वाले पुरुष खिलाड़ी माइकल फेल्प्स हैं, जो यू.एस.ए. के तैराक हैं\n\nकिसी एक ओलंपिक में सर्वाधिक 80 स्वर्ण पदक जीतने का रिकॉर्ड रूस के पास है।( 80,मॉस्को)\n\nभारत की ओर से 'नॉर्मन प्रिचर्ड' पहले खिलाड़ी हैं, जिसने 1900 के द्वितीय ओलंपिक में भाग लिया ।"
+  },
+  {
+    "option_1": "Cytosine",
+    "option_2": "Uracil",
+    "option_3": "Thymine",
+    "option_4": "Hydroxyl",
+    "question": "Consider the following statements-\nDNA has four nitrogen bases in its structure: adenine, thymine, cytosine and guanine. Which base replaces thymine in RNA?\n\nDNA",
+    "answer": "2",
+    "solution": "यूरेसिल\n\nRNA में थायमिन के स्थान पर यूरेसिल (U) होता है।"
+  },
+  {
+    "option_1": "Blue, Yellow, Green, Red, Black",
+    "option_2": "Yellow, Black, Blue, Green, Red",
+    "option_3": "Blue, Yellow, Black, Green, Red",
+    "option_4": "Blue, Black, Yellow, Red, Green",
+    "question": "What is the order of colours of the five circles in the flag of Olympic Games?",
+    "answer": "3",
+    "solution": "नीला, पीला, काला, हरा, लाल\n\nये पाँच चक्र पाँच महाद्वीपों का प्रतीक हैं और झंडे में इनका क्रम बाएं से दाएं: नीला, पीला, काला, हरा और लाल होता है।"
+  },
+  {
+    "option_1": "Nepal",
+    "option_2": "Bhutan",
+    "option_3": "Tibet",
+    "option_4": "Myanmar",
+    "question": "Burmese is the official language of which neighbouring country of India?",
+    "answer": "4",
+    "solution": "म्यांमार\n\nभारत के पड़ोसी देश राजभाषा\n\nपाकिस्तान उर्दू\n\nचीन मंदारिन\n\nम्यांमार बर्मी\n\nबांग्लादेश बंगाली\n\nअफगानिस्तान दारी\n\nभूटान जोन्गखा\n\nनेपाल नेपाली\n\nश्रीलंका सिंहली, तमिल और अंग्रेजी\n\nमालदीव दिवेही"
+  },
+  {
+    "option_1": "Hanoi, Kiev, Geneva, Paris",
+    "option_2": "Jakarta, Minsk, Brussels, Vienna",
+    "option_3": "Bangkok, Moscow, Berlin, Rome",
+    "option_4": "Manila, Tashkent, London, Riyadh",
+    "question": "Where are the headquarters of the following organisations: ASEAN, CIS, EU and OPEC?",
+    "answer": "2",
+    "solution": "जकार्ता, मिंस्क, ब्रुसेल्स, विएना\n\nASEAN – जकार्ता (इंडोनेशिया)\n\nCIS – मिंस्क (बेलारूस)\n\nEU – ब्रुसेल्स (बेल्जियम)\n\nOPEC – विएना (ऑस्ट्रिया)\n\nस्थापना: ASEAN: 8 अगस्त 1967\n\nस्थापक देश (मूल सदस्य - 5):\n\n1. इंडोनेशिया\n\n2. मलेशिया\n\n3. थाईलैंड\n\n4. सिंगापुर\n\n5. फिलीपींस\n\nवर्तमान सदस्य देशों की संख्या: 10\n\nक्रम देश\n\n1. इंडोनेशिया\n\n2. मलेशिया\n\n3. थाईलैंड\n\n4. सिंगापुर\n\n5. फिलीपींस\n\n6. ब्रुनेई\n\n7. वियतनाम\n\n8. लाओस\n\n9. म्यांमार\n\n10. कंबोडिया\n\nमुख्यालय (Headquarters): जकार्ता, इंडोनेशिया\n\nस्थापना:\n\nCIS:\n\nतारीख: 8 दिसंबर 1991\n\nयह सोवियत संघ (USSR) के विघटन के बाद बना था।\n\nमुख्यालय: मिन्स्क, बेलारूस\n\nवर्तमान में मुख्य सदस्य देश (2024 तक):\n\n(नोट: सदस्यता में उतार-चढ़ाव होता रहा है)\n\nक्रम देश\n\n1. रूस\n\n2. बेलारूस\n\n3. कज़ाख़स्तान\n\n4. किर्गिज़स्तान\n\n5. ताजिकिस्तान\n\n6. आर्मेनिया\n\n7. अज़रबैजान\n\n8. मोल्दोवा\n\n9. उज्बेकिस्तान\n\nEU : का पूरा नाम है:European Union\n\nआधिकारिक स्थापना: 1 नवंबर 1993\n\nमुख्यालय: ब्रुसेल्स (Brussels), बेल्जियम\n\n27 देश (2020 से, जब ब्रिटेन ने EU छोड़ दिया — इसे Brexit कहा जाता है)\n\nOPEC का पूरा नाम है:\n\nOrganization of the Petroleum Exporting Countries\n\n(पेट्रोलियम निर्यातक देशों का संगठन)\n\nतारीख: 14 सितंबर 1960\n\n2025 में, ओपेक (OPEC) के सदस्य देश हैं: अल्जीरिया, अंगोला, इक्वेटोरियल गिनी, गैबॉन, ईरान, इराक, कुवैत, लीबिया, नाइजीरिया, कांगो गणराज्य, सऊदी अरब, संयुक्त अरब अमीरात और वेनेजुएला।"
+  },
+  {
+    "option_1": "Kochi",
+    "option_2": "Puducherry",
+    "option_3": "Madrasapatnam",
+    "option_4": "Trichanaapallee",
+    "question": "Where in South India did the British East India Company establish a trading post in 1639?",
+    "answer": "3",
+    "solution": "मद्रासपट्टनम\n\nब्रिटिश ईस्ट इंडिया कम्पनी ने 1639 ई. में मद्रासपट्टनम (वर्तमान चेन्नई) में व्यापारिक केन्द्र की स्थापना की और यहाँ फोर्ट सेंट जॉर्ज बनाया।\n\n1599 में मर्चेट एडवेंचरर्स नाम से विख्यात कुछ व्यापारियों ने पूर्व से व्यापार करने के उद्देश्य से 'गवर्नर एंड कंपनी ऑफ मचेंट्स ऑफ लंदन ट्रेडिंग टू द ईस्ट इंडीज्ज' नामक कंपनी की स्थापना की। जो कालांतर में 'ईस्ट इंडिया कंपनी' के नाम से जाने गई।\n\n31 दिसंबर, 1600 को महारानी एलिजाबेथ प्रथम ने एक ‘रॉयल चार्टर' जारी कर इस कंपनी को प्रारंभ में 15 वर्ष के लिये पूर्वी देशों से व्यापार करने का एकाधिकार पत्र दे दिया।\n\nकैप्टन विलियम हॉकिंस अगस्त 1608 में सूरत पहुँचा, तत्पश्चात् 1609 में आगरा में जहाँगीर के शाही दरबार में आया।\n\n1615 में इंग्लैंड के सम्राट जेम्स प्रथम का एक दूत सर टॉमस से जहाँगीर के दरबार में आया।\n\nअंग्रेज कैप्टन थॉमस बेस्ट ने 1612 में सूरत के समीप स्वाल्ली में पुर्तगालियों के जहाज़ी बेड़े को पराजित कर उनके व्यापारिक एकाधिकार को भंग कर दिया।\n\nपूर्वी भारत में अंग्रेज़ों द्वारा स्थापित प्रथम कारखाना 1633 में उड़ीसा के बालासोर में खोला गया"
+  },
+  {
+    "option_1": "Women's reservation",
+    "option_2": "Powers of Panchayati Raj institutions",
+    "option_3": "Establishment of Finance Commission",
+    "option_4": "Powers of Parliament",
+    "question": "What is mentioned in Article 243G of the Indian Constitution?",
+    "answer": "2",
+    "solution": "अनुच्छेद 243G में ग्राम पंचायतों को 29 विषयों (अनुसूची-11 में वर्णित) पर योजना बनाकर कार्यान्वयन करने की शक्ति दी गई है, जैसे- भूमि सुधार, चकबंदी, मृदा संरक्षण आदि।\n\n24 अप्रैल, 1993 को 73वाँ संविधान संशोधन अधिनियम पूरे देश में लागू हुआ।\n\nइस तिथि को 'राष्ट्रीय पंचायत दिवस' के रूप में भी मनाया जाता है।\n\nइस संशोधन के माध्यम से पंचायती राज को संवैधानिक दर्जा दिया गया तथा इसके तहत संविधान के भाग-9 को पुनः जोड़ा गया।\n\nपंचायती राज राज्य सूची का विषय है।\n\nपंचायतों का गठन अनुच्छेद 243B\n\nपंचायतों की संरचना, अनुच्छेद 243C\n\nस्थानों का आरक्षण, अनुच्छेद 243D\n\nअवधि, अनुच्छेद 243E"
+  },
+  {
+    "option_1": "",
+    "option_2": "",
+    "option_3": "",
+    "option_4": "",
+    "question": "According to the recently released 'Technology and Innovation Report 2025', what is the position of India in the 'Readiness for Frontier Technologies' index?",
+    "answer": "3",
+    "solution": "36वाँ\n\n'प्रौद्योगिकी और नवाचार रिपोर्ट 2025' संयुक्त राष्ट्र व्यापार और विकास संगठन (UNCTAD) द्वारा जारी की जाती है। इसमें ‘फ्रंटियर टेक्नोलॉजीज के लिए तत्परता सूचकांक’ (Readiness Index for Frontier Technologies) में भारत को 36वाँ स्थान मिला है। यह सूचकांक ICT परिनियोजन, कौशल, अनुसंधान व विकास, औद्योगिक क्षमता और वित्तीय पहुँच जैसे संकेतकों के आधार पर तैयार किया गया है।\n\nयह रिपोर्ट विभिन्न देशों की प्रमुख प्रौद्योगिकियों, जैसे AI, रोबोटिक्स, IoT और जैव प्रौद्योगिकी के लिए तत्परता और निवेश का मूल्यांकन करती है।\n\nसंयुक्त राष्ट्र व्यापार और विकास सम्मेलन (UNCTAD) संयुक्त राष्ट्र सचिवालय के भीतर एक स्थायी अंतर-सरकारी निकाय है, जिसे विश्व व्यापार में विकासशील देशों के हितों को बढ़ावा देने के लिए स्थापित किया गया है\n\nइसकी स्थापना 1964 में हुई थी और इसका मुख्यालय जिनेवा, स्विटजरलैंड में है।"
+  },
+  {
+    "option_1": "Bhutan",
+    "option_2": "Nepal",
+    "option_3": "Sri Lanka",
+    "option_4": "Maldives",
+    "question": "Which country honoured Prime Minister Narendra Modi with its highest civilian honour on April 2025?",
+    "answer": "3",
+    "solution": "श्री श्रीलंका\n\nलंका के राष्ट्रपति अनुरा कुमार दिसानायके ने प्रधानमंत्री नरेंद्र मोदी को 'श्रीलंका मित्र विभूषण' से सम्मानित किया। यह श्रीलंका का सर्वोच्च नागरिक सम्मान है, और यह मोदी जी का 22वाँ अंतर्राष्ट्रीय सम्मान है।"
+  }
+]
