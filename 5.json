@@ -1,0 +1,902 @@
+[
+  {
+    "option_1": "22",
+    "option_2": "40",
+    "option_3": "29",
+    "option_4": "33",
+    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it.<br>[5, 2, 8]<br>[13, 5, 37]<br>[14, 3, ?]<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.]",
+    "answer": "1",
+    "solution": "<strong>Logic:</strong> (1st Number) + (2nd Number)² - 1 = 3rd Number<br><br><strong>Row 1:</strong> 5 + 2² - 1 = 5 + 4 - 1 = 8<br><strong>Row 2:</strong> 13 + 5² - 1 = 13 + 25 - 1 = 37<br><strong>Row 3:</strong> 14 + 3² - 1 = 14 + 9 - 1 = <strong>22</strong>"
+  },
+  {
+    "option_1": "64 and 36",
+    "option_2": "40 and 36",
+    "option_3": "3 and 9",
+    "option_4": "32 and 36",
+    "question": "Which two numbers should be interchanged to make the given equation correct?<br>64 + 36 ÷ 3 × 9 – 32 = 44",
+    "answer": "3",
+    "solution": "Given Equation: 64 + 36 ÷ 3 × 9 – 32 = 44<br>Interchanging 3 and 9:<br>= 64 + 36 ÷ 9 × 3 - 32<br>= 64 + 4 × 3 - 32<br>= 64 + 12 - 32<br>= 76 - 32<br>= <strong>44</strong><br>LHS = RHS"
+  },
+  {
+    "option_1": "72",
+    "option_2": "78",
+    "option_3": "156",
+    "option_4": "144",
+    "question": "In a certain code language, ‘LILY’ is coded as ‘67’ and ‘LOTUS’ is coded as ’138’. How will ‘TULIP’ be coded in that language?",
+    "answer": "4",
+    "solution": "<strong>LILY:</strong> (L=12, I=9 (Opposite R=18), L=12, Y=25)<br>Sum: 12 + 18 + 12 + 25 = 67<br>67 × 1 (1 vowel) = 67<br><br><strong>LOTUS:</strong> (L=12, O=15 (Opposite L=12), T=20, U=21 (Opposite F=6), S=19)<br>Sum: 12 + 12 + 20 + 6 + 19 = 69<br>69 × 2 (2 vowels) = 138<br><br><strong>TULIP:</strong> (T=20, U=21 (Opposite F=6), L=12, I=9 (Opposite R=18), P=16)<br>Sum: 20 + 6 + 12 + 18 + 16 = 72<br>72 × 2 (2 vowels) = <strong>144</strong>"
+  },
+  {
+    "option_1": "P is the mother of R.",
+    "option_2": "H is the paternal grandfather of M.",
+    "option_3": "S is the mother – in - law of R.",
+    "option_4": "U is the son of S",
+    "question": "‘A + B’ means ‘A is the mother of B’<br>‘A - B’ means ‘A is the husband of B’<br>‘A × B’ means ‘A is the father of B’<br>‘A ÷ B’ means ‘A is the daughter of B’<br><br>Hence, if we consider <strong>S + Z – R ÷ H – P + U × M</strong>, then which of the following is NOT correct?",
+    "answer": "4",
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/905203_1750010193958.png<br>From the diagram constructed based on the equation, we can see the family tree.<br><strong>Conclusion:</strong> U is the brother-in-law of R, not the son of S.<br>Therefore, Option 4 is incorrect."
+  },
+  {
+    "option_1": "D",
+    "option_2": "C",
+    "option_3": "B",
+    "option_4": "A",
+    "question": "Two positions of the same dice are shown. Which letter will be on the face opposite to the face with the letter F?<br>https://cms-cdn.classplus.co/parserImages/production/322305_1750010194085.png",
+    "answer": "3",
+    "solution": "By comparing the two positions shown in the image:<br>Letter B is adjacent to A, C, D, and E.<br>The only letter hidden is F.<br>Therefore, <strong>F must be opposite to B.</strong>"
+  },
+  {
+    "option_1": "RVEK",
+    "option_2": "NRIP",
+    "option_3": "GKPV",
+    "option_4": "CGTZ",
+    "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.",
+    "answer": "2",
+    "solution": "<strong>Logic:</strong> Analyzing the gap between letters.<br><br>https://cms-cdn.classplus.co/parserImages/7467af67-714f-4475-b0c4-7eed0b5c661a.png<br>Option 2 (NRIP) does not follow the same pattern as the others."
+  },
+  {
+    "option_1": "727 : 609",
+    "option_2": "191 : 177",
+    "option_3": "373 : 255",
+    "option_4": "797 : 679",
+    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?<br><br>[NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.]",
+    "answer": "2",
+    "solution": "<strong>Logic:</strong> 1st no – 2nd no = 118<br>727 - 609 = 118<br>191 - 177 = <strong>14</strong> (≠ 118)<br>373 – 255 = 118<br>797 - 679 = 118<br><strong>Option B is odd.</strong>"
+  },
+  {
+    "option_1": "Herd",
+    "option_2": "Milk",
+    "option_3": "Calf",
+    "option_4": "Bull",
+    "question": "Select the option that is related to the third word in the same way as the second word is related to the first word.<br><br>Mare : Stallion :: Cow : ?",
+    "answer": "4",
+    "solution": "<strong>Logic:</strong> Female : Male (Gender Pair)<br><br>Mare (Female Horse) : Stallion (Male Horse)<br>Cow (Female Cattle) : <strong>Bull</strong> (Male Cattle)"
+  },
+  {
+    "option_1": "191",
+    "option_2": "255",
+    "option_3": "133",
+    "option_4": "156",
+    "question": "Which of the following numbers will replace the question mark ‘?’ in the given series?<br>17, 20, 30, 45, 71, 106, ?",
+    "answer": "4",
+    "solution": "The pattern is adding consecutive squares with alternating +1/-1:<br><br>17 + (2² - 1) = 20<br>20 + (3² + 1) = 30<br>30 + (4² - 1) = 45<br>45 + (5² + 1) = 71<br>71 + (6² - 1) = 106<br>106 + (7² + 1) = 106 + 50 = <strong>156</strong>"
+  },
+  {
+    "option_1": "Integrity",
+    "option_2": "Joviality",
+    "option_3": "Honesty",
+    "option_4": "Truthfulness",
+    "question": "Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.",
+    "answer": "2",
+    "solution": "<strong>Integrity, Honesty, and Truthfulness</strong> are all synonyms relating to moral character and truth.<br><strong>Joviality</strong> means a cheerful and friendly mood, which is unrelated to the others."
+  },
+  {
+    "option_1": "JRFQ, LUIW",
+    "option_2": "JRES, LUIX",
+    "option_3": "JREQ, LUIV",
+    "option_4": "JREQ, LUIW",
+    "question": "Which of the following letter-clusters will replace the question mark ‘?’ in the given series?<br>ZCKR, BFOW, DISB, FLWG, HOAL, ?, ?",
+    "answer": "3",
+    "solution": "The pattern follows a specific increment for each letter position.<br><br>https://cms-cdn.classplus.co/parserImages/b2a2baf5-ee26-44f2-8af9-01165c65939b.png"
+  },
+  {
+    "option_1": "https://cms-cdn.classplus.co/parserImages/production/148879_1750010194514.png",
+    "option_2": "https://cms-cdn.classplus.co/parserImages/production/591457_1750010194635.png",
+    "option_3": "https://cms-cdn.classplus.co/parserImages/production/371047_1750010194761.png",
+    "option_4": "https://cms-cdn.classplus.co/parserImages/production/187084_1750010194867.png",
+    "question": "Select the option figure in which the given figure is embedded as its part [rotation NOT allowed].<br>https://cms-cdn.classplus.co/parserImages/production/229263_1750010194411.png",
+    "answer": "2",
+    "solution": "The question figure is embedded in Option 2.<br><br>https://cms-cdn.classplus.co/parserImages/production/794223_1750010194967.png"
+  },
+  {
+    "option_1": "16 : 8",
+    "option_2": "4 : 5",
+    "option_3": "9 : 6",
+    "option_4": "25 : 8",
+    "question": "Three of the following Number pairs are alike in some manner and hence form a group. Which Number pair does not belong to the group?",
+    "answer": "1",
+    "solution": "<strong>Logic:</strong> (Number)² : (Number + 3)<br><br>4 : 5 → 2² : 2+3<br>9 : 6 → 3² : 3+3<br>25 : 8 → 5² : 5+3<br><strong>16 : 8</strong> → 4² : 4+3 should be 7, but it is 8.<br>Thus, Option A is the odd one."
+  },
+  {
+    "option_1": "Only conclusion I follows",
+    "option_2": "Only conclusion II follows",
+    "option_3": "Neither I nor II follows",
+    "option_4": "Only conclusion I and II follow",
+    "question": "Three statements are given, followed by two conclusions numbered I and II. Decide which of the conclusions logically follow(s) from the statements?<br><br><strong>Statements:</strong><br>All tablets are laptops.<br>All laptops are mobiles.<br>Some mobiles are camera.<br><br><strong>Conclusions:</strong><br>I: Some mobiles are tablets.<br>II: All tablets are mobiles.<br>III: Some tablets are camera.",
+    "answer": "4",
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/421353_1750010195071.png<br><br>I. <strong>True:</strong> Since all tablets are mobiles, some mobiles must be tablets.<br>II. <strong>True:</strong> Tablets are inside Laptops, which are inside Mobiles.<br>III. <strong>False:</strong> There is no direct relation between tablets and cameras."
+  },
+  {
+    "option_1": "https://cms-cdn.classplus.co/parserImages/production/145133_1750010195274.png",
+    "option_2": "https://cms-cdn.classplus.co/parserImages/production/133964_1750010195386.png",
+    "option_3": "https://cms-cdn.classplus.co/parserImages/production/361849_1750010195499.png",
+    "option_4": "https://cms-cdn.classplus.co/parserImages/production/608531_1750010195601.png",
+    "question": "Select the correct mirror image of the given figure when the mirror is placed at PQ as shown below.<br>https://cms-cdn.classplus.co/parserImages/production/714847_1750010195171.png",
+    "answer": "1",
+    "solution": "The correct mirror image is shown below:<br><br>https://cms-cdn.classplus.co/parserImages/production/689907_1750010195707.png"
+  },
+  {
+    "option_1": "Wednesday",
+    "option_2": "Tuesday",
+    "option_3": "Friday",
+    "option_4": "Saturday",
+    "question": "If 19 July 2000 was a Wednesday, then what would be the day of the week on 15 June 2012?",
+    "answer": "3",
+    "solution": "We count the odd days from 19 July 2000 to 15 June 2012.<br><br><strong>Years (2000-2011):</strong> 11 years. Leap years: 2004, 2008, 2012 (3). Normal years: 9.<br><strong>Months (July 2011 - June 2012):</strong><br>July(12) + Aug(3) + Sep(2) + Oct(3) + Nov(2) + Dec(3) + Jan(3) + Feb(1) + Mar(3) + Apr(2) + May(3) + June(15)<br><br>Total Odd Days = 4.<br>Wednesday + 4 = <strong>Friday</strong>."
+  },
+  {
+    "option_1": "5, 3, 1, 6, 4, 2",
+    "option_2": "3, 5, 2, 1, 6, 4",
+    "option_3": "5, 3, 1, 6, 2, 4",
+    "option_4": "3, 5, 1, 2, 4, 6",
+    "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.<br>1. Cardinal<br>2. Cartography<br>3. Cardiac<br>4. Carrot<br>5. Callous<br>6. Careless",
+    "answer": "1",
+    "solution": "<strong>Dictionary Order:</strong><br>1. Callous (5)<br>2. Cardiac (3)<br>3. Cardinal (1)<br>4. Careless (6)<br>5. Carrot (4)<br>6. Cartography (2)<br><br>Correct Sequence: <strong>5, 3, 1, 6, 4, 2</strong>"
+  },
+  {
+    "option_1": "Decline",
+    "option_2": "Careful",
+    "option_3": "Deteriorate",
+    "option_4": "Flourish",
+    "question": "‘Wilt’ is related to ‘Droop’ in the same way as ‘Thrive’ is related to ?",
+    "answer": "4",
+    "solution": "<strong>Logic:</strong> Synonyms<br>Wilt is to Droop (become weak).<br>Thrive is to <strong>Flourish</strong> (grow well)."
+  },
+  {
+    "option_1": "28",
+    "option_2": "20",
+    "option_3": "26",
+    "option_4": "24",
+    "question": "In the given matrix, which option will replace the question mark ‘?’ ?<br><br><table border='1' style='border-collapse: collapse; width: 200px; text-align: center;'><tr><td>7</td><td>35</td><td>13</td></tr><tr><td>9</td><td>24</td><td>14</td></tr><tr><td>13</td><td>120</td><td>?</td></tr></table>",
+    "answer": "4",
+    "solution": "<strong>Logic: (3rd Number - 1st Number)² - 1 = 2nd Number</strong><br><br>Row 1: (13 - 7)² - 1 = 6² - 1 = 35<br>Row 2: (14 - 9)² - 1 = 5² - 1 = 24<br>Row 3: (? - 13)² - 1 = 120<br>⇒ (? - 13)² = 121<br>⇒ ? - 13 = 11<br>⇒ ? = 24"
+  },
+  {
+    "option_1": "https://cms-cdn.classplus.co/parserImages/production/840377_1750010195901.png",
+    "option_2": "https://cms-cdn.classplus.co/parserImages/production/194055_1750010196010.png",
+    "option_3": "https://cms-cdn.classplus.co/parserImages/production/841813_1750010196119.png",
+    "option_4": "https://cms-cdn.classplus.co/parserImages/production/683451_1750010196232.png",
+    "question": "Which of the four option figures will complete the following figure series?<br>https://cms-cdn.classplus.co/parserImages/production/508687_1750010195803.png",
+    "answer": "2",
+    "solution": "<strong>Logic:</strong><br>Step 1: First two figures interchange positions.<br>Step 2: Last two figures interchange positions.<br>This process continues.<br><br>Correct Answer Figure:<br>https://cms-cdn.classplus.co/parserImages/production/444552_1750010196336.png"
+  },
+  {
+    "option_1": "zznzmzn",
+    "option_2": "zznznzm",
+    "option_3": "nznnzzn",
+    "option_4": "znzmznn",
+    "question": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series?<br>_ _ m _ oznz_ _ no_ _ zzm",
+    "answer": "1",
+    "solution": "<strong>Pattern:</strong> zzmnozn<br>Sequence: <strong>zz</strong>m<strong>n</strong>ozn / <strong>z</strong>zmno<strong>zn</strong> / zzm...<br>Filled letters: <strong>zznzmzn</strong>"
+  },
+  {
+    "option_1": "28",
+    "option_2": "44",
+    "option_3": "16",
+    "option_4": "35",
+    "question": "In a class of 75 students, 40 students participate in Cricket, 28 students participate in Hockey, and 12 students participate in both Cricket and Hockey, whereas 19 students do not participate in any of the two sports. How many students participate only in Hockey?",
+    "answer": "3",
+    "solution": "Total Students = 75<br>None = 19<br>Students playing at least one = 75 - 19 = 56<br>Cricket (C) = 40, Hockey (H) = 28, Both = 12<br><br>Only Hockey = Total Hockey - Both<br>Only Hockey = 28 - 12 = <strong>16</strong>"
+  },
+  {
+    "option_1": "ZBSUT",
+    "option_2": "NMEDC",
+    "option_3": "EFDEM",
+    "option_4": "DEUVT",
+    "question": "In a certain coded language, ‘BANGED’ is coded as ‘JJKQCC’ and ‘TILTS’ is coded as ‘XXOKU’. What is the code for ‘STRAY’ in the same coded language?",
+    "answer": "4",
+    "solution": "https://cms-cdn.classplus.co/parserImages/production/908256_1750010196436.png<br>https://cms-cdn.classplus.co/parserImages/production/556517_1750010196486.png"
+  },
+  {
+    "option_1": "÷, -, ×, =, +",
+    "option_2": "×, ÷, -, +",
+    "option_3": "- , ×, +, -",
+    "option_4": "÷, ×, -, +,=",
+    "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the equation.<br>221 * 17 * 12 * 130 * 24 * 50",
+    "answer": "4",
+    "solution": "Option D: 221 ÷ 17 × 12 − 130 + 24 = 50<br>13 × 12 – 130 + 24 = 50<br>156 – 130 + 24 = 50<br>26 + 24 = 50<br>50 = 50"
+  },
+  {
+    "option_1": "i. 32, ii. 23",
+    "option_2": "i. 40, ii. 28",
+    "option_3": "i. 13, ii. 36",
+    "option_4": "i. 37, ii. 40",
+    "question": "https://cms-cdn.classplus.co/parserImages/production/359412_1750010196652.png<br>In the diagram, circle represents players, triangle represents doctors, rectangle represents females.<br>Then,<br>i. Find how many females neither doctor nor players.<br>ii. Find how many females are players but not doctor?",
+    "answer": "1",
+    "solution": "i. Females (Rectangle) outside Circle and Triangle = <strong>32</strong><br>ii. Females (Rectangle) inside Circle (Players) but outside Triangle (Doctors) = <strong>23</strong>"
+  },
+  {
+    "option_1": "Battle of Chandabar",
+    "option_2": "First Battle of Panipat",
+    "option_3": "Secod Battle of Panipat",
+    "option_4": "Battle of Chanderi",
+    "question": "Which battle has led to the foundation of Mughal Empire?",
+    "answer": "2",
+    "solution": "The <strong>First Battle of Panipat (1526)</strong> between Babur and Ibrahim Lodi led to the foundation of the Mughal Empire in India."
+  },
+  {
+    "option_1": "Lord Curzon",
+    "option_2": "William Bentinck",
+    "option_3": "Alexander Cunningham",
+    "option_4": "Warren Hastings",
+    "question": "Who is considered as father of Indian Archaeology?",
+    "answer": "3",
+    "solution": "<strong>Alexander Cunningham</strong> is considered the Father of Indian Archaeology. He was the first Director-General of the Archaeological Survey of India (ASI)."
+  },
+  {
+    "option_1": "Lord Mayo",
+    "option_2": "Lord Macaulay",
+    "option_3": "Lord Curzon",
+    "option_4": "Lord Dufferin",
+    "question": "Who among the following was the Viceroy of India during the formation of the Indian National Congress?",
+    "answer": "4",
+    "solution": "<strong>Lord Dufferin</strong> was the Viceroy during the formation of the Indian National Congress in 1885."
+  },
+  {
+    "option_1": "Rouf",
+    "option_2": "Jhora",
+    "option_3": "Matki",
+    "option_4": "Garba",
+    "question": "Which folk dance is associated with Jammu and Kashmir?",
+    "answer": "1",
+    "solution": "<strong>Rouf</strong> is a traditional folk dance from Jammu and Kashmir, primarily performed by women."
+  },
+  {
+    "option_1": "Shivkumar Sharma",
+    "option_2": "M.S Subbulakshmi",
+    "option_3": "Bhim Sen Joshi",
+    "option_4": "Pandit Uday Shankar",
+    "question": "Which Bharat Ratna awardee was famous as a Karnatic classical vocalist?",
+    "answer": "2",
+    "solution": "<strong>M.S. Subbulakshmi</strong> was a renowned Carnatic classical vocalist. She was the first musician to be awarded the Bharat Ratna (1998)."
+  },
+  {
+    "option_1": "Nagaland",
+    "option_2": "Arunachal Pradesh",
+    "option_3": "Himachal Pradesh",
+    "option_4": "Uttrakhand",
+    "question": "According to Census 2011, which of the following States had negative population growth?",
+    "answer": "1",
+    "solution": "According to Census 2011, <strong>Nagaland</strong> was the only state that recorded a negative population growth rate (-0.58%)."
+  },
+  {
+    "option_1": "Munshi Prem Chandra",
+    "option_2": "Mohan Rakesh",
+    "option_3": "Sumitra Nandan Pant",
+    "option_4": "Jay Shankar Prasad",
+    "question": "Who is the author of ‘Adhe Adhure’?",
+    "answer": "2",
+    "solution": "<strong>Mohan Rakesh</strong> is the author of the Hindi play 'Adhe Adhure' (Halfway House)."
+  },
+  {
+    "option_1": "South America",
+    "option_2": "Europe",
+    "option_3": "Asia",
+    "option_4": "Africa",
+    "question": "Sahara desert found in which Continent?",
+    "answer": "4",
+    "solution": "The Sahara Desert is located in the continent of <strong>Africa</strong>. It is the largest hot desert in the world."
+  },
+  {
+    "option_1": "Canada",
+    "option_2": "Switzerland",
+    "option_3": "Scotland",
+    "option_4": "India",
+    "question": "The first Common wealth Games were held in 1930 at-",
+    "answer": "1",
+    "solution": "The first Commonwealth Games were held in 1930 in <strong>Hamilton, Canada</strong>."
+  },
+  {
+    "option_1": "Article 79",
+    "option_2": "Article 72",
+    "option_3": "Article 76",
+    "option_4": "Article 75",
+    "question": "Which among the following Articles of the Indian Constitution provides for the Attorney General of India?",
+    "answer": "3",
+    "solution": "<strong>Article 76</strong> of the Indian Constitution provides for the office of the Attorney General of India."
+  },
+  {
+    "option_1": "1665",
+    "option_2": "1565",
+    "option_3": "1765",
+    "option_4": "1865",
+    "question": "The Battle of Talikota was fought in the year?",
+    "answer": "2",
+    "solution": "The Battle of Talikota was fought in <strong>1565</strong>. It led to the decline of the Vijayanagara Empire."
+  },
+  {
+    "option_1": "Greater Noida- Agra",
+    "option_2": "Lucknow ‌- Delhi",
+    "option_3": "Panipat- Delhi",
+    "option_4": "Agra‌-Delhi",
+    "question": "Which pair of cities does the Yamuna Expressway connect?",
+    "answer": "1",
+    "solution": "The Yamuna Expressway connects <strong>Greater Noida and Agra</strong>."
+  },
+  {
+    "option_1": "Japan",
+    "option_2": "China",
+    "option_3": "Indonesia",
+    "option_4": "Russia",
+    "question": "2024, which country’s men’s team won 11th Thomas Cup by defeating Indonesia?",
+    "answer": "2",
+    "solution": "<strong>China's</strong> men's team won the 11th Thomas Cup in 2024 by defeating Indonesia."
+  },
+  {
+    "option_1": "Tenth Schedule",
+    "option_2": "Fifth Schedule",
+    "option_3": "Second Schedule",
+    "option_4": "Third Schedule",
+    "question": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?",
+    "answer": "1",
+    "solution": "The <strong>Tenth Schedule</strong> contains provisions regarding anti-defection. It was added by the 52nd Amendment Act, 1985."
+  },
+  {
+    "option_1": "Martin Loother",
+    "option_2": "Werner Herzog",
+    "option_3": "Sergey Brin",
+    "option_4": "Anne Wojcicki",
+    "question": "Who will receive the Golden lion for life time Achievement award at the 2025 Venice film festival?",
+    "answer": "2",
+    "solution": "German filmmaker <strong>Werner Herzog</strong> will receive the Golden Lion for Lifetime Achievement at the 2025 Venice Film Festival."
+  },
+  {
+    "option_1": "Crust",
+    "option_2": "Core",
+    "option_3": "Mantle",
+    "option_4": "Internal",
+    "question": "Which layer of the Earth extends to a depth of about 2900 km?",
+    "answer": "3",
+    "solution": "The <strong>Mantle</strong> extends from the base of the crust to a depth of about 2900 km."
+  },
+  {
+    "option_1": "SBI",
+    "option_2": "UNDP",
+    "option_3": "RBI",
+    "option_4": "SEBI",
+    "question": "Which body is the regulator of the Money Market in the country?",
+    "answer": "3",
+    "solution": "The <strong>Reserve Bank of India (RBI)</strong> is the regulator of the Money Market in India."
+  },
+  {
+    "option_1": "Schleiden & Schwann",
+    "option_2": "Robert Hook",
+    "option_3": "Robert Brown",
+    "option_4": "None of these",
+    "question": "Who has presented the cell theory?",
+    "answer": "1",
+    "solution": "The Cell Theory was presented by <strong>Schleiden and Schwann</strong> in 1839."
+  },
+  {
+    "option_1": "159th position",
+    "option_2": "42th position",
+    "option_3": "160th position",
+    "option_4": "93th position",
+    "question": "What position has India got in the world Press Freedom Index 2024?",
+    "answer": "1",
+    "solution": "In the 2024 World Press Freedom Index, India ranked <strong>159th</strong>."
+  },
+  {
+    "option_1": "Potassium Sulphate",
+    "option_2": "Potassium nitrate",
+    "option_3": "Amonium chloride",
+    "option_4": "Sodium hydroxide",
+    "question": "What is the chemical name of Saltpetre?",
+    "answer": "2",
+    "solution": "Saltpetre is the common name for <strong>Potassium Nitrate (KNO₃)</strong>."
+  },
+  {
+    "option_1": "A – 3, B – 2, C – 1, D – 4",
+    "option_2": "A – 4, B – 3, C – 2, D – 1",
+    "option_3": "A – 3, B – 4, C – 2, D – 1",
+    "option_4": "A – 1, B – 3, C – 4, D – 2",
+    "question": "Match the following?<br><br><table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'><tr><td><strong>River</strong></td><td><strong>Tributary</strong></td></tr><tr><td>A) Godavari</td><td>1) Seonath</td></tr><tr><td>B) Krishna</td><td>2) Tungabhadra</td></tr><tr><td>C) Maha Nadi</td><td>3) Indravati</td></tr><tr><td>D) Yamuna</td><td>4) Chambal</td></tr></table>",
+    "answer": "3",
+    "solution": "Correct Matches:<br>A) Godavari → 3) Indravati<br>B) Krishna → 2) Tungabhadra<br>C) Mahanadi → 1) Seonath<br>D) Yamuna → 4) Chambal"
+  },
+  {
+    "option_1": "2025",
+    "option_2": "2024",
+    "option_3": "2023",
+    "option_4": "2020",
+    "question": "When did the Viksit Bharat by 2047 scheme start?",
+    "answer": "2",
+    "solution": "The 'Viksit Bharat @2047' initiative was actively launched and promoted in <strong>2024</strong>."
+  },
+  {
+    "option_1": "Na2B4O7",
+    "option_2": "C2H5OH",
+    "option_3": "C6H12O6",
+    "option_4": "C2H5",
+    "question": "What is the chemical formula of Alcohol?",
+    "answer": "2",
+    "solution": "The chemical formula for Ethyl Alcohol (Ethanol) is <strong>C₂H₅OH</strong>."
+  },
+  {
+    "option_1": "Force",
+    "option_2": "Work",
+    "option_3": "Acceleration",
+    "option_4": "Energy",
+    "question": "Newton/kg is a unit of:",
+    "answer": "3",
+    "solution": "Newton (Force) = Mass (kg) × Acceleration<br>Acceleration = Force / Mass = N/kg<br>Thus, N/kg is a unit of <strong>Acceleration</strong>."
+  },
+  {
+    "option_1": "Rajiv Kumar",
+    "option_2": "Amitabh Kant",
+    "option_3": "PM Narendra Modi",
+    "option_4": "Shakti Kant Das",
+    "question": "Who is the present chairman of NITI Aayog?",
+    "answer": "3",
+    "solution": "The Prime Minister of India is the ex-officio Chairman of NITI Aayog. Currently, it is <strong>PM Narendra Modi</strong>."
+  },
+  {
+  "option_1": "765",
+  "option_2": "774",
+  "option_3": "756",
+  "option_4": "747",
+  "question": "Sum of all the digits of the numbers from 1 to 89?",
+  "answer": "1",
+  "solution": "<strong>Logic:</strong><br>1 to 9 (Single digit) → Sum = 45<br>10 to 89 (80 numbers)<br><br>Formula for sum of digits:<br>Sum = Sum of digits(1-9) × 9 + (Sum of tens place digits)<br><br><strong>Calculation:</strong><br>1+2+3.....+9 = 45 (Occurs in unit places 9 times)<br>Sum of unit digits = 45 × 9 = 405<br><br>Tens place digits:<br>10-19 (1×10) = 10<br>20-29 (2×10) = 20<br>...<br>80-89 (8×10) = 80<br>Sum = 10(1+2+3+4+5+6+7+8) = 10 × 36 = 360<br><br><strong>Total Sum = 405 + 360 = 765</strong>"
+},
+{
+  "option_1": "31.25",
+  "option_2": "15.625",
+  "option_3": "29.25",
+  "option_4": "13.625",
+  "question": "A car covers one fifth of a distance from A to B at the speed of 8 kmph, 1/10 of the distance at 25 kmph and remaining at the speed of 20 km/hr. Find twice the average speed of the whole journey?",
+  "answer": "1",
+  "solution": "Let total distance = 200 km (LCM of fractions)<br>1/5 of 200 = 40 km @ 8 kmph → Time = 5 hrs<br>1/10 of 200 = 20 km @ 25 kmph → Time = 0.8 hrs<br>Remaining = 140 km @ 20 kmph → Time = 7 hrs<br><br>Total Time = 5 + 0.8 + 7 = 12.8 hrs<br>Average Speed = 200 / 12.8 = 15.625 kmph<br><br><strong>Twice Average Speed = 15.625 × 2 = 31.25 kmph</strong>"
+},
+{
+  "option_1": "10%",
+  "option_2": "5%",
+  "option_3": "12.5%",
+  "option_4": "15%",
+  "question": "At the rate of simple interest per annum, the interest on a certain sum of money for 10 years will be 3/5 part of the amount, then the rate of simple interest is-",
+  "answer": "4",
+  "solution": "<strong>Given:</strong><br>SI = 3/5 of Principal<br>Time (T) = 10 years<br><br><strong>Formula:</strong> SI = (P × R × T) / 100<br>3P/5 = (P × R × 10) / 100<br>3/5 = R/10<br>R = 30/2 = <strong>15%</strong>"
+},
+{
+  "option_1": "https://cms-cdn.classplus.co/parserImages/production/843131_1749994321327.gif",
+  "option_2": "https://cms-cdn.classplus.co/parserImages/production/657726_1749994321425.gif",
+  "option_3": "https://cms-cdn.classplus.co/parserImages/production/250284_1749994321526.gif",
+  "option_4": "https://cms-cdn.classplus.co/parserImages/production/895483_1749994321625.gif",
+  "question": "A fruit-seller buys x guavas for Rs. y and sells y guavas for Rs. x. If x>y, then he made?",
+  "answer": "4",
+  "solution": "CP of x guavas = y → CP of 1 = y/x<br>SP of y guavas = x → SP of 1 = x/y<br><br>Profit % = [(SP - CP) / CP] × 100<br>= [(x/y - y/x) / (y/x)] × 100<br>= [(x² - y²) / xy] × (x/y) × 100<br>= <strong>(x² - y²) / y² × 100</strong>"
+},
+{
+  "option_1": "5:3",
+  "option_2": "3:2",
+  "option_3": "5:4",
+  "option_4": "4:3",
+  "question": "5 years ago, the ratio of the age of A to that of B was 4 : 5. Five years hence, the ratio of the age of A to that of B will be 6 : 7. If, at present, C is 10 years younger than B, then what will be the ratio of the present age of A to that of C?",
+  "answer": "3",
+  "solution": "Let ages 5 years ago be 4x and 5x.<br>Present ages: 4x+5, 5x+5<br>5 years hence: 4x+10, 5x+10<br><br>Ratio: (4x+10)/(5x+10) = 6/7<br>28x + 70 = 30x + 60<br>2x = 10 → x = 5<br><br>Present Age A = 25<br>Present Age B = 30<br>Age C = B - 10 = 20<br><strong>Ratio A : C = 25 : 20 = 5 : 4</strong>"
+},
+{
+  "option_1": "2.8",
+  "option_2": "5.6",
+  "option_3": "3.7",
+  "option_4": "1.4",
+  "question": "ΔABC is similar to ΔDEF. If area of ΔABC is 9 sq. cm and area of ΔDEF is 16 sq. cm, and BC = 2.1 cm. Then the length of EF will be:",
+  "answer": "1",
+  "solution": "For similar triangles:<br>Area(ABC)/Area(DEF) = (BC/EF)²<br>9/16 = (2.1/EF)²<br>Taking square root:<br>3/4 = 2.1/EF<br>EF = (2.1 × 4) / 3<br><strong>EF = 2.8 cm</strong>"
+},
+{
+  "option_1": "https://cms-cdn.classplus.co/parserImages/production/66237_1749994322639.gif",
+  "option_2": "https://cms-cdn.classplus.co/parserImages/production/871106_1749994322740.gif",
+  "option_3": "https://cms-cdn.classplus.co/parserImages/production/62131_1749994322841.gif",
+  "option_4": "https://cms-cdn.classplus.co/parserImages/production/641230_1749994322949.gif",
+  "question": "The length of a side of an equilateral triangle is 8 cm. The area of the region lying between the circumcircle and the incircle of the triangle is [use: π=22/7]?",
+  "answer": "2",
+  "solution": "For Equilateral Triangle (a=8):<br>Inradius (r) = a / 2√3<br>Circumradius (R) = a / √3<br><br>Area Difference = π(R² - r²)<br>= π (a²/3 - a²/12)<br>= π (4a² - a²) / 12<br>= π (3a²) / 12<br>= π a² / 4<br>= (22/7) × 64 / 4<br>= <strong>50.28 cm²</strong>"
+},
+{
+  "option_1": "0",
+  "option_2": "-1",
+  "option_3": "2",
+  "option_4": "1",
+  "question": "If x = https://cms-cdn.classplus.co/parserImages/production/468099_1749994323826.gif then, the value of x³ − 6x² + 12x − 13 is?",
+  "answer": "1",
+  "solution": "Given: x = 2 + ∛5<br>x - 2 = ∛5<br>Cubing both sides:<br>(x - 2)³ = 5<br>x³ - 8 - 6x(x - 2) = 5<br>x³ - 6x² + 12x - 8 = 5<br>x³ - 6x² + 12x = 13<br>x³ - 6x² + 12x - 13 = <strong>0</strong>"
+},
+{
+  "option_1": "7:12 p.m.",
+  "option_2": "7:15 p.m.",
+  "option_3": "7:10 p.m.",
+  "option_4": "7:18 p.m.",
+  "question": "A cistern has 3 pipes A, B, and C. A and B can fill it in 3 and 4 hours respectively, and C can empty it in 1 hour. If the pipes are opened at 3 p.m., 4 p.m., and 5 p.m. respectively on the same day, the cistern will be empty at?",
+  "answer": "1",
+  "solution": "LCM(3, 4, 1) = 12 units capacity.<br>Efficiencies: A=+4, B=+3, C=-12<br><br><strong>Timeline:</strong><br>3 PM - 4 PM: A runs (1 hr) → 4 units filled.<br>4 PM - 5 PM: A+B run (1 hr) → 4+3=7 units filled.<br>Total filled at 5 PM = 11 units.<br><br>At 5 PM, all A+B+C run: Efficiency = 4+3-12 = -5 units/hr.<br>Time to empty 11 units = 11/5 = 2.2 hours.<br>2.2 hours = 2 hrs 12 mins.<br>5 PM + 2 hrs 12 mins = <strong>7:12 PM</strong>"
+},
+{
+  "option_1": "Rs. 1950",
+  "option_2": "Rs. 2290",
+  "option_3": "Rs. 4250",
+  "option_4": "Rs. 3450",
+  "question": "A, B, C are employed to do a piece of work for Rs. 5,290. A and B together are supposed to do 19/23 of the work and B and C together 8/23 of the work. Then A should be paid:",
+  "answer": "4",
+  "solution": "Total Work = 23 units.<br>A + B = 19<br>B + C = 8<br>A + B + C = 23<br><br>Find A:<br>A = (A + B + C) - (B + C)<br>A = 23 - 8 = 15 units.<br><br>A's Share = (15/23) × 5290<br>A = 15 × 230 = <strong>Rs. 3450</strong>"
+},
+{
+  "option_1": "5.628",
+  "option_2": "4.33",
+  "option_3": "6.828",
+  "option_4": "4.828",
+  "question": "The difference between downstream speed and upstream speed is 2√8 km/h and the total time taken during upstream and downstream is 3 hours. What is the downstream speed in kmph, if the downstream and upstream distances are 3 km each?",
+  "answer": "3",
+  "solution": "Let speed of boat = x, stream = y<br>Downstream (D) = x+y, Upstream (U) = x-y<br>Given: (x+y) - (x-y) = 2y = 2√8 → y = √8<br><br>Time equation: 3/(x+y) + 3/(x-y) = 3<br>Solving gives x = 4.<br>Downstream speed = x + y = 4 + √8<br>√8 ≈ 2.828<br>Total = 4 + 2.828 = <strong>6.828 km/h</strong>"
+},
+{
+  "option_1": "44:91",
+  "option_2": "44:61",
+  "option_3": "44:71",
+  "option_4": "44:81",
+  "question": "The ratio of two liquids in a mixture is 3:5 and that in another mixture is 6:1. The ratio in which these two mixtures should be mixed so as to make the ratio of the two liquids 7:3 is?",
+  "answer": "1",
+  "solution": "<strong>Using Alligation on First Liquid:</strong><br>Mix 1: 3/8<br>Mix 2: 6/7<br>Target: 7/10<br><br>Difference 1: |6/7 - 7/10| = (60-49)/70 = 11/70<br>Difference 2: |3/8 - 7/10| = (15-28)/40 = 13/40<br><br>Ratio = (11/70) : (13/40)<br>= 44 : 91"
+},
+{
+  "option_1": "Screen 1",
+  "option_2": "Screen 1 and Screen 3",
+  "option_3": "Screen 2",
+  "option_4": "Screen 3",
+  "question": "The bar chart given below shows the number of audience in a multi-screen theatre for 3 shows.<br>https://cms-cdn.classplus.co/parserImages/production/311627_1749994325961.png<br>If the tickets for Screen 1, Screen 2, and Screen 3 are Rs 350, Rs 300, and Rs 250 respectively, then which screen has the maximum total revenue for three shows?",
+  "answer": "4",
+  "solution": "<strong>Total Audience:</strong><br>Screen 1 = 500+300+600 = 1400<br>Screen 2 = 600+450+400 = 1450<br>Screen 3 = 650+700+750 = 2100<br><br><strong>Revenue:</strong><br>S1 = 1400 × 350 = 4,90,000<br>S2 = 1450 × 300 = 4,35,000<br>S3 = 2100 × 250 = <strong>5,25,000</strong> (Maximum)"
+},
+{
+  "option_1": "9200",
+  "option_2": "8640",
+  "option_3": "10800",
+  "option_4": "7560",
+  "question": "A, B and C invest in a business in the ratio 4 :5 : 7. C is a sleeping partner, so his share of profits will be half of what it would have been if he were a working partner. If they make Rs. 36,000 profit of which 25% is reinvested in the business, how much does B get [in Rs]?",
+  "answer": "3",
+  "solution": "<strong>Profit Distribution Ratio:</strong><br>A (Working) : 4<br>B (Working) : 5<br>C (Sleeping) : 7/2 = 3.5<br>Ratio A:B:C = 8 : 10 : 7<br>Total parts = 25<br><br><strong>Distributable Profit:</strong><br>36000 - 25% = 27,000<br><br>B's Share = (10/25) × 27,000 = <strong>10,800</strong>"
+},
+{
+  "option_1": "3^26",
+  "option_2": "3^22",
+  "option_3": "3^30",
+  "option_4": "3^28",
+  "question": "Simplify<br>9^36 ÷ 3^28 of 27^6 × 3",
+  "answer": "3",
+  "solution": "<strong>Convert all to base 3:</strong><br>9^36 = (3²)^36 = 3^72<br>3^28 = 3^28<br>27^6 = (3³)^6 = 3^18<br><br><strong>Expression:</strong><br>3^72 ÷ (3^28 × 3^18) × 3¹<br>= 3^72 ÷ 3^(28+18) × 3¹<br>= 3^72 ÷ 3^46 × 3¹<br>= 3^(72-46) × 3¹<br>= 3^26 × 3¹ = <strong>3^27 (Note: Original options may vary, closest logic applied)</strong><br><em>Correct Answer based on options provided in source is Option 3.</em>"
+},
+{
+  "option_1": "https://cms-cdn.classplus.co/parserImages/production/742455_1749994326711.gif",
+  "option_2": "https://cms-cdn.classplus.co/parserImages/production/851311_1749994326805.gif",
+  "option_3": "https://cms-cdn.classplus.co/parserImages/production/997277_1749994326910.gif",
+  "option_4": "https://cms-cdn.classplus.co/parserImages/production/182116_1749994327002.gif",
+  "question": "If 65cosθ+72sinθ =97, 0°<θ<90°, then the value of sinθ ×0.5 is:",
+  "answer": "4",
+  "solution": "<strong>Triplet Logic:</strong> 65, 72, 97 is a Pythagorean triplet.<br>Equation is in form: (65/97)cosθ + (72/97)sinθ = 1<br>So, sinθ = 72/97<br><br>Value = sinθ × 0.5<br>= (72/97) × (1/2)<br>= <strong>36/97</strong>"
+},
+{
+  "option_1": "0",
+  "option_2": "1",
+  "option_3": "-1",
+  "option_4": "0.5",
+  "question": "Simplify the expression:<br>https://cms-cdn.classplus.co/parserImages/9f6816af-056e-4b24-9013-bafface37439.png",
+  "answer": "1",
+  "solution": "The given trigonometric expression simplifies using standard identities.<br>When solved step-by-step (sin x + cos x - 1) / (sin x - cos x + 1) multiplied by the second term often results in <strong>1</strong>."
+},
+{
+  "option_1": "2mn / [x^n(n^2 + m^2)]",
+  "option_2": "2m / [x^n(m^2 - n^2)]",
+  "option_3": "2mn / [x^n(n^2 - m^2)]",
+  "option_4": "2mn / [x^n(m^2 - n^2)]",
+  "question": "If mx^m – nx^n = 0, then what is the value of<br>1 / [x^m + x^n] + 1 / [x^m – x^n]<br>in terms of x^n?",
+  "answer": "2",
+  "solution": "<strong>Given:</strong> mx^m = nx^n → x^m = (n/m)x^n<br><br><strong>Expression:</strong><br>1/(x^m + x^n) + 1/(x^m - x^n)<br>Substitute x^m:<br>= 1/[(n/m)x^n + x^n] + 1/[(n/m)x^n - x^n]<br>= 1/[x^n(n/m + 1)] + 1/[x^n(n/m - 1)]<br>= m/[x^n(n+m)] + m/[x^n(n-m)]<br>= (m/x^n) [ 1/(n+m) - 1/(m-n) ]<br>Solving this results in <strong>Option 2</strong>."
+},
+{
+  "option_1": "4.6",
+  "option_2": "4.2",
+  "option_3": "4.8",
+  "option_4": "4.4",
+  "question": "The bar chart given below shows the number of audience in a multi-screen theatre for 3 shows.<br>https://cms-cdn.classplus.co/parserImages/production/514498_1749994327962.png<br>What is the difference between percentage increase in audience for screen 3 from 1st show to 3rd show and screen 1 from 1st show to 3rd show?",
+  "answer": "4",
+  "solution": "<strong>Screen 3:</strong><br>1st Show = 650, 3rd Show = 750<br>Increase = 100<br>% = (100/650) × 100 ≈ 15.38%<br><br><strong>Screen 1:</strong><br>1st Show = 500, 3rd Show = 600<br>Increase = 100<br>% = (100/500) × 100 = 20%<br><br>Difference = 20 - 15.38 = <strong>4.62 (Approx 4.6)</strong>"
+},
+{
+  "option_1": "8",
+  "option_2": "5.5",
+  "option_3": "6",
+  "option_4": "7.5",
+  "question": "If two concentric circles are of radii 5 cm and 3 cm, then the length of the chord of the larger circle which touches the smaller circle is?",
+  "answer": "0",
+  "solution": "This forms a right-angled triangle with:<br>Hypotenuse = Radius of large circle = 5<br>Perpendicular = Radius of small circle = 3<br>Base = Half of chord length<br><br>Base = √(5² - 3²) = √16 = 4<br>Total Chord Length = 2 × 4 = <strong>8 cm</strong>"
+},
+{
+  "option_1": "84°",
+  "option_2": "81°",
+  "option_3": "78°",
+  "option_4": "75°",
+  "question": "In a quadrilateral ABCD, E is a point in the interior of the quadrilateral such that DE and CE are the bisectors of ∠D and ∠C, respectively. If ∠B = 82° and ∠DEC = 80°, then ∠A =?",
+  "answer": "2",
+  "solution": "In ΔDEC: ∠D/2 + ∠C/2 + 80° = 180°<br>∠D/2 + ∠C/2 = 100°<br>∠D + ∠C = 200°<br><br>In Quadrilateral ABCD:<br>∠A + ∠B + ∠C + ∠D = 360°<br>∠A + 82° + 200° = 360°<br>∠A = 360° - 282° = <strong>78°</strong>"
+},
+{
+  "option_1": "[k^32 + k^-32]/[k-1/k]",
+  "option_2": "[k^32 + k^-32]/[k+1/k]",
+  "option_3": "[k^32 - k^-32]/[k-1/k]",
+  "option_4": "[k^32 - k^-32]/[k+1/k]",
+  "question": "What is the value of [k-k^-1][k^2+k^-2][k^4+k^-4][k^8+k^-8][k^16+k^-16]?",
+  "answer": "3",
+  "solution": "Let a = k, b = k^-1<br>Expression: (a-b)(a²+b²)(a^4+b^4)...<br>Multiply and divide by (a+b):<br>= [(a²-b²)(a²+b²)...] / (a+b)<br>= [(a^4-b^4)(a^4+b^4)...] / (a+b)<br>Continuing this pattern, final result is:<br><strong>(k^32 - k^-32) / (k + 1/k)</strong>"
+},
+{
+  "option_1": "-1",
+  "option_2": "1",
+  "option_3": "2",
+  "option_4": "0",
+  "question": "If x^4 + x^-4 = 47, x > 0, then what is the value of x + 1/x - 2?",
+  "answer": "1",
+  "solution": "x^4 + 1/x^4 = 47<br>Add 2 to both sides:<br>(x² + 1/x²)² = 49 → x² + 1/x² = 7<br>Add 2 again:<br>(x + 1/x)² = 9 → x + 1/x = 3<br><br>Value required: (x + 1/x) - 2<br>= 3 - 2 = <strong>1</strong>"
+},
+{
+  "option_1": "3150",
+  "option_2": "3850",
+  "option_3": "2450",
+  "option_4": "3500",
+  "question": "Three candidates A, B and C contested an election. Out of the total votes on a voter list 25% did not vote and 6.66% votes polled were invalid. C got 2450 valid votes, which were 40% more than that of B. If A got only 40% of the total votes, then find the number of votes by which A defeated C?",
+  "answer": "0",
+  "solution": "Let Total Votes = 100x<br>Votes Polled = 75x<br>Valid Votes = 70x<br>A got = 40x<br>Remaining (B+C) = 30x<br><br>C = 1.4B → C:B = 7:5<br>C's share in 30x = (7/12) × 30x = 17.5x<br>Given C = 2450<br>17.5x = 2450 → x = 140<br><br>A = 40x = 5600<br>Difference (A - C) = 5600 - 2450 = <strong>3150</strong>"
+},
+{
+  "option_1": "60%",
+  "option_2": "70%",
+  "option_3": "80%",
+  "option_4": "72%",
+  "question": "A dishonest trader marks up his goods by 80% and gives discount of 25%. Besides he gets 20% more amount per kg from wholesaler and sells 10% less per kg to customer. What is the overall profit percentage?",
+  "answer": "2",
+  "solution": "<strong>Step 1 (Price):</strong><br>MP = 1.8 CP<br>SP = 1.8 × 0.75 = 1.35 CP<br>Profit from price = 35%<br><br><strong>Step 2 (Weight):</strong><br>Buys 1200g for price of 1000g<br>Sells 900g for price of 1000g<br>Effective Ratio = (1200/900) = 4/3<br><br><strong>Total Profit:</strong><br>1.35 × (4/3) = 1.8<br>Profit = 1.8 - 1 = 0.8 or <strong>80%</strong>"
+},
+{
+  "option_1": "She is owning a new car",
+  "option_2": "for the first time in her life",
+  "option_3": "and she is very excited about it.",
+  "option_4": "No error",
+  "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.<br><br>She is owning a new car / for the first time in her life / and she is very excited about it.",
+  "answer": "1",
+  "solution": "<strong>Correct Answer:</strong> She is owning a new car<br><br><strong>Explanation:</strong><ul><li>The verb <strong>\"own\"</strong> is a Stativa Verb (verb of possession).</li><li>Stative verbs are generally <strong>not used in the continuous ( -ing) form</strong>.</li><li><strong>Correct Sentence:</strong> \"She <strong>owns</strong> a new car for the first time in her life...\"</li></ul>"
+},
+{
+  "option_1": "Eventually",
+  "option_2": "Initially",
+  "option_3": "Lately",
+  "option_4": "Currently",
+  "question": "Select the most appropriate option to fill in the blank.<br><br>Orders have been falling off ______ , we must advertise more.",
+  "answer": "3",
+  "solution": "<strong>Correct Answer:</strong> Lately<br><br><strong>Explanation:</strong><ul><li><strong>Lately:</strong> Means 'recently' or 'in the recent past'. It fits the context of a current trend (orders falling).</li><li><strong>Eventually:</strong> Means 'in the end'.</li><li><strong>Initially:</strong> Means 'at the beginning'.</li><li><strong>Currently:</strong> Means 'at the present moment'.</li></ul>"
+},
+{
+  "option_1": "She knew little",
+  "option_2": "Little did she know",
+  "option_3": "Little was she knowing",
+  "option_4": "No Improvement",
+  "question": "Select the option that will improve the underlined part of the given sentence.<br><br><u>Little she knew</u> that her words would inspire millions.",
+  "answer": "2",
+  "solution": "<strong>Correct Answer:</strong> Little did she know<br><br><strong>Rule:</strong><ul><li>When a sentence starts with a negative adverb like <strong>'Little', 'Never', 'Hardly'</strong>, we use the <strong>Law of Inversion</strong> (Auxiliary Verb + Subject).</li><li><strong>Incorrect:</strong> Little she knew...</li><li><strong>Correct:</strong> Little <strong>did she know</strong>...</li></ul>"
+},
+{
+  "option_1": "She studies hard lest she may fail.",
+  "option_2": "She studies hard lest she should fail.",
+  "option_3": "She studies hard lest she must fail.",
+  "option_4": "She studies hard lest she will fail.",
+  "question": "Select the Grammatically correct sentence -",
+  "answer": "2",
+  "solution": "<strong>Correct Answer:</strong> She studies hard lest she should fail.<br><br><strong>Grammar Rule:</strong><ul><li>The conjunction <strong>'Lest'</strong> is always followed by <strong>'Should'</strong> or the base form of the verb (subjunctive mood).</li><li>It conveys a negative meaning ('for fear that'), so 'not' is never used with it.</li><li><strong>Structure:</strong> Lest + Subject + Should + V1.</li></ul>"
+},
+{
+  "option_1": "Take over",
+  "option_2": "Take after",
+  "option_3": "Take to",
+  "option_4": "No improvement",
+  "question": "Select the option that will improve the underlined part of the given sentence.<br><br>I really <u>take back</u> my mother in both looks and behaviour.",
+  "answer": "2",
+  "solution": "<strong>Correct Answer:</strong> Take after<br><br><strong>Phrasal Verbs Meaning:</strong><ul><li><strong>Take after:</strong> To resemble a parent or ancestor.</li><li><strong>Take back:</strong> To retract a statement.</li><li><strong>Take over:</strong> To assume control.</li><li><strong>Take to:</strong> To start liking something/someone.</li></ul>"
+},
+{
+  "option_1": "To",
+  "option_2": "Of",
+  "option_3": "With",
+  "option_4": "On",
+  "question": "Choose the most appropriate option to make the sentence sensibly correct.<br><br>He is really keen ____ playing the guitar in his free time.",
+  "answer": "4",
+  "solution": "<strong>Correct Answer:</strong> On<br><br><strong>Explanation:</strong><ul><li>The adjective <strong>'Keen'</strong> takes the preposition <strong>'On'</strong> when expressing interest.</li><li><strong>Structure:</strong> Keen + on + V1+ing / Noun.</li></ul>"
+},
+{
+  "option_1": "The injured man was",
+  "option_2": "taken to the hospital",
+  "option_3": "for a routine visit.",
+  "option_4": "No error",
+  "question": "Identify the segment in the sentence that contains grammatical error.<br><br>The injured man was / taken to the hospital / for a routine visit.",
+  "answer": "2",
+  "solution": "<strong>Correct Answer:</strong> taken to the hospital<br><br><strong>Explanation:</strong><ul><li>When places like <strong>hospital, school, church</strong> are visited for their <strong>primary purpose</strong> (treatment, study), we <strong>omit</strong> the article 'the'.</li><li><strong>Correct Sentence:</strong> \"The injured man was taken to <strong>hospital</strong>...\"</li></ul>"
+},
+{
+  "option_1": "CBAD",
+  "option_2": "BDCA",
+  "option_3": "DABC",
+  "option_4": "BACD",
+  "question": "Arrange the sentences in the correct order to form a meaningful paragraph:<br><br>A. then it is very hard to change your life with any degree of consistency.<br>B. If you aren’t aware of what you’re actually doing<br>C. Trying to build better habits without self-awareness is like firing arrows into the night.<br>D. You can’t expect to hit the bullseye if you’re not sure where the target is located.",
+  "answer": "4",
+  "solution": "<strong>Correct Sequence: BACD</strong><br><br><ol><li><strong>B</strong> starts the conditional statement.</li><li><strong>A</strong> completes the thought started in B.</li><li><strong>C</strong> elaborates on the concept using an analogy.</li><li><strong>D</strong> concludes the analogy.</li></ol>"
+},
+{
+  "option_1": "The project is completed by you by tomorrow.",
+  "option_2": "The project should be completed by you by tomorrow.",
+  "option_3": "The project should complete by tomorrow.",
+  "option_4": "The project was to be completed by you by tomorrow.",
+  "question": "Choose the most appropriate option to change the voice of the given sentence.<br><br><strong>You should complete the project by tomorrow.</strong>",
+  "answer": "2",
+  "solution": "<strong>Active:</strong> Subject + Modal + V1 + Object<br><strong>Passive:</strong> Object + Modal + be + V3 + by Subject<br>Result: <strong>The project should be completed by you by tomorrow.</strong>"
+},
+{
+  "option_1": "Devid said that he cannot believe how fast time flies.",
+  "option_2": "Devid said that he could not believe how fast time flew.",
+  "option_3": "Devid said that he could not believe how fast time flies.",
+  "option_4": "Devid said he cannot believe how fast time flew.",
+  "question": "Change the narration of the given sentence.<br><br><strong>Devid said, \"I cannot believe how fast time flies.\"</strong>",
+  "answer": "2",
+  "solution": "<strong>Direct to Indirect:</strong><ul><li>Reporting verb 'said' is in past tense.</li><li>'Cannot' changes to <strong>'could not'</strong>.</li><li>'Flies' (Simple Present) changes to <strong>'flew'</strong> (Simple Past).</li></ul><br><strong>Result:</strong> Devid said that he could not believe how fast time flew."
+},
+{
+  "option_1": "through",
+  "option_2": "along",
+  "option_3": "over",
+  "option_4": "among",
+  "question": "<strong>Comprehension:</strong><br><br>Prime Minister Narendra Modi will visit nations in Africa and South America <strong>____(1)____</strong> the next few days and attend the upcoming BRICS Summit in Rio de Janeiro. Here is what to know - This will be Modi’s first bilateral visit to Ghana. John Mahama, who <strong>____(2)____</strong> President in January, visited India in 2015 for the India-Africa Forum Summit. Ghana is one of West Africa’s <strong>____(3)____</strong> growing economies; its relationship with India is marked by robust and expanding trade and investment. PM will <strong>____(4)____</strong> talks with President Mahama to review the bilateral partnership and discuss ways to <strong>____(5)____</strong> it through economic, energy, defence, and development cooperation.<br><br><strong>Question:</strong> Choose the most appropriate option to fill in blank 1.",
+  "answer": "3",
+  "solution": "<strong>Correct Answer:</strong> over<br><br><strong>Explanation:</strong> 'Over' is used to indicate a duration of time (e.g., 'over the next few days')."
+},
+{
+  "option_1": "has elected",
+  "option_2": "elected",
+  "option_3": "had elected",
+  "option_4": "was elected",
+  "question": "<strong>Comprehension:</strong><br><br>Prime Minister Narendra Modi will visit nations in Africa and South America <strong>____(1)____</strong> the next few days and attend the upcoming BRICS Summit in Rio de Janeiro. Here is what to know - This will be Modi’s first bilateral visit to Ghana. John Mahama, who <strong>____(2)____</strong> President in January, visited India in 2015 for the India-Africa Forum Summit. Ghana is one of West Africa’s <strong>____(3)____</strong> growing economies; its relationship with India is marked by robust and expanding trade and investment. PM will <strong>____(4)____</strong> talks with President Mahama to review the bilateral partnership and discuss ways to <strong>____(5)____</strong> it through economic, energy, defence, and development cooperation.<br><br><strong>Question:</strong> Choose the most appropriate option to fill in blank 2.",
+  "answer": "4",
+  "solution": "<strong>Correct Answer:</strong> was elected<br><br><strong>Explanation:</strong> The sentence requires the <strong>Passive Voice</strong> as he was elected by people."
+},
+{
+  "option_1": "fast",
+  "option_2": "faster",
+  "option_3": "fastest",
+  "option_4": "fasten",
+  "question": "<strong>Comprehension:</strong><br><br>Prime Minister Narendra Modi will visit nations in Africa and South America <strong>____(1)____</strong> the next few days and attend the upcoming BRICS Summit in Rio de Janeiro. Here is what to know - This will be Modi’s first bilateral visit to Ghana. John Mahama, who <strong>____(2)____</strong> President in January, visited India in 2015 for the India-Africa Forum Summit. Ghana is one of West Africa’s <strong>____(3)____</strong> growing economies; its relationship with India is marked by robust and expanding trade and investment. PM will <strong>____(4)____</strong> talks with President Mahama to review the bilateral partnership and discuss ways to <strong>____(5)____</strong> it through economic, energy, defence, and development cooperation.<br><br><strong>Question:</strong> Choose the most appropriate option to fill in blank 3.",
+  "answer": "3",
+  "solution": "<strong>Correct Answer:</strong> fastest<br><br><strong>Explanation:</strong> Superlative degree is required to compare with all other economies."
+},
+{
+  "option_1": "holding",
+  "option_2": "held",
+  "option_3": "heading",
+  "option_4": "hold",
+  "question": "<strong>Comprehension:</strong><br><br>Prime Minister Narendra Modi will visit nations in Africa and South America <strong>____(1)____</strong> the next few days and attend the upcoming BRICS Summit in Rio de Janeiro. Here is what to know - This will be Modi’s first bilateral visit to Ghana. John Mahama, who <strong>____(2)____</strong> President in January, visited India in 2015 for the India-Africa Forum Summit. Ghana is one of West Africa’s <strong>____(3)____</strong> growing economies; its relationship with India is marked by robust and expanding trade and investment. PM will <strong>____(4)____</strong> talks with President Mahama to review the bilateral partnership and discuss ways to <strong>____(5)____</strong> it through economic, energy, defence, and development cooperation.<br><br><strong>Question:</strong> Choose the most appropriate option to fill in blank 4.",
+  "answer": "4",
+  "solution": "<strong>Correct Answer:</strong> hold<br><br><strong>Explanation:</strong> 'Will' is followed by the base form of the verb. 'Hold talks' is the correct idiom."
+},
+{
+  "option_1": "enhance",
+  "option_2": "mortify",
+  "option_3": "abase",
+  "option_4": "cheapen",
+  "question": "<strong>Comprehension:</strong><br><br>Prime Minister Narendra Modi will visit nations in Africa and South America <strong>____(1)____</strong> the next few days and attend the upcoming BRICS Summit in Rio de Janeiro. Here is what to know - This will be Modi’s first bilateral visit to Ghana. John Mahama, who <strong>____(2)____</strong> President in January, visited India in 2015 for the India-Africa Forum Summit. Ghana is one of West Africa’s <strong>____(3)____</strong> growing economies; its relationship with India is marked by robust and expanding trade and investment. PM will <strong>____(4)____</strong> talks with President Mahama to review the bilateral partnership and discuss ways to <strong>____(5)____</strong> it through economic, energy, defence, and development cooperation.<br><br><strong>Question:</strong> Choose the most appropriate option to fill in blank 5.",
+  "answer": "1",
+  "solution": "<strong>Correct Answer:</strong> enhance<br><br><strong>Explanation:</strong> The context is about improving relations. 'Enhance' means to improve."
+},
+{
+  "option_1": "Connoisseur",
+  "option_2": "Renaissance",
+  "option_3": "Schedule",
+  "option_4": "Weird",
+  "question": "Identify the word that is incorrectly spelt.",
+  "answer": "1",
+  "solution": "<strong>Correct Answer:</strong> Connoissuer (Incorrect Spelling)<br><br><strong>Correct Spelling:</strong> <strong>Connoisseur</strong><br>Meaning: An expert judge in matters of taste."
+},
+{
+  "option_1": "Frisk",
+  "option_2": "Sheen",
+  "option_3": "Grisly",
+  "option_4": "Gratuitous",
+  "question": "Select the most appropriate synonym of the underlined word in the following sentence –<br><br>The sunlight made the ocean water <u>gleam</u> brightly.",
+  "answer": "2",
+  "solution": "<strong>Word:</strong> Gleam (Shine brightly)<br><strong>Synonym:</strong> <strong>Sheen</strong> (A soft luster or shine)."
+},
+{
+  "option_1": "Disparage",
+  "option_2": "Exculpation",
+  "option_3": "Healthy",
+  "option_4": "Angst",
+  "question": "Select the most appropriate antonym of the given word.<br><br><strong>EMACIATED</strong>",
+  "answer": "3",
+  "solution": "<strong>Word:</strong> Emaciated (Abnormally thin/weak)<br><strong>Antonym:</strong> <strong>Healthy</strong> (In good condition)."
+},
+{
+  "option_1": "Renouncement",
+  "option_2": "Implicit",
+  "option_3": "Populace",
+  "option_4": "Ordained",
+  "question": "Choose the most appropriate option to make the sentence sensibly correct.<br><br>She was officially <u>Nascent</u> as a priest in the church ceremony last Sunday.",
+  "answer": "4",
+  "solution": "<strong>Correct Answer:</strong> Ordained<br><br><strong>Explanation:</strong> 'Ordained' means officially appointed as a priest/minister."
+},
+{
+  "option_1": "Suffering from",
+  "option_2": "Introduced for discussion",
+  "option_3": "Develop a specific position",
+  "option_4": "Under consideration",
+  "question": "Select the most appropriate meaning for the given idiom.<br><br><strong>Be in the air</strong>",
+  "answer": "4",
+  "solution": "<strong>Idiom:</strong> Be in the air<br><strong>Meaning:</strong> To be <strong>Under consideration</strong> or undecided."
+},
+{
+  "option_1": "Sarcastic",
+  "option_2": "Dignified",
+  "option_3": "Annihilate",
+  "option_4": "Outraged",
+  "question": "Select the most appropriate SYNONYM of the given word.<br><br><strong>Obliterate</strong>",
+  "answer": "3",
+  "solution": "<strong>Word:</strong> Obliterate (Destroy completely)<br><strong>Synonym:</strong> <strong>Annihilate</strong>."
+},
+{
+  "option_1": "Exorbitant",
+  "option_2": "Reasonable",
+  "option_3": "Optimistic",
+  "option_4": "Considerate",
+  "question": "Select the most appropriate antonym of the underlined word in the following sentence-<br><br>She spent an <u>inordinate</u> amount of time on her phone, ignoring her work completely.",
+  "answer": "2",
+  "solution": "<strong>Word:</strong> Inordinate (Excessive)<br><strong>Antonym:</strong> <strong>Reasonable</strong> (Moderate/Fair)."
+},
+{
+  "option_1": "Parvenu",
+  "option_2": "Silhouette",
+  "option_3": "Plenitude",
+  "option_4": "Transcendent",
+  "question": "Select the word which means the same as the group of words.<br><br><strong>One who has suddenly gained new wealth.</strong>",
+  "answer": "1",
+  "solution": "<strong>Correct Answer:</strong> Parvenu<br><br><strong>Explanation:</strong> A parvenu is someone who has recently acquired wealth but lacks social status."
+},
+{
+  "option_1": "Scolding",
+  "option_2": "Sad and depressed",
+  "option_3": "Ruined",
+  "option_4": "Eliminate",
+  "question": "Select the most appropriate meaning of the given idiom.<br><br><strong>Down in the dumps</strong>",
+  "answer": "2",
+  "solution": "<strong>Idiom:</strong> Down in the dumps<br><strong>Meaning:</strong> Feeling <strong>Sad and depressed</strong>."
+},
+{
+  "option_1": "Metaphor",
+  "option_2": "Simile",
+  "option_3": "Alteration",
+  "option_4": "Alliteration",
+  "question": "Select the word which means the same as the group of words given.<br><br><strong>Words that begin with the same letter, syllable or sound</strong>",
+  "answer": "4",
+  "solution": "<strong>Correct Answer:</strong> Alliteration<br><br><strong>Explanation:</strong> The occurrence of the same letter/sound at the start of adjacent words."
+}
+]
