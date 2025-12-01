@@ -1,1002 +1,452 @@
 [
     {
-        "question": "<p>ADFI is related to CFHK in a certain way based on the English alphabetical order. In the same way, EHJM is related to GJLO. To which of the following is ILNQ related to, following the same logic?</p>",
-        "option_1": "<p>KNQT</p>",
-        "option_2": "<p>KMPS</p>",
-        "option_3": "<p>KNQS</p>",
-        "option_4": "<p>KNPS</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which edition of the Summer Olympic Games was hosted by Paris in 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 30th</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 31st</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 32nd</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 33rd</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d)<br/>, <br/>Similarly, </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124074.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124190.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124288.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris Olympics 2024</span><span style=\"font-family:'Cambria Math'\"> marked the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">33rd edition</span><span style=\"font-family:'Cambria Math'\"> of the Summer Olympic Games. Paris became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">second city</span><span style=\"font-family:'Cambria Math'\"> after London to host the Olympics </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">three times</span><span style=\"font-family:'Cambria Math'\">—in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1900, 1924</span><span style=\"font-family:'Cambria Math'\">, and now </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">2024</span><span style=\"font-family:'Cambria Math'\">, commemorating the centenary of its last hosting.</span>"
     },
     {
-        "question": "<p>How many semi circles are there in the given figure?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124481.png",
-        "option_1": "<p>7</p>",
-        "option_2": "<p>5</p>",
-        "option_3": "<p>6</p>",
-        "option_4": "<p>4</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/><br/>There are 5 semicircle</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124596.png"
-    },
-    {
-        "question": "<p>Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete?<br/>JZI 3 LVL 9 ? PNR 81 RJU 243</p>",
-        "option_1": "<p>MPO 15</p>",
-        "option_2": "<p>NRO 27</p>",
-        "option_3": "<p>BYR 21</p>",
-        "option_4": "<p>NGR 17</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551124765.png"
-    },
-    {
-        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN, as shown.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125034.png",
-        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125143.png",
-        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125266.png",
-        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125391.png",
-        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125500.png",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125143.png"
-    },
-    {
-        "question": "<p>Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different. <br/><b>Note:</b> The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.</p>",
-        "option_1": "<p>BEHI</p>",
-        "option_2": "<p>TWYZ</p>",
-        "option_3": "<p>PSUV</p>",
-        "option_4": "<p>FIKL</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/>, ,<br/>But,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125606.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125700.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125787.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125876.png"
-    },
-    {
-        "question": "<p>A square sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last. How would the paper look when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551125971.png",
-        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126082.png",
-        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126245.png",
-        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126342.png",
-        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126450.png",
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the official theme of the Paris Olympics 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> United Through Sport</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Together for Peace</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Games Wide Open</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Inspiring Future Generations</span>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126342.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The theme of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris Olympics 2024</span><span style=\"font-family:'Cambria Math'\"> is </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">“Games Wide Open”</span><span style=\"font-family:'Cambria Math'\">, which symbolizes </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">openness, inclusivity</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">global participation</span><span style=\"font-family:'Cambria Math'\">. It reflects Paris’s aim to host an Olympic Games that is </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">accessible to all</span><span style=\"font-family:'Cambria Math'\">, breaking traditional boundaries and embracing innovation, sustainability, and cultural celebration.</span>"
     },
     {
-        "question": "<p>80 is related to 99 following certain logic. Following the same logic, 0 is related to 3. To which of the following numbers is 35 related, following the same logic? (<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
-        "option_1": "<p>46</p>",
-        "option_2": "<p>44</p>",
-        "option_3": "<p>42</p>",
-        "option_4": "<p>48</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> What are the mascots of Paris Olympics 2024 called?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Revoltas</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Liberty Squad</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Phrygians</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Phryges</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d)<br/><strong>Logic:- </strong>(1<sup>st</sup> no +1) + 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><msup><mn>1</mn><mrow><mi>s</mi><mi>t</mi></mrow></msup><mi>n</mi><mi>o</mi><mo>.</mo><mo>+</mo><mn>1</mn></msqrt></math> = 2<sup>nd</sup>no. <br/>(80, 99) :- (80 + 1) + 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>80</mn><mo>+</mo><mn>1</mn></msqrt></math> <br/>⇒ 81 + 2 × 9 ⇒ 81 + 18 = 99<br/>(0, 3) :- (0 + 1) + 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>0</mn><mo>+</mo><mn>1</mn></msqrt></math> <br/>⇒ 1 + 2 × 1 ⇒ 1 + 2 = 3<br/>similarly<br/>(35, ?) :- (35 + 1) + 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>35</mn><mo>+</mo><mn>1</mn></msqrt></math> <br/>⇒ 36 + 2 × 6 ⇒ 36 + 12 = 48</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The official mascots of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics and Paralympics</span><span style=\"font-family:'Cambria Math'\"> are called </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Phryges</span><span style=\"font-family:'Cambria Math'\">, inspired by the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Phrygian cap</span><span style=\"font-family:'Cambria Math'\">, a symbol of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">liberty and revolution</span><span style=\"font-family:'Cambria Math'\"> in France. These vibrant red figures represent </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">freedom, solidarity</span><span style=\"font-family:'Cambria Math'\">, and the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">spirit of the French Revolution</span><span style=\"font-family:'Cambria Math'\">, aligning with France’s historical identity and modern values of inclusivity.</span><p style=\"margin-top:0pt;margin-bottom:8pt;line-height:108%;font-size:12pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1753514798376_image001.png"
     },
     {
-        "question": "<p>In a certain code language, ‘PAID’ is coded as ‘3274’ and ‘APED’ is coded as<br/>‘6437’.What is the code for ‘E’ in that language?</p>",
-        "option_1": "<p>6</p>",
-        "option_2": "<p>7</p>",
-        "option_3": "<p>4</p>",
-        "option_4": "<p>3</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <br/>PAID :- 3274…..(i)<br/>APED :- 6437…….(ii)<br/>From (i) and (ii) ‘APD’ and ‘347’ are common. The code of ‘E’ = ‘6’.</p>"
-    },
-    {
-        "question": "<p>Three of the following four number triads are alike in a certain way and thus form a group. Which is the number triad that does not belong to that group? (<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
-        "option_1": "<p>76 - 67 - 54</p>",
-        "option_2": "<p>87 - 78 - 69</p>",
-        "option_3": "<p>112 - 103 - 94</p>",
-        "option_4": "<p>94 - 85 - 76</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <strong>Logic:-</strong> (1st number + 3rd number) ÷ 2 = 2nd number<br/>(87 - 78 - 69):- (87 + 69) ÷ 2 ⇒ (156) ÷ 2 = 78<br/>(112 - 103 - 94) :- (112 + 94) ÷ 2 ⇒ (206) ÷ 2 = 103<br/>(94 - 85 - 76) :- (94 + 76) ÷ 2 ⇒ (170) ÷ 2 = 85<br/>But, <br/>(76 - 67 - 54) :- (76 + 54) ÷ 2 ⇒ (130) ÷ 2 = 65 ≠ 67</p>"
-    },
-    {
-        "question": "<p>Select the option that represents the letters that, when sequentially placed from left to right in the blanks, will complete the letter series.<br/>r _ m _ s _ t _ i _ m s s _ r i m _ _ st</p>",
-        "option_1": "<p>i m s r m t m s</p>",
-        "option_2": "<p>i m s r s t s s</p>",
-        "option_3": "<p>i s m r m t m s</p>",
-        "option_4": "<p>i m s r t t m s</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) r <span style=\"text-decoration: underline;\"><strong>i</strong></span> m<span style=\"text-decoration: underline;\"><strong>m</strong></span> s <span style=\"text-decoration: underline;\"><strong>s</strong></span> t / <span style=\"text-decoration: underline;\"><strong>r</strong></span> i <span style=\"text-decoration: underline;\"><strong>m</strong></span> m s s<strong><span style=\"text-decoration: underline;\">t</span></strong> / r i m <span style=\"text-decoration: underline;\"><strong>m s</strong></span> st</p>"
-    },
-    {
-        "question": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br/><strong>Statements:</strong><br/>All oranges are apples.<br/>All apples are kiwis.<br/>Some apples are grapes.<br/><strong>Conclusions:</strong><br/>(I) Some kiwis are grapes.<br/>(II) Some oranges are grapes.</p>",
-        "option_1": "<p>Only conclusion II follows</p>",
-        "option_2": "<p>Only conclusion I follows</p>",
-        "option_3": "<p>Both conclusions I and II follow</p>",
-        "option_4": "<p>Neither conclusion I nor II follows</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/><br/><b>Hence,</b> the only conclusion I follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126607.png"
-    },
-    {
-        "question": "<p>Which of the following numbers will replace the question mark (?) in the given series? <br/>119 171 223 275 327 ?</p>",
-        "option_1": "<p>386</p>",
-        "option_2": "<p>357</p>",
-        "option_3": "<p>369</p>",
-        "option_4": "<p>379</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Where will the closing ceremony of the Paris Olympics 2024 be held?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Eiffel Tower Esplanade</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Louvre Museum</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Roland-Garros Stadium</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Stade de France</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126869.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">closing ceremony</span><span style=\"font-family:'Cambria Math'\"> of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris Olympics 2024</span><span style=\"font-family:'Cambria Math'\"> will be held at the iconic </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Stade de France</span><span style=\"font-family:'Cambria Math'\"> in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Saint-Denis</span><span style=\"font-family:'Cambria Math'\">, just north of Paris. As France’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">largest stadium</span><span style=\"font-family:'Cambria Math'\">, it will host thousands of athletes and spectators, marking the culmination of the Games with a celebration of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">culture, unity</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Olympic spirit</span><span style=\"font-family:'Cambria Math'\">.</span>"
     },
     {
-        "question": "<p>A $ B means ‘A is the sister of B’,<br/>A @ B means ‘A is the daughter of B’,<br/>A * B means ‘A is the father of B’ and<br/>A - B means ‘A is the son of B’.<br/>Based on the above information, which of the following means that D is the daughter's husband of M?</p>",
-        "option_1": "<p>D * R @ E $ A - M</p>",
-        "option_2": "<p>D $ R - E * A @ M</p>",
-        "option_3": "<p>D @ R - E $ A * M</p>",
-        "option_4": "<p>D $ R * E - A @ M</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/>After checking options one by one,<br/>Only option (a) gives the correct result.<br/><br/>We can see that ‘D’ is the daughter’s husband of ‘M’.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551126991.png"
-    },
-    {
-        "question": "<p>Select the Venn diagram that best illustrates the relationship between the following classes.<br/>Men, Engineers and Fathers</p>",
-        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551127241.png",
-        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551127579.png",
-        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551127823.png",
-        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551128182.png",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who were the flag bearers of India during the opening ceremony of the Paris Olympics 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra &amp; Mirabai Chanu</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> PV Sindhu &amp; Sharat Kamal</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Vinesh Phogat &amp; PR Sreejesh</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Mary Kom &amp; Bajrang Punia</span>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551128385.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> At the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">opening ceremony</span><span style=\"font-family:'Cambria Math'\"> of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris Olympics 2024</span><span style=\"font-family:'Cambria Math'\">, India was represented by </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">PV Sindhu</span><span style=\"font-family:'Cambria Math'\">, the renowned badminton champion, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sharath Kamal</span><span style=\"font-family:'Cambria Math'\">, a veteran table tennis player. They were chosen to reflect </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gender parity</span><span style=\"font-family:'Cambria Math'\">, national pride, and their </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">significant contribution to Indian sports</span><span style=\"font-family:'Cambria Math'\">.</span>"
     },
     {
-        "question": "<p>A cube is constructed by folding the given sheet along the lines shown. In the cube so formed, what would be the symbol on the opposite side of '#'?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551128599.png",
-        "option_1": "<p>@</p>",
-        "option_2": "<p><math display=\"inline\"><mi>∞</mi></math></p>",
-        "option_3": "<p>€</p>",
-        "option_4": "<p>%</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who were India's flag bearers during the closing ceremony of the Paris Olympics 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Hima Das &amp; Rohan Bopanna</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Lovlina Borgohain &amp; Manpreet Singh</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Manu Bhaker &amp; PR Sreejesh</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Saina Nehwal &amp; Gagan Narang</span>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c)<br/><br/>The opposite faces are :- <br/># ↔ € , % ↔ ∞ , @ ↔ *</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551128766.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> At the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">closing ceremony</span><span style=\"font-family:'Cambria Math'\">, India’s tricolor was proudly carried by </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Manu Bhaker</span><span style=\"font-family:'Cambria Math'\">, a prominent shooting athlete, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">PR Sreejesh</span><span style=\"font-family:'Cambria Math'\">, an accomplished hockey goalkeeper. Their selection highlighted India’s performance and recognition in precision-based and team sports disciplines.</span>"
     },
     {
-        "question": "<p>Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number results in the second number. Similarly, certain mathematical operation(s) on the second number in the third number and so on. Which of the given options follows the same set of operations as in the given sets?<br/>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting /multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>79 - 71 - 65 - 61<br/>84 - 76 - 70 - 66</p>",
-        "option_1": "<p>93 - 85 - 79 - 75</p>",
-        "option_2": "<p>70 - 62 - 54 - 50</p>",
-        "option_3": "<p>64 - 56 - 40 - 36</p>",
-        "option_4": "<p>99 - 92 - 86 - 81</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/> and <br/>Similarly </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551128880.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129034.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129210.png"
-    },
-    {
-        "question": "<p>P, Q, R, S, T and U are sitting around a circular table facing the centre. Only one person sits between T and R. Only one person sits between R and U. Only two people sit between U and Q . S sits to the immediate left of T. Who sits second to the left of P?</p>",
-        "option_1": "<p>U</p>",
-        "option_2": "<p>Q</p>",
-        "option_3": "<p>R</p>",
-        "option_4": "<p>S</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129384.png"
-    },
-    {
-        "question": "<p>Which two numbers should be interchanged to make the given equation correct?<br/>21 × 4 + (84 ÷ 7) × 2 - 15 × 5 + 42 = 105<br/>(<b>Note:</b> Interchange should be done of entire number and not individual digits of a given number.)</p>",
-        "option_1": "<p>4 and 2</p>",
-        "option_2": "<p>84 and 42</p>",
-        "option_3": "<p>4 and 5</p>",
-        "option_4": "<p>7 and 21</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/>Checking all the options given in the question one by one, option (b) gets satisfied.<br/>21 × 4 + (84 ÷ 7) × 2 - 15 × 5 + 42 = 105<br/>Interchanging 84 and 42 in the above expression, we have;<br/>21 × 4 + (42 ÷ 7) × 2 - 15 × 5 + 84 = 105<br/>84 + 12 - 75 + 84 = 105<br/>105 = 105<br/>LHS = RHS</p>"
-    },
-    {
-        "question": "<p>The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group?<br/>(The words must be considered as meaningful English words and must not be related to each other based on the number of letters / number of consonants/vowels in the word.)</p>",
-        "option_1": "<p>Bone – orthopaedic</p>",
-        "option_2": "<p>Uterus – urologist</p>",
-        "option_3": "<p>Stomach – gastroenterologist</p>",
-        "option_4": "<p>Eye – ophthalmologist</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) a urologist specializes in the urinary system and male reproductive organs, not the uterus. The correct specialist for uterus-related issues is a gynecologist. Thus, option (b) does not fit the pattern.</p>"
-    },
-    {
-        "question": "<p>Each vowel in the word ICTERID is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the group of letters thus formed?</p>",
-        "option_1": "<p>0</p>",
-        "option_2": "<p>2</p>",
-        "option_3": "<p>1</p>",
-        "option_4": "<p>3</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who represented India as a torchbearer in the Paris 2024 Olympic Torch Relay?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> PV Sindhu</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Abhinav Bindra</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Mary Kom</span>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c)<br/>Original word: ICTERID (I - C - T - E - R - I - D)<br/>Applying the given rules:<br/>Each vowel + 1 And Each consonant -1. <br/>Here's the transformed word: J - B - S - F - Q - J - C. <br/>No. of letters appears twice = 1 (‘J’)</p>"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Abhinav Bindra</span><span style=\"font-family:'Cambria Math'\">, India’s first individual Olympic gold medalist (Beijing 2008, 10m air rifle), proudly carried the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Olympic flame</span><span style=\"font-family:'Cambria Math'\"> during the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Torch Relay</span><span style=\"font-family:'Cambria Math'\">. His participation symbolized </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">peace, perseverance</span><span style=\"font-family:'Cambria Math'\">, and India’s growing stature in global sports.</span>"
     },
     {
-        "question": "<p>Identify the figure given in the options, which when put in place of the question mark (?) will logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129512.png",
-        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129603.png",
-        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129707.png",
-        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129806.png",
-        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129929.png",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following sports were newly introduced at the Paris 2024 Summer Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Karate, Baseball, Rugby Sevens, Fencing</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Breakdancing, Skateboarding, Surfing, Sport Climbing</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Taekwondo, Weightlifting, Archery, Canoeing</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Handball, Golf, Shooting, Swimming</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The </span><span style=\"line-height:108%;font-size:11pt;font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\"> includes </span><span style=\"line-height:108%;font-size:11pt;font-weight:bold;font-family:'Cambria Math'\">32 sports</span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">, featuring </span><span style=\"line-height:108%;font-size:11pt;font-weight:bold;font-family:'Cambria Math'\">4 newly added disciplines</span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">: </span><span style=\"line-height:108%;font-size:11pt;font-weight:bold;font-family:'Cambria Math'\">breaking (breakdance), skateboarding, surfing</span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">, and </span><span style=\"line-height:108%;font-size:11pt;font-weight:bold;font-family:'Cambria Math'\">sport climbing</span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">.</span><span style=\"font-family:'Cambria Math'\">—marking a shift towards </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">youth culture</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">urban sports</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">lifestyle disciplines</span><span style=\"font-family:'Cambria Math'\">. These additions aim to engage a wider audience and reflect the Games’ evolution toward </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">modern, inclusive, and sustainable values</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> How many medals did India win at the Paris 2024 Summer Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 4</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 5</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 6</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 7</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India clinched a total of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">6 medals</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">, consisting of:</span><ul><li><span style=\"line-height:108%;font-family:'Segoe UI Emoji';font-size:12pt\">🥉</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> 3 Bronze in </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Shooting – Manu Bhaker, Swapnil Kusale, Sarabjot Singh</span></li><li><span style=\"line-height:108%;font-family:'Segoe UI Emoji';font-size:12pt\">🥉</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> 1 Bronze in </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Hockey – Men’s Hockey Team</span></li><li><span style=\"line-height:108%;font-family:'Segoe UI Emoji';font-size:12pt\">🥈</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> 1 Silver in </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Athletics (Javelin Throw) – Neeraj Chopra</span></li><li><span style=\"line-height:108%;font-family:'Segoe UI Emoji';font-size:12pt\">🥉</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> 1 Bronze in </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Wrestling – Aman Sehrawat</span></li><li><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">This performance reinforced India’s emerging strength in </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">precision sports</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> like shooting and its </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">consistent presence in team and combat sports</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt;line-height:108%;font-size:12pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1753514798376_image002.png"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What do the five interlocking rings on the Olympic flag symbolize?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> The five Olympic values</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Five ancient civilizations</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> The five original host nations</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> The five continents of the world</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551129929.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">five interlocking rings</span><span style=\"font-family:'Cambria Math'\">—</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">blue, yellow, black, green</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">red</span><span style=\"font-family:'Cambria Math'\">—on the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Olympic flag</span><span style=\"font-family:'Cambria Math'\"> represent the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">five continents of the world</span><span style=\"font-family:'Cambria Math'\">: </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Africa, the Americas, Asia, Europe</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Oceania</span><span style=\"font-family:'Cambria Math'\">. Designed in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1913 by Pierre de Coubertin</span><span style=\"font-family:'Cambria Math'\">, the rings symbolize </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">unity through sport</span><span style=\"font-family:'Cambria Math'\"> and the idea that athletes from all continents participate in the Games.</span><p style=\"margin-top:0pt;margin-bottom:8pt;line-height:108%;font-size:12pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1753514798376_image003.jpeg"
     },
     {
-        "question": "<p>In a code language, ‘MARS’ is written as ‘KXPP’, and ‘BODY’ is written as ‘ZLBV’. How will ‘TEST’ be written in that language?</p>",
-        "option_1": "<p>QRQB</p>",
-        "option_2": "<p>RBQQ</p>",
-        "option_3": "<p>RQBQ</p>",
-        "option_4": "<p>QQRB</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> The Paris 2024 Olympics mark the return of the Games to the city after how many years?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 75 years</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 90 years</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 100 years</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 110 years</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Olympics</span><span style=\"font-family:'Cambria Math'\"> mark the return of the Games to the French capital </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">exactly 100 years</span><span style=\"font-family:'Cambria Math'\"> after it last hosted them in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1924</span><span style=\"font-family:'Cambria Math'\">. Paris also hosted the Olympics in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1900</span><span style=\"font-family:'Cambria Math'\">, making 2024 its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">third time</span><span style=\"font-family:'Cambria Math'\"> as host. With this, Paris becomes the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">second city after London</span><span style=\"font-family:'Cambria Math'\"> to host the Olympics </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">three times</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which country topped the overall medal tally at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> China</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> United States</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Japan</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> France</span>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b)<br/>, <br/>Similarly, </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130040.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130155.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130244.png"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">United States</span><span style=\"font-family:'Cambria Math'\"> finished at the top of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics medal tally</span><span style=\"font-family:'Cambria Math'\"> with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">126 medals</span><span style=\"font-family:'Cambria Math'\"> (40 gold, 44 silver, 42 bronze). </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">China</span><span style=\"font-family:'Cambria Math'\"> followed with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">91 medals</span><span style=\"font-family:'Cambria Math'\"> (40 gold, 27 silver, 24 bronze). While both nations won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">40 golds</span><span style=\"font-family:'Cambria Math'\">, the USA took the lead due to a higher number of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver and bronze medals</span><span style=\"font-family:'Cambria Math'\">.</span>"
     },
     {
-        "question": "<p>If 'P' stands for '×', 'Q' stands for '÷', 'R' stands for '-' and 'S' stands for '+', what will come in place of question mark ‘?’ in the following equation?<br/>15 P 6 R 11 P 4 S 38 R 41 S 2 P 5 = ?</p>",
-        "option_1": "<p>61</p>",
-        "option_2": "<p>41</p>",
-        "option_3": "<p>49</p>",
-        "option_4": "<p>53</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> What was India’s final rank in the overall medal tally at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 71st</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 60th</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 48th</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 75th</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India secured the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">71st position</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics medal tally</span><span style=\"font-family:'Cambria Math'\"> with a total of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">6 medals</span><span style=\"font-family:'Cambria Math'\">—</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1 silver</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">5 bronze</span><span style=\"font-family:'Cambria Math'\">. This marks a decline from its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">48th rank</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Tokyo 2020 Olympics</span><span style=\"font-family:'Cambria Math'\">, where India won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">7 medals</span><span style=\"font-family:'Cambria Math'\">, including a gold. Despite fewer podium finishes, standout performances by athletes such as </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Manu Bhaker</span><span style=\"font-family:'Cambria Math'\"> (double bronze) and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Neeraj Chopra</span><span style=\"font-family:'Cambria Math'\"> (silver) added historic value, with Neeraj becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win both gold and silver at the Olympics</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became the first Indian woman to serve as a jury member at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Karnam Malleswari</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Bilquis Mir</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Mary Kom</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> P. T. Usha</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Bilquis Mir</span><span style=\"font-family:'Cambria Math'\">, a canoeist from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Jammu and Kashmir</span><span style=\"font-family:'Cambria Math'\">, made history by becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian woman</span><span style=\"font-family:'Cambria Math'\"> appointed as a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">jury member</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">. Her journey began in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Dal Lake</span><span style=\"font-family:'Cambria Math'\"> in 1998, and she rose through the ranks despite societal challenges. She previously served as a jury member at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Hangzhou Asian Games</span><span style=\"font-family:'Cambria Math'\"> and is also a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">national coach</span><span style=\"font-family:'Cambria Math'\"> for canoeing and kayaking. Her appointment was officially conveyed by the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Indian Olympic Association</span><span style=\"font-family:'Cambria Math'\">, marking a proud moment for India and a milestone for women in sports.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who served as the President of the Indian Olympic Association (IOA) during the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Anurag Thakur</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> P. T. Usha</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Rajeev Mehta</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Abhinav Bindra</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> Legendary sprinter </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">P. T. Usha</span><span style=\"font-family:'Cambria Math'\">, popularly known as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">\"Payyoli Express\"</span><span style=\"font-family:'Cambria Math'\">, served as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">President of the Indian Olympic Association (IOA)</span><span style=\"font-family:'Cambria Math'\"> during the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">, becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first woman president</span><span style=\"font-family:'Cambria Math'\"> in the IOA’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">95-year history</span><span style=\"font-family:'Cambria Math'\">. The IOA was </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">established in 1927</span><span style=\"font-family:'Cambria Math'\"> and is </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">headquartered in New Delhi</span><span style=\"font-family:'Cambria Math'\">. Under her leadership, the IOA implemented </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">athlete-focused reforms</span><span style=\"font-family:'Cambria Math'\"> such as advanced medical support, recovery centers, and strategic planning for India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">2036 Olympic bid</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What historic achievements did Manu Bhaker accomplish at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> First Indian woman to win an Olympic medal in shooting</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> First Indian woman to reach an Olympic shooting final in an individual event in 20 years</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> First Indian athlete to win two medals at a single Olympics since Independence</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> All of the above</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) 15 P 6 R 11 P 4 S 38 R 41 S 2 P 5<br/>As per given instruction change the letters with sign, we get,<br/>15 × 6 - 11 × 4 + 38 - 41 + 2 × 5<br/>90 - 44 + 38 - 41 + 10<br/>138 - 85 = 53</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> At the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Manu Bhaker</span><span style=\"font-family:'Cambria Math'\"> etched her name in history by achieving </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">three major milestones</span><span style=\"font-family:'Cambria Math'\">:</span><ul><li><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">She became the </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">first Indian woman</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> to win an </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Olympic medal in shooting</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">, clinching </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">bronze in the 10m air pistol</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> event.</span></li><li><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">She was the </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">first Indian woman in 20 years</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> to reach an </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">individual Olympic shooting final</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">, ending a long drought.</span></li><li><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">She won a </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">second bronze</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in the </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">10m air pistol mixed team event</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">, making her the </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">first Indian athlete since Independence</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> to win </span><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">two medals at a single Olympics</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\">.</span></li></ul>"
     },
     {
-        "question": "<p>Rayan starts from Point A and drives 13 km towards East. He then takes a left turn, drives 5 km, turns left and drives 15 km. He then takes a left turn and drives 11 km. He takes a final left turn, drives 2 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90 degree turns only unless specified.)</p>",
-        "option_1": "<p>5 km to the South</p>",
-        "option_2": "<p>5 km to the North</p>",
-        "option_3": "<p>6 km to the North</p>",
-        "option_4": "<p>6 km to the South</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which athlete won the gold medal in men’s javelin throw at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Anderson Peters</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Arshad Nadeem</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Jakub Vadlejch</span>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c)<br/><br/>He should drive 6 km toward the North .</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130439.png"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Arshad Nadeem</span><span style=\"font-family:'Cambria Math'\"> of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Pakistan</span><span style=\"font-family:'Cambria Math'\"> won the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold medal</span><span style=\"font-family:'Cambria Math'\"> in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s javelin throw</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\"> with a record-breaking throw of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">97 meters</span><span style=\"font-family:'Cambria Math'\">, setting a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">new Olympic record</span><span style=\"font-family:'Cambria Math'\">. This was Pakistan’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Olympic gold since 1984</span><span style=\"font-family:'Cambria Math'\"> and its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first-ever individual Olympic gold</span><span style=\"font-family:'Cambria Math'\">. He outperformed </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Neeraj Chopra</span><span style=\"font-family:'Cambria Math'\"> of India, who secured </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver</span><span style=\"font-family:'Cambria Math'\"> with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">89.45 meters</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Anderson Peters</span><span style=\"font-family:'Cambria Math'\"> of Grenada, who took </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze</span><span style=\"font-family:'Cambria Math'\"> with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">88.54 meters</span><span style=\"font-family:'Cambria Math'\">.</span>"
     },
     {
-        "question": "<p>In a certain code language, ‘BLEACHERS’ is coded as ‘63’ and ‘ABACAS’ is coded as ‘42’. How will ‘FIZZY’ be coded in the same language?</p>",
-        "option_1": "<p>44</p>",
-        "option_2": "<p>45</p>",
-        "option_3": "<p>35</p>",
-        "option_4": "<p>52</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/><strong>Logic:-</strong> no. of letters × 7 <br/>BLEACHERS → 9 letters ⇒ 9 × 7 = 63<br/>ABACUS → 6 letters ⇒ 6 × 7 = 42<br/>FIZZY → 5 letters ⇒ 5 × 7 = 35</p>"
-    },
-    {
-        "question": "<p>With which of the following gharanas is Ustad Bade Ghulam Ali Khan associated ?</p>",
-        "option_1": "<p>Kirana gharana</p>",
-        "option_2": "<p>Patiala gharana</p>",
-        "option_3": "<p>Agra gharana</p>",
-        "option_4": "<p>Banaras gharana</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Patiala gharana.</strong> Ustad Bade Ghulam Ali Khan was awarded Sangeet Natak Akademi Award (1962), Sangeet Natak Akademi fellowship (1967), Padma Bhushan (1962). Famous Hindustani Gharanas in Music: Patiala Gharana- Fateh Ali Khan and Ustad Ali Baksh. Agra Gharana- Haji Sujan Khan and Ustad Ghaghe Khuda Baksh. Kirana Gharana- Firoz Dastur, Bhimsen Joshi and Ustad Bade Ali Khan.</p>"
-    },
-    {
-        "question": "<p>Which of the following palaces is located in Mysore, Karnataka?</p>",
-        "option_1": "<p>Kowdiar Palace</p>",
-        "option_2": "<p>Amba Vilas Palace</p>",
-        "option_3": "<p>ujjayanta Palace</p>",
-        "option_4": "<p>Kangla Palace</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Amba Vilas Palace,</strong> constructed in Indo-Saracenic style between 1897-1912. Kowdiar Palace in Thiruvananthapuram, Kerala. Ujjayanta Palace in Tripura. Kangla Palace in Imphal, Manipur.</p>"
-    },
-    {
-        "question": "<p>The Prarthana Samaj was established in ________ by Dr. Atma Ram Pandurang.</p>",
-        "option_1": "<p>Bombay</p>",
-        "option_2": "<p>Calcutta</p>",
-        "option_3": "<p>Adyar</p>",
-        "option_4": "<p>Delhi</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became the youngest Indian Olympic medalist by winning a bronze in wrestling at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Aman Sehrawat</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> PV Sindhu</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ravi Kumar Dahiya</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Bajrang Punia</span>",
         "option_5": "",
         "answer": "1",
-        "solution": "<p>(a) <strong>Bombay. </strong>The Prarthana Samaj (Founded - 1867) started Subodhapatrika newspaper for social awareness. Arya Samaj was founded in Bombay in 1875 by Swami Dayananda Saraswati. The Brahmo Samaj was founded in Calcutta in 1828 by Ram Mohan Roy.</p>"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Aman Sehrawat</span><span style=\"font-family:'Cambria Math'\">, a freestyle wrestler from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Haryana</span><span style=\"font-family:'Cambria Math'\">, won the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">57kg category</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">, becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">youngest Indian Olympic medalist</span><span style=\"font-family:'Cambria Math'\"> at </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">21 years and 24 days</span><span style=\"font-family:'Cambria Math'\">. He broke the previous record held by </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">PV Sindhu</span><span style=\"font-family:'Cambria Math'\">, who was </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">21 years, 1 month, and 14 days</span><span style=\"font-family:'Cambria Math'\"> old when she won silver at </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Rio 2016</span><span style=\"font-family:'Cambria Math'\">. Aman defeated </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Darian Cruz</span><span style=\"font-family:'Cambria Math'\"> of Puerto Rico with a score of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">13–5</span><span style=\"font-family:'Cambria Math'\"> in the bronze medal match, marking India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first wrestling medal</span><span style=\"font-family:'Cambria Math'\"> at Paris 2024 and its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">sixth overall</span><span style=\"font-family:'Cambria Math'\">.</span>"
     },
     {
-        "question": "<p>What kind of phyllotaxy was examined in the Guava plant?</p>",
-        "option_1": "<p>Superimposed</p>",
-        "option_2": "<p>Whorled</p>",
-        "option_3": "<p>Alternate</p>",
-        "option_4": "<p>Opposite</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian athlete became the first to win two Olympic medals in javelin throw?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Arshad Nadeem</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Shivpal Singh</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Davinder Singh Kang</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Neeraj Chopra</span><span style=\"font-family:'Cambria Math'\"> made history at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\"> by winning the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver medal</span><span style=\"font-family:'Cambria Math'\"> in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s javelin throw</span><span style=\"font-family:'Cambria Math'\"> with a best attempt of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">45 meters</span><span style=\"font-family:'Cambria Math'\">. He had previously won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold at Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">, making him the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win two Olympic medals in javelin throw</span><span style=\"font-family:'Cambria Math'\"> and the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win an Olympic gold in athletics</span><span style=\"font-family:'Cambria Math'\">. His consistent excellence has placed him among India’s most decorated athletes in track and field.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian shooter won the bronze medal in the men’s 50m Rifle 3 Positions event at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Swapnil Kusale</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Aishwary Pratap Singh Tomar</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Sarabjot Singh</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Gagan Narang</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Swapnil Kusale</span><span style=\"font-family:'Cambria Math'\"> clinched the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s 50m Rifle 3 Positions</span><span style=\"font-family:'Cambria Math'\"> event at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\"> with a score of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">4</span><span style=\"font-family:'Cambria Math'\">, marking </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s first-ever Olympic medal in this category</span><span style=\"font-family:'Cambria Math'\">. Competing at his </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">maiden Olympics</span><span style=\"font-family:'Cambria Math'\">, he became India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">third shooting medalist</span><span style=\"font-family:'Cambria Math'\"> at Paris 2024, joining </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Manu Bhaker</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sarabjot Singh</span><span style=\"font-family:'Cambria Math'\">. The event was held at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">National Shooting Center in Châteauroux</span><span style=\"font-family:'Cambria Math'\">, and Kusale’s performance was a result of consistent shooting across </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">kneeling, prone, and standing positions</span><span style=\"font-family:'Cambria Math'\">. The gold went to </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Liu Yukun (China)</span><span style=\"font-family:'Cambria Math'\"> and silver to </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Serhiy Kulish (Ukraine)</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian shooting pair won the bronze medal in the 10m Air Pistol mixed team event at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sarabjot Singh &amp; Manu Bhaker</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Shiva Narwal &amp; Palak Gulia</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Arjun Singh Cheema &amp; Rhythm Sangwan</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Saurabh Chaudhary &amp; Divya TS</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Sarabjot Singh and Manu Bhaker</span><span style=\"font-family:'Cambria Math'\"> clinched the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">10m Air Pistol mixed team event</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\">, defeating South Korea’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Wonho Lee and Oh Ye Jin</span><span style=\"font-family:'Cambria Math'\"> with a score of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">16–10</span><span style=\"font-family:'Cambria Math'\">. This marked India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Olympic medal in a shooting team event</span><span style=\"font-family:'Cambria Math'\">. It was </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sarabjot’s debut Olympic podium</span><span style=\"font-family:'Cambria Math'\">, while </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Manu Bhaker</span><span style=\"font-family:'Cambria Math'\"> became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian athlete to win two medals in a single Olympic edition</span><span style=\"font-family:'Cambria Math'\">, having already secured bronze in the women’s 10m Air Pistol event.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which team did the Indian men’s hockey team defeat to win the bronze medal at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Germany</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Spain</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Netherlands</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Belgium</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Indian men’s hockey team</span><span style=\"font-family:'Cambria Math'\"> won the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\"> by defeating </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Spain 2–1</span><span style=\"font-family:'Cambria Math'\"> in the bronze medal match. Spain took the lead through a penalty stroke by </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Marc Miralles</span><span style=\"font-family:'Cambria Math'\">, but </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">captain Harmanpreet Singh</span><span style=\"font-family:'Cambria Math'\"> scored twice—once just before halftime and again early in the third quarter—to secure the win. This marked India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">second consecutive Olympic bronze</span><span style=\"font-family:'Cambria Math'\"> in men’s hockey after Tokyo 2020, and their </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">13th Olympic medal overall</span><span style=\"font-family:'Cambria Math'\"> in the sport. It was also the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">farewell match for veteran goalkeeper PR Sreejesh</span><span style=\"font-family:'Cambria Math'\">, who made crucial saves to preserve the lead.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who was the lone athlete to represent India during its first Olympic appearance in 1900?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Norman Pritchard</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Dorabji Tata</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> K.D. Jadhav</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Milkha Singh</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India made its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Olympic debut in 1900</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris Games</span><span style=\"font-family:'Cambria Math'\">, becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Asian nation</span><span style=\"font-family:'Cambria Math'\"> to participate in the modern Olympics. The country was represented by </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Norman Pritchard</span><span style=\"font-family:'Cambria Math'\">, an Anglo-Indian athlete who competed in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">five athletics events</span><span style=\"font-family:'Cambria Math'\"> and won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">two silver medals</span><span style=\"font-family:'Cambria Math'\">—in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">200m sprint</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">200m hurdles</span><span style=\"font-family:'Cambria Math'\">. These were India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Olympic medals</span><span style=\"font-family:'Cambria Math'\">, and until 2020, the only ones in athletics. Although Pritchard later moved to Britain and acted in Hollywood, the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">International Olympic Committee officially credits his medals to India</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> In which sport did India win six consecutive Olympic gold medals between 1928 and 1956?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Wrestling</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Athletics</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Field Hockey</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Shooting</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s field hockey team</span><span style=\"font-family:'Cambria Math'\"> achieved an extraordinary feat by winning </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">six consecutive Olympic gold medals</span><span style=\"font-family:'Cambria Math'\"> from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1928 (Amsterdam)</span><span style=\"font-family:'Cambria Math'\"> to </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1956 (Melbourne)</span><span style=\"font-family:'Cambria Math'\">. Led by legendary players like </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Dhyan Chand</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Balbir Singh Sr.</span><span style=\"font-family:'Cambria Math'\">, and others, the team remained </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">unbeaten in 24 matches</span><span style=\"font-family:'Cambria Math'\">, scoring </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">178 goals</span><span style=\"font-family:'Cambria Math'\"> and conceding just </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">7</span><span style=\"font-family:'Cambria Math'\">. This golden era cemented India’s legacy as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">most dominant force in Olympic hockey history</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who was the first Indian woman to win an Olympic medal?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> PT Usha</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Karnam Malleswari</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Mary Kom</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Saina Nehwal</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Karnam Malleswari</span><span style=\"font-family:'Cambria Math'\"> became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian woman to win an Olympic medal</span><span style=\"font-family:'Cambria Math'\"> by clinching </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze in weightlifting</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">2000 Sydney Olympics</span><span style=\"font-family:'Cambria Math'\">. She lifted </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">110 kg in snatch</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">130 kg in clean and jerk</span><span style=\"font-family:'Cambria Math'\">, totaling </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">240 kg</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">69 kg category</span><span style=\"font-family:'Cambria Math'\">. Her medal was </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s only podium finish</span><span style=\"font-family:'Cambria Math'\"> at Sydney 2000 and made her the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian weightlifter—male or female—to win an Olympic medal</span><span style=\"font-family:'Cambria Math'\">. Malleswari’s achievement paved the way for future generations of Indian women athletes.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> PV Sindhu is the first Indian woman to win how many individual Olympic medals?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> One</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Two</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Three</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> None</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">PV Sindhu</span><span style=\"font-family:'Cambria Math'\"> is the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian woman to win two individual Olympic medals</span><span style=\"font-family:'Cambria Math'\">. She won a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver medal</span><span style=\"font-family:'Cambria Math'\"> in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">women’s singles badminton</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Rio 2016 Olympics</span><span style=\"font-family:'Cambria Math'\">, becoming the first Indian to reach an Olympic badminton final. She followed it up with a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Tokyo 2020 Olympics</span><span style=\"font-family:'Cambria Math'\">, defeating China’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">He Bingjiao</span><span style=\"font-family:'Cambria Math'\"> in the playoff. Sindhu’s consistent Olympic performances have made her one of India’s most decorated athletes. She aimed for a third medal at </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024</span><span style=\"font-family:'Cambria Math'\">, but was eliminated in the round of 16.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian woman wrestler was disqualified from the gold medal match at the Paris 2024 Olympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Anshu Malik</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Vinesh Phogat</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ritu Phogat</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Sakshi Malik</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Vinesh Phogat</span><span style=\"font-family:'Cambria Math'\"> reached the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">final of the 50kg freestyle category</span><span style=\"font-family:'Cambria Math'\"> at </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024</span><span style=\"font-family:'Cambria Math'\">, defeating former Olympic champions from Japan, Ukraine, and Cuba. However, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">on the morning of the final</span><span style=\"font-family:'Cambria Math'\">, she was found to be </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">overweight by 150 grams</span><span style=\"font-family:'Cambria Math'\"> during the mandatory second-day weigh-in. As per </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">United World Wrestling regulations</span><span style=\"font-family:'Cambria Math'\">, this led to her </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">disqualification</span><span style=\"font-family:'Cambria Math'\">, and she was </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">denied any medal</span><span style=\"font-family:'Cambria Math'\"> despite her historic run. The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold was awarded to Guzmán</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Susaki faced Livach</span><span style=\"font-family:'Cambria Math'\"> for the bronze medal.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who was the first Indian to win an individual Olympic gold medal?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Gagan Narang</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Rajyavardhan Singh Rathore</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Abhinav Bindra</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Abhinav Bindra</span><span style=\"font-family:'Cambria Math'\"> became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win an individual Olympic gold medal</span><span style=\"font-family:'Cambria Math'\"> by triumphing in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">10m Air Rifle event</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Beijing 2008 Olympics</span><span style=\"font-family:'Cambria Math'\">, scoring </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">5</span><span style=\"font-family:'Cambria Math'\"> to surpass China’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Zhu Qinan</span><span style=\"font-family:'Cambria Math'\">. His victory broke a century-long barrier for India in individual events. Bindra chronicled his journey in the book </span><span style=\"font-style:italic;font-family:'Cambria Math'\">A Shot at History: My Obsessive Journey to Olympic Gold</span><span style=\"font-family:'Cambria Math'\">, co-authored with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Rohit Brijnath</span><span style=\"font-family:'Cambria Math'\">, offering deep insight into his relentless pursuit of perfection, setbacks at Athens 2004, and scientific approach to training.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which edition of the Summer Paralympic Games was held in Paris in 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> XV (15th)</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> XVI (16th)</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> XVII (17th)</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> XVIII (18th)</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-family:'Cambria Math'\"> The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\"> marked the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">17th edition (XVII)</span><span style=\"font-family:'Cambria Math'\"> of the Games, held from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">28 August to 8 September 2024</span><span style=\"font-family:'Cambria Math'\">. It was the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first time France hosted the Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">, with events staged across iconic venues like the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Eiffel Tower</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Château de Versailles</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Stade de France</span><span style=\"font-family:'Cambria Math'\">. The Games featured </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">4,463 athletes</span><span style=\"font-family:'Cambria Math'\"> from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">170 nations</span><span style=\"font-family:'Cambria Math'\">, competing in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">549 events across 22 sports</span><span style=\"font-family:'Cambria Math'\">. India recorded its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">best-ever performance</span><span style=\"font-family:'Cambria Math'\">, winning </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">29 medals</span><span style=\"font-family:'Cambria Math'\"> and finishing </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">18th</span><span style=\"font-family:'Cambria Math'\"> in the medal tally.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who was appointed as the Chef de Mission (Head of Mission) for India’s contingent at the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Devendra Jhajharia</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Satya Prakash Sangwan</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Deepa Malik</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Rajesh Tomar</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Satya Prakash Sangwan</span><span style=\"font-family:'Cambria Math'\">, Vice-President of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paralympic Committee of India (PCI)</span><span style=\"font-family:'Cambria Math'\">, was appointed as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Chef de Mission</span><span style=\"font-family:'Cambria Math'\"> for India’s contingent at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">. He led </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s largest-ever para-athlete delegation</span><span style=\"font-family:'Cambria Math'\">, comprising </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">84 athletes across 12 sports disciplines</span><span style=\"font-family:'Cambria Math'\">. Sangwan has been a key figure in India’s para-sports movement for over a decade, and his leadership was expected to play a pivotal role in ensuring logistical coordination, athlete support, and strategic planning during the Games.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who were India’s flag bearers at the opening ceremony of the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Avani Lekhara and Harvinder Singh</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Bhagyashree Jadhav and Sumit Antil</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Deepa Malik and Devendra Jhajharia</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Preeti Pal and Rakesh Kumar</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Bhagyashree Jadhav</span><span style=\"font-family:'Cambria Math'\"> (shot put, F34 category) and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sumit Antil</span><span style=\"font-family:'Cambria Math'\"> (javelin throw, F64 category) were chosen as </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s flag bearers</span><span style=\"font-family:'Cambria Math'\"> for the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">opening ceremony</span><span style=\"font-family:'Cambria Math'\"> of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">. Their selection recognized their consistent international performances and leadership in para-athletics. Sumit was a reigning Paralympic gold medalist and world record holder, while Bhagyashree had earned silver at the World Para Athletics Championships earlier in 2024.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who represented India as flag bearers during the closing ceremony of the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Bhagyashree Jadhav and Sumit Antil</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Preeti Pal and Harvinder Singh</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Deepa Malik and Mariyappan Thangavelu</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Rubina Francis and Rakesh Kumar</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Preeti Pal</span><span style=\"font-family:'Cambria Math'\">, India’s first track medalist at the Paralympics (bronze in 100m and 200m T35), and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Harvinder Singh</span><span style=\"font-family:'Cambria Math'\">, India’s first Paralympic gold medalist in archery, were selected as </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">flag bearers for the closing ceremony</span><span style=\"font-family:'Cambria Math'\"> of the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">. Their achievements symbolized India’s historic performance at the Games, where the country secured a record </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">29 medals</span><span style=\"font-family:'Cambria Math'\">, finishing </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">18th</span><span style=\"font-family:'Cambria Math'\"> in the overall tally.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who was the President of the Paralympic Committee of India (PCI) during the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Devendra Jhajharia</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Deepa Malik</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Rajesh Tomar</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Satya Prakash Sangwan</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Devendra Jhajharia</span><span style=\"font-family:'Cambria Math'\">, a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">two-time Paralympic gold medalist</span><span style=\"font-family:'Cambria Math'\">, served as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">President of the Paralympic Committee of India (PCI)</span><span style=\"font-family:'Cambria Math'\"> during the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">. He was elected to the post in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">March 2024</span><span style=\"font-family:'Cambria Math'\">, succeeding </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Deepa Malik</span><span style=\"font-family:'Cambria Math'\">. Under his leadership, India fielded its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">largest-ever para-athlete contingent</span><span style=\"font-family:'Cambria Math'\">, and achieved a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">record medal haul</span><span style=\"font-family:'Cambria Math'\">, reflecting his commitment to athlete support, grassroots development, and strategic planning.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which country topped the medal table at the Paris 2024 Summer Paralympics for the sixth consecutive time?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> United States</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Great Britain</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> China</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Japan</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">China</span><span style=\"font-family:'Cambria Math'\"> led the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics medal table</span><span style=\"font-family:'Cambria Math'\"> for the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">sixth consecutive time</span><span style=\"font-family:'Cambria Math'\">, winning </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">94 gold</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">76 silver</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">51 bronze medals</span><span style=\"font-family:'Cambria Math'\">, totaling </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">221 medals</span><span style=\"font-family:'Cambria Math'\">. </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Great Britain</span><span style=\"font-family:'Cambria Math'\"> secured </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">second place for the tenth time</span><span style=\"font-family:'Cambria Math'\">, with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">49 golds</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">124 total medals</span><span style=\"font-family:'Cambria Math'\">, while the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">United States</span><span style=\"font-family:'Cambria Math'\"> finished </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">third</span><span style=\"font-family:'Cambria Math'\">, earning </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">36 golds</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">105 total medals</span><span style=\"font-family:'Cambria Math'\">. China’s dominance was fueled by standout performances in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">athletics</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">swimming</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">table tennis</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">fencing</span><span style=\"font-family:'Cambria Math'\">, and the team broke </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">29 world records</span><span style=\"font-family:'Cambria Math'\"> during the Games.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What was India’s overall performance at the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 18 medals, ranked 10th</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 29 medals, ranked 18th</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 19 medals, ranked 12th</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 25 medals, ranked 15th</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">India achieved its best-ever Paralympic performance</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">, winning a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">record 29 medals</span><span style=\"font-family:'Cambria Math'\">—</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">7 gold</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">9 silver</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">13 bronze</span><span style=\"font-family:'Cambria Math'\">—and finishing </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">18th in the overall medal tally</span><span style=\"font-family:'Cambria Math'\">. This surpassed India’s previous best of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">19 medals at Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">. Notable gold medalists included </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Avani Lekhara</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sumit Antil</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Harvinder Singh</span><span style=\"font-family:'Cambria Math'\">, with standout performances in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">shooting</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">athletics</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">archery</span><span style=\"font-family:'Cambria Math'\">. India’s medal haul spanned </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">five sports</span><span style=\"font-family:'Cambria Math'\">, with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">athletics contributing 17 medals</span><span style=\"font-family:'Cambria Math'\">. The delegation featured </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">84 athletes across 12 disciplines</span><span style=\"font-family:'Cambria Math'\">, including debut entries in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">para cycling</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">para rowing</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">blind judo</span><span style=\"font-family:'Cambria Math'\">.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> When did India officially make its debut at the Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 1972</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 1984</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 1964</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 1968</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) <strong>Opposite.</strong> Phyllotaxy refers to the arrangement of leaves on the stem or branch of a plant. In an opposite leaf arrangement, two leaves arise at the same point, with the leaves connecting opposite each other along the branch. If there are three or more leaves connected at a node, the leaf arrangement is classified as whorled.</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India made its </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">official debut at the 1968 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\"> held in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Tel Aviv, Israel</span><span style=\"font-family:'Cambria Math'\">. Since then, India has </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">appeared in every edition of the Summer Paralympics from 1984 onwards</span><span style=\"font-family:'Cambria Math'\">. The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Games mark India’s 13th appearance</span><span style=\"font-family:'Cambria Math'\"> at the Summer Paralympics. Over the years, India’s participation has grown steadily, both in athlete strength and medal achievements—culminating in a record haul of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">29 medals</span><span style=\"font-family:'Cambria Math'\"> at Paris.</span>"
     },
     {
-        "question": "<p>Who became the first Indian prime minister to make a state visit to Ukraine?</p>",
-        "option_1": "<p>Jawaharlal Nehru</p>",
-        "option_2": "<p>Atal Bihari Vajpayee</p>",
-        "option_3": "<p>Narendra Modi</p>",
-        "option_4": "<p>Manmohan Singh</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Narendra Modi. </strong>This visit marked a historic moment, as it was the first time an Indian Prime Minister visited Ukraine since the establishment of diplomatic relations between the two countries in 1992.</p>"
-    },
-    {
-        "question": "<p>Mahatma Gandhi National Rural Employment Guarantee Act (2005) provides work for how many days?</p>",
-        "option_1": "<p>300</p>",
-        "option_2": "<p>200</p>",
-        "option_3": "<p>100</p>",
-        "option_4": "<p>125</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>100.</strong> The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), passed in September 2005, is a labor law that guarantees the 'Right to Work' and was officially launched on 2 February 2006. Initially proposed by P.V. Narasimha Rao in 1991, its name was changed from NREGA to MGNREGA on 2 October 2009.</p>"
-    },
-    {
-        "question": "<p>Name the high-intensity tri-services exercise conducted by the Indian Army from 10th to 18th November 2024.</p>",
-        "option_1": "<p>Tiger Triumph</p>",
-        "option_2": "<p>INDRA</p>",
-        "option_3": "<p>Poorvi Prahar</p>",
-        "option_4": "<p>Vajra Prahar</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Poorvi Prahar</strong>. This joint exercise aims to sharpen the combat effectiveness of the Indian Army, Navy, and Air Force in implementing Integrated Joint Operations in the difficult mountainous terrain of the region. The exercise, Poorvi Prahar, will involve innovative technological advancements such as, First Person View (FPV) Drones, and Loiter Munitions.</p>"
-    },
-    {
-        "question": "<p>\"Who moved my interest rate' is the autobiography of D Subbarao who was a__________ .</p>",
-        "option_1": "<p>journalist</p>",
-        "option_2": "<p>political leader</p>",
-        "option_3": "<p>businessman</p>",
-        "option_4": "<p>banker</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which new sports did Indian para-athletes participate in for the first time at the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Para canoe, para taekwondo, para archery</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Para badminton, para shooting, para swimming</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Para athletics, para table tennis, para powerlifting</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Para cycling, para rowing, and blind judo</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) <strong>banker.</strong> Duvvuri Subbarao was the 22nd Governor of the Reserve Bank of India. Other RBI governor’s books: Raghuram Govind Rajan - “I Do What I Do”, “Fault Lines”. Manmohan Singh - “Changing India”, “Collateral and Financial Plumbing”. Yaga Venugopal Reddy - “India and The Global Financial Crisis”.</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> At the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Indian para-athletes made their debut in three new sports</span><span style=\"font-family:'Cambria Math'\">: </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">para cycling</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">para rowing</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">blind judo</span><span style=\"font-family:'Cambria Math'\">. This expansion brought India’s total participation to </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">12 disciplines</span><span style=\"font-family:'Cambria Math'\">, up from </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">9 at Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">, and reflected the country’s growing investment in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">diverse para-sport development</span><span style=\"font-family:'Cambria Math'\">. Athletes like </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Arshad Shaik</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Jyoti Gaderiya</span><span style=\"font-family:'Cambria Math'\"> competed in para cycling, while </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Anita</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">K. Narayana</span><span style=\"font-family:'Cambria Math'\"> represented India in para rowing. In blind judo, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Kapil Parmar</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Kokila</span><span style=\"font-family:'Cambria Math'\"> made history as India’s first entrants in the sport.</span>"
     },
     {
-        "question": "<p>With reference to the Directive Principles of State policy contained in the Constitution of India, which of the following statements is/are correct?<br/>1.Article 37 of the Constitution of India provides that the Directive Principles of State Policy are enforceable in the High Courts only.<br/>2.Article 38 provides that the State shall strive to minimise the inequalities in income amongst individuals and groups of people.<br/>3.Article 39 provides that the State shall direct its policy towards securing that there is equal pay for equal work for both men and women.</p>",
-        "option_1": "<p>Only 2 and 3</p>",
-        "option_2": "<p>Only 1 and 3</p>",
-        "option_3": "<p>Only 2</p>",
-        "option_4": "<p>Only 1</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became the first Indian woman to win two gold medals in shooting at the Paralympic Games?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Avani Lekhara</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Mona Agarwal</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Manasi Joshi</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Deepa Malik</span>",
         "option_5": "",
         "answer": "1",
-        "solution": "<p>(a) <strong>Only 2 and 3.</strong> Article 37 of the Constitution of India provides that the Directive Principles of State Policy (DPSP, Part IV - Article 36 to 51) are not enforceable in any court.</p>"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Avani Lekhara</span><span style=\"font-family:'Cambria Math'\"> created history at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">, becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian woman to win two gold medals in shooting</span><span style=\"font-family:'Cambria Math'\">. She successfully defended her title in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">women’s 10m air rifle standing SH1 event</span><span style=\"font-family:'Cambria Math'\">, scoring </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">7 points</span><span style=\"font-family:'Cambria Math'\">—a new </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paralympic record</span><span style=\"font-family:'Cambria Math'\">, beating her own score of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">249.6</span><span style=\"font-family:'Cambria Math'\"> set at </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">. She clinched </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s first gold medal</span><span style=\"font-family:'Cambria Math'\"> at Paris 2024 and became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">second Indian overall</span><span style=\"font-family:'Cambria Math'\"> (after Devendra Jhajharia) to win </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">two Paralympic golds</span><span style=\"font-family:'Cambria Math'\">. The event also saw </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Mona Agarwal</span><span style=\"font-family:'Cambria Math'\"> win </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze</span><span style=\"font-family:'Cambria Math'\">, securing India’s </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first double podium finish</span><span style=\"font-family:'Cambria Math'\"> in Paralympic shooting.</span>"
     },
     {
-        "question": "<p>With how many countries does India share a sea border?</p>",
-        "option_1": "<p>6</p>",
-        "option_2": "<p>4</p>",
-        "option_3": "<p>8</p>",
-        "option_4": "<p>2</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian para-athletes achieved a historic one-two finish in athletics at the Paris 2024 Summer Paralympics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sumit Antil and Harvinder Singh</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Avani Lekhara and Mona Agarwal</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Dharambir and Pranav Soorma</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Amit Saroha and Kapil Parmar</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Dharambir and Pranav Soorma</span><span style=\"font-family:'Cambria Math'\"> secured a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">historic one-two finish</span><span style=\"font-family:'Cambria Math'\"> for India in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s club throw F51 event</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">. Dharambir clinched </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold</span><span style=\"font-family:'Cambria Math'\"> with a throw of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">92m</span><span style=\"font-family:'Cambria Math'\">, setting a new </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Asian record</span><span style=\"font-family:'Cambria Math'\">, while Pranav Soorma earned </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver</span><span style=\"font-family:'Cambria Math'\"> with a best effort of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">34.59m</span><span style=\"font-family:'Cambria Math'\">. This marked </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s first-ever 1-2 finish in any track and field event</span><span style=\"font-family:'Cambria Math'\"> at the Paralympics, showcasing the country’s growing strength in para-athletics. Their achievement pushed India’s medal tally to a record-breaking 24 at the Games.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became the first Indian man to successfully defend his Paralympic title, setting a new Games record in javelin throw at Paris 2024?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sumit Antil</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Devendra Jhajharia</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Sundar Singh Gurjar</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Neeraj Chopra</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Sumit Antil</span><span style=\"font-family:'Cambria Math'\"> made history at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\"> by becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian man to defend his Paralympic title</span><span style=\"font-family:'Cambria Math'\">, winning </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold in the men’s javelin throw F64 event</span><span style=\"font-family:'Cambria Math'\">. He recorded a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">stunning throw of 70.59 meters</span><span style=\"font-family:'Cambria Math'\">, breaking his own previous Paralympic record of 68.55m set at Tokyo 2020. Antil’s achievement placed him in an elite group of Indian athletes with </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">two Paralympic golds</span><span style=\"font-family:'Cambria Math'\">, alongside </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Avani Lekhara</span><span style=\"font-family:'Cambria Math'\"> and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Devendra Jhajharia</span><span style=\"font-family:'Cambria Math'\">. His victory also marked </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">India’s third gold medal</span><span style=\"font-family:'Cambria Math'\"> at Paris 2024 and reinforced his status as the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">reigning world champion</span><span style=\"font-family:'Cambria Math'\"> in the F64 category.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which Indian para-athlete won medals in high jump at three consecutive Paralympic Games?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sharad Kumar</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Mariyappan Thangavelu</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Devendra Jhajharia</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Sundar Singh Gurjar</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Mariyappan Thangavelu</span><span style=\"font-family:'Cambria Math'\"> became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian para-athlete to win medals in high jump at three consecutive Paralympic Games</span><span style=\"font-family:'Cambria Math'\">. He won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold at Rio 2016</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver at Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze at Paris 2024</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s high jump T63 category</span><span style=\"font-family:'Cambria Math'\">. His bronze-winning jump of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">85m</span><span style=\"font-family:'Cambria Math'\"> in Paris followed his earlier marks of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1.89m</span><span style=\"font-family:'Cambria Math'\"> (Rio) and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">1.86m</span><span style=\"font-family:'Cambria Math'\"> (Tokyo). This remarkable consistency highlights his </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">resilience, skill, and legacy</span><span style=\"font-family:'Cambria Math'\"> in Indian para-athletics. In Paris, fellow Indian </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Sharad Kumar</span><span style=\"font-family:'Cambria Math'\"> won </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">silver</span><span style=\"font-family:'Cambria Math'\"> in the same event, making it a double podium for India.</span>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became the first Indian to win a medal in a track event at the Paralympic Games?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Simran Sharma</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Fatima Khatoon</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Sheetal Devi</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Preethi Pal</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) <strong>2 </strong>(Sri Lanka and Maldives). Sri Lanka is separated from India by a narrow channel of sea formed by the Palk Strait and the Gulf of Mannar, while Maldives Islands are situated to the south of the Lakshadweep Islands. India shares its land borders with seven countries: Pakistan and Afghanistan to the northwest, China (Tibet), Nepal and Bhutan to the north, Myanmar and Bangladesh to the east.</p>"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Preethi Pal</span><span style=\"font-family:'Cambria Math'\"> made history at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\"> by becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win a medal in a track event</span><span style=\"font-family:'Cambria Math'\">, clinching </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze in the women’s 100m T35 race</span><span style=\"font-family:'Cambria Math'\"> with a personal best of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">21 seconds</span><span style=\"font-family:'Cambria Math'\">. She later added another </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze in the 200m T35</span><span style=\"font-family:'Cambria Math'\">, becoming the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian woman to win two medals in track and field</span><span style=\"font-family:'Cambria Math'\"> at the Paralympics. Her achievement marked a turning point for India in para-athletics, which had previously only yielded medals in field events.</span>"
     },
     {
-        "question": "<p>Who among the following was primarily an integral part of the Indian National Army (INA)?</p>",
-        "option_1": "<p>Rabindranath Tagore</p>",
-        "option_2": "<p>Subhas Chandra Bose</p>",
-        "option_3": "<p>Chittaranjan Das</p>",
-        "option_4": "<p>Abanindranath Tagore</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Subhas Chandra Bose. </strong>Indian National Army (INA) was a collaborationist armed unit of Indian collaborators that fought under the command of the Japanese Empire. It was founded by Mohan Singh in September 1942 in Southeast Asia during World War II. Some notable people associated: Mohan Singh, Habib ur Rahman, Lt. Col Hori Lal Verma.</p>"
-    },
-    {
-        "question": "<p>Which of the following is a popular festival celebrated in the state of Bihar ?</p>",
-        "option_1": "<p>Me-Dam-Me-Phi</p>",
-        "option_2": "<p>Sama Chakeva</p>",
-        "option_3": "<p>Harela</p>",
-        "option_4": "<p>Ali-Ai-Ligang</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Sama Chakeva.</strong> It is a festival deeply rooted in the Maithili community in India, and Tharu community in Nepal. Festivals in India: Assam - Baishagu, Ali-Ai-Ligang, Baikho, Rongker, Rajini Gabra Harni Gabra, Bohaggiyo Bishu, Ambubashi Mela and Jonbill Mela. Uttarakhand - Harela. Tamil Nadu - Pongal. Kerala - Onam.</p>"
-    },
-    {
-        "question": "<p>What is the unit of specific resistance?</p>",
-        "option_1": "<p>Farad</p>",
-        "option_2": "<p>Ampere</p>",
-        "option_3": "<p>Coulomb</p>",
-        "option_4": "<p>Ohm meter</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> Who became India’s first-ever Paralympic gold medalist in archery?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Rakesh Kumar</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Sheetal Devi</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Vivek Chikara</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Harvinder Singh</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) <strong>Ohm meter. </strong>Specific resistance is the resistance per unit length and cross-sectional area when a known voltage is applied. Farad is the unit of capacitance, and a capacitor has 1 F when 1 coulomb (C) of charge changes the potential between its plates by 1 volt (V). The ampere (A) is the SI unit of electric current. Coulomb (C) is the standard unit of electric charge in the International System of Units (SI).</p>"
+        "solution": "<span style=\"font-weight:bold;font-family:'Cambria Math'\">Harvinder Singh</span><span style=\"font-family:'Cambria Math'\"> became the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first Indian to win a Paralympic gold medal in archery</span><span style=\"font-family:'Cambria Math'\"> at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Summer Paralympics</span><span style=\"font-family:'Cambria Math'\">, defeating </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Poland’s Lukasz Ciszek 6–0</span><span style=\"font-family:'Cambria Math'\"> in the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">men’s individual recurve open final</span><span style=\"font-family:'Cambria Math'\">. This victory followed his </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">bronze medal at Tokyo 2020</span><span style=\"font-family:'Cambria Math'\">, making him a </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">two-time Paralympic medalist</span><span style=\"font-family:'Cambria Math'\">. Harvinder’s triumph marked a milestone for Indian para-archery and added to India’s growing medal tally in Paris.</span>"
     },
     {
-        "question": "<p>Lai Haraoba, which literally means ‘the festival of gods’, is primarily celebrated in which state of India?</p>",
-        "option_1": "<p>Kerala</p>",
-        "option_2": "<p>Uttarakhand</p>",
-        "option_3": "<p>Himachal Pradesh</p>",
-        "option_4": "<p>Manipur</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> When did women officially make their debut at the Olympic Games?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 1896 – Athens</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 1904 – St. Louis</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 1912 – Stockholm</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 1900 – Paris</span>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) <strong>Manipur.</strong> Lai Haraoba festival: It is an important festival of the Meitei tribe. Other festivals of Manipur - Yaoshang, Cheiraoba (The Manipuri New Year), Kang (The Ratha Yatra of Manipur), Heikru Hitongba (Boat race). Kerala - Onam, Theyyam, Attukal Pongala, Makaravilakku. Uttarakhand - Harela, Bhitauli, Phool Dei, Uttarayani, Himachal Pradesh - Halda, Jagra, Kullu Dussehra.</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> Women </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">first competed at the Olympic Games in 1900</span><span style=\"font-family:'Cambria Math'\">, held in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris, France</span><span style=\"font-family:'Cambria Math'\">. Out of </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">997 athletes</span><span style=\"font-family:'Cambria Math'\">, only </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">22 were women</span><span style=\"font-family:'Cambria Math'\">, participating in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">five sports</span><span style=\"font-family:'Cambria Math'\">: </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">tennis</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">golf</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">sailing</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">croquet</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">equestrianism</span><span style=\"font-family:'Cambria Math'\">. This marked a significant milestone in Olympic history, though women’s participation remained limited for decades. The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Olympics</span><span style=\"font-family:'Cambria Math'\"> celebrated </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">full gender parity</span><span style=\"font-family:'Cambria Math'\">, with equal numbers of male and female athletes for the first time.</span>"
     },
     {
-        "question": "<p>Which of the following is a non-perishable food?</p>",
-        "option_1": "<p>Pulses</p>",
-        "option_2": "<p>Meat</p>",
-        "option_3": "<p>Milk</p>",
-        "option_4": "<p>Curds</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <strong>Pulses. </strong>Non-perishable foods are items that can be stored at room temperature for extended periods without spoiling. Examples include beans, coffee, honey, powdered milk, rice, and wheat. In contrast, frozen foods are not classified as non-perishable.</p>"
-    },
-    {
-        "question": "<p>In which year was Aatmanirbhar Bharat Rojgar Yojana launched?</p>",
-        "option_1": "<p>2018</p>",
-        "option_2": "<p>2020</p>",
-        "option_3": "<p>2017</p>",
-        "option_4": "<p>2019</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>2020. </strong>Aatmanirbhar Bharat Rojgar Yojana (ABRY) : A Central Sector Scheme launched to boost job creation in the formal sector, particularly after the economic downturn caused by the COVID-19 pandemic. Maharashtra has topped the list of states with a maximum number of beneficiaries under this scheme.</p>"
-    },
-    {
-        "question": "<p>Which of the following is the darkest, or least reflective object in the Solar System with an albedo of 0.03 ?</p>",
-        "option_1": "<p>9P/Tempel 1</p>",
-        "option_2": "<p>2P/Encke</p>",
-        "option_3": "<p>1P/Halley</p>",
-        "option_4": "<p>19P/Borrelly</p>",
+        "question": "<span style=\"font-family:'Cambria Math'\"> How many gold medals did India win at the </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Paris 2024 Paralympic Games</span><span style=\"font-family:'Cambria Math'\">?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 5</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 6</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 7</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 8</span>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) <strong>1P/Halley.</strong> Comet Halley takes about 76 years to orbit the Sun once. It has an albedo of 0.03, which means that it reflects only 3% of the light that falls on it. It is named for Edmond Halley, who discovered it in 1705. Comet 19P/Borrelly was discovered by Alphonse Louis Nicolas Borrelly in 1904. Comet 2P/Encke was first discovered by Pierre F. A. Mechain in 1786.</p>"
-    },
-    {
-        "question": "<p>Which of the following is NOT a condition for acquiring the citizenship of India?</p>",
-        "option_1": "<p>Registration</p>",
-        "option_2": "<p>Descent</p>",
-        "option_3": "<p>Domicile</p>",
-        "option_4": "<p>Holding property</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d) <strong>Holding property.</strong> The Citizenship Act of 1955 is the fundamental law governing the acquisition and termination of Indian citizenship. It outlines five ways to become an Indian citizen: birth, descent, registration, naturalization, and incorporation of territory. Citizenship (Amendment) Act, 2019: It provides an accelerated pathway for the citizenship of the members of six communities (Hindus, Sikhs, Buddhists, Jains, Parsis, and Christians) from Pakistan, Bangladesh, and Afghanistan if they have arrived before December 31, 2014.</p>"
-    },
-    {
-        "question": "<p>What is the main objective of Fiscal Responsibility and Budget Management Act (FRBMA), 2003?</p>",
-        "option_1": "<p>To increase exports</p>",
-        "option_2": "<p>To increase excise duty</p>",
-        "option_3": "<p>To reduce fiscal deficit</p>",
-        "option_4": "<p>To reduce subsidies</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>To reduce fiscal deficit.</strong> The Fiscal Responsibility and Budget Management (FRBM) Act is a law enacted by the Government of India in 2003 to ensure fiscal discipline – by setting targets including reduction of fiscal deficits and elimination of revenue deficit. Enacted - 26 August 2003. Introduced by - Mr.Yashwant Sinha.</p>"
-    },
-    {
-        "question": "<p>With which sport is the Burdwan Trophy associated?</p>",
-        "option_1": "<p>Powerlifting</p>",
-        "option_2": "<p>Weightlifting</p>",
-        "option_3": "<p>Boxing</p>",
-        "option_4": "<p>Wrestling</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Weightlifting.</strong> Sports and Trophies : Badminton - Agarwal Cup, Amrit Diwan Cup, Asia Cup. Basketball - Basalat Jha Trophy, B. C. Gupta Trophy, Federation Cup. Boxing - Aspy Adjahia Trophy, Federation Cup, Val iBaker Trophy.</p>"
-    },
-    {
-        "question": "<p>What is observed annually on December 4?</p>",
-        "option_1": "<p>International Wildlife Day</p>",
-        "option_2": "<p>International Cheetah Day</p>",
-        "option_3": "<p>World Endangered Species Day</p>",
-        "option_4": "<p>Global Conservation Day</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>International Cheetah Day. </strong>To raise awareness about the challenges faced by cheetahs and to promote conservation efforts. Established by the Cheetah Conservation Fund (CCF).</p>"
-    },
-    {
-        "question": "<p>What is the process of a substance changing directly from a solid to a gas without passing through the liquid state called ?</p>",
-        "option_1": "<p>Sublimation</p>",
-        "option_2": "<p>Fusion</p>",
-        "option_3": "<p>Evaporation</p>",
-        "option_4": "<p>Condensation</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<strong> Sublimation.</strong> Melting, or fusion, is the process where a substance changes from a solid to a liquid state. Evaporation occurs when a liquid turns into a gas or vapor, typically when heated or exposed to air. Condensation is the reverse of evaporation, where water vapor transforms into liquid water.</p>"
-    },
-    {
-        "question": "<p>Sriharikota island is located in which of the following states?</p>",
-        "option_1": "<p>West Bengal</p>",
-        "option_2": "<p>Tamil Nadu</p>",
-        "option_3": "<p>Odisha</p>",
-        "option_4": "<p>Andhra Pradesh</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d) <strong>Andhra Pradesh.</strong> Satish Dhawan Space Centre (SDSC) or Sriharikota Range (SHAR) is a rocket launch center (spaceport) operated by the Indian Space Research Organisation (ISRO). It is located in Sriharikota, district Nellore. Other space center: Vikram Sarabhai Space Centre: Located in Thiruvananthapuram, Kerala. Indian Institute of Space Science and Technology (IIST): Located in Thiruvananthapuram, Kerala. Dr. Abdul Kalam Island (formerly Wheeler Island): Located off the coast of Odisha.</p>"
-    },
-    {
-        "question": "<p>When did India host the Asian Games for the first time?</p>",
-        "option_1": "<p>1951</p>",
-        "option_2": "<p>1954</p>",
-        "option_3": "<p>1962</p>",
-        "option_4": "<p>1990</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <strong>1951 </strong>(New Delhi). Asian Games: It is a continental multi-sport event held every fourth year among athletes from all over Asia. The Games are recognized by the International Olympic Committee (IOC) and are described as the second largest multi-sport event after the Olympic Games. Motto - Ever Onward.</p>"
-    },
-    {
-        "question": "<p>Which festival is celebrated to commemorate the birth anniversary of Lord Buddha?</p>",
-        "option_1": "<p>Parinirvana Day</p>",
-        "option_2": "<p>Vesak</p>",
-        "option_3": "<p>Ullambana</p>",
-        "option_4": "<p>Kathina</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Vesak.</strong> Buddha Purnima: It is celebrated to mark the birth of Gautam Buddha, the founder of Buddhism. It falls on a full moon day in May and is considered the most sacred day in the Buddhist calendar. Parinirvana Day: It commemorates Buddha's death and his entrance into complete Nirvana.</p>"
-    },
-    {
-        "question": "<p>If Tanya walks at the speed of 6 km/h, she misses a train by 2 minutes. However, if she walks at the speed of 8 km/h, she reaches the station 3 minutes before the arrival of the train. The distance covered by Tanya to reach the station is:</p>",
-        "option_1": "<p>2.5 km</p>",
-        "option_2": "<p>2.75 km</p>",
-        "option_3": "<p>3 km</p>",
-        "option_4": "<p>2 km</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d) <br/>Distance of station = <math display=\"inline\"><mfrac><mrow><mn>6</mn><mi> </mi><mo>×</mo><mi> </mi><mn>8</mn></mrow><mrow><mn>8</mn><mi> </mi><mo>-</mo><mi> </mi><mn>6</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mn>60</mn></mfrac></math> = 2 km</p>"
-    },
-    {
-        "question": "<p>The difference (in ₹) between a discount of 37% on ₹2,635 and two successive discounts of 23% and 7% on the same amount is (rounded off to 2 decimal places):</p>",
-        "option_1": "<p>226.87</p>",
-        "option_2": "<p>248.36</p>",
-        "option_3": "<p>242.25</p>",
-        "option_4": "<p>235.65</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) First discount = 37%<br/>Second two successive discount (effective rate) = 23 + 7 - <math display=\"inline\"><mfrac><mrow><mn>23</mn><mi> </mi><mo>×</mo><mi> </mi><mn>7</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 30 - 1.61 = 28.39%<br/>Required amount = 2635 × <math display=\"inline\"><mfrac><mrow><mo>(</mo><mn>37</mn><mi> </mi><mo>-</mo><mi> </mi><mn>28</mn><mo>.</mo><mn>39</mn><mo>)</mo></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 2635 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>8</mn><mo>.</mo><mn>61</mn></mrow><mn>100</mn></mfrac></math> = 226.87</p>"
-    },
-    {
-        "question": "<p>There are two classrooms, A and B. If 7 students are shifted from A to B, then B will have twice the number of students as A. If 3 students are sent from B to A, then both the classrooms will have the same number of students. The positive difference between the number of students in the two classrooms is:</p>",
-        "option_1": "<p>6</p>",
-        "option_2": "<p>5</p>",
-        "option_3": "<p>8</p>",
-        "option_4": "<p>7</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/>Let no. of students in classrooms A and B are ‘a’ and ‘b’ respectively.<br/>According to the first condition,<br/>2 (a-7) = b + 7<br/>⇒ 2a - b = 21<br/>According to the second condition,<br/>a + 3 = b - 3<br/>⇒ b - a = 6<br/><b>Hence,</b> a = 27 and b = 33<br/>Required difference = 33 - 27 = 6</p>"
-    },
-    {
-        "question": "<p>Time taken (in hrs) by two trains X and Y to travel the distance from Lucknow to Chandigarh via the same route on four different days is given in the following bar graph. Study the graph carefully and answer the question given below:<br/> <br/>If the distance between Lucknow and Chandigarh is 754 km, then what is the difference between the average speed (in km/hr) of the trains X and Y on Day 3?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130569.png",
-        "option_1": "<p>18.5</p>",
-        "option_2": "<p>15.8</p>",
-        "option_3": "<p>20.3</p>",
-        "option_4": "<p>23.5</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Speed of train X on day 3 = <math display=\"inline\"><mfrac><mrow><mn>754</mn></mrow><mrow><mn>13</mn></mrow></mfrac></math> = 58 km/h<br/>Speed of train Y on day 3 = <math display=\"inline\"><mfrac><mrow><mn>754</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> = 37.7 km/h<br/>Required difference = 58 - 37.7 = 20.3 km/h</p>"
-    },
-    {
-        "question": "<p>Find the length of the plank which can be used to measure exactly the lengths 6 m 50 cm, 3 m 50 cm, and 7 m 50 cm in the least time.</p>",
-        "option_1": "<p>15 cm</p>",
-        "option_2": "<p>50 cm</p>",
-        "option_3": "<p>100 cm</p>",
-        "option_4": "<p>25 cm</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/>6 m 50 cm = 650 cm<br/>3 m 50 cm = 350 cm<br/>7 m 50 cm = 750 cm<br/>HCF (650 , 350 , 750) = 50<br/><b>Hence,</b> required length = 50 cm</p>"
-    },
-    {
-        "question": "<p>In an election between two candidates, one got 65% of the total valid votes. 20% of the votes were invalid. If the total number of votes was 7,500, the number of valid votes that the other candidate got was:</p>",
-        "option_1": "<p>4,300</p>",
-        "option_2": "<p>1,900</p>",
-        "option_3": "<p>2,100</p>",
-        "option_4": "<p>1,700</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Total number of votes = 7500<br/>Total number of valid votes = 7500 × 80% = 6000 <br/>Required number of votes = 6000 × <math display=\"inline\"><mfrac><mrow><mn>35</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 2100</p>"
-    },
-    {
-        "question": "<p>What is the value of <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>9</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>26</mn><mo>°</mo><mo>+</mo><mn>9</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>64</mn><mo>°</mo><mo>+</mo><mn>36</mn></mrow><mrow><mn>32</mn><mo>-</mo><mn>7</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>32</mn><mo>°</mo><mo>-</mo><mn>7</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>58</mn><mo>°</mo></mrow></mfrac></msqrt></math> ?</p>",
-        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mn>3</mn><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></math></p>",
-        "option_2": "<p><math display=\"inline\"><mfrac><mrow><mn>5</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p>",
-        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>5</mn><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p>",
-        "option_4": "<p><math display=\"inline\"><mfrac><mrow><mn>3</mn><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></math></p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>9</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>26</mn><mo>°</mo><mo>+</mo><mn>9</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>64</mn><mo>°</mo><mo>+</mo><mn>36</mn></mrow><mrow><mn>32</mn><mo>-</mo><mn>7</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>32</mn><mo>°</mo><mo>-</mo><mn>7</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>58</mn><mo>°</mo></mrow></mfrac></msqrt></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>9</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>64</mn><mo>°</mo><mo>+</mo><mn>9</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>64</mn><mo>°</mo><mo>+</mo><mn>36</mn></mrow><mrow><mn>32</mn><mo>-</mo><mo>(</mo><mn>7</mn><msup><mi>sin</mi><mn>2</mn></msup><mn>58</mn><mo>°</mo><mo>+</mo><mn>7</mn><msup><mi>cos</mi><mn>2</mn></msup><mn>58</mn><mo>°</mo><mo>)</mo></mrow></mfrac></msqrt></math> <br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mn>9</mn><mo>+</mo><mn>36</mn></mrow><mrow><mn>32</mn><mo>-</mo><mn>7</mn></mrow></mfrac></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mfrac><mrow><mn>45</mn></mrow><mrow><mn>25</mn></mrow></mfrac></msqrt></math> <br/>= <math display=\"inline\"><mfrac><mrow><mn>3</mn><msqrt><mn>5</mn></msqrt></mrow><mrow><mn>5</mn></mrow></mfrac></math></p>"
-    },
-    {
-        "question": "<p>Rahul covers 734 km in a boat in 30 hours against the stream and he takes 12 hours with the stream then finds the speed of the stream?</p>",
-        "option_1": "<p>18.35 km/h</p>",
-        "option_2": "<p>11.88 km/h</p>",
-        "option_3": "<p>19.07 km/h</p>",
-        "option_4": "<p>28.44 km/h</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/>Let speed of Boat = x km/h<br/>Speed of stream = y km/h<br/>According to question<br/>x - y = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>734</mn><mn>30</mn></mfrac></math> … (i)<br/>x + y = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>734</mn><mn>12</mn></mfrac></math> … (ii)<br/>From (i) and (ii)<br/>- 2y = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>734</mn><mn>30</mn></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>734</mn><mn>12</mn></mfrac></math><br/>- 2y = 734 (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mo>-</mo><mn>5</mn></mrow><mn>60</mn></mfrac></math>)<br/>- y = 367 × (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>20</mn></mfrac></math>)<br/>y = 18.35 km/h<br/>Hence speed of stream = 18.35 km/h</p>"
-    },
-    {
-        "question": "<p>Given that 40<sup>0.11</sup> = x, 40<sup>0.1 </sup>= y and x<sup>z</sup> = y<sup>2</sup>, then the value of z is close to:</p>",
-        "option_1": "<p>1.82</p>",
-        "option_2": "<p>0.09</p>",
-        "option_3": "<p>1.16</p>",
-        "option_4": "<p>2.72</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/><strong>Given:</strong> 40<sup>0.11</sup> = x, 40<sup>0.1 </sup>= y<br/>Now,<br/>x<sup>z</sup> = y<sup>2</sup><br/>⇒ 40<sup>0.11×z</sup> = 40<sup>0.1×2</sup><br/>Base are same then power will also be same<br/>⇒ 0.11 × z = 0.1 × 2<br/>⇒ z = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>1</mn><mo>×</mo><mn>2</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>11</mn></mrow></mfrac></math> = 1.82</p>"
-    },
-    {
-        "question": "<p>The diameter of the base of a solid cone is 24 cm and its height is 21 cm. It is cut into three parts by two cuts which are parallel to its base. The cuts are at the height of 7 cm and 14 cm from the base, respectively. Find the curved surface area (in cm<sup>2</sup>) of the top part. (use π = 3.14)</p>",
-        "option_1": "<p>12.56<math display=\"inline\"><msqrt><mn>30</mn></msqrt></math></p>",
-        "option_2": "<p>15.46<math display=\"inline\"><msqrt><mn>10</mn></msqrt></math></p>",
-        "option_3": "<p>14.65<math display=\"inline\"><msqrt><mn>15</mn></msqrt></math></p>",
-        "option_4": "<p>12.56<math display=\"inline\"><msqrt><mn>65</mn></msqrt></math></p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d)<br/><br/>Slant height (AD) = <math display=\"inline\"><msqrt><mi>r</mi><mi>a</mi><mi>d</mi><mi>i</mi><mi>u</mi><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>H</mi><mi>e</mi><mi>i</mi><mi>g</mi><mi>h</mi><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mn>1</mn><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mn>144</mn><mi> </mi><mo>+</mo><mi> </mi><mn>441</mn></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mn>585</mn></msqrt></math> = 3<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>65</mn></msqrt></math> cm<br/>ΔABE ∼ ΔACD<br/><math display=\"inline\"><mfrac><mrow><mi>A</mi><mi>E</mi></mrow><mrow><mn>3</mn><msqrt><mn>65</mn></msqrt></mrow></mfrac></math> = <math display=\"inline\"><mfrac><mrow><mi>A</mi><mi>B</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>7</mn><mn>21</mn></mfrac></math> …. (BPT)<br/>AE (I) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>7</mn><mo>×</mo><mn>3</mn><msqrt><mn>65</mn></msqrt></mrow><mn>21</mn></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>65</mn></msqrt></math> cm<br/>Similarly <br/><math display=\"inline\"><mfrac><mrow><mi>A</mi><mi>B</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></mfrac></math> = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>B</mi><mi>E</mi></mrow><mrow><mi>C</mi><mi>D</mi></mrow></mfrac></math><br/><math display=\"inline\"><mfrac><mrow><mn>7</mn></mrow><mrow><mn>21</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>B</mi><mi>E</mi></mrow><mn>12</mn></mfrac></math><br/>BE (r<sub>3</sub>) = 4 cm<br/>Now,<br/>C.S.A. of top part = πr<sub>3</sub>l = 3.14 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>65</mn></msqrt></math> × 4 = 12.56<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>65</mn></msqrt></math> cm<sup>2</sup></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551130892.png"
-    },
-    {
-        "question": "<p>If a regular polygon has 20 diagonals, then the number of sides of this polygon is:</p>",
-        "option_1": "<p>5</p>",
-        "option_2": "<p>6</p>",
-        "option_3": "<p>8</p>",
-        "option_4": "<p>10</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Number of diagonals = <math display=\"inline\"><mfrac><mrow><mi>n</mi><mo>(</mo><mi>n</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></mfrac></math><br/>Where , n = number of sides.<br/>⇒ 20 = <math display=\"inline\"><mfrac><mrow><mi>n</mi><mo>(</mo><mi>n</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></mfrac></math><br/>⇒ n(n - 3) = 40 <br/>⇒ n = 8</p>"
-    },
-    {
-        "question": "<p>Let a + b = 1, then the value of (<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mi>b</mi><mn>2</mn></msup></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mrow><mi>a</mi><mi>b</mi></mrow></mfrac></math>) is:</p>",
-        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p>",
-        "option_2": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi><mi>b</mi></mrow></mfrac></math></p>",
-        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>b</mi></mrow></mfrac></math></p>",
-        "option_4": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<br/><strong>Given :-</strong> a + b = 1<br/>(<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mi>b</mi><mn>2</mn></msup></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mrow><mi>a</mi><mi>b</mi></mrow></mfrac></math>) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi></mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></math> <br/>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo></mrow><mn>2</mn></msup><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></math></p>"
-    },
-    {
-        "question": "<p>If A : B = 3 : 7 and B : C = 2 : 5, find A : B : C.</p>",
-        "option_1": "<p>4 : 10 : 3</p>",
-        "option_2": "<p>10 : 3 : 4</p>",
-        "option_3": "<p>6 : 14 : 35</p>",
-        "option_4": "<p>4 : 3 : 10</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <br/>Ratio - A : B : C<br/> 3 : 7 :<strong> 7</strong><br/> <strong> 2</strong> : 2 : 5<br/>----------------------------<br/>Final - 6 : 14 : 35</p>"
-    },
-    {
-        "question": "<p>The value of the expression <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>-</mo><mi>sin</mi><mo>(</mo><mn>2</mn><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow><mrow><mn>1</mn><mo>+</mo><mi>sin</mi><mo>(</mo><mn>2</mn><mi mathvariant=\"normal\">t</mi><mo>)</mo><mi mathvariant=\"normal\"> </mi></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>+</mo><mo> </mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow></mfrac></math> is</p>",
-        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mrow><mn>1</mn><mi> </mi><mo>+</mo><mi> </mi><mn>2</mn><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mfrac></math></p>",
-        "option_2": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn><mi> </mi><mo>-</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mrow><mn>1</mn><mi> </mi><mo>+</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mfrac></math></p>",
-        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mfrac></math></p>",
-        "option_4": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn><mi> </mi><mo>+</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mrow><mn>1</mn><mo>-</mo><mi>t</mi><mi>a</mi><mi>n</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mfrac></math></p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/><strong>Identity used:</strong><br/>sin2A = 2sin A cosA and sin<sup>2</sup>A + cos<sup>2</sup>A = 1<br/>Now,<br/>= <math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi><mi> </mi><mo>+</mo><mi> </mi><mi>s</mi><mi>i</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi><mi> </mi><mi> </mi><mo>-</mo><mi> </mi><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi> </mi><mi>t</mi></mrow><mrow><mi>c</mi><mi>o</mi><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi><mi> </mi><mo>+</mo><mi> </mi><mi>s</mi><mi>i</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi><mi> </mi><mi> </mi><mo>+</mo><mi> </mi><mn>2</mn><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi> </mi><mi>t</mi><mi> </mi></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>+</mo><mo> </mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mo>(</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi> </mi><mi>t</mi><mi> </mi><mo>-</mo><mi> </mi><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mo>(</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi> </mi><mi>t</mi><mi> </mi><mo>+</mo><mi> </mi><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>+</mo><mo> </mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow><mrow><mi>cos</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>(</mo><mi mathvariant=\"normal\">t</mi><mo>)</mo></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mi>cos</mi><mi>t</mi><mo>-</mo><mi>sin</mi><mi>t</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>cos</mi><mi>t</mi><mo>+</mo><mi>sin</mi><mi>t</mi><mo>)</mo></mrow></mfrac></math> <br/>On dividing numerator and denominator by <math display=\"inline\"><mi>c</mi><mi>o</mi><mi>s</mi><mi> </mi><mi>t</mi></math> we get,<br/>= <math display=\"inline\"><mfrac><mrow><mo>(</mo><mi> </mi><mn>1</mn><mo>-</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><mo>)</mo></mrow><mrow><mo>(</mo><mn>1</mn><mi> </mi><mo>+</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mi>t</mi><mi> </mi><mo>)</mo><mi> </mi></mrow></mfrac></math></p>"
-    },
-    {
-        "question": "<p>A grocer has 15 kg of sugar at ₹45 per kg. How much sugar at ₹34.5 per kg should she add to it, so that the mixture is worth ₹38 per kg?</p>",
-        "option_1": "<p>32 kg</p>",
-        "option_2": "<p>30 kg</p>",
-        "option_3": "<p>35 kg</p>",
-        "option_4": "<p>28 kg</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b)<br/>Using Alligation method, we have ;<br/><br/>1 unit -------------- 15 kg<br/>2 unit -------------- 15 × 2 = 30 kg</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551131102.png"
-    },
-    {
-        "question": "<p>A cuboid of dimensions 50 cm, 150 cm, 175 cm can be divided into how many identical largest cubes ?</p>",
-        "option_1": "<p>75</p>",
-        "option_2": "<p>84</p>",
-        "option_3": "<p>85</p>",
-        "option_4": "<p>90</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <br/>Dimension of largest cube = HCF of (50, 150, 175) = 25<br/>Required no = <math display=\"inline\"><mfrac><mrow><mi>v</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi><mi> </mi><mi>o</mi><mi>f</mi><mi> </mi><mi>c</mi><mi>u</mi><mi>b</mi><mi>o</mi><mi>i</mi><mi>d</mi><mi> </mi></mrow><mrow><mi>v</mi><mi>o</mi><mi>l</mi><mi>u</mi><mi>m</mi><mi>e</mi><mi> </mi><mi>o</mi><mi>f</mi><mi> </mi><mi>c</mi><mi>u</mi><mi>b</mi><mi>e</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>50</mn><mo>×</mo><mn>150</mn><mo>×</mo><mn>175</mn></mrow><mrow><mn>25</mn><mo>×</mo><mn>25</mn><mo>×</mo><mn>25</mn></mrow></mfrac></math> = 84</p>"
-    },
-    {
-        "question": "<p>8 men and 12 women can build a wall in 10 days. 6 men and 8 women can build the same wall in 14 days. How many more days will 1 woman take to build that wall alone compared to the number of days 1 man will take to build the same wall alone?</p>",
-        "option_1": "<p>35 days</p>",
-        "option_2": "<p>280 days</p>",
-        "option_3": "<p>70 days</p>",
-        "option_4": "<p>140 days</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d)<br/>(8M + 12W) × 10 = (6M + 8W) × 14<br/>80M + 120W = 84M + 112W <br/>8W = 4M <br/><math display=\"inline\"><mfrac><mrow><mi>W</mi></mrow><mrow><mi>M</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math><br/>Then , total work = ( 8 × 2 + 12 × 1 ) × 10<br/>= 28 × 10 = 280<br/>Time taken by 1 woman to complete the total work = <math display=\"inline\"><mfrac><mrow><mn>280</mn><mi> </mi></mrow><mrow><mn>1</mn><mi> </mi></mrow></mfrac></math> = 280<br/>Time taken by 1 man to complete the total work = <math display=\"inline\"><mfrac><mrow><mn>280</mn><mi> </mi></mrow><mrow><mn>2</mn><mi> </mi></mrow></mfrac></math>= 140<br/>More days taken to make one woman alone = 280 – 140 = 140</p>"
-    },
-    {
-        "question": "<p>The radii of the two circles are 7 cm and 4 cm. If the distance between their centres is 25 cm, then the length of the transverse common tangent is equal to:</p>",
-        "option_1": "<p>6<math display=\"inline\"><msqrt><mn>11</mn></msqrt></math> cm</p>",
-        "option_2": "<p>6<math display=\"inline\"><msqrt><mn>12</mn></msqrt></math> cm</p>",
-        "option_3": "<p>6<math display=\"inline\"><msqrt><mn>14</mn></msqrt></math> cm</p>",
-        "option_4": "<p>6<math display=\"inline\"><msqrt><mn>13</mn></msqrt></math> cm</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/><br/>l = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><msup><mi>d</mi><mn>2</mn></msup><mo>-</mo><msup><mrow><mo>(</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><mo> </mo><msub><mi>r</mi><mn>2</mn></msub><mo>)</mo></mrow><mn>2</mn></msup></msqrt></math><br/>= <math display=\"inline\"><msqrt><msup><mrow><mn>25</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><mo>(</mo><mn>7</mn><mo>+</mo><mi> </mi><mn>4</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math><br/>= <math display=\"inline\"><msqrt><mn>625</mn><mo>-</mo><mn>121</mn></msqrt></math> <br/>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>504</mn></msqrt></math> <br/>= 6<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>14</mn></msqrt></math> cm</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551131286.png"
-    },
-    {
-        "question": "<p>The price (per litre) of petrol increases by 75%. By what percent should its consumption be reduced such that the expenditure on it increases by 33% only?</p>",
-        "option_1": "<p>70%</p>",
-        "option_2": "<p>75%</p>",
-        "option_3": "<p>82%</p>",
-        "option_4": "<p>76%</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d)<br/>Expenditure = price × consumption<br/>According to the question,<br/>Ratio → Initial : final <br/>Price → 4 : 7<br/>Consumption → x : y<br/>---------------------------------------<br/>Expenditure → 100 : 133<br/>x : y = 100 × 7 : 133 × 4 = 25 : 19<br/>Required percentage = <math display=\"inline\"><mfrac><mrow><mn>19</mn></mrow><mrow><mn>25</mn></mrow></mfrac></math> × 100 = 76%</p>"
-    },
-    {
-        "question": "<p>During sale, Raghav bought a notebook marked for ₹70 at 40% discount and a pen marked for ₹20 at 35% discount. How much (in₹) did he save due to sale?</p>",
-        "option_1": "<p>38</p>",
-        "option_2": "<p>34</p>",
-        "option_3": "<p>35</p>",
-        "option_4": "<p>32</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) 40% = <math display=\"inline\"><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math>, 35% = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>7</mn><mn>20</mn></mfrac></math><br/>Saving on Notebook = <math display=\"inline\"><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> × 70 = ₹28<br/>Saving on Pen = <math display=\"inline\"><mfrac><mrow><mn>7</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> × 20 = ₹7<br/>Total saving = 28 + 7 = ₹35</p>"
-    },
-    {
-        "question": "<p>The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 6% per annum is ₹ 78. Find the sum. [Give your answer to the integral number without rounded off.]</p>",
-        "option_1": "<p>₹ 21672</p>",
-        "option_2": "<p>₹ 21682</p>",
-        "option_3": "<p>₹ 21652</p>",
-        "option_4": "<p>₹ 21666</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d)<br/>Difference of CI and SI for 2 years = (CI - SI)<sub>2yrs</sub> = P(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>R</mi><mn>100</mn></mfrac></math>)<sup>2</sup><br/>78 = P(<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>6</mn><mn>100</mn></mfrac></math>)<sup>2</sup><br/>P = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>78</mn><mo>×</mo><mn>10000</mn></mrow><mrow><mn>6</mn><mo>×</mo><mn>6</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>130000</mn><mn>6</mn></mfrac></math> = ₹21666</p>"
-    },
-    {
-        "question": "<p>Lalit's average earning per month in the first three months of a year was ₹22272. In April, his earning was 75% more than the average earning in the first three months. If his average earning per month for the whole year is ₹ 84460, then what will be Lalit's average earning (in ₹ ) per month from May to December?</p>",
-        "option_1": "<p>113463</p>",
-        "option_2": "<p>113471</p>",
-        "option_3": "<p>113466</p>",
-        "option_4": "<p>113470</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Sum of first three months = 22272 × 3 = ₹66816<br/>His April month earning = 22272 × <math display=\"inline\"><mfrac><mrow><mn>7</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> = ₹38976<br/>Sum of the money of May to December <br/>= 84460 × 12 - (66816 + ₹38976) <br/>= 1013520 - 105792 = ₹907728<br/>Required Average = <math display=\"inline\"><mfrac><mrow><mn>907728</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math> = ₹113466</p>"
-    },
-    {
-        "question": "<p>From the given numbers A, B, C and D, which number is NOT divisible by 11? <br/>A = 712712 <br/>B = 177210 <br/>C = 64614 <br/>D = 756148</p>",
-        "option_1": "<p>C</p>",
-        "option_2": "<p>D</p>",
-        "option_3": "<p>B</p>",
-        "option_4": "<p>A</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) Divisibility rule of 11 : Difference between sum of digit odd places and sum of digits at even places is either 0 or multiple of 11 <br/>By checking all options one by one option (b) does not satisfy this condition <br/>756148 = (7 + 6 + 4) - (5 + 1 + 8 ) <br/>= 17 - 14 = 3 ≠ 0 , Multiple of 11<br/><strong id=\"docs-internal-guid-363b66b1-7fff-dd8c-2cb2-33c5383a2334\"></strong>∴ Option (b) is not divisible by 11</p>"
-    },
-    {
-        "question": "<p>The given pie-charts show the distribution of Graduate and Post-Graduate level students in five different colleges A, B, C, D and E.<br/>, <br/>How many students of colleges A and B are studying at Graduate level?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551131409.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1740551131532.png",
-        "option_1": "<p>5,987</p>",
-        "option_2": "<p>4,520</p>",
-        "option_3": "<p>6,993</p>",
-        "option_4": "<p>7,052</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Students who studying at graduate level in both collage = 18% + 19% = 37%<br/>100% = 18900<br/>37% = 189 × 37 = 6993</p>"
-    },
-    {
-        "question": "<p>A seller marks an item for ₹500 and sells it at a discount of 25%. He also gives a gift worth ₹65. If he still makes 24% profit, then the cost price of the item (in ₹) is:</p>",
-        "option_1": "<p>280</p>",
-        "option_2": "<p>270</p>",
-        "option_3": "<p>250</p>",
-        "option_4": "<p>320</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c)<br/>Marked price = 500 <br/>selling price = 500 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>4</mn></mfrac></math> - 65<br/>= 375 - 65 = 310<br/>According to question,<br/>124% (selling price) = 310<br/>100% (cost price) = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>310</mn><mn>124</mn></mfrac></math> × 100 = 250</p>"
-    },
-    {
-        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/>The passengers were afraid, but the captain <span style=\"text-decoration: underline;\"><strong>consoled</strong></span> them that there was no danger.</p>",
-        "option_1": "<p>guaranteed</p>",
-        "option_2": "<p>assured</p>",
-        "option_3": "<p>confided</p>",
-        "option_4": "<p>No improvement</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) assured<br/>‘Assure’ means to make a statement, assertion, etc, intended to inspire confidence or give encouragement. The given sentence states that the passengers were afraid, but the captain inspired confidence in them. <b>Hence,</b> ‘assured’ is the most appropriate answer.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate synonym of the given word.<br/>Filthy</p>",
-        "option_1": "<p>Tidy</p>",
-        "option_2": "<p>Shiny</p>",
-        "option_3": "<p>Dirty</p>",
-        "option_4": "<p>Visual</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Dirty-</strong> covered with or characterized by dirt or impurities.<br/><strong>Filthy-</strong> extremely dirty or unpleasant.<br/><strong>Tidy-</strong> neat and well-organized.<br/><strong>Shiny- </strong>reflecting light, bright, or polished.<br/><strong>Visual-</strong> relating to seeing or sight.</p>"
-    },
-    {
-        "question": "<p>The following sentence has been split into four segments. Identify the segment that contains a grammatical error.<br/>If I have recovered from fever, / I will start going / for swimming classes / from tomorrow.</p>",
-        "option_1": "<p>I will start going</p>",
-        "option_2": "<p>If I have recovered from fever</p>",
-        "option_3": "<p>from tomorrow</p>",
-        "option_4": "<p>for swimming classes</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) If I have recovered from fever <br/>The given sentence is an example of the first conditional sentence and ‘If + Simple present … will + V1’ is the correct grammatical structure for it. <b>Hence,</b> ‘If I recover from fever’ is the most appropriate answer.</p>"
-    },
-    {
-        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’. <br/>The beggar was satisfied with his <span style=\"text-decoration: underline;\"><strong>lowly</strong></span> meal.</p>",
-        "option_1": "<p>miserly</p>",
-        "option_2": "<p>mean</p>",
-        "option_3": "<p>meager</p>",
-        "option_4": "<p>No improvement</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) meager<br/>An adjective(meager) is to be used in the given sentence as it describes how the meal is. However, ‘Lowly’ and ‘miserly’ are adverbs. <b>Hence,</b> ‘meager’ is the most appropriate answer.</p>"
-    },
-    {
-        "question": "<p>Identify the segment in the sentence, which contains the grammatical error.<br/>The boy entered into the college premises by jumping over the high walls near the badminton courts.</p>",
-        "option_1": "<p>The boy entered into the college</p>",
-        "option_2": "<p>premises by jumping over the high walls</p>",
-        "option_3": "<p>near the badminton courts</p>",
-        "option_4": "<p>No error</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) The boy entered into the college<br/>We don't use the prepositions ‘into/in’ after the verb ‘entered’. <b>Hence,</b> ‘into’ will be removed from the given sentence and ‘The boy entered the school’ becomes the most appropriate answer.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate option to substitute the underlined segment in the given sentence.<br/>Rajan’s caused <span style=\"text-decoration: underline;\"><strong>extremely painful</strong></span> headaches.</p>",
-        "option_1": "<p>excruciating</p>",
-        "option_2": "<p>devastating</p>",
-        "option_3": "<p>horrible</p>",
-        "option_4": "<p>extreme</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a)<strong> Excruciating </strong>- extremely painful.</p>"
-    },
-    {
-        "question": "<p>Select the option that expresses the given sentence in passive voice <br/>Paddy is grown by the farmers of this village.</p>",
-        "option_1": "<p>The farmers of this village grew paddy.</p>",
-        "option_2": "<p>The farmers of this village have grown paddy.</p>",
-        "option_3": "<p>The farmers of this village grow paddy.</p>",
-        "option_4": "<p>The farmers of this village had grown Paddy</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) The farmers of this village grow paddy. (Correct)<br/>(a) The farmers of this village <span style=\"text-decoration: underline;\">grew</span> paddy. (Incorrect Tense)<br/>(b) The farmers of this village <span style=\"text-decoration: underline;\">have grown</span> paddy. (Incorrect Helping Verb)<br/>(d) The farmers of this village <span style=\"text-decoration: underline;\">had grown</span> paddy. (Incorrect Helping Verb)</p>"
-    },
-    {
-        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order. <br/>P. It is the ornament of a gentleman and a weapon in the hands of a boss.<br/>Q. To fulfil your assignments on time is punctuality.<br/>R. They finish their job in time and are able to give finishing touches needed for the job.<br/>S. Those who are punctual are loved and liked by all.</p>",
-        "option_1": "<p>PRSQ</p>",
-        "option_2": "<p>PQRS</p>",
-        "option_3": "<p>QSPR</p>",
-        "option_4": "<p>QPSR</p>",
-        "option_5": "",
-        "answer": "4",
-        "solution": "<p>(d) <strong>QPSR.</strong> <br/>Sentence Q will be the starting line as it contains the main idea of the parajumble i.e. punctuality. However, Sentence P states that it is the ornament of a gentleman and a weapon in the hands of a boss. So, P will follow Q . Further, Sentence S states that those who are punctual are loved and liked by all &amp; Sentence R states that they finish their job in time and are able to give finishing touches needed for the job. So, R will follow S. Going through the options, only option d has the correct sequence.</p>"
-    },
-    {
-        "question": "<p>Select the option that expresses the given sentence in passive voice.<br/>Doctors saved many lives during the pandemic.</p>",
-        "option_1": "<p>Many lives are saved by doctors during the pandemic.</p>",
-        "option_2": "<p>Many lives were saved by doctors during the pandemic.</p>",
-        "option_3": "<p>Many lives have been saved by doctors during the pandemic.</p>",
-        "option_4": "<p>Many lives were being saved by doctors during the pandemic.</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) Many lives were saved by doctors during the pandemic. (Correct)<br/>(a) Many lives <span style=\"text-decoration: underline;\">are saved</span> by doctors during the pandemic. (Incorrect Tense)<br/>(c) Many lives <span style=\"text-decoration: underline;\">have been saved</span> by doctors during the pandemic. (Incorrect Tense)<br/>(d) Many lives <span style=\"text-decoration: underline;\">were being</span> saved by doctors during the pandemic. (Incorrect Helping Verb)</p>"
-    },
-    {
-        "question": "<p>Identify the misspelled word</p>",
-        "option_1": "<p>Hallucination</p>",
-        "option_2": "<p>Dubiuos</p>",
-        "option_3": "<p>Argot</p>",
-        "option_4": "<p>Placebo</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) Dubiuos<br/>‘Dubious’ is the correct spelling.</p>"
-    },
-    {
-        "question": "<p>Parts of a paragraph are given below in jumbled order. Arrange the parts in the correct order to form a meaningful paragraph. The first part 'R.' is fixed.<br/>R. The knowledge so far<br/>A. Available about the endocrine gland is very limited.<br/>B. Hormones are the body’s chemical messengers.<br/>C. These are the glands that make all the hormones.<br/>D. They influence almost every cell, organ and function of our bodies.</p>",
-        "option_1": "<p>CABD</p>",
-        "option_2": "<p>BCDA</p>",
-        "option_3": "<p>ACBD</p>",
-        "option_4": "<p>ABCD</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) ACBD<br/>The given sentence starts with part R as it introduces the main subject of the sentence, i.e. ‘Knowledge’. Part R will be followed by part A as it states that the knowledge about the endocrine gland is limited. Part C states that these glands make all the hormones &amp; part B defines hormones. So, B will follow C. Part D concludes the parajumble by stating that hormones influence almost every cell, organ and function of our bodies. Going through the options, option (c) has the correct sequence.</p>"
-    },
-    {
-        "question": "<p>Based on the situation in the sentence, select the most appropriate idiom for the underlined segment. After the Pandemic, his business crumbled and <span style=\"text-decoration: underline;\">he is in a difficult situation</span>.</p>",
-        "option_1": "<p>Be in a tight corner</p>",
-        "option_2": "<p>Give a cold shoulder</p>",
-        "option_3": "<p>Bolt from the blue</p>",
-        "option_4": "<p>Pull the last straw</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <strong>Be in a tight corner</strong> - in a difficult situation.</p>"
-    },
-    {
-        "question": "<p>Select the INCORRECTLY spelt word.</p>",
-        "option_1": "<p>Knowledgeable</p>",
-        "option_2": "<p>Hierarchy</p>",
-        "option_3": "<p>Neccessity</p>",
-        "option_4": "<p>Perseverance</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Neccessity</strong><br/>‘Necessity’ is the correct spelling.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate meaning of the idiom.<br/>Show the white feather</p>",
-        "option_1": "<p>show signs of cowardice</p>",
-        "option_2": "<p>act arrogantly</p>",
-        "option_3": "<p>show intimacy</p>",
-        "option_4": "<p>act impudently</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) show signs of cowardice<br/>Show the white feather- show signs of cowardice<br/>E.g.- A brave soldier will never show the white feather in the face of his enemy.</p>"
-    },
-    {
-        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words. <br/>A story intended to teach moral lessons</p>",
-        "option_1": "<p>Parable</p>",
-        "option_2": "<p>Parole</p>",
-        "option_3": "<p>Parasite</p>",
-        "option_4": "<p>Parboil</p>",
-        "option_5": "",
-        "answer": "1",
-        "solution": "<p>(a) <strong>Parable-</strong> a story intended to teach moral lessons.<br/><strong>Parole- </strong>the temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.<br/><strong>Parasite- </strong>an animal or plant that lives on or in another animal or plant of a different type and feeds from it.<br/><strong>Parboil- </strong>to boil food for a short time until it is partly cooked.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate synonym of the given word.<br/>Esoteric</p>",
-        "option_1": "<p>setback</p>",
-        "option_2": "<p>pondered</p>",
-        "option_3": "<p>recondite</p>",
-        "option_4": "<p>fruitful</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Recondite - </strong>little known or abstruse<br/><strong>Esoteric- </strong>having a hidden or secret meaning or known about or understood by very few people.<br/><strong>Pondered-</strong> to think about something carefully for a long time<br/><strong>Setback-</strong> a reversal or check - in progress or a change from better to worse.<br/><strong>Fruitful-</strong> producing good and useful results.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate ANTONYM of the underlined word.<br/>Rukhsana was left alone in the house again, but fear was now her <span style=\"text-decoration: underline;\">constant</span> companion.</p>",
-        "option_1": "<p>boring</p>",
-        "option_2": "<p>steady</p>",
-        "option_3": "<p>changing</p>",
-        "option_4": "<p>friendly</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>Changing-</strong> becoming different.<br/><strong>Constant- </strong>staying the same without change.<br/><strong>Boring-</strong> not interesting.<br/><strong>Steady- </strong>firmly fixed and not changing.<br/><strong>Friendly- </strong>acting in a kind and supportive way.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate ANTONYM of the underlined word.<br/>This book is written by a <span style=\"text-decoration: underline;\">famous</span> author named G.H. Sullivan.</p>",
-        "option_1": "<p>illegible</p>",
-        "option_2": "<p>unknown</p>",
-        "option_3": "<p>uniform</p>",
-        "option_4": "<p>illiterate</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Unknown- </strong>not recognized or famous.<br/><strong>Famous- </strong>widely known and respected.<br/><strong>Illegible-</strong> not clear enough to be read.<br/><strong>Uniform- </strong>always the same without change.<br/><strong>Illiterate-</strong> unable to read or write.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate option to fill in the blank.<br/>The roof of the old building _______ during the storm.</p>",
-        "option_1": "<p>demolished</p>",
-        "option_2": "<p>collapsed</p>",
-        "option_3": "<p>scratched</p>",
-        "option_4": "<p>destroyed</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) <strong>Collapsed</strong> - breakdown, fail suddenly and completely<br/>(a) <strong>Demolished </strong>- pull or knockdown (a building)<br/>(c) <strong>Scratched -</strong> score or mark the surface of (something) with a sharp or pointed object.<br/>(d) <strong>Destroyed -</strong> end the existence by damaging or attacking it.</p>"
-    },
-    {
-        "question": "<p>Select the most appropriate option to fill in the blank.<br/>Even a _______ glance will reveal the mystery.</p>",
-        "option_1": "<p>crude</p>",
-        "option_2": "<p>critical</p>",
-        "option_3": "<p>cursory</p>",
-        "option_4": "<p>curious</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) cursory<br/>‘Cursory’ means done in a hurry. The given sentence states that even a cursory glance will reveal the mystery. <b>Hence,</b> ‘cursory’ is the most appropriate answer.</p>"
-    },
-    {
-        "question": "<p><strong>Cloze Test</strong><br/>While threatening the ___(96)___ of universal values, the campaign to spread democracy will not succeed.The twentieth century___(97)___that states could not simply remake the world or abbreviate historical transformations. Nor can they easily effect social change by transferring institutions ___(98)___borders. Even within the ranks of territorial nation-states, the conditions for___(99)___ democratic governments are rare: an existing state enjoying legitimacy, consent, and the ability to mediate conflicts between groups. Without such consensus, there are no single sovereign people, and therefore no___(100)___for arithmetical majorities.<br/>Select the most appropriate option to fill in the blank no. 96</p>",
-        "option_1": "<p>integration</p>",
-        "option_2": "<p>integrity</p>",
-        "option_3": "<p>ingratiation</p>",
-        "option_4": "<p>inability</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) integrity<br/>We will use a “noun” after the article “the.”</p>"
-    },
-    {
-        "question": "<p><strong>Cloze Test</strong><br/>While threatening the ___(96)___ of universal values, the campaign to spread democracy will not succeed.The twentieth century___(97)___that states could not simply remake the world or abbreviate historical transformations. Nor can they easily effect social change by transferring institutions ___(98)___borders. Even within the ranks of territorial nation-states, the conditions for___(99)___ democratic governments are rare: an existing state enjoying legitimacy, consent, and the ability to mediate conflicts between groups. Without such consensus, there are no single sovereign people, and therefore no___(100)___for arithmetical majorities.<br/>Select the most appropriate option to fill in the blank no. 97</p>",
-        "option_1": "<p>destabilized</p>",
-        "option_2": "<p>disintegrated</p>",
-        "option_3": "<p>demonstrated</p>",
-        "option_4": "<p>disdained</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) <strong>demonstrated.</strong><br/>Demonstrated means to show something clearly by giving proof.</p>"
-    },
-    {
-        "question": "<p><strong>Cloze Test</strong><br/>While threatening the ___(96)___ of universal values, the campaign to spread democracy will not succeed.The twentieth century___(97)___that states could not simply remake the world or abbreviate historical transformations. Nor can they easily effect social change by transferring institutions ___(98)___borders. Even within the ranks of territorial nation-states, the conditions for___(99)___ democratic governments are rare: an existing state enjoying legitimacy, consent, and the ability to mediate conflicts between groups. Without such consensus, there are no single sovereign people, and therefore no___(100)___for arithmetical majorities.<br/>Select the most appropriate option to fill in the blank no. 98</p>",
-        "option_1": "<p>under</p>",
-        "option_2": "<p>across</p>",
-        "option_3": "<p>over</p>",
-        "option_4": "<p>cross</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) across.</p>"
-    },
-    {
-        "question": "<p><strong>Cloze Test</strong><br/>While threatening the ___(96)___ of universal values, the campaign to spread democracy will not succeed.The twentieth century___(97)___that states could not simply remake the world or abbreviate historical transformations. Nor can they easily effect social change by transferring institutions ___(98)___borders. Even within the ranks of territorial nation-states, the conditions for___(99)___ democratic governments are rare: an existing state enjoying legitimacy, consent, and the ability to mediate conflicts between groups. Without such consensus, there are no single sovereign people, and therefore no___(100)___for arithmetical majorities.<br/>Select the most appropriate option to fill in the blank no. 99</p>",
-        "option_1": "<p>effable</p>",
-        "option_2": "<p>effective</p>",
-        "option_3": "<p>effusive</p>",
-        "option_4": "<p>effervescent</p>",
-        "option_5": "",
-        "answer": "2",
-        "solution": "<p>(b) effective.</p>"
-    },
-    {
-        "question": "<p><strong>Cloze Test</strong><br/>While threatening the ___(96)___ of universal values, the campaign to spread democracy will not succeed.The twentieth century___(97)___that states could not simply remake the world or abbreviate historical transformations. Nor can they easily effect social change by transferring institutions ___(98)___borders. Even within the ranks of territorial nation-states, the conditions for___(99)___ democratic governments are rare: an existing state enjoying legitimacy, consent, and the ability to mediate conflicts between groups. Without such consensus, there are no single sovereign people, and therefore no___(100)___for arithmetical majorities.<br/>Select the most appropriate option to fill in the blank no. 100</p>",
-        "option_1": "<p>decency</p>",
-        "option_2": "<p>parity</p>",
-        "option_3": "<p>legitimacy</p>",
-        "option_4": "<p>effectiveness</p>",
-        "option_5": "",
-        "answer": "3",
-        "solution": "<p>(c) legitimacy.</p>"
+        "solution": "<span style=\"font-family:'Cambria Math'\"> India clinched </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">7 gold medals</span><span style=\"font-family:'Cambria Math'\"> at the Paris 2024 Paralympics, its best performance to date. These victories came in </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Athletics</span><span style=\"font-family:'Cambria Math'\">, </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Shooting</span><span style=\"font-family:'Cambria Math'\">, and </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">Badminton</span><span style=\"font-family:'Cambria Math'\">.</span><p style=\"margin-top:0pt;margin-bottom:8pt;line-height:108%;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The </span><span style=\"font-weight:bold;font-family:'Cambria Math'\">gold medalists</span><span style=\"font-family:'Cambria Math'\"> were:</span></p><ul><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Avani Lekhara</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Women’s 10m Air Rifle Standing SH1</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Sumit Antil</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s Javelin Throw F64</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Dharambir</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s Club Throw F51</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Praveen Kumar</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s High Jump T64</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Navdeep Singh</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s Javelin Throw F41</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Harvinder Singh</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s Individual Recurve Open (Archery)</span></li><li><span style=\"line-height:108%;font-size:12pt;font-weight:bold;font-family:'Cambria Math'\">Nitesh Kumar</span><span style=\"line-height:108%;font-size:12pt;font-family:'Cambria Math'\"> in Men’s Singles SL3 (Badminton)</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt;line-height:108%;font-size:12pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1753514798376_image004.png"
     }
 ]
